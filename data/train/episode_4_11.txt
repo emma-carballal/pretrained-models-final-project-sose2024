@@ -1,0 +1,543 @@
+<bos>The kids.<eos>
+<bos>Boy: Mom! Mom! Mom!<eos>
+<bos>Kevin.<eos>
+<bos>Mom! Ruby's gone!<eos>
+<bos>Ruby?<eos>
+<bos>Ruby?<eos>
+<bos>Ruby?<eos>
+<bos>Ruby?<eos>
+<bos>Ruby!<eos>
+<bos><font color="#00FF00">X-Files</font> Season 1<eol>Episode 04 - Conduit<eos>
+<bos>Blevins: Agent Mulder's latest 302<eos>
+<bos>requesting assignment and travel expenses<eos>
+<bos>for the both of you.<eos>
+<bos>Sioux City, lowa.<eos>
+<bos>That's the first I've heard of it.<eos>
+<bos>It came up through channels<eos>
+<bos>from Mulder's ASAC to the district G-1 4<eos>
+<bos>and onto my desk.<eos>
+<bos>I don't understand.<eos>
+<bos>In essence, Mulder<eol>is petitioning the bureau<eos>
+<bos>to assign a case number<eos>
+<bos>to a tabloid headline.<eos>
+<bos>He must have more evidence than...<eos>
+<bos>Not according to his 302.<eos>
+<bos>I admit, that is strange...<eos>
+<bos>even for Mulder.<eos>
+<bos>Perhaps it has something to do with this.<eos>
+<bos>Take a look.<eos>
+<bos>An <font color="#00FF00">X-File</font>?<eos>
+<bos>Has he shared any of this with you?<eos>
+<bos>There's no need to protect him.<eos>
+<bos>He's the agent of record.<eol>He initiated the file himself.<eos>
+<bos>She was his sister.<eos>
+<bos>She disappeared 21 years ago.<eos>
+<bos>He was 12 and she was 8.<eos>
+<bos>He claims that he was<eol>in the room when it happened.<eos>
+<bos>He recalls a bright light<eol>outside the window<eos>
+<bos>and, uh... and a presence in the room.<eos>
+<bos>In your opinion<eos>
+<bos>has Agent Mulder's personal agenda<eos>
+<bos>clouded his professional judgment?<eos>
+<bos>In my opinion, no.<eos>
+<bos>But you can see how<eol>it might appear that way.<eos>
+<bos>As you know,<eos>
+<bos>Agent Mulder's preoccupation<eol>with fringe matters<eos>
+<bos>has been a big source<eol>of friction in the Bureau.<eos>
+<bos>This is another case in point.<eos>
+<bos>I'm going to disallow the 302.<eos>
+<bos>With respect, sir,<eos>
+<bos>at least let me talk with him<eos>
+<bos>and make a recommendation.<eos>
+<bos>It just doesn't seem...<eos>
+<bos>substantial enough<eol>to warrant an investigation.<eos>
+<bos>Okay, Scully, so we disagree.<eos>
+<bos>It's not the first time,<eol>and it won't be the last.<eos>
+<bos>At least if we had a legitimate source...<eos>
+<bos>This is the essence of science.<eos>
+<bos>You ask an impertinent question<eos>
+<bos>and you're on your way<eol>to a pertinent answer.<eos>
+<bos>What makes this case any more credible<eos>
+<bos>than the hundred-year-old mother<eol>with the lizard baby?<eos>
+<bos>Because the lizard baby<eos>
+<bos>wasn't born anywhere near Lake Okobogee.<eos>
+<bos>- Oko-what? - Bogee.<eos>
+<bos>Okobogee.<eos>
+<bos>Is that supposed to mean something to me?<eos>
+<bos>If you know anything about trout fishing<eos>
+<bos>or U.F.O. hot spots.<eos>
+<bos>Define hot spot.<eos>
+<bos>Four sightings in 1967, August<eos>
+<bos>including one by a National<eol>Weather Service plane.<eos>
+<bos>This is a light-blasted,<eol>digitally enhanced enlargement.<eos>
+<bos>The pilot took that photograph?<eos>
+<bos>Try a Girl Scout with an Instamatic.<eos>
+<bos>Four of the nine girls in the troop<eol>claim to have seen something.<eos>
+<bos>Five, if you include the den mother.<eos>
+<bos>The air force said it was a weather<eol>balloon caught in a wind shear<eos>
+<bos>but there wasn't a weather balloon<eos>
+<bos>launched that day within 700 miles.<eos>
+<bos>Read me the names of<eol>those Girl Scouts from 1967.<eos>
+<bos>Lisa Terrel, Bonnie Winston,<eol>Doreen Mccallister, Darlene Mor--<eos>
+<bos>It's the same Darlene Morris.<eos>
+<bos>Ms. Darlene Morris?<eos>
+<bos>l'm Agent Scully,<eol>and this is Agent Fox Mulder.<eos>
+<bos>We talked with you<eol>on the phone last night.<eos>
+<bos>Please, come in.<eos>
+<bos>Well, l knew that if I screamed<eol>loud and long enough<eos>
+<bos>that someone would listen<eos>
+<bos>but l never expected the F.B.l.<eos>
+<bos>Uh, this is Kevin.<eos>
+<bos>Kevin, say hi.<eos>
+<bos>Would you like some coffee?<eos>
+<bos>Mmm.<eos>
+<bos>Some days, l can't even...<eos>
+<bos>get myselfup out of bed<eos>
+<bos>and... Kevin has been acting so strange.<eos>
+<bos>I don't know what to do anymore.<eos>
+<bos>I just want her back again.<eos>
+<bos>Ms. Morris<eos>
+<bos>during the divorce,<eol>was there a custody battle?<eos>
+<bos>Charles had nothing to do with this.<eos>
+<bos>How can you be so sure?<eos>
+<bos>Because I know what happened.<eos>
+<bos>It'sjust like it was before.<eos>
+<bos>Summer of 1967? The Girl Scout troop?<eos>
+<bos>- How did you know?<eol>- Your name's on record<eos>
+<bos>at the Center For U.F.O. Studies<eol>in Evanston, lllinois.<eos>
+<bos>Really?<eos>
+<bos>Yeah, a pilot<eol>for the National Weather Service<eos>
+<bos>made a sighting over<eol>the same area on the same day.<eos>
+<bos>They took her, didn't they, Mr. Mulder?<eos>
+<bos>You said that Kevin was there<eol>the night it happened?<eos>
+<bos>He didn't see anything. He was asleep.<eos>
+<bos>Do you think I might talk to him anyway?<eos>
+<bos>- Mmm. - Thanks.<eos>
+<bos>You know...<eos>
+<bos>I've told the story so many times now...<eos>
+<bos>Oh, to the newspapers and the police...<eos>
+<bos>And every time I tell it<eos>
+<bos>people get this look in their eye<eos>
+<bos>just like the look<eos>
+<bos>that you've got right now.<eos>
+<bos>Hey, buddy.<eos>
+<bos>You mind if I sit down?<eos>
+<bos>Thanks.<eos>
+<bos>Your mom tells me<eol>you've been having nightmares.<eos>
+<bos>I guess so.<eos>
+<bos>- You want to tell me about them? - No.<eos>
+<bos>All right.<eos>
+<bos>What are you doing?<eos>
+<bos>You making something?<eos>
+<bos>Can I take a look at it?<eos>
+<bos>Thanks.<eos>
+<bos>It's coming from there.<eos>
+<bos>The TV?<eos>
+<bos>I don't know what it is.<eol>May be a binary sequence of some kind.<eos>
+<bos>Could be anything, could be nothing.<eos>
+<bos>I know you're busy. Look, I know a friend<eos>
+<bos>who knows a friend who knows a friend<eos>
+<bos>who can get you a ticket<eol>to a Redskins game.<eos>
+<bos>You got it. All right.<eos>
+<bos>You know where to find me? Thanks, Danny.<eos>
+<bos>As I was telling your partner,<eol>we found no evidence of kidnap.<eos>
+<bos>No phone call, no ransom note<eos>
+<bos>and since we didn't turn up a body...<eos>
+<bos>You assumed she ran away.<eos>
+<bos>Well, it wouldn't be the first time<eol>Ruby Morris ran away from home.<eos>
+<bos>How do you explain what her mother saw?<eos>
+<bos>I think that Darlene<eol>has a very active imagination.<eos>
+<bos>I've been listening to those<eol>stories since the first grade.<eos>
+<bos>So, basically, you ignored her statement.<eos>
+<bos>I included it in my report.<eos>
+<bos>But you didn't bother to check it out.<eos>
+<bos>We went out to the campsite.<eol>We didn't find anything.<eos>
+<bos>Darlene's little girl was no prom queen.<eos>
+<bos>I can't count the number of times<eol>I pulled her out of parked cars<eos>
+<bos>or found her puking her guts out<eol>by the side of the road.<eos>
+<bos>It was just a matter of time before...<eos>
+<bos>Before what?<eos>
+<bos>Before something bad happened to her<eos>
+<bos>and if Darlene needs to make up<eol>crazy stories to get past that, fine,<eos>
+<bos>but don't tell me<eol>to treat it as the truth.<eos>
+<bos>I'm not going to waste my time.<eos>
+<bos>I just think it's a good idea<eos>
+<bos>not to antagonize local law enforcement.<eos>
+<bos>Who? Me? I'm Mr. Congeniality.<eos>
+<bos>You never know. We might need<eol>his help one of these days.<eos>
+<bos>I'll send him a bundt cake.<eos>
+<bos>You're looking for Ruby, right?<eos>
+<bos>That's right. Who are you?<eos>
+<bos>It doesn't matter.<eos>
+<bos>Are you a friend of Ruby's?<eos>
+<bos>Ruby didn't have friends.<eos>
+<bos>She just had people<eol>she liked to hang with.<eos>
+<bos>And she liked to hang out with you?<eos>
+<bos>I guess we had some times.<eos>
+<bos>Like the night she disappeared?<eos>
+<bos>It was Greg. She was<eol>supposed to see him that night.<eos>
+<bos>Who's Greg?<eos>
+<bos>Her boyfriend, Greg Randall.<eos>
+<bos>They were supposed to meet<eol>up at the lake.<eos>
+<bos>They had stuff to talk about.<eos>
+<bos>What kind ofstuff?<eos>
+<bos>Greg got Ruby pregnant.<eos>
+<bos>I don't know, whatever,<eol>she got herself pregnant.<eos>
+<bos>Do you know what they<eol>were planning to do about it?<eos>
+<bos>They were going to leave town.<eol>At least, that's what Ruby told me.<eos>
+<bos>You know Greg from school?<eos>
+<bos>Greg? School?<eos>
+<bos>I don't think so.<eos>
+<bos>All he ever did since we met him<eos>
+<bos>was pour beer at the Pennsylvania Pub.<eos>
+<bos>Excuse me.<eos>
+<bos>What kind of trouble's<eol>he got himself into now?<eos>
+<bos>Actually, we were hoping<eol>you could tell us.<eos>
+<bos>Greg called in sick three weeks ago, man.<eos>
+<bos>I haven't seen or heard from him since.<eos>
+<bos>Any ideas where he might have gone?<eos>
+<bos>No, but if you find him,<eol>tell him he's fired.<eos>
+<bos>This is the hotel we'll be staying at<eol>if you hear of anything.<eos>
+<bos>That's a nice tattoo. What is that?<eos>
+<bos>What's it look like?<eos>
+<bos>A fying saucer.<eos>
+<bos>You don't really believe<eol>in that stuff, do you?<eos>
+<bos>I take it you don't?<eos>
+<bos>No, l think it's all<eol>just a bunch of crazy people<eos>
+<bos>howling at the moon.<eos>
+<bos>So, you haven't been out<eol>to Lake Okobogee, have you?<eos>
+<bos>No, I haven't. Why?<eos>
+<bos>You should ride with us sometime.<eos>
+<bos>You might see some things<eol>that will change your mind.<eos>
+<bos>Get a killer sunburn<eol>in the middle of the night.<eos>
+<bos>Where's Mulder?<eos>
+<bos>Where did you get the document?<eos>
+<bos>If you explain what you're talking<eol>about, maybe I can help you out.<eos>
+<bos>This is a document?<eos>
+<bos>just looks like a bunch<eol>of ones and zeroes to me.<eos>
+<bos>- Tell me where you got it.<eol>- Tell me what it is.<eos>
+<bos>Keep playing games<eos>
+<bos>I'll haul your ass<eol>up in front of the D-6.<eos>
+<bos>You can explain to them<eol>what you're doing obstructing justice.<eos>
+<bos>It's your call, Holtzman.<eos>
+<bos>Unless they tell me otherwise<eos>
+<bos>I'm not accountable to anybody<eol>outside my subcommittee.<eos>
+<bos>I don't care if it's the N.S.A.<eol>or the Vatican Police.<eos>
+<bos>It's a defense satellite transmission.<eos>
+<bos>You're kidding.<eos>
+<bos>just a fragment, but highly classified.<eos>
+<bos>We need to know where it came from.<eos>
+<bos>Well, sure, I'll let you know<eol>as soon as I find out.<eos>
+<bos>That's it, Mulder.<eos>
+<bos>You just bought yourself<eol>a one-way back to Washington.<eos>
+<bos>We got it.<eos>
+<bos>Great.<eos>
+<bos>What?<eos>
+<bos>You shouldn't have told them.<eol>They have no jurisdiction.<eos>
+<bos>Mulder, they're N.S.A.<eos>
+<bos>They think the boy may be<eol>a threat to national security.<eos>
+<bos>How can an eight-year-old boy<eol>who can barely multiply<eos>
+<bos>be a threat to national security?<eos>
+<bos>People call me paranoid.<eos>
+<bos>How did Kevin obtain<eol>top-secret information?<eos>
+<bos>Where do you think he got it from?<eos>
+<bos>It's okay, baby. Don't worry.<eos>
+<bos>- lt will be okay.<eol>- Agent: Come with me, son.<eos>
+<bos>Mom!<eos>
+<bos>It will be all right, baby.<eos>
+<bos>You guys do really delicate work.<eos>
+<bos>- Let's get this to Cryptography.<eol>- Let's go.<eos>
+<bos>Think we got what we needed. Thank you.<eos>
+<bos>What is it?<eos>
+<bos>I'm not sure.<eos>
+<bos>We scanned all 77 pages<eol>through the mainframe.<eos>
+<bos>And none of the information<eol>is actionable.<eos>
+<bos>Other than the satellite transmission<eos>
+<bos>nothing can be construed<eol>as a security risk.<eos>
+<bos>The boy's being released this afternoon.<eos>
+<bos>So it was just a random set<eol>of ones and zeroes?<eos>
+<bos>On the contrary,<eol>there was nothing random about it.<eos>
+<bos>I don't understand.<eos>
+<bos>All information can be rendered digitally<eos>
+<bos>in a series of ones and zeroes.<eos>
+<bos>When we downloaded the data,<eol>we found an amazing range...<eos>
+<bos>Well, see for yourself.<eos>
+<bos>Da Vinci's Universal Man.<eos>
+<bos>A DNA double helix.<eos>
+<bos>There's lots more.<eos>
+<bos>- That's from the Brandenberg Concertos.<eol>- But they're just fragments.<eos>
+<bos>A few notes here and there<eos>
+<bos>some lines from the Koran,<eol>a Shakespearian sonnet...<eos>
+<bos>Almost like someone<eol>switching channels, huh?<eos>
+<bos>- Mrs. Morris...<eol>- I have nothing to say to you.<eos>
+<bos>Mrs. Morris, please,<eol>give me a minute to explain.<eos>
+<bos>Would you please just wait<eol>right over there for Mama?<eos>
+<bos>I'll be right there.<eos>
+<bos>l thought you were both here to help us.<eos>
+<bos>Scully: This has been a terrible mistake<eos>
+<bos>and I assure you that the government<eos>
+<bos>will pay for all damages.<eos>
+<bos>I don't want your money.<eol>I want my daughter back<eos>
+<bos>and l want you to leave us alone.<eos>
+<bos>But your son has seen something.<eos>
+<bos>You stay away from me,<eol>and you stay away from my child.<eos>
+<bos>Come on, honey.<eos>
+<bos>It's okay. Let's go now.<eos>
+<bos>l thought we were headed back into town.<eos>
+<bos>Where are we going?<eos>
+<bos>The boy's the key, Scully. I know it.<eos>
+<bos>The key to what?<eos>
+<bos>Finding Ruby.<eos>
+<bos>Think about it for a minute.<eos>
+<bos>This is a boy who is<eol>receiving digitized data<eos>
+<bos>from a television screen.<eos>
+<bos>Agent Atsumi said it was<eol>a statistical aberration.<eos>
+<bos>A link or a connection to whoever...<eos>
+<bos>or whatever took Ruby that night.<eos>
+<bos>But how?<eos>
+<bos>If there was an abduction<eos>
+<bos>it's likely that Kevin<eol>was touched in some way.<eos>
+<bos>Mulder, l know what you're thinking.<eos>
+<bos>I know why this is so important to you.<eos>
+<bos>I know.<eos>
+<bos>But there is no evidence<eol>indicating an abduction.<eos>
+<bos>That's why we're going to Lake Okobogee.<eos>
+<bos>According to the police photos<eos>
+<bos>Ruby and Kevin were sleeping right here.<eos>
+<bos>just a stone's throw<eol>from the forest wall.<eos>
+<bos>Meaning what?<eos>
+<bos>Meaning anybody could have<eol>come out of the forest to grab her.<eos>
+<bos>Have you noticed the tree line?<eos>
+<bos>Evidence of extreme heat.<eos>
+<bos>Or an electrical storm.<eos>
+<bos>Besides which, there's nothing<eos>
+<bos>to connect it to the night<eol>of Ruby's disappearance.<eos>
+<bos>That's true.<eos>
+<bos>Do you think a lightning strike<eol>could have caused this?<eos>
+<bos>Do you have any idea at what temperature<eol>sand solidifies into glass?<eos>
+<bos>2,500 degrees fahrenheit.<eos>
+<bos>Something was out here, Scully--<eos>
+<bos>something hot enough<eol>to turn sand into glass<eos>
+<bos>to singe those trees<eos>
+<bos>and to blister the roof of that camper.<eos>
+<bos>look.<eos>
+<bos>What is it?<eos>
+<bos>It's a grave.<eos>
+<bos>Shallow, by the smell of it.<eos>
+<bos>Mulder, what are you doing?<eos>
+<bos>Mulder, you are disturbing a crime scene.<eos>
+<bos>Stop!<eos>
+<bos>What if it's her?<eos>
+<bos>I need to know.<eos>
+<bos>You okay, Mulder?<eos>
+<bos>I'm fine.<eos>
+<bos>Looks like a male caucasian.<eos>
+<bos>Sir.<eos>
+<bos>Victim's name was Greg Randall.<eos>
+<bos>Ruby's boyfriend.<eos>
+<bos>Ruby had a lot of boyfriends.<eos>
+<bos>Before you put that away,<eol>can I look at it?<eos>
+<bos>Go right ahead.<eos>
+<bos>Look at that.<eos>
+<bos>That's her-- the girl from the library.<eos>
+<bos>Who?<eos>
+<bos>We didn't get her name, but she claimed<eol>Greg and Ruby had run off together.<eos>
+<bos>Doc Fowler's a buddy of mine.<eos>
+<bos>Delivered both my kids.<eos>
+<bos>I can find out who had that appointment.<eos>
+<bos>Scully: Have a seat, Tessa.<eos>
+<bos>We know that you lied to us<eol>the other day.<eos>
+<bos>We know that you had the appointment<eos>
+<bos>with Dr. Fowler on August 7.<eos>
+<bos>We know that you're the one<eol>that's pregnant, not Ruby.<eos>
+<bos>You don't know nothing, do you?<eos>
+<bos>We can prove it, Tessa<eos>
+<bos>and we can prove<eol>that Greg was the father.<eos>
+<bos>So what if he was the father?<eos>
+<bos>This is very serious.<eos>
+<bos>Do you understand how serious this is?<eos>
+<bos>Now, you've waived<eol>the right to an attorney.<eos>
+<bos>So if you lie to us here today<eos>
+<bos>you could be charged with perjury.<eos>
+<bos>He promised me we'd be in L.A.<eol>by Christmas.<eos>
+<bos>He had a friend there.<eos>
+<bos>And I'd never seen the ocean.<eos>
+<bos>You said that he and Ruby<eol>were seeing each other.<eos>
+<bos>You said that they were planning<eol>to meet at the lake.<eos>
+<bos>Is that true?<eos>
+<bos>I was nowhere near<eol>the lake that night, okay?<eos>
+<bos>Sure you were, Tessa.<eos>
+<bos>You knew they were meeting, so you<eol>sat there and you waited for them.<eos>
+<bos>You were angry and you were jealous.<eos>
+<bos>- I wasn't.<eol>- You sat there and you waited.<eos>
+<bos>When they showed, you killed him first.<eol>Isn't that how it went?<eos>
+<bos>Bam!<eos>
+<bos>And then you killed Ruby. Bam!<eos>
+<bos>What was she doing right<eol>before she died, Tessa?<eos>
+<bos>Was she pleading for her life?<eos>
+<bos>Was she running away?<eos>
+<bos>- I didn't kill her!<eol>- Where's she buried?<eos>
+<bos>- I didn't kill her! - You didn't?<eos>
+<bos>She wasn't even there that night!<eos>
+<bos>Well, how would you know that, Tessa<eos>
+<bos>if you weren't there yourself?<eos>
+<bos>Mulder, you're not seeing<eol>the whole picture.<eos>
+<bos>- Which is?<eol>- ln all likelihood, Ruby is dead.<eos>
+<bos>ls thaty our conclusion or the conclusion<eos>
+<bos>of the Sioux City Sheriffs Department?<eos>
+<bos>They're searching the national park<eos>
+<bos>and a rescue dive team is coming in<eol>from Des Moines to drag the lake.<eos>
+<bos>They're wasting their time.<eos>
+<bos>Do you really think Tessa Sears<eol>is telling the truth?<eos>
+<bos>Why not? What if Ruby<eol>never did show up that night?<eos>
+<bos>She lied to us in the library<eol>and about her pregnancy.<eos>
+<bos>What makes you think she wouldn't<eol>lie to us about killing Ruby?<eos>
+<bos>Because something was<eol>out there in those woods.<eos>
+<bos>We have a suspect in custody.<eos>
+<bos>We have a confession to one murder<eos>
+<bos>and we have a statement which speaks<eol>to the intent to commit another.<eos>
+<bos>It's over, Mulder.<eos>
+<bos>It's time to go home and turn this<eol>over to local law enforcement.<eos>
+<bos>I can't do that.<eos>
+<bos>- Mulder, where are you going?<eol>- To talk to the boy.<eos>
+<bos>Darlene won't even let you in the door.<eos>
+<bos>Well, I've got to see him.<eos>
+<bos>They don't want to have<eol>anything to do with us.<eos>
+<bos>Stop running after your sister.<eos>
+<bos>This won't bring her back.<eos>
+<bos>Come with me, or don't come with me<eos>
+<bos>but until they find a body,<eol>I'm not giving up on that girl.<eos>
+<bos>Mrs. Morris?<eos>
+<bos>Kevin?<eos>
+<bos>Mulder?<eos>
+<bos>What does it mean?<eos>
+<bos>I don't know.<eos>
+<bos>I'm going to check upstairs.<eos>
+<bos>Oh, my God.<eos>
+<bos>What is it?<eos>
+<bos>just come up here.<eos>
+<bos>Look.<eos>
+<bos>It's her. It's Ruby.<eos>
+<bos>This is a long shot.<eol>They could be anywhere.<eos>
+<bos>You know, when I was a kid<eos>
+<bos>I had this ritual.<eos>
+<bos>I'd close my eyes<eol>before I walked into my room<eos>
+<bos>because I thought that, one day, when<eol>I opened them my sister would be there<eos>
+<bos>just lying in bed,<eol>like nothing ever happened.<eos>
+<bos>You know, I'm still<eol>walking into that room...<eos>
+<bos>every day of my life.<eos>
+<bos>Scully!<eos>
+<bos>Darlene!<eos>
+<bos>Look. There's a trail head.<eos>
+<bos>- Are you okay? - It's here.<eos>
+<bos>- I saw it. - Where's Kevin?<eos>
+<bos>- I couldn't keep up with him.<eol>- Go ahead.<eos>
+<bos>Kevin!<eos>
+<bos>- Arecyou okay? - She's back.<eos>
+<bos>Kevin, I'm sorry, but...<eos>
+<bos>She's here. I know it.<eos>
+<bos>Kevin, I don't think she is.<eos>
+<bos>I know how much you wanted it to be her.<eos>
+<bos>- I did too. - Scully: Mulder!<eos>
+<bos>Come on.<eos>
+<bos>Scully!<eos>
+<bos>Ruby!<eos>
+<bos>She's unconscious, but she's still alive.<eos>
+<bos>I'll get help.<eos>
+<bos>The nurse says she's been awake<eol>for almost an hour.<eos>
+<bos>Any ideas what caused the coma?<eos>
+<bos>There's no sign of head trauma.<eos>
+<bos>No narcotic traces,<eol>or electrolyte abnormalities<eos>
+<bos>except her white blood cell<eol>count was sky-high.<eos>
+<bos>Was there a reduction<eol>in the lymphocyte population<eos>
+<bos>or release of glucocorticoids?<eos>
+<bos>Um...<eos>
+<bos>Actually, both.<eos>
+<bos>How did you know that?<eos>
+<bos>They're symptoms of prolonged<eol>weightlessness.<eos>
+<bos>Shuttle astronauts have reported<eol>similar imbalances.<eos>
+<bos>Hi, Ruby.<eos>
+<bos>Who are you?<eos>
+<bos>We're with the F.B.l.<eos>
+<bos>l'm Special Agent Dana Scully,<eol>and this is Fox Mulder.<eos>
+<bos>My mom said you might be coming by.<eos>
+<bos>How are you feeling?<eos>
+<bos>Fine, I guess.<eos>
+<bos>Where were you, Ruby?<eos>
+<bos>Can you tell us?<eos>
+<bos>Kevin: It's okay, Ruby.<eos>
+<bos>He knows.<eos>
+<bos>I'm not supposed to tell.<eos>
+<bos>They told me not to say.<eos>
+<bos>Who told you?<eos>
+<bos>Ruby, who told you?<eos>
+<bos>Darlene: Sweetheart,<eos>
+<bos>you don't have to say anything.<eos>
+<bos>You're right.<eos>
+<bos>We should wait till<eol>Ruby gets a little stronger.<eos>
+<bos>Could we speak outside for a moment?<eos>
+<bos>I think that it's best that<eol>we put all of this behind us.<eos>
+<bos>Hasn't Ruby been through enough already?<eos>
+<bos>I know how disoriented<eol>she must seem right now<eos>
+<bos>but in a couple of weeks,<eol>maybe even a few days...<eos>
+<bos>I don't want her<eol>talking to you or anyone.<eos>
+<bos>She should be encouraged<eol>to tell her story.<eos>
+<bos>It's important that you let her.<eos>
+<bos>Important to who?<eos>
+<bos>I have my daughter back.<eol>I don't want any more trouble.<eos>
+<bos>Besides, she hardly remembers anything.<eos>
+<bos>She will remember one day,<eol>even if it's only in dreams.<eos>
+<bos>And when she does, she's going<eol>to need to talk about it.<eos>
+<bos>Like I did?<eos>
+<bos>Listen to me. All of my life<eos>
+<bos>I have been ridiculed<eol>for speaking my mind.<eos>
+<bos>But it was the truth, Darlene.<eos>
+<bos>The truth has caused me<eol>nothing but heartache.<eos>
+<bos>I don't want the same thing for her.<eos>
+<bos>It doesn't have to be that way for Ruby.<eos>
+<bos>As far as I'm concerned<eos>
+<bos>she spent the last month on<eol>the back of a Harley-Davidson.<eos>
+<bos>Is that what you're going to tell Kevin?<eos>
+<bos>I'm sorry.<eos>
+<bos>Werber: But your eyes are open?<eos>
+<bos>Mulder: Yeah, they're open.<eos>
+<bos>But it's like nothing's happening.<eos>
+<bos>Try turning your head.<eos>
+<bos>I can't.<eos>
+<bos>Why not?<eos>
+<bos>I don't know.<eos>
+<bos>I can't move.<eos>
+<bos>So I don't.<eos>
+<bos>I just lie there in bed.<eos>
+<bos>Can you see your sister?<eos>
+<bos>No, but I can hear her.<eos>
+<bos>What is she saying?<eos>
+<bos>She's calling my name<eos>
+<bos>over and over again.<eos>
+<bos>She's crying out for help<eos>
+<bos>but l can't help her.<eos>
+<bos>I can't move.<eos>
+<bos>Are you scared?<eos>
+<bos>I know I should be, but I'm not.<eos>
+<bos>Do you know why?<eos>
+<bos>Because of the voice.<eos>
+<bos>- The voice? - The voice in my head.<eos>
+<bos>What's it telling you?<eos>
+<bos>Not to be afraid.<eos>
+<bos>It's telling me that no harm<eol>will come to her<eos>
+<bos>and that, one day, she'll return.<eos>
+<bos>Do you believe the voice?<eos>
+<bos>Do you believe the voice?<eos>
+<bos><font color="#01579b" size=30>I want to believe</font><eos>
+<bos>Subtitles by:<eol><font color="#FFFF00">FUNK</font> <font color="#FF8040">Sky</font><font color="#FF8000">Walker</font><eos>
+<bos><font color="#01579b">OtakuNoNika</font> <font color="#FF8040">MioshiParadise</font><eos>
+<bos>Hello there. This is meant to sync with this files:<eol>https://kat.cr/the-x-files-s01-s09-webrip-x264-fum-ettv-t10890916.html<eos>
+<bos>They have: Colors, HI and my love for The X-Files.<eos>
+<bos>I hope you like it and share with friends.<eos>
+<bos>_______________________________________________________<eos>
+<bos>Hola. Esto está dirigido a sincronizar con estos archivos:<eol>https://kat.cr/the-x-files-s01-s09-webrip-x264-fum-ettv-t10890916.html<eos>
+<bos>Tienen: Colores, Titulos para Sordos y mi amor por Los Expedientes Secretos X<eos>
+<bos>Si deseas pasarlo al español por favor no le quites los Títulos para Sordos.<eos>
+<bos>Espero que lo disfrutes y compartas con tus amigos.<eos>
+<bos>FUNK SkyWalker<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

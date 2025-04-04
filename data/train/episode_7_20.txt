@@ -1,0 +1,521 @@
+<bos>Anson? Anson? Where are you, Anson?<eos>
+<bos>Anson. Come back, Anson.<eos>
+<bos>Anson. Calling Anson.<eos>
+<bos>Where are you, Anson?<eos>
+<bos>Anson.!<eos>
+<bos>Anson. Calling Anson.<eos>
+<bos>Where are you, Anson?<eos>
+<bos>Anson.!<eos>
+<bos>Where are you, Anson?<eos>
+<bos>Anson, get out here!<eos>
+<bos>I've warned you about your attitude.<eos>
+<bos>You clean out 407?<eos>
+<bos>No, of course you haven't<eol>cleaned out 407.<eos>
+<bos>You've only had all damn morning.<eos>
+<bos>You think you're ever going to own any<eol>of those boats the way you're going?<eos>
+<bos>You think you're ever<eol>going to amount to anything?<eos>
+<bos>You can't even finish a simple job.<eos>
+<bos>A monkey could<eol>do this job, all right, Jay?<eos>
+<bos>Well, you can't.<eol>So what's that say about you?<eos>
+<bos>- Shut up. - Excuse me?<eos>
+<bos>I didn't catch that.<eos>
+<bos>You clean out 407, you move out that<eol>deadbeat's stuff, and you do it now.<eos>
+<bos>And when I come back in an hour,<eol>it better be done.<eos>
+<bos>Anson!<eos>
+<bos>Anson?<eos>
+<bos>- Son of a...<eos>
+<bos>Anson.<eos>
+<bos>Anson!<eos>
+<bos>Oh, that's it, Anson.<eos>
+<bos>You hear me, Ans...<eos>
+<bos>Can I get you some coffee?<eos>
+<bos>Water? Anything?<eos>
+<bos>Good morning.<eos>
+<bos>- Good morning.<eos>
+<bos>Special Agent Dana Scully,<eol>this is, uh, Jay Gilmore.<eos>
+<bos>How... Nice to meet you.<eos>
+<bos>Nice to meet... Likewise.<eos>
+<bos>Mr. Gilmore came all the way to see us<eol>from Missouri, the "Show Me" State.<eos>
+<bos>They told me you were the people to<eol>best understand my sit... my sit...<eos>
+<bos>It's okay. Uh, this is<eol>Mr. Gilmore's situation.<eos>
+<bos>This condition came on<eol>very suddenly about a month ago.<eos>
+<bos>Anson Stokes, he did this to me.<eos>
+<bos>I don't know how.<eol>I just... I know it was him.<eos>
+<bos>Anson Stokes is a former employee...<eos>
+<bos>at the self-storage yard<eol>that Mr. Gilmore owns.<eos>
+<bos>Apparently there was some<eol>bad blood between you two.<eos>
+<bos>He told me to shut up! Huh?<eos>
+<bos>Yeah. And then Mr. Gilmore<eol>was, uh, stricken...<eos>
+<bos>- Stricken... stricken. - Uh-huh.<eos>
+<bos>And Anson Stokes was nowhere to be found.<eos>
+<bos>Do you know what he said?<eol>He said they had nothing on him.<eos>
+<bos>Well, and to be fair, sir,<eol>they didn't. They don't.<eos>
+<bos>They had to make me a whole new mouth.<eos>
+<bos>Do you think Blue Cross<eol>is going to pay for this? Uh-uh.<eos>
+<bos>I demand justice!<eos>
+<bos>Ow.<eos>
+<bos>- Mulder, all I'm saying is that...<eol>- I know.<eos>
+<bos>This may not be a crime, and this guy<eol>Stokes may not know anything about it.<eos>
+<bos>Look, there is a condition<eol>called microstomia... small mouth...<eos>
+<bos>which is brought on<eol>by the disease scleroderma.<eos>
+<bos>It's the overproduction of collagen.<eos>
+<bos>It can actually reduce a person's mouth<eol>to a tiny little opening.<eos>
+<bos>But that takes months to develop, right?<eos>
+<bos>It doesn't just happen in the blink of<eol>an eye. Gilmore's surgeons are stumped.<eos>
+<bos>They're writing it up in<eol>the New England Journal of Medicine.<eos>
+<bos>There's always nasal aplasia,<eol>the complete absence of the nose.<eos>
+<bos>That's a nose, Scully.<eol>We're talking mouth here.<eos>
+<bos>But what we're talking is medical,<eol>physiological, not criminal.<eos>
+<bos>- Not as far as I can see.<eol>- Maybe, but I still want to know...<eos>
+<bos>That's a little... out of place,<eol>wouldn't you say?<eos>
+<bos>A little bit.<eos>
+<bos>Ah, damn it.<eos>
+<bos>- Leslie! - What? What is it?<eos>
+<bos>I.R.S. agents. Gotta be.<eol>Get rid of them, all right?<eos>
+<bos>Hi. We're looking for a Mr. Anson Stokes.<eos>
+<bos>He's not here.<eos>
+<bos>Would you happen to know<eol>when he's coming back?<eos>
+<bos>Well, we are Agents Mulder<eol>and Scully from the F.B.I.<eos>
+<bos>The boat's... The boat's not ours.<eos>
+<bos>We're holding it for someone, and,<eol>you know, th-they pay the taxes on it.<eos>
+<bos>Okay.<eos>
+<bos>Anson's not here.<eos>
+<bos>Whoa, whoa, whoa, whoa. What's your name?<eos>
+<bos>- Leslie Stokes.<eol>- Oh, you're Anson's brother?<eos>
+<bos>Hi there.<eos>
+<bos>We're not here to<eol>talk about the boat, Leslie.<eos>
+<bos>We want to talk to your brother<eol>about his former employer, Mr. Gilmore.<eos>
+<bos>And the, uh, unfortunate condition<eol>that he's found himself in.<eos>
+<bos>Well, yeah, you know, that's just, uh...<eos>
+<bos>That's, like, chemicals.<eos>
+<bos>"Chemicals"?<eos>
+<bos>Well, yeah, you know, like people<eol>store weird chemicals, like...<eos>
+<bos>Like my brother, one time<eol>he smelled this weird smell.<eos>
+<bos>You know, it was just a guy<eol>with a meth lab,<eos>
+<bos>you know, like in one<eol>of the storage units.<eos>
+<bos>That's probably something<eol>you guys should look into.<eos>
+<bos>I'm gonna get going.<eol>So I'm gonna go. Okay.<eos>
+<bos>Okay.<eos>
+<bos>Now I see what's going on here.<eos>
+<bos>According to Gilmore, he was standing<eol>right where I am when it happened.<eos>
+<bos>Well, I don't smell<eol>any weird chemical smells.<eos>
+<bos>You still have both your lips.<eos>
+<bos>Apparently everything is left as it was.<eos>
+<bos>Hey. 1978.<eos>
+<bos>It's been a long time since any of<eol>this stuff has seen the light of day.<eos>
+<bos>That's too bad, Mulder.<eol>Underneath all this dust,<eos>
+<bos>this furniture is really wonderful.<eos>
+<bos>Oh, well, you want to hit<eol>some yard sales while we're out here?<eos>
+<bos>Mulder, this furniture is expensive.<eol>Very expensive.<eos>
+<bos>- What's your point?<eol>- My point is that...<eos>
+<bos>there's a lot of money sitting around<eol>here, and maybe something's missing.<eos>
+<bos>- Like what? - I don't know. Jewelry.<eos>
+<bos>Anson Stokes opened up the storage unit,<eol>and then he just disappeared.<eos>
+<bos>There's your crime... theft.<eos>
+<bos>Still doesn't explain<eol>what happened to Gilmore.<eos>
+<bos>Hey, Scully, check this out.<eos>
+<bos>- Ouch.<eol>- This woman look familiar to you?<eos>
+<bos>- That's the woman from the trailer.<eol>- It's the young woman from the trailer.<eos>
+<bos>How many centuries now<eol>has disco been dead?<eos>
+<bos>Two down. Two down,<eol>I got nothing to show for it.<eos>
+<bos>You got the boat.<eos>
+<bos>And what the hell good is that? Huh?<eos>
+<bos>That thing is like a big...<eol>You know, a big...<eos>
+<bos>- White elephant?<eol>- What? I'm sorry. What does that mean?<eos>
+<bos>So what the hell<eol>did you give it to me for?<eos>
+<bos>- Because you asked for it.<eol>- All right. I can appreciate that.<eos>
+<bos>But don't you think maybe you could've<eol>found some fricking water to put it in?<eos>
+<bos>That is a given.!<eol>Fricking white elephant.<eos>
+<bos>I can't even pay the taxes on it.<eos>
+<bos>Why don't you just use your last wish<eol>to get rid of it?<eos>
+<bos>You want me to put you<eol>in a home or something maybe?<eos>
+<bos>Because I just told you, Leslie,<eol>that I wasted two wishes, okay?<eos>
+<bos>Are you listening? I am not gonna<eol>waste the third, all right? Come on.<eos>
+<bos>Come on! I gotta concentrate here.<eol>Let me figure this out.<eos>
+<bos>Third wish, third wish. Final wish.<eol>I'm just spitballing here.<eos>
+<bos>If I happen to say "I wish"<eol>by accident, that does not count.<eos>
+<bos>Not until I am absolutely ready, okay?<eos>
+<bos>You could always give that guy<eol>his mouth back.<eos>
+<bos>All I said is that I wish<eol>Jay would shut the hell up.<eos>
+<bos>If you feel bad about what you did<eol>to him, fix it on your own dime, okay?<eos>
+<bos>- It doesn't work like that. - Whatever.<eos>
+<bos>- Leslie, would you help me out here?<eol>- Um, money.<eos>
+<bos>- Yeah. Okay, that's not bad.<eol>- Wish for money.<eos>
+<bos>But don't you think we should<eol>think of something that would...<eos>
+<bos>generate money instead of<eol>the actual money itself?<eos>
+<bos>Brains? Talent? Hard work?<eos>
+<bos>Uhhh, a money machine.<eos>
+<bos>Okay, that's not...<eol>But something better. Something better.<eos>
+<bos>Okay. But I just...<eos>
+<bos>- An infinite number of wishes. - Okay!<eos>
+<bos>Just three, boys. Settle down.<eos>
+<bos>Damn it, this is hard!<eos>
+<bos>You know, I have a thought.<eos>
+<bos>- Granted it's pretty obvious.<eol>- What, what, what, what, what?<eos>
+<bos>- What? - What?<eos>
+<bos>- Seriously, what? - Oh, forget it!<eos>
+<bos>- I got it. I got it. - Yeah?<eos>
+<bos>I got it, I got it, I got it. Okay,<eol>are you ready? Because I am ready.<eos>
+<bos>I am absolutely ready.<eol>Okay, here it goes.<eos>
+<bos>I wish that I could<eol>turn invisible... at will.<eos>
+<bos>- You're kidding.<eol>- No, no, this is perfect.<eos>
+<bos>Yeah, I can have an advantage<eol>that nobody else on Earth can have.<eos>
+<bos>I can, um, you know, spy and learn<eol>secret information. Pick up stock tips.!<eos>
+<bos>- Sneak into a women's locker room?<eol>- Not just that, okay?<eos>
+<bos>I'm talking about<eol>James Bond-type stuff, you know?<eos>
+<bos>Your wish is breathtaking<eol>in its unoriginality.<eos>
+<bos>You don't have to like it, all right?<eol>You just have to do it, right?<eos>
+<bos>Done.<eos>
+<bos>Son of a...<eos>
+<bos>Screw it!<eos>
+<bos>Oh, God. Turn invisible, please.<eos>
+<bos>Yes.!<eos>
+<bos>Oh, man, this is awesome.!<eol>Hey, hey, hey, brother.<eos>
+<bos>Hey, Leslie, I'm over here.<eol>I'm over here.<eos>
+<bos>Can you see me?<eos>
+<bos>Whoa.! Aah.! Damn it.!<eos>
+<bos>- Anson, are you all right?<eol>- Yeah, yeah, I'm fine.<eos>
+<bos>I can't see my damn feet.<eos>
+<bos>Look out, world, here I come.!<eos>
+<bos>I'm invisible.! Invisible, baby.! Whoo.!<eos>
+<bos>- Whoo-hoo! - Yes.!<eos>
+<bos>You can't see me, can you?<eos>
+<bos>- I... Whoo!<eos>
+<bos>Hey, uh...<eos>
+<bos>Get out of my way, birds.<eos>
+<bos>Oh. Well, hello, ladies.<eos>
+<bos>Here comes Anson. That's right.<eos>
+<bos>Come on. Come on, come on,<eol>come on, come on. Change, change.<eos>
+<bos>All right. Here we go.<eos>
+<bos>Need a little roadside assistance,<eol>do you?<eos>
+<bos>Not to worry. Here comes Anson.<eos>
+<bos>Whoa!<eos>
+<bos>Can we go now?<eos>
+<bos>I think you missed a spot here.<eos>
+<bos>I can see straight through to his ass.<eos>
+<bos>This is Anson Stokes, huh?<eos>
+<bos>It is.<eos>
+<bos>His dental records are a match.<eos>
+<bos>He was found about<eol>a half mile from his house.<eos>
+<bos>He was probably hit by a car<eol>or a truck or something.<eos>
+<bos>And he's invisible.<eos>
+<bos>Yes, he is.<eos>
+<bos>Wow.<eos>
+<bos>but this... this takes the cake.<eos>
+<bos>It's... It's gonna change<eol>the boundaries of science.<eos>
+<bos>It is amazing, but I don't think<eol>it has anything to do with science.<eos>
+<bos>Remember Mr. Saturday Night Fever?<eos>
+<bos>- Yeah.<eol>- I did a little background checking.<eos>
+<bos>His real name is Henry Flanken.<eos>
+<bos>He redefined the term<eol>"overnight success."<eos>
+<bos>In 1977, his net worth<eol>was 36,000 dollars.<eos>
+<bos>And in 1978, it was 30 million dollars.<eos>
+<bos>Then there is the interesting way<eol>in which Mr. Flanken died.<eos>
+<bos>How's that?<eos>
+<bos>Chronic morbid tumescence.<eos>
+<bos>- You don't mean what I think you mean?<eol>- Schwing!<eos>
+<bos>On April 4, 1978, he was admitted<eol>to Gateway Memorial Hospital...<eos>
+<bos>with an extreme priapic condition.<eos>
+<bos>Apparently he was quite the specimen.<eos>
+<bos>Well, what does any of that<eol>have to do with this?<eos>
+<bos>Well, I think our<eol>mystery woman is the link,<eos>
+<bos>about whom I can find<eol>no information whatsoever.<eos>
+<bos>I-I don't know,<eos>
+<bos>but we need to talk to her.<eos>
+<bos>Uh, I think I should stay here<eol>with the body. I mean, I... You know...<eos>
+<bos>I don't think it's a good idea<eol>to leave him unguarded.<eos>
+<bos>This is truly amazing.<eos>
+<bos>Okay.<eos>
+<bos>I'm very sorry for your loss.<eos>
+<bos>- Anson didn't suffer, did he?<eol>- No, I don't think he suffered.<eos>
+<bos>But the part about him being invisible,<eol>that doesn't, uh,<eos>
+<bos>catch you off guard just a little bit?<eos>
+<bos>Uh...<eos>
+<bos>Leslie, there was a woman here earlier.<eol>Where is she now?<eos>
+<bos>She's, uh... She's gone.<eos>
+<bos>Let me tell you where I'm going with<eol>this. I think that woman is a Jinniyah.<eos>
+<bos>- Are you familiar with that term? - No.<eos>
+<bos>It's the feminine for "genie," as in...<eos>
+<bos>a demon or spirit from<eol>Middle Eastern folklore?<eos>
+<bos>Yeah, except Barbara Eden<eol>never killed anybody.<eos>
+<bos>but take human form.<eos>
+<bos>They can perform certain tasks<eol>or grant certain wishes.<eos>
+<bos>Leslie, I believe your brother<eol>found just such an object...<eos>
+<bos>in the storage facility, didn't he?<eos>
+<bos>He took possession of theJinniyah,<eos>
+<bos>and he made some<eol>pretty outrageous requests,<eos>
+<bos>likeJay Gilmore's mouth<eol>and that yacht out in the driveway.<eos>
+<bos>Wait, wait. You believe all that?<eos>
+<bos>I do.<eos>
+<bos>And Leslie, for your own safety,<eos>
+<bos>so that what happened to your brother<eol>doesn't happen to you,<eos>
+<bos>I think you should hand over<eol>that object to me right now.<eos>
+<bos>You're doing the right thing.<eos>
+<bos>Scully, come check this out.<eos>
+<bos>Come on.<eol>He's not going anywhere. Come on.<eos>
+<bos>Bye.<eos>
+<bos>I have a group of researchers<eol>flying in from Harvard Medical.<eos>
+<bos>I can't wait to see their faces.<eos>
+<bos>- What's this?<eol>- It's not what I hoped it would be,<eos>
+<bos>judging from the odor coming from inside.<eos>
+<bos>I think it's where the Stokes brothers<eol>keep their weed.<eos>
+<bos>But that's not what I wanted to show you.<eos>
+<bos>- Recognize him? How about her?<eol>- Benito Mussolini.<eos>
+<bos>Your mystery woman<eol>or someone who looks a lot like her.<eos>
+<bos>The computer says it is her.<eos>
+<bos>I ran her through Quantico's<eol>facial recognition software...<eos>
+<bos>and couldn't come up with a match<eol>in the known-felon database.<eos>
+<bos>Then I took a flyer and checked with<eol>the image bank at the National Archives.<eos>
+<bos>- Voila. - Well, even if it is her,<eos>
+<bos>Mulder, what would she<eol>be doing with Mussolini?<eos>
+<bos>Or Richard Nixon, for that matter.<eos>
+<bos>I don't know, except<eol>that they're both men...<eos>
+<bos>who got all the power they ever<eol>wished for and then lost it.<eos>
+<bos>See? I told you it'd look good in here.<eos>
+<bos>Nice rug. How do you breathe<eol>in that thing?<eos>
+<bos>Can we just get this over with, please?<eos>
+<bos>I've gotta be smarter than Anson was.<eol>Damn it, Anson.<eos>
+<bos>Then can I once again<eol>offer you a suggestion?<eos>
+<bos>Hmm.<eos>
+<bos>- What? - This!<eos>
+<bos>Your disability?<eos>
+<bos>There was some tragedy<eol>involved here I assume.<eos>
+<bos>Well, yeah, it was<eol>pretty tragic, I guess.<eos>
+<bos>Me and Anson were playing<eol>mailbox baseball.<eos>
+<bos>God, I miss that. And Anson's driving.<eos>
+<bos>I was leaning pretty far out<eol>the window there.<eos>
+<bos>Oh...<eos>
+<bos>You mean this!<eos>
+<bos>Yeah, you're right.<eos>
+<bos>I could wish for a solid gold wheelchair.<eos>
+<bos>Man, that'd be sweet. I see what<eol>you're saying. But you know what?<eos>
+<bos>There's something I want more than that.<eos>
+<bos>You're not gonna believe your eyes.<eos>
+<bos>I certainly didn't. You ready?<eos>
+<bos>Oh, he's, uh...<eos>
+<bos>He is invisible, after all. Um...<eos>
+<bos>He's in there.<eos>
+<bos>Okay. You know what?<eol>He's creeping me out.<eos>
+<bos>This isn't what I asked for.<eol>He's all weird and messed up.<eos>
+<bos>I asked you to bring him back to normal.<eos>
+<bos>- You asked me to bring him back.<eol>- Okay, you know, this...<eos>
+<bos>Now he's starting to smell bad!<eol>This isn't what I wanted!<eos>
+<bos>He's gotta at least be able to talk.<eol>You know what? That's my next wish.<eos>
+<bos>Yes, I do, and that's final!<eol>I wish Anson could talk!<eos>
+<bos>Done.<eos>
+<bos>I should just shoot myself.<eos>
+<bos>Oh!<eos>
+<bos>I was so happy. I was so excited.<eos>
+<bos>What was I thinking? An invisible man?<eos>
+<bos>You saw it. It was real.<eos>
+<bos>I don't know what I saw, Mulder. I'm...<eos>
+<bos>I do know that having that<eol>kind of proof in my hands,<eos>
+<bos>it was just too good to be true.<eos>
+<bos>I don't think that's why<eol>the body disappeared.<eos>
+<bos>Why did the body disappear?<eos>
+<bos>I think it was a result<eol>of a wish being granted.<eos>
+<bos>A wish? Whose wish?<eos>
+<bos>Who would want Anson Stokes back?<eol>I mean, really, really back?<eos>
+<bos>His brother, Leslie?<eos>
+<bos>Well, this is no good!<eos>
+<bos>What did you do to me?<eos>
+<bos>You're back from the dead, man!<eol>What kind of gratitude is that?<eos>
+<bos>What did you do to me?<eos>
+<bos>I wasted two wishes on you,<eol>that's what I did!<eos>
+<bos>I can't feel my heart.<eos>
+<bos>I... I can't feel my blood.<eos>
+<bos>I am yellow!<eos>
+<bos>I'm cold. I'm cold.<eos>
+<bos>- You know what? Screw this. - I'm cold.<eos>
+<bos>- I'm cold.<eol>- I wasted two wishes on you...<eos>
+<bos>and a perfectly good bowl of cornflakes.<eos>
+<bos>There, I turned the heat up!<eol>Are you happy now, huh? Are you happy?<eos>
+<bos>Is there anything else<eol>I can do for you there, buddy?<eos>
+<bos>What do you say?<eol>Maybe wipe your little yellow butt?<eos>
+<bos>Thanks for nothing.<eos>
+<bos>You wanna make your third wish, champ?<eos>
+<bos>I'd like to get out of here<eol>before the blowflies hatch.<eos>
+<bos>Yeah, I tell you what.<eol>My last wish is gonna be for me, okay?<eos>
+<bos>It's gonna be for me.<eol>You hear that, Anson?<eos>
+<bos>I wasted two wishes on you, and you<eol>don't even give a damn about that.!<eos>
+<bos>Okay. All right. Third wish.<eos>
+<bos>Let's see. I could wish for, uh...<eos>
+<bos>I could wish for money.<eos>
+<bos>Everybody wishes for money.<eos>
+<bos>Um... There's the invisibility thing.<eos>
+<bos>I guess that turned out pretty stupid,<eol>though, huh, Anson? To be invisible!<eos>
+<bos>That was real smart, huh?<eos>
+<bos>Uh, X-ray eyes, maybe. No, that isn't it.<eos>
+<bos>Like you said, solid gold wheelchair.<eos>
+<bos>- Uh...<eos>
+<bos>Wait, I got it. Legs!<eos>
+<bos>Would you mind removing<eol>your eyewear, ma'am?<eos>
+<bos>Do you have a name?<eos>
+<bos>Not for a long time, now.<eos>
+<bos>How about if I call you Jenn?<eol>That's short forJinniyah.<eos>
+<bos>The, uh, fire department<eol>just recovered two bodies.<eos>
+<bos>- Leslie Stokes and his brother Anson?<eol>- Looks like it.<eos>
+<bos>And, uh, Anson Stokes<eol>is visible now, of course.<eos>
+<bos>But what I'd really love<eol>an explanation for...<eos>
+<bos>is how his corpse got<eol>from my locked morgue...<eos>
+<bos>all the way across town<eol>to the Mark Twain Trailer Park.<eos>
+<bos>Ask him. He's got it all figured out.<eos>
+<bos>I know what he'd say. He'd say<eol>that you're some kind of a genie...<eos>
+<bos>from a Thousand and One Nights<eol>or something like that...<eos>
+<bos>- And that you grant people wishes.<eol>- There you have it.<eos>
+<bos>Everybody you come in contact with<eol>seems to meet a bad end.<eos>
+<bos>That's the conclusion you've drawn?<eol>That I'm evil?<eos>
+<bos>Well, possibly evil.<eol>Possibly cursed. A curse to others.<eos>
+<bos>The only thing you people<eol>are cursed with is stupidity.<eos>
+<bos>All of you. Everybody.<eos>
+<bos>Mankind. Everyone I have ever come<eol>into contact with without fail.<eos>
+<bos>Always asking for the wrong thing.<eos>
+<bos>- You mean making the wrong wishes?<eol>- Yeah.<eos>
+<bos>It's always, "Give me money.<eos>
+<bos>Give me big boobs. Give me a big hoo-hoo.<eos>
+<bos>Make me cool like the Fonz. "<eos>
+<bos>So what? In 500 years,<eol>people have not changed a bit.<eos>
+<bos>Five hundred years?<eos>
+<bos>Granted they smell better now,<eol>generally speaking.<eos>
+<bos>But human greed still reigns...<eos>
+<bos>shallowness, a propensity<eol>for self-destruction.<eos>
+<bos>You're saying that you have been<eol>a firsthand witness...<eos>
+<bos>to 500 years of human history?<eos>
+<bos>I used to be human.<eos>
+<bos>I was born in 15th century France.<eos>
+<bos>And then one day an old Moor came<eol>to my village peddling rugs.<eos>
+<bos>A very powerful class of genie.<eos>
+<bos>He offered me three wishes. For the<eol>first, I asked for a stouthearted mule.<eos>
+<bos>For the second, uh, a magic sack<eol>that was always full of turnips.<eos>
+<bos>Did I mention this was<eol>15th century France?<eos>
+<bos>What was your third wish?<eos>
+<bos>My third... I pondered for a great while.<eos>
+<bos>I didn't want to waste it.<eos>
+<bos>So finally, feeling very intelligent,<eol>I spoke up, and I said...<eos>
+<bos>"I wish for great power and long life."<eos>
+<bos>And thus became a genie yourself.<eos>
+<bos>Gave me the mark of theJinn...<eol>right there.<eos>
+<bos>It's forever.<eol>Sort of like a prison tattoo.<eos>
+<bos>I should've been more specific.<eos>
+<bos>So am I under arrest?<eos>
+<bos>I can't think of anything<eol>we have to hold you on.<eos>
+<bos>Not surprisingly, we don't have<eol>any evidence of any of this,<eos>
+<bos>so, uh, I think she's free to go.<eos>
+<bos>No, I'm not. He unrolled me.<eos>
+<bos>I get three wishes.<eos>
+<bos>So, your partner left<eol>the airport rather quickly.<eos>
+<bos>I don't think she likes me very much.<eos>
+<bos>Oh, well, I don't think she<eol>knows what to make of you.<eos>
+<bos>- I don't... think I do either, really.<eos>
+<bos>Well, you could always<eol>give up your three wishes.<eos>
+<bos>I'll disappear. No hard feelings.<eos>
+<bos>- I didn't think so.<eol>So what's your first wish?<eos>
+<bos>Well... W-W...<eos>
+<bos>What would your wish be<eol>if-if you were in my place?<eos>
+<bos>I'm not you. It doesn't matter.<eos>
+<bos>No, but, you know, I just...<eol>I'd like to know.<eos>
+<bos>I'd...<eos>
+<bos>wish that I never heard<eol>the word "wish" before.<eos>
+<bos>I'd wish that I could live<eol>my life moment by moment,<eos>
+<bos>enjoying it for what it is instead of...<eos>
+<bos>instead of worrying about what it isn't.<eos>
+<bos>I'd sit down somewhere<eol>with a great cup of coffee,<eos>
+<bos>and I'd watch the world go by.<eos>
+<bos>But then again, I'm not you.<eos>
+<bos>So I doubt that's your wish.<eos>
+<bos>You know, I think I'm beginning<eol>to see the problem here.<eos>
+<bos>You say that most people<eol>make the wrong wishes, right?<eos>
+<bos>Without fail. It's like giving<eol>a chimpanzee a revolver.<eos>
+<bos>This is because they make their wishes<eol>solely for personal gain.<eos>
+<bos>- Could be. - So the trick would be...<eos>
+<bos>to make a wish that's totally<eol>altruistic, that's for everyone.<eos>
+<bos>So, um,<eos>
+<bos>I wish for peace on Earth.<eos>
+<bos>Peace on Earth. That's it?<eos>
+<bos>What the hell's wrong with that?<eol>You can't do it?<eos>
+<bos>No. I can.<eos>
+<bos>- It's done.<eos>
+<bos>Oh, crap.<eos>
+<bos>I guess I should have seen this coming!<eos>
+<bos>Scully.<eos>
+<bos>Scully?<eos>
+<bos>Hello?<eos>
+<bos>Hello!<eos>
+<bos>Very good. Genie!<eos>
+<bos>Listen.<eos>
+<bos>You know damn well<eol>that's not what I meant.<eos>
+<bos>You don't have to wipe out the entire<eol>population of the whole planet...<eos>
+<bos>just to affect a little peace on Earth<eol>and goodwill towards men.<eos>
+<bos>Mmm, you didn't say,<eol>"Goodwill towards men."<eos>
+<bos>So you expect me to change the hearts<eol>of six billion people?<eos>
+<bos>No religion in history's<eol>been able to pull that off.<eos>
+<bos>Not Allah or Buddha or Christ.<eos>
+<bos>But you'd like me to do that<eol>in your name?<eos>
+<bos>So... what, you can feel<eol>real good about yourself?<eos>
+<bos>D-Did I say that? I... I didn't say that.<eos>
+<bos>Mmm, how grotesquely egotistical of you.<eos>
+<bos>I bet you wish you<eol>hadn't made your first wish.<eos>
+<bos>Yes, I do, since you butchered<eol>the intent of that wish so completely.<eos>
+<bos>And another thing. I think you've got<eol>a really horrible attitude.<eos>
+<bos>I guess that comes from being rolled up<eol>in a rug for the last 500 years.<eos>
+<bos>But we're not all that stupid. We're<eol>not all chimpanzees with revolvers.<eos>
+<bos>Agent Mulder?<eos>
+<bos>Sir.<eos>
+<bos>How did you get in here?<eos>
+<bos>Uh...<eos>
+<bos>"Whereas, I have one wish left...<eos>
+<bos>and desire to use it most effectively<eol>for the good of all mankind..."<eos>
+<bos>yadda, yadda, yadda...<eol>"here on this plane of existence. "<eos>
+<bos>Hmm.<eos>
+<bos>What, are you a lawyer?<eos>
+<bos>Well, I have to be with you.<eos>
+<bos>I'm gonna get this last wish perfect.<eol>I'm not gonna leave you any loopholes.<eos>
+<bos>or to make everyone's eyes<eol>grow on stalks.<eos>
+<bos>Oh, geez. And I was so<eol>looking forward to that.<eos>
+<bos>Skinner called me, Mulder.<eol>Is everything all right?<eos>
+<bos>You don't remember disappearing...<eos>
+<bos>off the face of the earth<eol>for about an hour this morning?<eos>
+<bos>No.<eos>
+<bos>Then I guess everything's okay.<eos>
+<bos>Mul...<eos>
+<bos>Could you give us a minute, please?<eos>
+<bos>Sure.<eos>
+<bos>Like today?<eos>
+<bos>Wh...<eos>
+<bos>- Where the hell'd she go? - Boink!<eos>
+<bos>No. It's gotta...<eos>
+<bos>It's gotta be hypnotism<eol>or mesmerism or something.<eos>
+<bos>Scully, it is what it is. You examined<eol>an invisible body, remember?<eos>
+<bos>- I thought I did. - Oh!<eos>
+<bos>Mulder, all right. Say...<eos>
+<bos>Say that you're right.<eol>Say this is what it is.<eos>
+<bos>No, no, the trick is to be specific,<eol>to make the wish perfect.<eos>
+<bos>That way everyone is gonna benefit.<eos>
+<bos>It's gonna be a safer world,<eol>a happier world.<eos>
+<bos>There's gonna be food for everyone,<eol>freedom for everyone,<eos>
+<bos>the end of tyranny<eol>of the powerful over the weak.<eos>
+<bos>- Am I leaving anything out?<eol>- It sounds wonderful.<eos>
+<bos>- Then what's the problem?<eol>- Maybe it's the whole point...<eos>
+<bos>of our lives here, Mulder,<eol>to achieve that.<eos>
+<bos>I mean, maybe it's a process...<eos>
+<bos>that one man shouldn't try<eol>and circumvent with a single wish.<eos>
+<bos>You ready?<eos>
+<bos>Yeah, I'm ready.<eos>
+<bos>I can't believe you<eol>don't want butter on your popcorn.<eos>
+<bos>Ew. It's un-American.<eos>
+<bos>- Caddyshack, Mulder?<eos>
+<bos>- It's a classic American movie.<eos>
+<bos>That's what every guy says.<eol>It's a guy movie.<eos>
+<bos>Okay, when you invite me over to your<eol>place, we can watch Steel Magnolias.<eos>
+<bos>- So, um, what's the occasion?<eos>
+<bos>I don't know. It just...<eol>felt like the thing to do.<eos>
+<bos>- Cheers. - Cheers.<eos>
+<bos>I don't know if you noticed, but, um,<eos>
+<bos>I never made the world a happier place.<eos>
+<bos>Well, I'm fairly happy.<eos>
+<bos>That's something.<eos>
+<bos>And now our feature presentation.<eos>
+<bos>So what was your final wish anyway?<eos>
+<bos>I'm all right<eos>
+<bos>Here you go.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

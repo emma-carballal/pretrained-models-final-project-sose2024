@@ -1,0 +1,725 @@
+<bos>Hey, Lazard, now, why do the night guys<eos>
+<bos>get a piece like you<eos>
+<bos>and we're stuck with old eel breath?<eos>
+<bos>It's fate, Detective...<eos>
+<bos>conspiring to keep us apart.<eos>
+<bos>All right, I'm out of here.<eos>
+<bos>See ya.<eos>
+<bos>See you tomorrow.<eos>
+<bos>You all right?<eos>
+<bos>You lost?<eos>
+<bos>Anyway, I got her in the holding room,<eos>
+<bos>but she's not talking.<eos>
+<bos>She won't say a word--<eol>at least not to me.<eos>
+<bos>And you're asking me 'cause you know<eos>
+<bos>how good I am with kids, right?<eos>
+<bos>Yeah, a regular Mr. Green Jeans.<eos>
+<bos>Hi.<eos>
+<bos>This is Detective Barbala.<eos>
+<bos>He's going to help you find your parents.<eos>
+<bos>Hiya, sweetheart.<eos>
+<bos>What's your name?<eos>
+<bos>Michelle.<eos>
+<bos>Everything's going to be all right, okay?<eos>
+<bos>Don't be scared now.<eos>
+<bos>Michelle what?<eos>
+<bos>Well, you said your<eol>first name was Michelle.<eos>
+<bos>Now, what's your last name?<eos>
+<bos>Bishop.<eos>
+<bos>Bishop.<eos>
+<bos>Michelle Bishop.<eos>
+<bos>And where do you live, Michelle?<eos>
+<bos>Here in Buffalo?<eos>
+<bos>Hey! What was that?<eos>
+<bos>Did you hear that?<eos>
+<bos>Somebody call an ambulance!<eos>
+<bos>Hey, yo, the man<eol>was just flying out the window!<eos>
+<bos>How did you hear about us?<eos>
+<bos>My brother. My, uh... my brother's a cop.<eos>
+<bos>Baltimore.<eos>
+<bos>He told me about your work<eol>on the Tooms case.<eos>
+<bos>Said you got a good feel<eol>for things out of the ordinary.<eos>
+<bos>Look, the truth is, Barbala never won<eos>
+<bos>any popularity contests here at the 1-4,<eos>
+<bos>but he's still a cop, you know.<eos>
+<bos>I guess that's why<eol>I can't just let this rest.<eos>
+<bos>You said there was one witness--<eos>
+<bos>a little girl.<eos>
+<bos>What did she say happened?<eos>
+<bos>She said there<eol>was another man in the room.<eos>
+<bos>Well, it stands to reason<eol>that somebody...<eos>
+<bos>I was right outside.<eol>I'm telling you, there was<eos>
+<bos>nobody else there<eol>except for Barbala and the kid.<eos>
+<bos>So you didn't get a description<eol>of who the kid saw.<eos>
+<bos>I'm telling you, there was no one else.<eos>
+<bos>Listen, the department's<eol>treating this as a suicide,<eos>
+<bos>but I got to tell you, I knew this guy.<eos>
+<bos>There's no way he did himself.<eos>
+<bos>Was he depressed<eos>
+<bos>or under psychiatric care of any kind?<eos>
+<bos>No. The only time<eol>he ever looked at himself<eos>
+<bos>was in the mirror,<eos>
+<bos>and he always liked what he saw.<eos>
+<bos>Plus jumpers tend to open<eol>the window before they jump.<eos>
+<bos>Where's the kid now?<eos>
+<bos>She was released about an hour ago.<eos>
+<bos>Her mother came to pick her up.<eos>
+<bos>You don't really think the girl<eos>
+<bos>had anything to do with it, do you?<eos>
+<bos>I don't know what to believe anymore.<eos>
+<bos>You know, eight years<eol>I've been on this force,<eos>
+<bos>I've seen a lot of strange things.<eos>
+<bos>But I'm telling you, this kid...<eos>
+<bos>something's just not right about her.<eos>
+<bos>Did he have long hair or short hair?<eos>
+<bos>Short.<eos>
+<bos>Like that?<eos>
+<bos>Was his hair dark like mine or...<eos>
+<bos>or lighter like yours?<eos>
+<bos>Like mine.<eos>
+<bos>What about a beard or a moustache?<eos>
+<bos>Moustache.<eos>
+<bos>Like this?<eos>
+<bos>Or this?<eos>
+<bos>Whoa, what happened?<eos>
+<bos>Weird.<eos>
+<bos>I didn't even hit a key.<eos>
+<bos>Must be a glitch in the new software.<eos>
+<bos>Michelle, was his moustache like that?<eos>
+<bos>Do you have any idea how your daughter<eos>
+<bos>might have gotten there?<eos>
+<bos>Buffalo's half an hour away by train,<eos>
+<bos>and the station is a<eol>five-minute car ride.<eos>
+<bos>When I came home,<eos>
+<bos>Mrs. Dougherty was locked<eol>in the wine cellar.<eos>
+<bos>I called the police immediately.<eos>
+<bos>And Mrs. Dougherty is...?<eos>
+<bos>Michelle's nanny.<eos>
+<bos>Her latest, that is.<eos>
+<bos>She's already gone<eol>through four this year,<eos>
+<bos>and it's only April.<eos>
+<bos>What seems to be the problem?<eos>
+<bos>Michelle is the problem.<eos>
+<bos>How do you mean?<eos>
+<bos>As hard as it is for a mother to admit,<eos>
+<bos>Michelle is a disturbed child.<eos>
+<bos>Oh, I know this sounds terrible to say,<eos>
+<bos>but the truth is<eol>that sometimes she frightens me.<eos>
+<bos>Frightens you how?<eos>
+<bos>She's not like other girls, Agent Scully.<eos>
+<bos>Tell me.<eos>
+<bos>She just isn't.<eos>
+<bos>She doesn't have any friends.<eos>
+<bos>She hardly ever smiles.<eos>
+<bos>It breaks my heart,<eol>but I can't comfort her.<eos>
+<bos>She says she sees things<eol>that I can't see.<eos>
+<bos>She hears people yelling in her head.<eos>
+<bos>Last summer, we had to cover our pool.<eos>
+<bos>Jim was trying to teach her how to swim,<eos>
+<bos>but every time that Michelle<eol>would get close to the water,<eos>
+<bos>she would just start to scream.<eos>
+<bos>Scream like you've never heard<eol>in all your life.<eos>
+<bos>Your husband, where is he now?<eos>
+<bos>We're divorced.<eos>
+<bos>Mrs. Bishop? Mm-hmm.<eos>
+<bos>This is the man Michelle said<eol>she saw at the police station.<eos>
+<bos>Do you recognize him?<eos>
+<bos>No. I'm sorry.<eos>
+<bos>She also mentioned a friend.<eos>
+<bos>Someone named Sheila.<eos>
+<bos>Do you know who that is?<eos>
+<bos>Ah. That would be Dr. Braun.<eos>
+<bos>She's the developmental psychologist<eos>
+<bos>over at Brylin Hospital.<eos>
+<bos>Michelle sees her twice a week.<eos>
+<bos>Look at that.<eos>
+<bos>Looks like a hawk or a falcon.<eos>
+<bos>It's beautiful.<eos>
+<bos>It's called origami.<eos>
+<bos>Japanese paper folding.<eos>
+<bos>Where did she learn how to do that?<eos>
+<bos>I have no idea.<eos>
+<bos>So, Harry, you'll put<eol>that face into the system?<eos>
+<bos>As we speak.<eos>
+<bos>Can you give Scully a<eol>ride back into the city?<eos>
+<bos>Wait a minute.<eol>We have an autopsy at 7:00.<eos>
+<bos>That's your department.<eos>
+<bos>I'm going to go over to Brylin Hospital,<eos>
+<bos>see if I can have a little chat<eos>
+<bos>with Michelle's shrink.<eos>
+<bos>Oh, oh, and check for burns or lesions<eos>
+<bos>on Barbala's body.<eos>
+<bos>Why?<eos>
+<bos>Psychokinesis is usually associated<eos>
+<bos>with an electrical charge.<eos>
+<bos>Are you saying Michelle<eol>possesses the ability<eos>
+<bos>to psychically project her own will?<eos>
+<bos>How else could a 60-pound kid<eos>
+<bos>throw a 200-pound detective<eol>out the window?<eos>
+<bos>No, I don't recognize him.<eos>
+<bos>I have no idea who this man is.<eos>
+<bos>Could Michelle have fabricated him?<eos>
+<bos>Quite possibly.<eos>
+<bos>As with many dissociative disorders,<eos>
+<bos>the intensity of the patient's emotions<eos>
+<bos>is often too much for<eol>one personality to process.<eos>
+<bos>So, in defense,<eos>
+<bos>part of the personality<eol>splits itself off.<eos>
+<bos>As in schizophrenia?<eos>
+<bos>I'm afraid Michelle's diagnosis<eol>is not quite that simple.<eos>
+<bos>You see, my primary challenge<eol>has been to discover<eos>
+<bos>the source of her extreme rage.<eos>
+<bos>In most cases,<eos>
+<bos>it's a traumatic event<eol>in the patient's past.<eos>
+<bos>And in Michelle's case?<eos>
+<bos>Occasionally, I would leave<eos>
+<bos>Michelle alone for part<eol>of our sessions...<eos>
+<bos>with this doll.<eos>
+<bos>Each time, a new doll,<eol>anatomically intact.<eos>
+<bos>And each time, she<eol>dismembers and disfigures it<eos>
+<bos>in exactly the same way.<eos>
+<bos>At first, I thought she was being abused,<eos>
+<bos>but after a number of<eol>sessions with her parents,<eos>
+<bos>I became convinced that<eol>there was something else<eos>
+<bos>behind Michelle's anxiety.<eos>
+<bos>Something much deeper.<eos>
+<bos>Much more elusive.<eos>
+<bos>Any theories?<eos>
+<bos>Frankly, no.<eos>
+<bos>I'm at a loss.<eos>
+<bos>Have you tried deep-regression hypnosis?<eos>
+<bos>I found hypnosis<eol>an unreliable approach at best.<eos>
+<bos>Okay. Well, in the meantime,<eos>
+<bos>how have you been treating Michelle?<eos>
+<bos>Well, the Thorazine<eol>has been quite effective<eos>
+<bos>in regulating her more bizarre behavior.<eos>
+<bos>I'm sure.<eos>
+<bos>Have you observed<eol>any unexplained phenomena<eos>
+<bos>in Michelle's presence?<eos>
+<bos>"Unexplained phenomena"?<eos>
+<bos>Inordinate physical strength,<eos>
+<bos>psychic ability, telekinesis.<eos>
+<bos>You're joking, of course.<eos>
+<bos>I have a patient waiting, Agent Mulder.<eos>
+<bos>If you'll excuse me.<eos>
+<bos>Note: The postmortem examination<eol>is being conducted<eos>
+<bos>11 hours and 45 minutes<eol>after subject was pronounced.<eos>
+<bos>Note: raised lesion<eos>
+<bos>approximately seven centimeters<eol>below sternum.<eos>
+<bos>Deep necrosis inconsistent<eol>with cause of death<eos>
+<bos>as pronounced by Dr. Gilder<eos>
+<bos>and suggests localized electrocution.<eos>
+<bos>But a further tissue analysis<eol>will be necessary.<eos>
+<bos>Excuse me.<eos>
+<bos>Could I talk to you for a second?<eos>
+<bos>I just started the autopsy.<eos>
+<bos>Yeah. Um...<eos>
+<bos>I-I don't think he's going anywhere.<eos>
+<bos>Will you, uh...<eos>
+<bos>take a couple for scale, please?<eos>
+<bos>Thank you. Be right back.<eos>
+<bos>So, what do you think?<eos>
+<bos>Looks like a match.<eos>
+<bos>Yeah.<eos>
+<bos>Name's Charlie Morris.<eol>Officer Charlie Morris.<eos>
+<bos>Used to work narcotics out of the 2-7.<eos>
+<bos>Do you know him?<eos>
+<bos>No. Before my time.<eos>
+<bos>Well, where is he now?<eos>
+<bos>Has he been transferred?<eos>
+<bos>You could say that.<eos>
+<bos>Agent Scully, this guy's<eol>been dead for nine years.<eos>
+<bos>Which means that little girl saw a ghost.<eos>
+<bos>This way, please.<eos>
+<bos>Uh, just go ahead and set it on my desk.<eos>
+<bos>He was killed in Chinatown,<eol>gangland style,<eos>
+<bos>allegedly by the triads,<eos>
+<bos>although no arrests were ever made.<eos>
+<bos>And, Mulder, if you're going to tell me<eos>
+<bos>that you think Michelle Bishop<eol>saw a poltergeist...<eos>
+<bos>Hey, you're the one that found<eol>a lesion on Barbala's body.<eos>
+<bos>You said it could have been caused<eos>
+<bos>by an intense concentration<eol>of electrothermal energy.<eos>
+<bos>"Could have been"<eol>being the operative phrase.<eos>
+<bos>Now, I'm not going to know for sure<eos>
+<bos>until the lab results are in,<eol>and even then...<eos>
+<bos>Well, why is it still so<eol>hard for you to believe<eos>
+<bos>even when all the evidence<eos>
+<bos>suggests extraordinary phenomena?<eos>
+<bos>Because sometimes...<eos>
+<bos>What?<eos>
+<bos>...looking for extreme possibilities<eos>
+<bos>makes you blind<eol>to the probable explanation<eos>
+<bos>right in front of you.<eos>
+<bos>This is the face<eol>that Michelle Bishop saw.<eos>
+<bos>She walked right by here,<eos>
+<bos>and she saw the face of Charlie Morris,<eos>
+<bos>which means that there weren't any ghosts<eos>
+<bos>flying around the precinct.<eos>
+<bos>Do you have the police report<eol>describing Morris's death?<eos>
+<bos>Yeah. I have what's been<eol>declassified. Why?<eos>
+<bos>Does it describe how he was murdered?<eos>
+<bos>Yes. I told you.<eos>
+<bos>It was a signature hit.<eos>
+<bos>Give me the grisly details.<eos>
+<bos>His arm was severed<eol>just below the shoulder,<eos>
+<bos>presumably by a chain saw,<eos>
+<bos>and his right eye was gouged out.<eos>
+<bos>This is what Michelle did<eol>to a dozen dolls<eos>
+<bos>in her shrink's office.<eos>
+<bos>Hell of a coincidence, wouldn't you say?<eos>
+<bos>Now, before we discount<eol>anything, I think we<eos>
+<bos>should find out more<eol>about Charlie Morris.<eos>
+<bos>I got the address<eol>of his partner on the force.<eos>
+<bos>Hopefully, he can tell us something.<eos>
+<bos>Detective Fiore?<eos>
+<bos>We're with the FBI.<eos>
+<bos>Can we talk to you for a minute?<eos>
+<bos>Do you know this man?<eos>
+<bos>You mind if we do this out here?<eos>
+<bos>Uh, I don't want to wake my wife.<eos>
+<bos>Yeah. This won't take long.<eos>
+<bos>Yeah, sure, I know him.<eos>
+<bos>That's, uh, Charlie.<eos>
+<bos>Charlie Morris.<eos>
+<bos>You two were partners?<eos>
+<bos>Yeah, we rode together<eos>
+<bos>his first nine months out of the academy.<eos>
+<bos>What can you tell us<eol>about the circumstances<eos>
+<bos>surrounding his death?<eos>
+<bos>That matter is still under investigation,<eos>
+<bos>and so I can't comment on it.<eos>
+<bos>Detective, we're under<eol>the direct authority<eos>
+<bos>of Captain Gershom at the 14th precinct.<eos>
+<bos>14th precinct?<eos>
+<bos>I never worked out of the 1-4.<eos>
+<bos>What's all this about?<eos>
+<bos>Uh, we believe that the death<eos>
+<bos>of Detective Rudy Barbala<eol>yesterday can be linked<eos>
+<bos>to the death of Officer<eol>Morris nine years ago.<eos>
+<bos>Linked how?<eos>
+<bos>I mean, I thought<eol>this Barbala flipped his wig<eos>
+<bos>and jumped out a window.<eos>
+<bos>Did you know the detective?<eos>
+<bos>By reputation.<eos>
+<bos>Look, what's all this<eol>got to do with Charlie?<eos>
+<bos>Well, that's what we need your help with.<eos>
+<bos>The police report said<eos>
+<bos>that Officer Morris was killed off duty.<eos>
+<bos>That's right.<eos>
+<bos>Best we can figure,<eol>it was some kind of payback.<eos>
+<bos>For what?<eos>
+<bos>Well, around that time, the<eol>organized crime division<eos>
+<bos>was doing a major sweep in Chinatown.<eos>
+<bos>The triads. Yeah.<eos>
+<bos>Some very heavy busts went down<eos>
+<bos>against the Woo Shing Woo.<eos>
+<bos>A lot of smack<eol>never made it to the street.<eos>
+<bos>You can bet there were some<eol>pretty pissed-off people<eos>
+<bos>playing mah-jongg that week.<eos>
+<bos>So you think<eol>that Charlie Morris was killed<eos>
+<bos>as a warning to back off?<eos>
+<bos>I think they picked a cop-- any cop--<eos>
+<bos>and they whacked him.<eos>
+<bos>Who is it, Tony?<eos>
+<bos>Oh, it's nothing to worry about, honey.<eos>
+<bos>Just some people from the FBI<eos>
+<bos>asking about a case I'm working.<eos>
+<bos>Sir, would you mind...?<eos>
+<bos>Hey, it's the weekend.<eos>
+<bos>You guys mind?<eos>
+<bos>Get me at the squad<eos>
+<bos>first thing Monday morning, okay?<eos>
+<bos>Sure.<eos>
+<bos>Good luck.<eos>
+<bos>Is it me, or did we<eol>just get the brush-off?<eos>
+<bos>Did you notice her hands?<eos>
+<bos>What?<eos>
+<bos>He said she was sleeping,<eos>
+<bos>but her hands were dusted<eol>with baking flour.<eos>
+<bos>It's not a big deal, all right?<eos>
+<bos>Don't jerk yourself around, Tony.<eos>
+<bos>You're acting like a little bug.<eos>
+<bos>They were FBI.<eos>
+<bos>So what?<eos>
+<bos>They start sniffing around too much,<eos>
+<bos>they're going to turn something up.<eos>
+<bos>Relax.<eos>
+<bos>They're just people, like us,<eos>
+<bos>going through the motions. Oh, yeah?<eos>
+<bos>Then how are they<eol>connecting Charlie to Barbala?<eos>
+<bos>And what do they know?<eos>
+<bos>Huh?<eos>
+<bos>Nothing.<eos>
+<bos>Come on.<eos>
+<bos>We're going to Citibank right now.<eos>
+<bos>For what?<eos>
+<bos>The safety box.<eos>
+<bos>What should we do, Tony? Huh?<eos>
+<bos>Make a donation to<eol>the Little Sisters for the Poor?<eos>
+<bos>Dump it somewhere.<eos>
+<bos>Tony, there's only two of us left now.<eos>
+<bos>That's over a million each.<eos>
+<bos>Take it all. I don't care!<eos>
+<bos>Do your dream on the beach in Costa Rica<eos>
+<bos>or wherever the hell it is<eol>you want to do it.<eos>
+<bos>You think I like this? Huh?<eos>
+<bos>Selling disability insurance to morons?<eos>
+<bos>"Well, sir, uh...<eos>
+<bos>"excuse me, but what if you<eos>
+<bos>"should break your neck on the shore<eos>
+<bos>or-or lose your leg in a car crash?"<eos>
+<bos>You listen to me, Tony.<eos>
+<bos>We agreed to wait ten years,<eos>
+<bos>and that is exactly<eol>what we're going to do.<eos>
+<bos>I listened to you once before,<eol>and look what happened.<eos>
+<bos>Nobody--<eos>
+<bos>not me, not Barbala--<eos>
+<bos>wanted to see Charlie wind up like that.<eos>
+<bos>We were just trying to scare<eol>a little sense into him.<eos>
+<bos>It was an accident.<eos>
+<bos>End of story.<eos>
+<bos>And you better pull<eol>yourself together, Tony.<eos>
+<bos>Excuse me, sir...<eos>
+<bos>Hey! What?<eos>
+<bos>Hey! Hey, open the door!<eos>
+<bos>For God's sake!<eos>
+<bos>Help me!<eos>
+<bos>Hey, get your hands off me, all right?<eos>
+<bos>Patrol unit picked her up<eos>
+<bos>a few blocks away from the bus stop.<eos>
+<bos>What's going on?<eos>
+<bos>We don't know.<eos>
+<bos>All we know is that your daughter<eos>
+<bos>has witnessed two deaths<eol>in the past two days.<eos>
+<bos>She's only eight years old.<eos>
+<bos>She couldn't possibly have done anything.<eos>
+<bos>Mrs. Bishop, no one is<eol>accusing Michelle of anything.<eos>
+<bos>She's just a little girl.<eos>
+<bos>Is there anything<eol>that you have not told us?<eos>
+<bos>Is there anything at all<eol>that you can think of<eos>
+<bos>that might shed some light<eol>on what happened tonight?<eos>
+<bos>No.<eos>
+<bos>Well, this police station<eos>
+<bos>has a designated room at the Sheraton.<eos>
+<bos>An officer will take you<eol>and Michelle over there.<eos>
+<bos>Why is this happening to us?<eos>
+<bos>Why?<eos>
+<bos>Can I talk to you for a minute?<eos>
+<bos>I'm sorry. Excuse me.<eos>
+<bos>Listen to this.<eos>
+<bos>You know that guy that<eol>bought it tonight--<eos>
+<bos>Leon Felder?<eos>
+<bos>Before he started<eol>peddling life insurance,<eos>
+<bos>he was a cop out of the 1-4.<eos>
+<bos>Guess who his partner used to be.<eos>
+<bos>Rudy Barbala.<eos>
+<bos>Four cops.<eos>
+<bos>Three of whom are now dead.<eos>
+<bos>Their only connection being<eol>a drug bust in Chinatown<eos>
+<bos>almost nine years ago.<eos>
+<bos>And a little girl from Orchard Park.<eos>
+<bos>Morris, Fiore, Barbala and Felder.<eos>
+<bos>What's wrong with this picture?<eos>
+<bos>Well, for one thing,<eos>
+<bos>Fiore said he only<eol>knew Barbala by reputation.<eos>
+<bos>Right. So why would he say that?<eos>
+<bos>I don't know.<eos>
+<bos>No.<eos>
+<bos>What?<eos>
+<bos>There's a page gone<eol>from Morris's homicide file.<eos>
+<bos>Wonder where it could be.<eos>
+<bos>Is there a log sheet?<eos>
+<bos>Should be.<eos>
+<bos>Yeah.<eos>
+<bos>"Tony Fiore."<eos>
+<bos>Checked out this afternoon.<eos>
+<bos>Mrs. Fiore, we're sorry<eol>for the early hour,<eos>
+<bos>but is your husband home?<eos>
+<bos>No, he's not.<eos>
+<bos>He never came home last night.<eos>
+<bos>May we come in?<eos>
+<bos>Hey, Scully.<eos>
+<bos>Look familiar?<eos>
+<bos>He said he was working<eos>
+<bos>a double shift,<eos>
+<bos>but when I called the precinct,<eos>
+<bos>he wasn't scheduled.<eos>
+<bos>It's just not like him not to call.<eos>
+<bos>Does your husband have any family<eos>
+<bos>or close friends<eol>in the area that he might<eos>
+<bos>go to if he were in trouble?<eos>
+<bos>I've been on the phone all night.<eos>
+<bos>Is he in any trouble?<eos>
+<bos>Mrs. Fiore,<eos>
+<bos>did your husband ever mention<eos>
+<bos>a detective by the name of Rudy Barbala<eos>
+<bos>or an ex-police officer<eol>named Leon Felder?<eos>
+<bos>I don't think so.<eos>
+<bos>Someone you might have had<eos>
+<bos>dinner with once,<eol>a friend of Tony's from work,<eos>
+<bos>a name you can't remember-- anything?<eos>
+<bos>We don't normally socialize<eol>with other cops.<eos>
+<bos>Mrs. Fiore, I couldn't help noticing<eos>
+<bos>your origami collection.<eos>
+<bos>Did you do all these yourself?<eos>
+<bos>Oh, no, not me.<eos>
+<bos>No, that was Charlie's hobby.<eos>
+<bos>Charlie?<eos>
+<bos>My first husband.<eos>
+<bos>He was born in Japan.<eos>
+<bos>His father was stationed there.<eos>
+<bos>Not Charlie Morris, Tony's ex-partner?<eos>
+<bos>Yeah.<eos>
+<bos>I was waiting for him to come home, too,<eos>
+<bos>nine years ago, just like this.<eos>
+<bos>He was working on a whole set,<eol>you know, from the painting.<eos>
+<bos>The only animal he never got to<eol>was the giraffe.<eos>
+<bos>See, right there behind the zebra?<eos>
+<bos>Michelle is eight years old.<eos>
+<bos>That means she was conceived<eos>
+<bos>at roughly the same time<eol>that Officer Morris was killed.<eos>
+<bos>Do me a favor, Mulder.<eos>
+<bos>Let me say it-- reincarnation.<eos>
+<bos>Metempsychosis, transmigration,<eos>
+<bos>reembodiment-- call it what you will.<eos>
+<bos>All based on the coincidence<eos>
+<bos>that Michelle Bishop and Officer Morris<eos>
+<bos>both practice the obscure<eol>art of paper folding?<eos>
+<bos>What about the composite drawing<eos>
+<bos>and the dolls, and the fact<eos>
+<bos>that Michelle was witness to two deaths<eos>
+<bos>that can be tied to Charlie Morris?<eos>
+<bos>So what, you think he's<eol>back, like Peter Proud,<eos>
+<bos>to avenge his murder?<eos>
+<bos>It's not so far-fetched, Scully.<eos>
+<bos>Reincarnation is a basic tenet<eol>of many major religions.<eos>
+<bos>That still doesn't explain<eol>how an eight-year-old girl<eos>
+<bos>can kill two grown men.<eos>
+<bos>Well, individuals<eol>with strong past-life memories<eos>
+<bos>often exhibit enhanced<eol>psychic abilities--<eos>
+<bos>ESP, telekinesis...<eos>
+<bos>So where does that leave us?<eos>
+<bos>One short step away<eos>
+<bos>from proving the preexistence<eos>
+<bos>of the human soul.<eos>
+<bos>On the count of five,<eos>
+<bos>tell me where you are now.<eos>
+<bos>One, two, three, four, five.<eos>
+<bos>Do you know where you are?<eos>
+<bos>Yes.<eos>
+<bos>Where?<eos>
+<bos>Tell me where you are.<eos>
+<bos>At home.<eos>
+<bos>What time of day is it?<eos>
+<bos>Nighttime.<eos>
+<bos>And how old are you now?<eos>
+<bos>Twenty-four.<eos>
+<bos>No! We can't!<eos>
+<bos>We can't do this! It's wrong!<eos>
+<bos>What's wrong? What can't you do?<eos>
+<bos>It's all right. You can trust me.<eos>
+<bos>No! I can't. I can't.<eos>
+<bos>You can trust me. I can't!<eos>
+<bos>I can't! I can't! I can't!<eos>
+<bos>This is dangerous and irresponsible.<eos>
+<bos>Dr. Spitz has conducted<eol>hundreds of these sessions...<eos>
+<bos>If you allow us to continue,<eol>you could push Michelle<eos>
+<bos>deeper into withdrawal,<eol>maybe permanently.<eos>
+<bos>Is it any more dangerous<eos>
+<bos>than pumping her full of Thorazine?<eos>
+<bos>They're killing me! They're killing me!<eos>
+<bos>That's enough.<eos>
+<bos>No. No! No! No!<eos>
+<bos>It's okay. It's okay. It's okay.<eos>
+<bos>It's over. It's over. It's over.<eos>
+<bos>They just left.<eos>
+<bos>We almost had it, Scully.<eos>
+<bos>We were right there.<eos>
+<bos>I know.<eos>
+<bos>We'll have to try it again.<eos>
+<bos>Mrs. Bishop won't go for that.<eos>
+<bos>Not in this lifetime anyway.<eos>
+<bos>Well, we have to change her mind.<eos>
+<bos>How? And to what end?<eos>
+<bos>I mean, what exactly<eos>
+<bos>do you hope to discover by all this?<eos>
+<bos>The truth-- what really happened<eos>
+<bos>to Charlie Morris nine years ago.<eos>
+<bos>We'll find the truth when we find Fiore.<eos>
+<bos>If we find Fiore,<eol>and if he's still alive.<eos>
+<bos>Scully, you saw what happened in there.<eos>
+<bos>What I saw was some<eol>traumatized little girl<eos>
+<bos>who, for no apparent reason,<eos>
+<bos>has some connection to Charlie Morris.<eos>
+<bos>All evidence suggests that<eos>
+<bos>Michelle Bishop is Charlie Morris.<eos>
+<bos>how much more apparent<eol>does it have to become<eos>
+<bos>for you to accept it?<eos>
+<bos>Okay. Let's just say that,<eol>by some small miracle,<eos>
+<bos>you manage to convince Michelle's mother<eos>
+<bos>and the next hypno-regression<eol>provides you with everything<eos>
+<bos>you could possibly hope for.<eos>
+<bos>No grand jury is going to listen<eos>
+<bos>to that kind of testimony.<eos>
+<bos>We still will not have<eol>an actionable case.<eos>
+<bos>The inconclusive results<eos>
+<bos>of Michelle's past-life regression<eos>
+<bos>do not shake my basic belief in hypnosis<eos>
+<bos>as a tool for psychological healing.<eos>
+<bos>Whether or not<eol>it offers us definitive proof<eos>
+<bos>of previous lifetimes is another matter.<eos>
+<bos>However, in this particular case,<eos>
+<bos>all other explanations<eol>seem to be even more wanting.<eos>
+<bos>And how old are you?<eos>
+<bos>Twenty-four.<eos>
+<bos>No! We can't!<eos>
+<bos>We can't do this! It's wrong!<eos>
+<bos>What's wrong?<eos>
+<bos>What can't you do?<eos>
+<bos>And how old are you?<eos>
+<bos>Twenty-four.<eos>
+<bos>No! We can't...<eos>
+<bos>Twenty-four.<eos>
+<bos>No, no, I...<eos>
+<bos>I-I want to be here in case he shows up.<eos>
+<bos>Yeah, thanks again.<eos>
+<bos>I'll, um...<eos>
+<bos>I'll call you the minute I hear anything.<eos>
+<bos>Okay, yeah. Okay. Bye-bye.<eos>
+<bos>Tony!<eos>
+<bos>I checked the windup profiles.<eos>
+<bos>They're up to speed.<eos>
+<bos>Which means?<eos>
+<bos>Whatever this image is,<eos>
+<bos>it was recorded in that room<eol>with the girl.<eos>
+<bos>How is that possible?<eos>
+<bos>There was a documented case<eol>in the early '70s<eos>
+<bos>of a man from Porlock, Ohio<eos>
+<bos>who could influence undeveloped film.<eos>
+<bos>He could create shapes<eol>on the negative from his mind.<eos>
+<bos>I don't know how much<eol>of this noise I can clean up.<eos>
+<bos>It depends on the strength<eol>of the latent image.<eos>
+<bos>I tracked him down.<eos>
+<bos>He's retired in Palm Beach.<eos>
+<bos>You were right, Agent Scully.<eos>
+<bos>He backed up all his records on disk.<eos>
+<bos>Well, pathologists<eol>are paranoid by nature.<eos>
+<bos>Well, he faxed me the missing page<eos>
+<bos>from the autopsy report.<eos>
+<bos>Great.<eos>
+<bos>Well, apparently,<eos>
+<bos>Charlie Morris did not die<eol>as a result of his wounds.<eos>
+<bos>Says here there's a frothing of fluid<eos>
+<bos>in the respiratory tract.<eos>
+<bos>That indicates death by drowning.<eos>
+<bos>So you're saying he was drowned first,<eos>
+<bos>and then mutilated to make it look<eos>
+<bos>like a signature execution?<eos>
+<bos>Dr. Yamaguchi said on the phone<eos>
+<bos>that there were no signs of submersion<eos>
+<bos>such as goose skin or wrinkled flesh<eos>
+<bos>except for around the face and head.<eos>
+<bos>Mm-hmm. That's right.<eos>
+<bos>Suggesting that he was killed<eos>
+<bos>in either a bathtub or a toilet.<eos>
+<bos>Except...<eos>
+<bos>Except for what?<eos>
+<bos>The marked bradycardia.<eos>
+<bos>It indicates<eol>a raised plasma sodium level.<eos>
+<bos>He was killed in seawater.<eos>
+<bos>Anita!<eos>
+<bos>Anita!<eos>
+<bos>Tony!<eos>
+<bos>Tony, what's going on?<eos>
+<bos>Where have you been?<eos>
+<bos>Listen, I know something's going on.<eos>
+<bos>I need you to listen to me right now.<eos>
+<bos>All right.<eos>
+<bos>I need you to go upstairs and pack a bag.<eos>
+<bos>Why? What-what kind of<eol>trouble are you in?<eos>
+<bos>I think someone's trying to kill me.<eos>
+<bos>Who?<eos>
+<bos>I don't know.<eos>
+<bos>Why would anybody want to kill you?<eos>
+<bos>Tell me what's going on.<eos>
+<bos>Will you please just do<eol>what I'm asking you?!<eos>
+<bos>Please.<eos>
+<bos>I'm your husband, and I love you,<eos>
+<bos>and I need you to trust me on this, okay?<eos>
+<bos>Almost there.<eos>
+<bos>What I've done<eos>
+<bos>is to map the frequencies<eol>of the interference.<eos>
+<bos>Coefficients for sine on this monitor,<eos>
+<bos>cosine on that one.<eos>
+<bos>Now, using an algorithm program,<eos>
+<bos>I can remove the frequencies...<eos>
+<bos>like this.<eos>
+<bos>Presto.<eos>
+<bos>What the hell?<eos>
+<bos>Mulder, what is it?<eos>
+<bos>You said salt water, right?<eos>
+<bos>Right. So?<eos>
+<bos>So Charlie Morris was drowned<eol>in his own tropical fish tank,<eos>
+<bos>and that's the last thing<eol>he saw before he died.<eos>
+<bos>We better hope Michelle Bishop<eol>is at home tucked in bed.<eos>
+<bos>Tony...<eos>
+<bos>Tony, somebody...<eos>
+<bos>somebody left this<eol>on our doorstep tonight.<eos>
+<bos>Do you know who?<eos>
+<bos>Answer me, Tony!<eos>
+<bos>All right, you stay here<eol>and keep the door closed.<eos>
+<bos>Tony, are you all right?<eos>
+<bos>Tony, answer me!<eos>
+<bos>Tony!<eos>
+<bos>Tony, please!<eos>
+<bos>Who's there?<eos>
+<bos>What's happening?<eos>
+<bos>Tony!<eos>
+<bos>Mulder!<eos>
+<bos>They said they were just<eol>going to talk to you.<eos>
+<bos>Talk some sense into you.<eos>
+<bos>What was I supposed to do, huh?<eos>
+<bos>All you had to do<eos>
+<bos>was take the money, man!<eos>
+<bos>Why didn't you just take the money?!<eos>
+<bos>Please, Tony, let me out!<eos>
+<bos>What's going on, Tony? Let me out!<eos>
+<bos>Go check upstairs.<eos>
+<bos>Please, open the door!<eos>
+<bos>I'm scared!<eos>
+<bos>Michelle!<eos>
+<bos>This won't make right what happened.<eos>
+<bos>Please! I can't get out!<eos>
+<bos>Who's there? I can't get out!<eos>
+<bos>Tony?<eos>
+<bos>I'm sorry.<eos>
+<bos>I knew what they did to Charlie.<eos>
+<bos>I was a part of it,<eol>and I never said anything.<eos>
+<bos>I couldn't.<eos>
+<bos>No.<eos>
+<bos>I just wanted to take care of you.<eos>
+<bos>Who else would have taken care of you?<eos>
+<bos>Oh, God.<eos>
+<bos>No. No.<eos>
+<bos>Please... please don't hurt him anymore.<eos>
+<bos>Closing entry, file #X-40271.<eos>
+<bos>Detective Anthony Fiore<eos>
+<bos>pleaded guilty yesterday<eol>in federal court to charges<eos>
+<bos>of first-degree murder after the fact,<eos>
+<bos>grand larceny and obstruction of justice.<eos>
+<bos>The deaths of detective Rudy Barbala<eos>
+<bos>and former police officer Leon Felder<eos>
+<bos>are being ruled as accidental,<eol>although their complicity<eos>
+<bos>in the murder of Officer Charlie Morris<eos>
+<bos>has been definitively established.<eos>
+<bos>No charges were brought<eol>against Michelle Bishop<eos>
+<bos>who, today, took<eol>her first swimming lesson.<eos>
+<bos>She claims no memory<eol>of the preceding events,<eos>
+<bos>and both her mother and Dr. Braun<eos>
+<bos>have denied my request<eos>
+<bos>for a second past-life regression.<eos>
+<bos>End of field journal, April 19, 1994.<eos>
+<bos>Agents of record:<eol>Fox Mulder and Dana Scully.<eos>
+<bos>Status: unexplained.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

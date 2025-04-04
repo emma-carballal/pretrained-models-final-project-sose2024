@@ -1,0 +1,413 @@
+<bos>Time passes in moments...<eos>
+<bos>moments which rushing past...<eos>
+<bos>define the path of a life...<eos>
+<bos>just as surely<eol>as they lead towards its end.<eos>
+<bos>How rarely do we stop<eol>to examine that path...<eos>
+<bos>to see the reasons why all things happen.<eos>
+<bos>To consider whether the path<eol>we take in life is our own making,<eos>
+<bos>or simply one into<eol>which we drift with eyes closed.<eos>
+<bos>But what if we could stop,<eol>pause to take stock...<eos>
+<bos>of each precious moment before it passes?<eos>
+<bos>Might we then see the endless forks<eol>in the road that have shaped a life?<eos>
+<bos>And seeing those choices,<eos>
+<bos>choose another path?<eos>
+<bos>I see the storm has broken...<eos>
+<bos>in the middle of the night.<eos>
+<bos>Nothing left here for me.<eos>
+<bos>It's washed away.<eos>
+<bos>The rain pushes the buildings aside.<eos>
+<bos>- I got the lab to rush the results of...<eol>- The sky turns...<eos>
+<bos>- I heard you, Scully.<eol>- Szezesny did indeed drown.<eos>
+<bos>What else could she have<eol>possibly drowned in?<eos>
+<bos>Margarita mix.<eos>
+<bos>Upchucked with about 40 ounces<eol>of Corcovado Gold tequila, which...<eos>
+<bos>as it turns out, she and her friends<eol>rapidly consumed in the woods...<eos>
+<bos>while trying to reenact<eol>The Blair Witch Project.<eos>
+<bos>I think that demands a little deeper<eol>investigation, don't you?<eos>
+<bos>No, I don't.<eos>
+<bos>Well, it doesn't matter,<eol>'cause we got bigger fish to fry.<eos>
+<bos>Have a seat, Scully. Check this out.<eos>
+<bos>- Is that beautiful or what?<eol>- Crop circles, Mulder?<eos>
+<bos>Computer-generated crop circles.<eos>
+<bos>It's a fractal image predicted<eol>by a computer program using data...<eos>
+<bos>of every known occurrence<eol>of the phenomena over the past 40 years.<eos>
+<bos>What most people don't realize<eol>is that since 1991...<eos>
+<bos>- There's been a dramatic increase...<eos>
+<bos>in size and complexity of circle designs.<eos>
+<bos>That's when the Mandlebrot Set<eol>appeared in England...<eos>
+<bos>a series of geometrically perfect rings<eol>appearing almost impossibly overnight...<eos>
+<bos>in a field near Cambridge.<eos>
+<bos>But that was merely prelude<eol>of what was to come.<eos>
+<bos>Three years later in 1994,<eos>
+<bos>even more complex formations<eol>occurred simultaneously...<eos>
+<bos>on opposite ends of the English<eol>countryside with the Mandlebrot Set,<eos>
+<bos>where it's still there at its center.<eos>
+<bos>Then in 1997, even more complex<eol>formations occurred.<eos>
+<bos>And I'm not wearing any pants right now.<eos>
+<bos>- Hmm? - You're not listening.<eos>
+<bos>I am.<eos>
+<bos>I guess I just don't see the point.<eos>
+<bos>The point is that a computer<eol>program has shown us...<eos>
+<bos>that these are not just random<eol>happenstance coincidental occurrences.<eos>
+<bos>And that same program has predicted<eol>that in just 48 hours...<eos>
+<bos>even more complex formations are gonna<eol>be laid down in a field near Avebury.<eos>
+<bos>Mulder, I still have to go<eol>over to the hospital and...<eos>
+<bos>finish the final paperwork<eol>on that autopsy you had me do.<eos>
+<bos>And to be honest, it's Saturday.<eos>
+<bos>And I wouldn't mind,<eol>I don't know, taking a bath.<eos>
+<bos>And besides, what could you<eol>possibly get out of this?<eos>
+<bos>Or learn? I mean,<eol>it's not even remotely FBI related.<eos>
+<bos>I'll just cancel your ticket.<eos>
+<bos>Thanks for lunch.<eos>
+<bos>Mulder. Look, we're always running.<eos>
+<bos>We're always chasing the next big thing.<eos>
+<bos>Why don't you ever just stay still?<eos>
+<bos>I wouldn't know what I'd be missing.<eos>
+<bos>My name is Dana Scully...<eos>
+<bos>It's for the FBI.<eos>
+<bos>Let's see. Oh.<eos>
+<bos>And just sign here, please.<eos>
+<bos>Thank you.<eos>
+<bos>Hi. Um, I was given<eol>the wrong test results.<eos>
+<bos>This X ray marked D. Waterston<eol>was in the envelope marked Szezesny.<eos>
+<bos>I was expecting autopsy results.<eos>
+<bos>I'm sorry.<eol>They must have gotten switched.<eos>
+<bos>Sorry for the inconvenience.<eos>
+<bos>Thank you.<eos>
+<bos>Is the, um... Is the D. Waterston<eol>that was on the X ray,<eos>
+<bos>is that a Dr. Daniel Waterston?<eos>
+<bos>Waterston, Waterston. Yes, it is.<eos>
+<bos>Admitted yesterday,<eol>coronary care unit, room 306.<eos>
+<bos>Thank you.<eos>
+<bos>I'm sorry. I don't know what else to say.<eos>
+<bos>Everything appears to be as it should,<eos>
+<bos>under the circumstances.<eos>
+<bos>So, don't worry.<eos>
+<bos>If you'd like, I could show you<eol>the hospital cafeteria.<eos>
+<bos>Uh, I guess... Yeah, okay.<eos>
+<bos>Are there phones down there too?<eol>I need to make some phone calls.<eos>
+<bos>Yes.<eos>
+<bos>- Excuse me.<eol>Can I help you with something?<eos>
+<bos>Uh, I'm sorry. I'm Dr. Scully.<eol>I was just in the hospital and...<eos>
+<bos>Can we step into the hallway?<eos>
+<bos>Yeah.<eos>
+<bos>I'm Dr. Waterston's cardiologist, Paul<eol>Kopeikan. You say your name was Scully?<eos>
+<bos>Uh, yes, Dana Scully.<eos>
+<bos>- Dr. Waterston's mentioned you.<eol>- I'm sorry. You must be mistaken.<eos>
+<bos>You were a student of his, right?<eos>
+<bos>He has a heart condition?<eos>
+<bos>Dr. Waterston came in yesterday<eol>with severe chest pains.<eos>
+<bos>And he ordered us to do<eol>an echocardiogram...<eos>
+<bos>and a biopsy because he'd had symptoms...<eos>
+<bos>of an upper respiratory<eol>infection the week before.<eos>
+<bos>Fortunately, it was the right call.<eos>
+<bos>- Then it's serious. - But treatable.<eos>
+<bos>That's all right.<eol>But thanks for your time.<eos>
+<bos>He must have been a wonderful teacher.<eos>
+<bos>I've been following his work on<eol>constrictive pericarditis for years now.<eos>
+<bos>Yes.<eos>
+<bos>He's a remarkable man.<eos>
+<bos>- Hello? -  You came to see him.<eos>
+<bos>I'm sorry. Who is this?<eos>
+<bos>- Margaret Waterston. - Maggie.<eos>
+<bos>Is everything all right?<eos>
+<bos>- Well, that depends, doesn't it?<eol>- I'm sorry?<eos>
+<bos>Whatever. Dr. Kopeikan told my father you<eol>were here, and now he wants to see you.<eos>
+<bos>- About what? - Look.<eos>
+<bos>He asked me to call, so I'm calling.<eos>
+<bos>I don't know, Maggie.<eol>I-I... I don't know if I've got time.<eos>
+<bos>- Don't know if you have the time.<eos>
+<bos>Hello?<eos>
+<bos>I'll never see you again.<eos>
+<bos>- Hello? - Hey, you're there?<eos>
+<bos>I got a 5:30 flight, remember?<eos>
+<bos>Right. I guess I lost track of time.<eos>
+<bos>Listen, the reason I called...<eol>Am I catching you at a bad time?<eos>
+<bos>No, I just walked in. Why?<eos>
+<bos>There's this group in D.C.<eol>that is researching crop circles,<eos>
+<bos>- Mulder, I'm not going.<eol>- I gotta ask you a favor.<eos>
+<bos>One of the researchers lives<eol>out near the hospital...<eos>
+<bos>So I was wondering if you would<eol>go over there and, you know,<eos>
+<bos>and get it and put it in...<eos>
+<bos>Speak to me, Scully.<eos>
+<bos>I'm out for the evening, Mulder.<eos>
+<bos>Why don't you leave that address<eol>on my answering machine...<eos>
+<bos>and, uh, I'll try it for you.<eos>
+<bos>I'm sorry. I... I have the wrong room.<eos>
+<bos>That's okay.<eos>
+<bos>Hi.<eos>
+<bos>Do I have to lock eyes with the devil<eol>for you to grace me with your presence?<eos>
+<bos>Surely not the devil.<eos>
+<bos>How are you feeling, Daniel?<eos>
+<bos>It's a real drag when the body<eol>doesn't wanna play anymore.<eos>
+<bos>You're extremely lucky<eol>you called that diagnosis.<eos>
+<bos>Luck has nothing to do with it, Dana.<eos>
+<bos>That's what doctors do every day.<eol>You may have forgotten that.<eos>
+<bos>Daniel.<eos>
+<bos>So, how did you happen<eol>to be here in Washington?<eos>
+<bos>That's a long story.<eos>
+<bos>- How's the FBI?<eol>- Is that why you wanted to see me?<eos>
+<bos>To remind me once again<eol>what a bad choice I made?<eos>
+<bos>Believe me, my motivation<eol>is far more selfish than that.<eos>
+<bos>You scare me, Daniel.<eos>
+<bos>I know.<eos>
+<bos>I scare you...<eos>
+<bos>because I represent<eol>that which is ingrained,<eos>
+<bos>not only in your mind,<eol>but in your heart...<eos>
+<bos>that which you secretly long for.<eos>
+<bos>You never accepted my reason for leaving.<eos>
+<bos>It wasn't a reason. It was an excuse.<eos>
+<bos>But you understood why.<eos>
+<bos>I can't believe the FBI is a passion.<eos>
+<bos>Not like medicine.<eos>
+<bos>I'm sorry I came.<eos>
+<bos>I just wanted to make sure you were okay.<eos>
+<bos>I know how difficult<eol>it must have been for you,<eos>
+<bos>just walking through that door.<eos>
+<bos>But you wouldn't have come<eol>if you didn't want to.<eos>
+<bos>That says something, doesn't it?<eos>
+<bos>I got that address that<eol>I wanted you to go to for me.<eos>
+<bos>It's a woman you're<eol>gonna be dealing with.<eos>
+<bos>She's affiliated with<eol>American Daoist Healing Center.<eos>
+<bos>- She researches crop circles?<eol>- Don't roll your eyes, Scully.<eos>
+<bos>-  Mulder.<eos>
+<bos>You want me to...<eos>
+<bos>Scully?<eos>
+<bos>Scully, are you there?<eos>
+<bos>Hi. I'm... You were...<eos>
+<bos>- At the hospital today. - Right.<eos>
+<bos>That's strange.<eos>
+<bos>I'm Agent Scully.<eol>I'm here on behalf of my partner.<eos>
+<bos>- About my research.<eol>- For the FBI, as odd as that may sound.<eos>
+<bos>- I think I need some fresh air.<eol>- Are you all right?<eos>
+<bos>Yes, I... I mean, yes, I...<eol>I'm just a little shaken.<eos>
+<bos>A near car accident, I think.<eol>It's nothing, really.<eos>
+<bos>A car accident isn't nothing.<eos>
+<bos>- I'm sorry? - In my experience,<eos>
+<bos>they're often the end results of us<eol>not paying attention to something.<eos>
+<bos>Look, I don't mean to be rude,<eol>but I really don't have much time.<eos>
+<bos>Sure. I'll go get my papers.<eos>
+<bos>You think what we do<eol>is a little ridiculous, don't you?<eos>
+<bos>Uh, to be honest, I don't exactly know<eol>what it is that you do.<eos>
+<bos>But you've already<eol>formed a judgment about it.<eos>
+<bos>I really should be going.<eos>
+<bos>There is a greater intelligence<eol>in all things.<eos>
+<bos>Accidents, or near accidents,<eos>
+<bos>often remind us that we need<eol>to keep our mind open...<eos>
+<bos>to the lessons it gives.<eos>
+<bos>You may wanna slow down.<eos>
+<bos>Hello?<eos>
+<bos>Ah, Hurricane Scully has arrived.<eos>
+<bos>I guarantee you, Doctor,<eol>you're doing it right.<eos>
+<bos>But I can't be responsible for treatment<eol>that might exacerbate your illness.<eos>
+<bos>There hasn't even been a double-blind<eol>analysis of prednisone's effect.<eos>
+<bos>Prednisone?<eos>
+<bos>There. An informed opinion.<eos>
+<bos>You come off so rational,<eol>but maybe you know less than you think.<eos>
+<bos>She's, uh, been through<eol>some difficult times.<eos>
+<bos>And she's very angry.<eos>
+<bos>How did she even find out?<eos>
+<bos>There are things you don't know...<eos>
+<bos>things I'm not proud of.<eos>
+<bos>What things?<eos>
+<bos>I screwed up, Dana.<eos>
+<bos>Things got bad at home after...<eos>
+<bos>It was hard for me...<eos>
+<bos>when you walked away.<eos>
+<bos>I shut down from my family.<eos>
+<bos>Needless to say,<eol>it was very difficult for Barbara.<eos>
+<bos>You divorced.<eos>
+<bos>Only after an interminable<eol>period of discomfort for us both.<eos>
+<bos>Where did you go?<eos>
+<bos>Here. Washington.<eos>
+<bos>When?<eos>
+<bos>Almost ten years ago.<eos>
+<bos>Daniel,<eos>
+<bos>you didn't move here for me?<eos>
+<bos>I didn't mean for it to happen this way,<eol>of course.<eos>
+<bos>Oh, God.<eos>
+<bos>You've come at such a strange time.<eos>
+<bos>I know. I know. You... You have a life.<eos>
+<bos>I don't know what I have.<eos>
+<bos>Your X rays were in the wrong envelope.<eos>
+<bos>I never would have even known you<eol>were here if it wasn't for a mix-up.<eos>
+<bos>It's just...<eos>
+<bos>What do you want, Dana?<eos>
+<bos>I want everything I should want<eol>at this time of my life.<eos>
+<bos>Maybe I want a life I didn't choose.<eos>
+<bos>Nurse!<eos>
+<bos>We have a code in here!<eos>
+<bos>Nurse!<eos>
+<bos>Code blue, CCU. Code blue, CCU.<eos>
+<bos>He's in V-fib. Get his head.<eos>
+<bos>- In! - In.<eos>
+<bos>- Two hundred joules! - Two hundred.<eos>
+<bos>- All clear? - Clear.<eos>
+<bos>- No pulse, no resps.<eol>- Three hundred joules.<eos>
+<bos>- Three hundred charge. - Clear!<eos>
+<bos>Clear.<eos>
+<bos>- Who's paying attention? - Ready.<eos>
+<bos>- Clear! - Clear.<eos>
+<bos>We have a pulse.<eos>
+<bos>Okay.<eos>
+<bos>Thank you.<eos>
+<bos>Thank you.<eos>
+<bos>Hi. Can I help you?<eos>
+<bos>Uh, I'm looking for Colleen.<eos>
+<bos>- Okay. Bye. - Bye.<eos>
+<bos>- I'm surprised to see you again.<eol>- I'm sorry I was rude before.<eos>
+<bos>I'm a medical doctor and a scientist.<eos>
+<bos>And you're right,<eol>I don't know what it is that you do.<eos>
+<bos>But there was something that you said<eol>that I wanted to ask you about.<eos>
+<bos>About slowing down.<eos>
+<bos>Would you like to sit down?<eos>
+<bos>Please.<eos>
+<bos>I have a friend who's ill.<eos>
+<bos>And, uh, I had a strange feeling today,<eos>
+<bos>just a short while ago, actually,<eos>
+<bos>that he may be dying from a more<eol>serious condition than anyone realizes.<eos>
+<bos>You sense something.<eos>
+<bos>Holistic practitioners believe,<eol>as do many Eastern religions,<eos>
+<bos>that living beings exist beyond the<eol>physical dimensions of time and space.<eos>
+<bos>That we're composed of layers<eol>of energy and consciousness.<eos>
+<bos>You've probably heard it<eol>referred to as an aura.<eos>
+<bos>- Mmm, yes.<eol>- Witness this energy field...<eos>
+<bos>and truths come out that have<eol>little to do with scientific proof...<eos>
+<bos>and much to do with faith.<eos>
+<bos>What are you saying that I saw?<eos>
+<bos>Pain.<eos>
+<bos>And where there's pain,<eol>there's a need for healing...<eos>
+<bos>physically, mentally or spiritually.<eos>
+<bos>But he has a heart condition.<eos>
+<bos>When we hold onto shame<eol>and guilt and fear,<eos>
+<bos>it creates imbalance.<eos>
+<bos>It makes us forget who we are.<eos>
+<bos>This is difficult for you to accept.<eos>
+<bos>Would you like to have some tea?<eos>
+<bos>Have you ever had moments<eol>when everything gets incredibly clear?<eos>
+<bos>When time seems to expand?<eos>
+<bos>Yes.<eos>
+<bos>That's so strange.<eos>
+<bos>You may be more open<eol>to things than you think.<eos>
+<bos>It's just a matter<eol>of what you do with it.<eos>
+<bos>I used to be a physicist.<eos>
+<bos>I was successful in my field<eol>working 80 odd hours a week.<eos>
+<bos>I thought I was happy. Truth is<eol>I was cut off from the world...<eos>
+<bos>and from myself.<eos>
+<bos>I was literally dying inside.<eos>
+<bos>I was in a relationship<eol>with Carol, who you met,<eos>
+<bos>but I was so afraid of what<eol>the world and my family...<eos>
+<bos>and my fellow scientists<eol>would think that I told no one.<eos>
+<bos>Then two years ago,<eol>I was diagnosed with breast cancer.<eos>
+<bos>- I'm sorry. -  Don't be.<eos>
+<bos>It's the cancer that got my attention.<eos>
+<bos>It stopped me from being<eol>on the self-destructive path I was on.<eos>
+<bos>It made me realize I was in a field<eol>that had little meaning for me...<eos>
+<bos>Huh. But how?<eos>
+<bos>I was introduced to a healer who helped<eol>me see the disease for what it was.<eos>
+<bos>It wasn't until I began releasing shame<eol>and telling the truth...<eos>
+<bos>that my cancer went into remission.<eos>
+<bos>You still aren't sure.<eos>
+<bos>Everything happens for a reason.<eos>
+<bos>- Are you happy? - I'm sorry.<eos>
+<bos>I... I was just going up<eol>to see your father.<eos>
+<bos>- You can't. He's in a coma.<eol>- Since when?<eos>
+<bos>Since about two minutes<eol>after you supposedly saved his life.<eos>
+<bos>Do you have any idea the hell<eol>you've created in our lives?<eos>
+<bos>Maggie, to be honest, I left<eol>so there wouldn't be hell in your lives.<eos>
+<bos>Don't try to be reasonable with me.<eol>I am so sick of being reasonable.<eos>
+<bos>You moved on, but we've had<eol>to live with what you left behind.<eos>
+<bos>What I try to do is clear<eol>the body's energy channels,<eos>
+<bos>what we call chakras,<eos>
+<bos>which can become barriers to a doctor's<eol>ability to effectively heal the patient.<eos>
+<bos>When these channels<eol>are working improperly,<eos>
+<bos>whether from poor physical<eol>or emotional health,<eos>
+<bos>the block serves to create<eol>conditions for disease.<eos>
+<bos>If I can unblock the energy early on,<eos>
+<bos>then I can prevent the onset<eol>or escalation of an illness...<eos>
+<bos>What's going on here?<eos>
+<bos>Dr. Scully, who do you think you are?<eos>
+<bos>We have nothing but<eol>Dr. Waterston's welfare in mind here.<eos>
+<bos>- You're not his doctor.<eol>- I understand that.<eos>
+<bos>What's taking place here<eol>is an alternative approach.<eos>
+<bos>What's taking place here<eol>is a waste of time, Dr. Scully.<eos>
+<bos>And I think Dr. Waterston would be<eol>the first to agree with me.<eos>
+<bos>Have you considered that?<eos>
+<bos>I just wanted to help him.<eol>It seemed like nothing else was working.<eos>
+<bos>All due respect,<eol>that is not for you to assess.<eos>
+<bos>That is for me<eol>or Dr. Waterston's family to decide.<eos>
+<bos>Then let 'em continue.<eos>
+<bos>If it isn't hurting him,<eol>we should at least be open to it.<eos>
+<bos>I'm afraid there's really<eol>nothing more I can do at this time.<eos>
+<bos>This man, quite frankly,<eol>is ready to move on.<eos>
+<bos>But something seems<eol>to be holding him back.<eos>
+<bos>Unfinished business is binding him<eol>to the physical plane.<eos>
+<bos>Something he needs to release...<eos>
+<bos>before he can let go.<eos>
+<bos>Broken up. Pushing us.<eos>
+<bos>Broken up. Pushing us.<eos>
+<bos>Hear the rain fall.<eos>
+<bos>See the wind come to my eyes.<eos>
+<bos>See the storm broken.<eos>
+<bos>Now nothing.<eos>
+<bos>Speak to me, baby,<eol>in the middle of the night.<eos>
+<bos>Speak to me.<eos>
+<bos>- Hello. -  It's Maggie.<eos>
+<bos>Daniel.<eos>
+<bos>You think I'd give up so easily?<eos>
+<bos>You were slipping away.<eos>
+<bos>No one thought you'd come out of this.<eos>
+<bos>- I'm still in shock.<eol>- Imagine my shock...<eos>
+<bos>when the doctor told me the voodoo<eol>ritual you'd arranged for last night.<eos>
+<bos>- I was afraid it didn't work.<eol>- Of course it didn't work.<eos>
+<bos>Don't be absurd.<eol>Where'd you get this crap?<eos>
+<bos>Daniel, that crap<eol>may have just saved your life,<eos>
+<bos>whether you're open to it or not.<eos>
+<bos>It doesn't matter.<eol>I don't wanna talk about that.<eos>
+<bos>Look at me.<eos>
+<bos>I'm gonna get well.<eos>
+<bos>And we need to talk about<eol>what happens next for us.<eos>
+<bos>I spoke at length to Maggie.<eos>
+<bos>It's time...<eos>
+<bos>that you took responsibility<eol>for the hurt you caused in your family.<eos>
+<bos>It's no accident<eol>that you got sick, Daniel.<eos>
+<bos>You've been running<eol>from the truth for ten years.<eos>
+<bos>Dana, it was only to be with you.<eos>
+<bos>You were all I lived for.<eos>
+<bos>Maybe the reason you're alive now<eol>is to make up for that...<eos>
+<bos>to make it up to Maggie.<eos>
+<bos>- That's Maggie talking, not you. - No.<eos>
+<bos>I'm not the same person, Daniel.<eos>
+<bos>I wouldn't have known that<eol>if I hadn't seen you again.<eos>
+<bos>Excuse me!<eos>
+<bos>Hey.<eos>
+<bos>- Mulder? - I was just looking for you.<eos>
+<bos>But you're supposed to be in England.<eos>
+<bos>- I'm back. - What happened?<eos>
+<bos>Nothing. There was no event,<eol>no crop circles.<eos>
+<bos>- Big waste of time.<eos>
+<bos>Maybe sometimes nothing happens<eol>for a reason, Mulder.<eos>
+<bos>What is that supposed to mean?<eos>
+<bos>Nothing.<eos>
+<bos>Come on. I'll make you some tea.<eos>
+<bos>I just find it hard to believe.<eos>
+<bos>I didn't say my whole life changed.<eos>
+<bos>You speaking to God in<eol>a Buddhist temple. God speaking back?<eos>
+<bos>Now, I didn't say that God spoke back.<eos>
+<bos>I said that I had some kind of a vision.<eos>
+<bos>Well, for you that's like saying<eol>you're having David Crosby's baby.<eos>
+<bos>What is it?<eos>
+<bos>I once considered spending<eol>my whole life with this man.<eos>
+<bos>What I would have missed.<eos>
+<bos>I don't think you can know.<eos>
+<bos>We... We don't know.<eos>
+<bos>What if there was only one choice...<eos>
+<bos>and all the other ones were wrong...<eos>
+<bos>and there were signs along the way<eol>to pay attention to?<eos>
+<bos>Then all the... choices...<eos>
+<bos>would then lead to this very moment.<eos>
+<bos>One wrong turn and...<eos>
+<bos>we wouldn't be sitting here together.<eos>
+<bos>Now, that says a lot.<eos>
+<bos>It says a lot, a lot, a lot.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

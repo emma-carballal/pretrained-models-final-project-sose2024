@@ -1,0 +1,426 @@
+<bos>Holy Ghost, come to me.<eos>
+<bos>Praise God. Praise God.<eol>Move up on me, Holy Ghost.<eos>
+<bos>Praise God. This here sinner repents.<eos>
+<bos>Holy Ghost, move up on me.<eos>
+<bos>Protect me and mine<eol>with your quickening power.<eos>
+<bos>Holy Ghost, come to me.<eos>
+<bos>Aah!<eos>
+<bos>Oh, help me, Jesus!<eos>
+<bos>Oh, help me, Jesus! Help me, Jesus!<eos>
+<bos>Not as far as you know.<eos>
+<bos>Right.<eos>
+<bos>Not this time of year.<eos>
+<bos>All right. Thank you, Doctor. Good-bye.<eos>
+<bos>Snakes.<eos>
+<bos>Lots and lots of snakes.<eos>
+<bos>Very pissed-off ones,<eol>from the look of it.<eos>
+<bos>It's the former Mr. Jared Chirp<eol>of McMinn County, Tennessee.<eos>
+<bos>- Oh, my God. - 116 separate bite marks.<eos>
+<bos>Judging from the wound measurements,<eos>
+<bos>there were 50 different snakes involved,<eol>mostly copperheads and rattlers.<eos>
+<bos>But it says here that he<eol>was found dead in his car.<eos>
+<bos>Yeah, with a pistol in his hand.<eol>He fired six shots into the floorboards,<eos>
+<bos>into the passenger seat,<eol>even into his own right kneecap.<eos>
+<bos>The windows were shut<eol>and the doors were locked.<eos>
+<bos>But what happened to all the snakes?<eos>
+<bos>No one seems to know that.<eol>There was not a scale found.<eos>
+<bos>especially because these rattlesnakes<eol>tend to hibernate in winter.<eos>
+<bos>So you think that Mr. Chirp was murdered.<eos>
+<bos>It certainly would appear that way,<eol>but the question is how.<eos>
+<bos>There's no physical evidence at all...<eol>no tire tracks, no footprints.<eos>
+<bos>Why would anybody use poisonous snakes<eol>as a murder weapon?<eos>
+<bos>Maybe it's symbolic. I mean, serpents<eol>and religion have gone hand in hand.<eos>
+<bos>They've represented<eol>the temptation of Eve, original sin.<eos>
+<bos>They've been feared and hated<eol>throughout history,<eos>
+<bos>as they've been thought to<eol>embody Satan... to serve evil itself.<eos>
+<bos>Maybe these ones actually do.<eos>
+<bos>These particular serpents<eol>actually were serving evil?<eos>
+<bos>Are you gonna type that<eol>on our travel request?<eos>
+<bos>No.<eos>
+<bos>But at the very least this case<eol>does seem to center around religion,<eos>
+<bos>and you're not the only one<eol>to think that, by the way.<eos>
+<bos>Jared is in a better place now, Gracie.<eos>
+<bos>He's at peace.<eos>
+<bos>You know Reverend Mackey's right, honey.<eos>
+<bos>He is in a better place.<eos>
+<bos>Reverend Samuel Mackey?<eos>
+<bos>My name is Fox Mulder.<eol>This is Dana Scully.<eos>
+<bos>We're with the F.B.I.<eol>May we speak with you, sir?<eos>
+<bos>Come on, Gracie. Let's get you home.<eos>
+<bos>I've already spoken<eol>to the sheriff about it,<eos>
+<bos>though I'm not sure that<eol>that was a good idea.<eos>
+<bos>Specifically, you had suspicions<eol>about the manner in which he died?<eos>
+<bos>I should be the last one to<eol>point a finger or say a harsh word.<eos>
+<bos>Our church is founded on<eol>acceptance and tolerance...<eos>
+<bos>- Of all people, all beliefs. - But?<eos>
+<bos>the Church of God with Signs & Wonders.<eos>
+<bos>It practices snake handling.<eos>
+<bos>As a sign of faith, worshippers<eol>handle deadly snakes or drink poison.<eos>
+<bos>They believe that the Holy Spirit<eol>protects the righteous.<eos>
+<bos>Jared grew up in that church,<eol>but it is very difficult...<eos>
+<bos>to walk away from a belief system<eol>that one is raised in.<eos>
+<bos>It takes great courage.<eos>
+<bos>Why did he walk away?<eos>
+<bos>He and Gracie, his girlfriend,<eol>left it together.<eos>
+<bos>They found that a rigid interpretation<eol>of the Bible was not for them,<eos>
+<bos>especially when it involves risking<eol>life and limb in the act of worship.<eos>
+<bos>But, again, it is not for me to judge.<eos>
+<bos>I will say, however,<eol>that both Jared and Gracie...<eos>
+<bos>were persecuted by the members<eol>of their former church.<eos>
+<bos>All this animus...<eos>
+<bos>stems from their church leader,<eol>Enoch O'Connor.<eos>
+<bos>Animus enough to motivate a murder?<eos>
+<bos>Snake handling.<eol>We didn't learn that in catechism class.<eos>
+<bos>That's funny, I knew a couple Catholic<eol>schoolgirls who were expert at it.<eos>
+<bos>Enoch O'Connor?<eos>
+<bos>Federal agents.<eos>
+<bos>Where's the light switch?<eos>
+<bos>The nearest one?<eol>Probably ten miles from here.<eos>
+<bos>Yeah.<eos>
+<bos>All right.<eos>
+<bos>Rattlesnakes and medieval visions<eol>of damnation.<eos>
+<bos>I, for one, feel<eol>a whole lot closer to God.<eos>
+<bos>I don't know, Scully.<eol>When you get right down to it,<eos>
+<bos>is snake handling<eol>any harder to buy into than...<eos>
+<bos>communion wafers or transubstantiation...<eos>
+<bos>Or believing in flying saucers,<eol>for that matter.<eos>
+<bos>I'm just saying that your faith<eol>and O'Connor's seem...<eos>
+<bos>to be based on the same book.<eos>
+<bos>Uh-oh, Scully. What do you think<eol>O'Connor keeps in here?<eos>
+<bos>Something slithery?<eos>
+<bos>- It's all right. It's empty.<eol>- Why is it empty?<eos>
+<bos>By what right are you here?<eos>
+<bos>Reverend Enoch O'Connor,<eol>we're federal agents.<eos>
+<bos>We're, uh, with the F.B.I.<eos>
+<bos>Reverend, do something<eol>about these snakes, please.<eos>
+<bos>You got nothing to fear<eol>if you're righteous people.<eos>
+<bos>Just in case we're not, we could use<eol>a little righteous help here.<eos>
+<bos>What do you want?<eos>
+<bos>That boy strayed from the path<eol>and was lost to the Dark One.<eos>
+<bos>I'm sorry for his soul.<eos>
+<bos>- There ain't much else to say.<eol>- He died from multiple snake bites.<eos>
+<bos>We thought maybe you'd have<eol>a special insight into that.<eos>
+<bos>I do.<eos>
+<bos>- It was a test.<eol>- Test? What do you mean?<eos>
+<bos>A test of faith. A test of righteousness.<eos>
+<bos>When the devil aims to test you,<eol>you best be ready.<eos>
+<bos>And you sure better know<eol>which side you're on.<eos>
+<bos>You speaking about the devil's test<eol>or your test?<eos>
+<bos>I don't think you people<eol>realize which side you're on.<eos>
+<bos>I do.<eos>
+<bos>You can leave now.<eos>
+<bos>Tennessee. Snakes.<eos>
+<bos>Thank you, Mulder. Thank you so much.<eos>
+<bos>I say we arrest him and catch<eol>the first flight out of here.<eos>
+<bos>Apparently, he was in Kentucky<eol>the nightJared Chirp died.<eos>
+<bos>Mulder, there are other people<eol>in his congregation.<eos>
+<bos>Jared Chirp died with<eol>a packed suitcase by his side.<eos>
+<bos>There's gotta be somebody<eol>that knows where he was headed.<eos>
+<bos>Here you go, honey.<eos>
+<bos>Reverend Mackey?<eos>
+<bos>Jared called the boardinghouse<eol>late the night he died.<eos>
+<bos>He wanted to talk to Gracie.<eos>
+<bos>I didn't let him. It was after 2:00.<eos>
+<bos>She was sound asleep, and it sounded<eol>to me like the boy had been drinkin'.<eos>
+<bos>He just wasn't makin' any sense.<eos>
+<bos>He was rantin' about seein' the devil<eol>and payin' for his sins.<eos>
+<bos>Iris, why didn't you tell the police?<eos>
+<bos>I don't know how to tell Gracie.<eos>
+<bos>I kept her from speaking toJared<eol>his last night on earth.<eos>
+<bos>I couldn't have known though.<eos>
+<bos>- I couldn't have.<eol>- No, you couldn't have known.<eos>
+<bos>I can help you talk to Gracie.<eos>
+<bos>- Reverend Mackey? Everybody's here.<eol>- Thank you, Gracie.<eos>
+<bos>You and I will see this through,<eol>Iris, right after study group.<eos>
+<bos>Thank you.<eos>
+<bos>-  Our God is a fearsome God. -  Amen!<eos>
+<bos>He demands our very lives!<eos>
+<bos>"'Tis better to be hot or cold<eol>than lukewarm."<eos>
+<bos>God says if you're lukewarm...<eos>
+<bos>he will vomit you out of his mouth!<eos>
+<bos>Yes!<eos>
+<bos>- Did you hear what I said?<eol>- Praise God. Praise God.<eos>
+<bos>Yes. God hates the lukewarm!<eos>
+<bos>"'So, because you are lukewarm...<eos>
+<bos>I am about to spit you out of my mouth."'<eos>
+<bos>Now, that could sound<eol>pretty harsh, couldn't it?<eos>
+<bos>I mean, depending on how one reads it.<eos>
+<bos>But if we put this verse<eol>in a historical context,<eos>
+<bos>I think we'll see thatJohn<eol>was specifically addressing...<eos>
+<bos>the problems of the church of Laodicea.<eos>
+<bos>God wants you hot!<eos>
+<bos>God wants you on fire!<eos>
+<bos>PraiseJesus!<eos>
+<bos>God wants you to put your money...<eos>
+<bos>where your mouth is!<eos>
+<bos>People ask me why I handle snakes.<eos>
+<bos>- Hallelujah! I tell 'em...<eos>
+<bos>it's 'cause the scripture tells me to!<eos>
+<bos>Praise God!<eos>
+<bos>He offers to join us,<eos>
+<bos>to come into our lives<eol>and dine with us...<eos>
+<bos>if only we'd open the door.<eos>
+<bos>Hallelujah!<eos>
+<bos>Hallelujah!<eos>
+<bos>The manner in which<eol>John ends this chapter,<eos>
+<bos>his emphasis is on teaching the church<eol>of Laodicea perseverance.<eos>
+<bos>He uses the word "overcome"<eol>not once, but twice.<eos>
+<bos>Good Lord, come save me<eol>I'm comin'to the light<eos>
+<bos>Good Lord, come save me<eol>I'm comin' to the light<eos>
+<bos>Good Lord, come save me<eol>I'm comin' to the light<eos>
+<bos>Sing songs of praise to the Lord<eos>
+<bos>Good Lord, I love you<eol>I know that you're the light<eos>
+<bos>- Witness the awesome power...<eos>
+<bos>of God as he blesses his people...<eos>
+<bos>and destroys his enemies.<eos>
+<bos>Thank you, God!<eos>
+<bos>I don't understand it.<eol>None of us saw or heard anything.<eos>
+<bos>Just her scream. When we ran in,<eol>she was lying on the floor.<eos>
+<bos>I cleared everybody out of the building<eol>once I saw the bite marks, but...<eos>
+<bos>Reverend, how close<eol>was Iris toJared Chirp?<eos>
+<bos>Not particularly close,<eos>
+<bos>but I'd spoken with her<eol>not 15 minutes earlier about him.<eos>
+<bos>- What'd you talk about? - She was upset.<eos>
+<bos>Something aboutJared calling her<eol>the night he died, looking for Gracie.<eos>
+<bos>Something about him paying...<eos>
+<bos>for his sins.<eos>
+<bos>But I don't know. We didn't get<eol>to finish our conversation.<eos>
+<bos>Maybe that was the point.<eos>
+<bos>Why Iris? Why is this happening?<eos>
+<bos>Gracie, we're investigating the leader<eol>of your former church, Enoch O'Connor.<eos>
+<bos>We believe he may have had something<eol>to do with what happened here tonight.<eos>
+<bos>We would appreciate anything<eol>you could tell us about him.<eos>
+<bos>No, he didn't do this.<eos>
+<bos>He didn't do this.<eos>
+<bos>This is Satan's work, not man's.<eos>
+<bos>Gracie, that sounds like something<eol>Reverend O'Connor might say.<eos>
+<bos>Now, you're not a member<eol>of that congregation anymore.<eos>
+<bos>I understand this, because you're<eol>someone who thinks for herself.<eos>
+<bos>No! Don't you think I would know?<eos>
+<bos>Me, of all people?<eos>
+<bos>He couldn't have done this.<eol>He just couldn't.<eos>
+<bos>-  Gracie might be biased.<eol>- O'Connor is your father.<eos>
+<bos>When Gracie got pregnant...<eos>
+<bos>O'Connor barred her from his church...<eol>she and Jared Chirp.<eos>
+<bos>His church and his home.<eos>
+<bos>- You comin'?<eol>- I think I'll check around back.<eos>
+<bos>"Pray for the souls... lost to us. "<eos>
+<bos>Oh!<eos>
+<bos>You must be judged!<eos>
+<bos>Repent!<eos>
+<bos>Pray for the Lord's quickening power.<eos>
+<bos>To the hands of God.<eos>
+<bos>Let her go!<eos>
+<bos>Your F.B.I. partner could've<eol>learned something about herself...<eos>
+<bos>if you hadn't have stopped me.<eos>
+<bos>Some powerful good news, maybe.<eos>
+<bos>I'd say it's good news for you<eol>that she's not here right now,<eos>
+<bos>considering what you tried to do to her.<eos>
+<bos>Is that what you did to your wife?<eos>
+<bos>Alice O'Connor.<eos>
+<bos>Succumbed to multiple<eol>snake bites inJune 1994.<eos>
+<bos>It happened during a church service...<eos>
+<bos>or at least, that's what<eol>you told local police.<eos>
+<bos>You got away with it...<eos>
+<bos>almost.<eos>
+<bos>What was, uh, the problem with your wife?<eos>
+<bos>Was she not... righteous enough for you?<eos>
+<bos>Just like your daughter's boyfriend...<eol>or Iris Finster?<eos>
+<bos>Educated man.<eol>Too smart to know any better.<eos>
+<bos>Smart enough to know you're a murderer.<eos>
+<bos>Satan is near,<eol>and you don't even have eyes.<eos>
+<bos>You're just proud and fancy free.<eos>
+<bos>Man, no one quite passes<eol>muster with you, huh?<eos>
+<bos>You feel the need to exact<eol>some kind of Old Testament revenge?<eos>
+<bos>What about your daughter?<eol>What were your plans for her?<eos>
+<bos>I pray for her soul.<eos>
+<bos>I pray and I pray, because she's lost.<eos>
+<bos>Because she no longer believes as you do?<eos>
+<bos>You think because you're educated,<eol>you're better than most? You ain't.<eos>
+<bos>Unless you're smart down here...<eos>
+<bos>the devil's gonna make a fool of you,<eol>and you ain't even gonna know it.<eos>
+<bos>I changed my mind.<eol>I don't want to see him.<eos>
+<bos>Besides, I won't do any better than<eol>you people at getting him to talk.<eos>
+<bos>Gracie.<eos>
+<bos>You still don't believe<eol>your father did it?<eos>
+<bos>It don't matter what I believe.<eos>
+<bos>He'll be judged as he deserves.<eos>
+<bos>Can't nobody avoid it.<eos>
+<bos>Help me, Jesus.<eos>
+<bos>Deputy found him about an hour ago.<eos>
+<bos>There's no telling when he was attacked.<eos>
+<bos>I guess it's looking less and less<eol>like he's a suspect.<eos>
+<bos>Unless he somehow managed<eol>to do this to himself...<eos>
+<bos>as a test of his own righteousness.<eos>
+<bos>Well, if so, Mulder, the jury's<eol>still out. I just spoke to his doctors.<eos>
+<bos>- He's not receiving it. - Why not?<eos>
+<bos>Gracie stepped in. She's trying to<eol>forbid treatment on religious grounds.<eos>
+<bos>It's not clear whether she has a legal<eol>claim to do it, but she says that...<eos>
+<bos>it's up to God as to<eol>whether he lives or dies.<eos>
+<bos>And you're thinking that her actions<eol>may not be entirely motivated...<eos>
+<bos>by concern for her father's eternal soul?<eos>
+<bos>Well, more to the point,<eol>Mulder, what if she did this?<eos>
+<bos>She told me that her father<eol>would be judged as he deserves.<eos>
+<bos>- You think this is what she meant?<eol>- She grew up around snakes.<eos>
+<bos>Who's to say she isn't every bit<eol>as adept at handling them as he is?<eos>
+<bos>I can see her being angry enough<eol>at her father to attack him,<eos>
+<bos>but what about the others?<eos>
+<bos>He left in a hurry.<eol>Packed one suitcase and a gun.<eos>
+<bos>Earlier that night he calls Gracie,<eos>
+<bos>gets Iris instead and starts rambling<eol>about paying for his sins.<eos>
+<bos>He's frightened and wants to leave town,<eos>
+<bos>presumably with Gracie.<eos>
+<bos>So what's he scared of?<eos>
+<bos>I don't understand<eol>how O'Connor's church...<eos>
+<bos>exerts a strong pull on these people.<eos>
+<bos>- It's not so hard to understand.<eos>
+<bos>It's a culture with a very<eol>well-defined set of rules.<eos>
+<bos>- It's an intolerant culture, Mulder.<eol>- I don't know, Scully.<eos>
+<bos>Sometimes a little intolerance<eol>can be a welcome thing.<eos>
+<bos>Clear-cut right and wrong,<eol>black and white, no shades of gray.<eos>
+<bos>In a society where hard and fast rules<eol>are harder and harder to come by,<eos>
+<bos>Fox Mulder, would welcome someone<eol>telling you what to believe?<eos>
+<bos>I'm just saying that somebody<eol>offering you all the answers...<eos>
+<bos>can be a very powerful thing.<eos>
+<bos>Oh, it's lab results.<eos>
+<bos>Am I reading this right? DidJared Chirp<eol>have himself tested for sterility?<eos>
+<bos>Which turns out to be<eol>more or less the case.<eos>
+<bos>Based on this, that means Jared<eol>can't be the father of Gracie's baby.<eos>
+<bos>It's dated the day he died.<eos>
+<bos>So maybe he was killed<eol>because he discovered the truth.<eos>
+<bos>Gracie...<eos>
+<bos>I'd like to ask you to reconsider.<eos>
+<bos>No. This is what he'd want.<eos>
+<bos>He may die without medical treatment.<eos>
+<bos>I've seen him bit a dozen times.<eos>
+<bos>He always said that it was up to God...<eos>
+<bos>whether he lives or dies.<eos>
+<bos>Said it was a worse sin not to trust God.<eos>
+<bos>There are many ways to trust God, Gracie.<eos>
+<bos>One of them is to trust in<eol>the miracles of doctors and medicine.<eos>
+<bos>Or in your heart...<eos>
+<bos>do you really not want him to get better?<eos>
+<bos>It ain't for me.<eos>
+<bos>I can't risk his soul.<eos>
+<bos>When you first came to me,<eos>
+<bos>you said that you wanted<eol>to think for yourself...<eos>
+<bos>to live your life...<eos>
+<bos>as you saw fit.<eos>
+<bos>If you stand here<eol>and let your father die,<eos>
+<bos>whose beliefs are you living?<eos>
+<bos>Yours...<eos>
+<bos>or his?<eos>
+<bos>You're doing the right thing.<eos>
+<bos>I'll go tell the doctor, okay?<eos>
+<bos>Agents, Enoch O'Connor is gone.<eos>
+<bos>I was away for five minutes.<eol>His bed's empty.<eos>
+<bos>Gracie is gone too.<eos>
+<bos>How could Gracie have possibly<eol>gotten him out of here?<eos>
+<bos>- Maybe he took her.<eol>- He was on his deathbed.<eos>
+<bos>That's impossible.<eol>And besides, what's his motivation?<eos>
+<bos>I may be able to answer that.<eos>
+<bos>Jared Chirp wasn't the father<eol>of Gracie's child.<eos>
+<bos>We know that. What about it?<eos>
+<bos>Enoch O'Connor is.<eos>
+<bos>That's why she wanted to get away<eol>from him and his church...<eos>
+<bos>as fast as she could.<eos>
+<bos>And I tried to teach her to forgive him.<eos>
+<bos>Uuh! Daddy, please!<eos>
+<bos>I'm bringin' you home.<eos>
+<bos>Somebody help me!<eos>
+<bos>In the name of our holy<eol>and most fearsome God.<eos>
+<bos>Hallelujah!<eos>
+<bos>Resist the devil and he will flee.<eos>
+<bos>Resist him!<eos>
+<bos>Something's wrong.<eol>Something's wrong with my baby.<eos>
+<bos>Oh!<eos>
+<bos>DearJesus, put your hands<eol>on this woman. You can heal her.<eos>
+<bos>Oh, yes, God. That's it.<eos>
+<bos>Yes, Jesus. Yes, Jesus.<eos>
+<bos>O Lord. Dear Lord.<eos>
+<bos>DearJesus, deliver this woman.<eos>
+<bos>Jesus. Jesus.<eos>
+<bos>Yes, Lord. Yes, Jesus.<eos>
+<bos>- No! Don't, don't! - Dear God.<eos>
+<bos>Dear Heavenly Father, deliver this woman.<eos>
+<bos>Lay your hands on this woman.<eos>
+<bos>- God! Yes! - No!<eos>
+<bos>- Don't! Don't!<eol>- Yes. Hallelujah. Praise the Lord.<eos>
+<bos>Oh, my God. Oh, my God.<eos>
+<bos>DearJesus. DearJesus.<eos>
+<bos>HolyJesus! Hallelujah!<eos>
+<bos>DearJesus! Hallelujah! Hallelujah!<eos>
+<bos>Hallelujah! DearJesus!<eos>
+<bos>- How is she?<eol>- Deep shock and some loss of blood.<eos>
+<bos>What happened here?<eos>
+<bos>- Where's the baby?<eol>- These folks aren't talkin'.<eos>
+<bos>Scully.<eos>
+<bos>Take a look at this.<eos>
+<bos>Snakes.<eos>
+<bos>She gave birth to snakes?<eos>
+<bos>The devil has been cast out.<eos>
+<bos>Stay with her.<eos>
+<bos>- Where are you going?<eol>- To find her father.<eos>
+<bos>He's gonna wanna tie up some loose ends.<eos>
+<bos>You stole what was most precious to me.<eos>
+<bos>Gracie?<eos>
+<bos>She came to me on her own.<eos>
+<bos>- She wanted to escape a life of fear...<eos>
+<bos>and judgment, of intolerance.<eos>
+<bos>- Please, O God...<eol>- She fled a harsh and vengeful God...<eos>
+<bos>and you.<eos>
+<bos>Drop the knife!<eos>
+<bos>Uuh!<eos>
+<bos>You all right?<eos>
+<bos>- Daddy?<eos>
+<bos>- Daddy? - Gracie, it's Agent Scully.<eos>
+<bos>We're taking you to the doctor<eol>right now, okay?<eos>
+<bos>- No, I gotta...<eol>- Can you tell me what happened, Gracie?<eos>
+<bos>Ohh!<eos>
+<bos>Gracie, you're gonna be okay.<eol>He can't hurt you anymore.<eos>
+<bos>You don't understand. He saved me.<eos>
+<bos>I'll call for an ambulance.<eos>
+<bos>Relax. Help's on the way.<eos>
+<bos>No, it's not. I told you, boy,<eos>
+<bos>you still don't know<eol>which side you're on.<eos>
+<bos>Be smart. Down here.<eos>
+<bos>Yes, please hurry. They're on their way.<eos>
+<bos>- Agent. - It wasn't O'Connor.<eos>
+<bos>It was you. You killed Jared Chirp.<eos>
+<bos>- You're joking.<eol>- No. I'm just beginning to see it now.<eos>
+<bos>Jared must've come to understand that<eol>he wasn't the father of Gracie's baby...<eos>
+<bos>that you were.<eos>
+<bos>Did he confront you earlier that night,<eol>only to see you for who you really are?<eos>
+<bos>Just who is it you think I am?<eos>
+<bos>Is that what happened with Iris Finster?<eos>
+<bos>Was she beginning to catch on?<eol>Is that why you killed her?<eos>
+<bos>Or was it just to further frame<eol>Enoch O'Connor?<eos>
+<bos>Is that was this is really about?<eol>Ruining O'Connor? Seducing his daughter?<eos>
+<bos>Destroying him by any conceivable means?<eos>
+<bos>- Are you a righteous man, Agent Mulder?<eol>- Stay where you are.<eos>
+<bos>It's just a simple question.<eos>
+<bos>Most people believe they're<eol>on the side of angels.<eos>
+<bos>But are they?<eos>
+<bos>If you were put to the test,<eol>how would you do?<eos>
+<bos>- Aah... aah!<eos>
+<bos>Where's Mulder?<eos>
+<bos>- Help! -  No!<eos>
+<bos>You can't help him. This is his alone.<eos>
+<bos>Mulder!<eos>
+<bos>Aah!<eos>
+<bos>- Mackey? - No, still no trace,<eos>
+<bos>even though every law enforcement agency<eol>in Tennessee's out looking for him.<eos>
+<bos>They won't find him.<eos>
+<bos>People think the devil<eol>has horns and a tail.<eos>
+<bos>He's just a man, Mulder...<eos>
+<bos>- Just like O'Connor.<eol>- Not like O'Connor.<eos>
+<bos>If this was some kind of test,<eol>looks like I failed.<eos>
+<bos>I'd say if it was,<eol>you passed with flying colors.<eos>
+<bos>- You're alive, aren't you?<eol>- Proud and fancy free.<eos>
+<bos>Reverend Wells, it's a real joy<eol>to have a man in the pulpit...<eos>
+<bos>who has such an open and modern way<eol>of looking at God.<eos>
+<bos>Bless you for saying so.<eos>
+<bos>Well, I won't keep you.<eol>I just wanted to welcome you to Hamden.<eos>
+<bos>Thank you.<eol>I look forward to seeing you on Sunday.<eos>
+<bos>Thank you.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

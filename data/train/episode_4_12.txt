@@ -1,0 +1,587 @@
+<bos>ï»¿1 Here, let me do it.<eos>
+<bos>Put your number in, then your card.<eos>
+<bos>What's your number, Roland?<eos>
+<bos>Three-fifteen.<eos>
+<bos>See how easy it is?<eos>
+<bos>Engine efficiency: 94%.<eos>
+<bos>We need more.<eos>
+<bos>How's the back pressure holding?<eos>
+<bos>What do you think? It's climbing.<eos>
+<bos>Increase the blade inclination.<eos>
+<bos>I said increase the blade inclination!<eos>
+<bos>Inclination of the blade is pi over nine.<eos>
+<bos>We've reached maximum velocity.<eos>
+<bos>No!<eos>
+<bos>Let it go!<eos>
+<bos>It will work.<eos>
+<bos>It's just going to destroy itself!<eos>
+<bos>I'm not going to do that.<eos>
+<bos>It's not going to destroy itself.<eos>
+<bos>Come on! We're almost there!<eos>
+<bos>There's something wrong<eol>with our equations.<eos>
+<bos>What happened? Nothing.<eos>
+<bos>Because Surnow pulled the plug.<eos>
+<bos>I'm just protecting the baby--<eol>and four years of work, Frank.<eos>
+<bos>Four years of work<eol>that's going to add up to zilch.<eos>
+<bos>Because, unless we show some progress,<eos>
+<bos>they're going to pull<eol>the plug on us, Ron.<eos>
+<bos>He's right, you know.<eos>
+<bos>You should have continued with the test.<eos>
+<bos>Somebody's going to crack mach 15,<eos>
+<bos>and I want that someone to be us.<eos>
+<bos>And I'm not going to<eol>jeopardize everything<eos>
+<bos>just because you two guys<eos>
+<bos>can't wait to see your name in print.<eos>
+<bos>It's the print that gets the money, Ron.<eos>
+<bos>If you want to go down<eol>in flames together, fine.<eos>
+<bos>You go ahead.<eos>
+<bos>I'm going to do the math.<eos>
+<bos>Good night, Dr. Keats.<eos>
+<bos>What the hell?<eos>
+<bos>Roland.<eos>
+<bos>Open the door.<eos>
+<bos>Open the door!<eos>
+<bos>Roland, I want you to listen<eol>to me very carefully.<eos>
+<bos>We have to open this door, Roland.<eos>
+<bos>Stop typing!<eos>
+<bos>Roland!<eos>
+<bos>Roland! Open the door!<eos>
+<bos>What are you doing?!<eos>
+<bos>Open the door!<eos>
+<bos>Roland, hit "escape." Are you listening?<eos>
+<bos>How was the wedding? You mean the part<eos>
+<bos>where the groom passed out<eol>or the dog bit the drummer?<eos>
+<bos>Did you catch the bouquet?<eos>
+<bos>Maybe.<eos>
+<bos>So, is that what you couldn't<eos>
+<bos>talk to me about over the phone?<eos>
+<bos>The project that everyone<eol>says doesn't exist does exist.<eos>
+<bos>The Icarus Project?<eos>
+<bos>The next generation in jet engine design.<eos>
+<bos>Capable of doubling<eol>current supersonic speeds<eos>
+<bos>using half the fuel-- at least in theory.<eos>
+<bos>And Ronald Surnow was an<eol>aeronautical scientist<eos>
+<bos>who worked on it here at the university.<eos>
+<bos>Yes. How close are they?<eos>
+<bos>I'm not sure, but Surnow's<eol>the second scientist<eos>
+<bos>on the team to die<eol>in the last six months.<eos>
+<bos>Okay, but how is this an X file?<eos>
+<bos>Mulder, you don't think<eos>
+<bos>this has anything to do<eol>with UFO technology?<eos>
+<bos>There's something<eol>unexplainable here, Scully,<eos>
+<bos>but it's certainly not unidentifiable.<eos>
+<bos>Keats?<eos>
+<bos>There.<eos>
+<bos>Dr. Keats?<eos>
+<bos>We're with the FBI.<eos>
+<bos>I'm Agent Mulder. This is Agent Scully.<eos>
+<bos>We understand you discovered<eol>Dr. Surnow this morning.<eos>
+<bos>What was left of him.<eos>
+<bos>How do you suppose he became<eol>trapped in the wind tunnel?<eos>
+<bos>Someone must have shut him in.<eos>
+<bos>The door can only be opened<eol>or locked from in there.<eos>
+<bos>By computer?<eos>
+<bos>We've already been through this<eol>with the police.<eos>
+<bos>How many times do we have to rehash it?<eos>
+<bos>Another member of your team<eol>died a short time ago.<eos>
+<bos>Isn't that correct? Yes.<eos>
+<bos>Arthur Grable.<eos>
+<bos>He was killed in an automobile accident<eos>
+<bos>in November.<eos>
+<bos>I'm Frank Nollette.<eos>
+<bos>I'm also on the project.<eos>
+<bos>Are you certain it was an accident?<eos>
+<bos>What are you driving at?<eos>
+<bos>Your work seems to be<eos>
+<bos>a perfect target<eol>for industrial espionage.<eos>
+<bos>Who wrote this?<eos>
+<bos>Ron was working on it when I left.<eos>
+<bos>You see, the handwriting here<eos>
+<bos>doesn't seem to match<eos>
+<bos>any of the other handwriting<eol>on the board.<eos>
+<bos>It isn't mine.<eos>
+<bos>What about Roland Fuller?<eos>
+<bos>Uh... Roland's the, uh... janitor.<eos>
+<bos>Well, according to the police report,<eos>
+<bos>he was the only other person<eol>here last night.<eos>
+<bos>Roland didn't do that.<eos>
+<bos>How do you know?<eos>
+<bos>Let's just say<eos>
+<bos>Roland isn't exactly a rocket scientist.<eos>
+<bos>Here.<eos>
+<bos>"Tracy."<eos>
+<bos>With stars.<eos>
+<bos>Roland.<eos>
+<bos>There are some people here<eol>who would like to talk with you.<eos>
+<bos>Uh-oh.<eos>
+<bos>I went off the paper.<eos>
+<bos>Sorry.<eos>
+<bos>That's all right, Roland.<eos>
+<bos>Tracy?<eos>
+<bos>Would you like to come<eol>help me in the TV room?<eos>
+<bos>Okay.<eos>
+<bos>Thank you.<eos>
+<bos>Hi, Roland.<eos>
+<bos>You mind if we sit down?<eos>
+<bos>Eh...<eos>
+<bos>Thanks.<eos>
+<bos>You mind if we ask you<eol>a couple questions?<eos>
+<bos>Do you remember working last night?<eos>
+<bos>Uh-huh.<eos>
+<bos>Do you remember seeing anything unusual?<eos>
+<bos>Seeing any strangers?<eos>
+<bos>Did, um... did Dr. Surnow<eos>
+<bos>or Dr. Keats or Dr. Nollette<eol>do anything unusual?<eos>
+<bos>Nope.<eos>
+<bos>You must like stars.<eos>
+<bos>One hundred and forty-seven.<eos>
+<bos>Sorry?<eos>
+<bos>Stars.<eos>
+<bos>You like numbers, too, huh?<eos>
+<bos>Roland, let me help you.<eos>
+<bos>One, two,<eos>
+<bos>three, four, five,<eos>
+<bos>six, seven... Roland?<eos>
+<bos>Is everything okay?<eos>
+<bos>...eight, nine...<eos>
+<bos>Roland, are you all right?<eos>
+<bos>...ten, eleven,<eos>
+<bos>twelve, thirteen...<eos>
+<bos>What happened?<eos>
+<bos>What did you say to upset him so?<eos>
+<bos>...sixteen, seventeen...<eos>
+<bos>It's definitely the work<eos>
+<bos>of a fourth and distinct individual.<eos>
+<bos>Dr. Surnow's, Dr. Keats'<eos>
+<bos>and Dr. Nollette's cursive standards<eos>
+<bos>don't match what you<eol>found on the white board.<eos>
+<bos>Will you do me a favor and try this?<eos>
+<bos>What is it?<eos>
+<bos>That's something Roland<eol>was doodling at the home.<eos>
+<bos>You don't really think that Roland...<eos>
+<bos>Besides Nollette and Keats,<eol>he's the only person<eos>
+<bos>we can prove was in the lab that night.<eos>
+<bos>Yes, but we're talking<eos>
+<bos>about a sophisticated<eol>fluid dynamics equation.<eos>
+<bos>Roland Fuller barely has an IQ of 70.<eos>
+<bos>Well, you saw his facility<eol>with mathematics.<eos>
+<bos>Don't some autistic individuals<eol>display unusual abilities?<eos>
+<bos>Yes, but even savants<eos>
+<bos>behave only as human calculators.<eos>
+<bos>I mean, they can perform<eol>certain functions,<eos>
+<bos>but they can't tell you<eol>the value of anything<eos>
+<bos>or even the meaning of a number.<eos>
+<bos>I hate to take sides, guys,<eos>
+<bos>but the bottom line is no.<eos>
+<bos>The terminal stroke on the six,<eos>
+<bos>the roof on the five...<eos>
+<bos>I'm sorry.<eos>
+<bos>He didn't write it.<eos>
+<bos>An organic object<eol>exposed to liquid nitrogen<eos>
+<bos>at minus 320 degrees will become frozen,<eos>
+<bos>exhibiting great tensile strength,<eos>
+<bos>but is vulnerable to stress<eol>from compression or impact.<eos>
+<bos>Now, I've seen this<eol>demonstrated on a fish before...<eos>
+<bos>I don't think they'll be performing<eos>
+<bos>this experiment on Beakman's World.<eos>
+<bos>Has this been dusted?<eos>
+<bos>Treat yourself.<eos>
+<bos>Thanks.<eos>
+<bos>Hey, Scully, look at these files.<eos>
+<bos>"KMAN" must be Keats.<eos>
+<bos>His file was turned off<eol>at 12:31 last night.<eos>
+<bos>But look. Someone else entered a file<eos>
+<bos>under the name "Arthur" after 12:31.<eos>
+<bos>And worked on it for nearly five hours.<eos>
+<bos>Well, it couldn't have been Keats.<eos>
+<bos>Judging from the rigor of the body,<eos>
+<bos>he was dead around 12:30.<eos>
+<bos>So you're saying that<eol>someone came in here,<eos>
+<bos>killed Keats, and then just did some work<eos>
+<bos>on an old Dr. Arthur Grable file?<eos>
+<bos>Well, I can't access the Arthur file.<eos>
+<bos>We're going to need the password.<eos>
+<bos>Try 15626.<eos>
+<bos>How did you know that that was...?<eos>
+<bos>This is Arthur Grable's work<eos>
+<bos>on the same fluid dynamics equations<eos>
+<bos>the others were working on.<eos>
+<bos>Look at all those entries.<eos>
+<bos>Someone has been continuing his work<eos>
+<bos>for the six months since he died.<eos>
+<bos>How did you know what the password was?<eos>
+<bos>Wave good-bye. Wave good-bye.<eos>
+<bos>Come on. We've got to go.<eos>
+<bos>Wave good-bye. Bye-bye.<eos>
+<bos>Roland?<eos>
+<bos>Why did you sleep<eol>in your clothes last night?<eos>
+<bos>Well, let's get you dressed.<eos>
+<bos>You have visitors.<eos>
+<bos>I'm not supposed to talk to them.<eos>
+<bos>Who told you that?<eos>
+<bos>Remember that talk we had<eos>
+<bos>about being shy?<eos>
+<bos>These are nice people, Roland.<eos>
+<bos>Hey, Roland,<eol>you got more shirts than I do.<eos>
+<bos>I think this one<eol>would look stylin' today.<eos>
+<bos>What do you think?<eos>
+<bos>The green one.<eos>
+<bos>Green one?<eos>
+<bos>Please.<eos>
+<bos>Mrs. Stodie, can I talk to you a second?<eos>
+<bos>See you later, Roland.<eos>
+<bos>This one?<eos>
+<bos>Here you go.<eos>
+<bos>So, do you like your job<eol>at the college, Roland?<eos>
+<bos>Yes.<eos>
+<bos>I hear you're very good at it.<eos>
+<bos>Do you remember how you got your job?<eos>
+<bos>A man talked to Mrs. Stodie.<eos>
+<bos>What man?<eos>
+<bos>Dr. Grable.<eos>
+<bos>Was Dr. Grable nice to you?<eos>
+<bos>Yes.<eos>
+<bos>When was the last time you spoke to him?<eos>
+<bos>Last week?<eos>
+<bos>Day before?<eos>
+<bos>Dr. Grable died.<eos>
+<bos>I'm sorry.<eos>
+<bos>Yes.<eos>
+<bos>People die.<eos>
+<bos>They go away,<eos>
+<bos>and they're not supposed to come back.<eos>
+<bos>Has Roland ever mentioned<eos>
+<bos>the name "Arthur"?<eos>
+<bos>That was Dr. Grable's first name,<eos>
+<bos>but we only called him Dr. Grable.<eos>
+<bos>I doubt Roland even knew<eol>his first name was Arthur.<eos>
+<bos>Mrs. Stodie, can I get a copy<eos>
+<bos>of Roland's file and past history?<eos>
+<bos>Our patients' histories are confidential.<eos>
+<bos>I understand, but I have<eol>grounds to obtain them,<eos>
+<bos>and the less time we<eol>have to spend in court,<eos>
+<bos>the more time we have to help Roland.<eos>
+<bos>Roland Fuller was hired by Arthur Grable.<eos>
+<bos>He went to the halfway house<eos>
+<bos>specifically to find<eol>a mentally challenged person.<eos>
+<bos>Are you suggesting that Arthur Grable<eos>
+<bos>hired Roland in order to use him?<eos>
+<bos>Then are you suggesting<eol>that Arthur Grable is not dead?<eos>
+<bos>Well, if he had intentions<eos>
+<bos>of killing Nollette, Keats and Surnow,<eos>
+<bos>why not set it up to appear<eol>the least likely suspect?<eos>
+<bos>Yeah, but by the look of this,<eol>he's hamburger.<eos>
+<bos>Maybe he staged it.<eos>
+<bos>That would explain why his work<eol>is continuing on<eos>
+<bos>six months after his "death."<eos>
+<bos>This obituary says<eos>
+<bos>that Arthur Grable was born in Seattle.<eos>
+<bos>His father was a big banker.<eos>
+<bos>His mother was active in<eol>a number of charities.<eos>
+<bos>Only child.<eos>
+<bos>Summa cum laude in physics.<eos>
+<bos>Doctoral and postdoctoral<eos>
+<bos>in aeronautical engineering<eol>at Harvey Mudd.<eos>
+<bos>Brilliant future, tragically cut short.<eos>
+<bos>Roland's also from Seattle.<eos>
+<bos>He spent most of his life<eol>at the Heritage halfway house.<eos>
+<bos>The identity of his parents<eol>has been sealed by the courts.<eos>
+<bos>There's very little information on Roland<eos>
+<bos>before the age of three.<eos>
+<bos>That's when he was put<eol>in the Heritage program.<eos>
+<bos>Does it say when he was born?<eos>
+<bos>July 15, 1952.<eos>
+<bos>That's also Arthur's birth date.<eos>
+<bos>Don't you wish you could fly?<eos>
+<bos>I can.<eos>
+<bos>When I dream.<eos>
+<bos>People can do anything<eol>in a dream, you know.<eos>
+<bos>Once...<eos>
+<bos>one time, I had a dream we were married<eos>
+<bos>and lived in a house.<eos>
+<bos>Do you have dreams, Roland?<eos>
+<bos>You can tell me.<eos>
+<bos>Roland?<eos>
+<bos>Who's Arthur?<eos>
+<bos>I'm sorry, Roland.<eos>
+<bos>I'm sorry.<eos>
+<bos>Roland!<eos>
+<bos>Go away!<eos>
+<bos>Roland, what's the matter?<eos>
+<bos>Go away!<eos>
+<bos>I don't want to hurt you!<eos>
+<bos>Go away!<eos>
+<bos>Go away.<eos>
+<bos>Is that you?<eos>
+<bos>Yes.<eos>
+<bos>Cool do.<eos>
+<bos>What's the story here?<eos>
+<bos>Um... a quantum physics professor of mine<eos>
+<bos>at Harvey Mudd flunked me.<eos>
+<bos>He challenged the tenets<eol>of one of my theories--<eos>
+<bos>a theory I later published in Nature.<eos>
+<bos>Anyway, to get back at him<eos>
+<bos>one afternoon, we decided<eol>to take his car apart<eos>
+<bos>and put it back together again<eol>in his office<eos>
+<bos>and left it running.<eos>
+<bos>Hmm, an egghead classic.<eos>
+<bos>It was Arthur Grable's idea.<eos>
+<bos>Is that Arthur Grable there,<eol>sitting on the chair?<eos>
+<bos>Yeah.<eos>
+<bos>Was he a practical joker?<eos>
+<bos>Atop of all his brilliance<eos>
+<bos>he had a genius<eol>for executing elaborate schemes.<eos>
+<bos>Could he be making it seem<eol>like a man with a 70 IQ<eos>
+<bos>is gaining access to and operating<eos>
+<bos>his old computer files?<eos>
+<bos>Arthur would still have to be alive.<eos>
+<bos>Could he have faked his own death?<eos>
+<bos>No. The police report<eos>
+<bos>on the auto accident<eol>that killed Arthur Grable<eos>
+<bos>is woefully incomplete.<eos>
+<bos>It was a dry road surface,<eol>no mechanical problems found.<eos>
+<bos>The body was never admitted<eol>to a county morgue<eos>
+<bos>and there was no funeral.<eos>
+<bos>If, uh, you are trying to suggest<eos>
+<bos>that Arthur Grable<eol>killed Surnow and Keats<eos>
+<bos>and is after me next, you're way off.<eos>
+<bos>Art could not have done the murders.<eos>
+<bos>How can you be so certain?<eos>
+<bos>This is Arthur Grable.<eos>
+<bos>Because of the massive<eol>internal damage to his body<eos>
+<bos>caused by the car accident,<eol>we could only preserve the head.<eos>
+<bos>Wouldn't your client find<eol>it somewhat inconvenient<eos>
+<bos>to be thawed out in the<eol>future, only to discover<eos>
+<bos>he had no functional mobility?<eos>
+<bos>We believe that, by the time<eol>science figures a way<eos>
+<bos>to revive our clients...<eos>
+<bos>You'll also know how<eol>to clone new bodies for them.<eos>
+<bos>Exactly.<eos>
+<bos>This technology is progressing faster<eos>
+<bos>than anyone thought possible.<eos>
+<bos>Ask anyone here at the university.<eos>
+<bos>So, while for us,<eol>the passing of each second<eos>
+<bos>brings our bodies closer to death,<eos>
+<bos>for our clients,<eol>it brings them closer to life.<eos>
+<bos>These fluctuations in temperature--<eos>
+<bos>with Dr. Grable's capsule,<eol>and our technicians<eos>
+<bos>have checked it<eol>for possible malfunctions,<eos>
+<bos>but they've found nothing.<eos>
+<bos>Is it possible the brain<eol>is causing the fluctuation?<eos>
+<bos>No, but we are looking<eol>for the explanation.<eos>
+<bos>The patient's in no danger.<eos>
+<bos>He remains perfectly preserved<eos>
+<bos>as long as there's<eol>liquid nitrogen in the capsule.<eos>
+<bos>May we take a look at<eol>Arthur Grable's records?<eos>
+<bos>Thank you.<eos>
+<bos>Dr. Barrington,<eos>
+<bos>in your conception<eol>of future medical science,<eos>
+<bos>what requirements will exist<eos>
+<bos>to be an organ or tissue donor?<eos>
+<bos>Same requirements as there are today.<eos>
+<bos>Compatible genetic makeup.<eos>
+<bos>It's best if the donor is related.<eos>
+<bos>Mulder...<eos>
+<bos>Arthur Grable put down only one donor.<eos>
+<bos>Roland Fuller and Arthur Grable<eol>had the same birthday.<eos>
+<bos>I think they're twins.<eos>
+<bos>Older or younger?<eos>
+<bos>Same age,<eos>
+<bos>just less hairy and with better eyesight.<eos>
+<bos>Got you, and the moustache?<eos>
+<bos>No. Lose the whole beard.<eos>
+<bos>Next?<eos>
+<bos>Close-cropped hair<eos>
+<bos>with a slightly receding widow's peak.<eos>
+<bos>Lose the glasses.<eos>
+<bos>That's Roland.<eos>
+<bos>Give or take a few pounds.<eos>
+<bos>Tell me about your dreams, Roland.<eos>
+<bos>It's all right. I won't tell anybody.<eos>
+<bos>You know, I had a dream last night.<eos>
+<bos>I dreamt I was swimming in this pool<eos>
+<bos>and I could see my father underwater,<eos>
+<bos>but when I dove down,<eol>the water stung my eyes.<eos>
+<bos>Then there was another man<eol>at the pool, watching me.<eos>
+<bos>He upset me.<eos>
+<bos>He was asking me questions<eol>I didn't want to answer<eos>
+<bos>and I had to leave.<eos>
+<bos>I couldn't find my father.<eos>
+<bos>I can't tell you my dreams.<eos>
+<bos>Why not?<eos>
+<bos>Bad.<eos>
+<bos>Your dreams are bad, Roland,<eos>
+<bos>not you.<eos>
+<bos>You're a good person.<eos>
+<bos>I hit Tracy.<eos>
+<bos>Your dreams make you hit Tracy?<eos>
+<bos>You know how to work this toy, Roland?<eos>
+<bos>Here.<eos>
+<bos>You see, the way you work that toy<eos>
+<bos>is like what's happening to you.<eos>
+<bos>You're the spaceship, Roland,<eos>
+<bos>and your dreams are the controls.<eos>
+<bos>Who...?<eos>
+<bos>Who runs the controls?<eos>
+<bos>Have you seen this man recently?<eos>
+<bos>Come on, Arthur, we have<eol>to say bye-bye to Roland.<eos>
+<bos>Bye.<eos>
+<bos>Roland.<eos>
+<bos>Roland, stop.<eos>
+<bos>We need to arrange to keep<eol>Roland under observation.<eos>
+<bos>Roland.<eos>
+<bos>He's trying to get away. Roland.<eos>
+<bos>Nollette's gone.<eos>
+<bos>We should arrange a<eol>security guard to find him.<eos>
+<bos>Mulder, no one's going<eol>to provide you with anything<eos>
+<bos>once you explain your theory<eos>
+<bos>on how Roland Fuller is capable<eol>of these murders.<eos>
+<bos>You've got a brother, don't you, Scully?<eos>
+<bos>Yeah, I've got an older one<eol>and a younger one.<eos>
+<bos>Well, have you ever thought<eol>about calling one of them<eos>
+<bos>all day long, and then all<eol>of a sudden the phone rings,<eos>
+<bos>and it's one of them calling you?<eos>
+<bos>Does this pitch somehow end<eol>with a way for me<eos>
+<bos>to lower my long distance charges?<eos>
+<bos>I believe in psychic connections,<eos>
+<bos>and evidence suggests that it's<eol>stronger between family members,<eos>
+<bos>strongest of all between twin siblings<eos>
+<bos>that shared the same womb.<eos>
+<bos>Okay, maybe, but in this case<eos>
+<bos>one sibling has closer ties<eol>to a frozen Fudgsicle<eos>
+<bos>than he does to his own brother.<eos>
+<bos>Arthur Grable is not dead.<eos>
+<bos>He's in a state of consciousness<eos>
+<bos>that no human has ever returned from.<eos>
+<bos>And what if that state allows<eol>one to develop psychic ability<eos>
+<bos>to a potential that the conscious mind<eos>
+<bos>is too preoccupied to explore<eos>
+<bos>or believe in?<eos>
+<bos>He could use that ability<eol>to control his brother<eos>
+<bos>to kill those scientists.<eos>
+<bos>But why? He's been working<eol>with these colleagues for years.<eos>
+<bos>Well, that's a question that<eol>only Dr. Nollette can answer.<eos>
+<bos>Okay, let's go.<eos>
+<bos>I have to call my brother.<eos>
+<bos>We've got to find Nollette.<eos>
+<bos>Let's talk to Campus Security.<eos>
+<bos>We go this way?<eos>
+<bos>No, we go left.<eos>
+<bos>Well, wherever you are, Arthur,<eos>
+<bos>I'm sure you'll appreciate this.<eos>
+<bos>Arthur and Roland Grable.<eos>
+<bos>Born at Puget Presbyterian<eol>to Mr. and Mrs. Lewis Grable<eos>
+<bos>on July 15, 1952.<eos>
+<bos>Arthur was four minutes<eol>older than Roland.<eos>
+<bos>Identical twins.<eos>
+<bos>Which means that they're the result<eos>
+<bos>of a single egg fertilized<eol>by a single sperm.<eos>
+<bos>I've read studies which suggest that,<eos>
+<bos>in some cases, the identical twin arises<eos>
+<bos>very early in the embryonic stage<eos>
+<bos>when a mutation in one cell<eos>
+<bos>is rejected by the other cells<eos>
+<bos>as foreign.<eos>
+<bos>So, then, maybe Roland's condition<eos>
+<bos>is the result of a damaged chromosome<eos>
+<bos>rejected by one of Arthur's cells?<eos>
+<bos>In a way, that would explain<eol>Arthur's genius<eos>
+<bos>and Roland's strange mathematical gift.<eos>
+<bos>In a way.<eos>
+<bos>Agent Scully.<eos>
+<bos>This is Larry Barrington<eol>at the Avalon Foundation.<eos>
+<bos>We've, uh, got a situation here.<eos>
+<bos>Last night we had a break-in<eol>at the facility.<eos>
+<bos>That's right, yeah.<eos>
+<bos>It's Arthur Grable's storage unit.<eos>
+<bos>His internal thermostat's<eol>been compromised.<eos>
+<bos>Was there any tissue damage?<eos>
+<bos>We're trying to assess that now.<eos>
+<bos>The temperature's still rising.<eos>
+<bos>Something's blocking our access<eos>
+<bos>to the cooling program.<eos>
+<bos>Someone tampered with<eol>Arthur Grable's capsule.<eos>
+<bos>They're attempting to stabilize it now.<eos>
+<bos>Nollette.<eos>
+<bos>What is it?<eos>
+<bos>"If I have seen further than other men,<eos>
+<bos>it's because I have stood<eol>on the shoulders of giants."<eos>
+<bos>No.<eos>
+<bos>This isn't yours.<eos>
+<bos>It's amazing.<eos>
+<bos>There's this body sitting there<eos>
+<bos>in front of me talking,<eos>
+<bos>but you're controlling it, Arthur.<eos>
+<bos>You took my work.<eos>
+<bos>What good was your work going to do you?<eos>
+<bos>You died before you could finish it,<eos>
+<bos>before you could publish it.<eos>
+<bos>It was mine!<eos>
+<bos>And a brilliant piece of work, too.<eos>
+<bos>When I saw the writing<eol>on the white board,<eos>
+<bos>I knew someone had found the key.<eos>
+<bos>Mach 15 was within our reach.<eos>
+<bos>Our futures were guaranteed.<eos>
+<bos>Ironic, isn't it?<eos>
+<bos>You did all the work<eos>
+<bos>and I get all the glory.<eos>
+<bos>No!<eos>
+<bos>Yes.<eos>
+<bos>Yes, Arthur.<eos>
+<bos>I was here working on the intake problem,<eos>
+<bos>moments away from a solution,<eol>when you attacked me.<eos>
+<bos>Fortunately I was carrying a gun.<eos>
+<bos>After the murder of my colleagues,<eos>
+<bos>who could blame me?<eos>
+<bos>No.<eos>
+<bos>Oh, that's, that's interesting.<eos>
+<bos>I've got it.<eos>
+<bos>That's it.<eos>
+<bos>I've got it.<eos>
+<bos>Arthur!<eos>
+<bos>Arthur, open the door!<eos>
+<bos>Arthur, how do you stop this?!<eos>
+<bos>Tell me how!<eos>
+<bos>Arthur! Wait!<eos>
+<bos>Roland, we need you to help us.<eos>
+<bos>Please, we need you to help us<eos>
+<bos>to stop the machine.<eos>
+<bos>Bye, Roland.<eos>
+<bos>Arthur, say good-bye<eos>
+<bos>to your brother.<eos>
+<bos>Try to remember how.<eos>
+<bos>Roland, you've got to help<eol>him or he's going to die.<eos>
+<bos>Wave good-bye, Arthur.<eos>
+<bos>Come on, Roland.<eos>
+<bos>I can't remember.<eos>
+<bos>He'll be held<eos>
+<bos>in psychiatric custody for evaluation.<eos>
+<bos>Is he being charged with a crime?<eos>
+<bos>The D.A. hasn't made<eol>that determination yet.<eos>
+<bos>But we've recommended that he<eol>be remanded to your custody<eos>
+<bos>as soon as the court<eol>deems it appropriate.<eos>
+<bos>How could this happen?<eos>
+<bos>Roland never exhibited<eol>any violent tendencies.<eos>
+<bos>It's my belief that he wasn't<eol>acting under his own volition.<eos>
+<bos>What do you mean?<eos>
+<bos>This is the work of Arthur Grable,<eos>
+<bos>Roland's brother.<eos>
+<bos>It's a new theory of jet propulsion,<eos>
+<bos>unfinished at the time of his death.<eos>
+<bos>In the last two weeks<eos>
+<bos>Roland has completed the calculations.<eos>
+<bos>How?<eos>
+<bos>We're not sure, Mrs. Stodie.<eos>
+<bos>All we know is that Roland<eol>was somehow able<eos>
+<bos>to finish his brother's research.<eos>
+<bos>Roland?<eos>
+<bos>Where are you going?<eos>
+<bos>Roland, don't go.<eos>
+<bos>I have to.<eos>
+<bos>Okay. Bye.<eos>
+<bos>Tracy...<eos>
+<bos>wait.<eos>
+<bos>Keep my stars.<eos>
+<bos>I love you.<eos>
+<bos>Me, too.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

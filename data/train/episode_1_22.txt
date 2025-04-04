@@ -1,0 +1,670 @@
+<bos>ï»¿1 âª B-i-n-g-o, B-i-n-g-o,<eos>
+<bos>B-i-n-g-o âª<eos>
+<bos>âª And Bingo was his name-o âª<eos>
+<bos>âª There was a farmer had a dog âª<eos>
+<bos>âª And Bingo was his name-o âª<eos>
+<bos>âª There was a farmer had a dog âª<eos>
+<bos>âª And Bingo was his name-o... âª<eos>
+<bos>Oh! What's that?<eos>
+<bos>Oh! Oh, my goodness, what's happening?<eos>
+<bos>It's okay, it's okay.<eos>
+<bos>I just had a flat.<eos>
+<bos>No problem here, honey. Oh, no.<eos>
+<bos>Darn it.<eos>
+<bos>Honey, would you mind<eos>
+<bos>holding the light for a second?<eos>
+<bos>Where are you, Paul?!<eos>
+<bos>What happened?!<eos>
+<bos>Take a look!<eos>
+<bos>Over here.<eos>
+<bos>Come on, boy. Come on! Come on!<eos>
+<bos>Over here! We found something!<eos>
+<bos>Come on, buddy. Come on!<eos>
+<bos>There you go.<eos>
+<bos>Come on, boy! Easy, easy...<eos>
+<bos>Get back!<eos>
+<bos>His leg's been eaten off.<eos>
+<bos>Hey, up here!<eos>
+<bos>Need some help! Come on!<eos>
+<bos>It's in here! It's as tall as a house!<eos>
+<bos>We can smoke him out.<eos>
+<bos>And then what?<eos>
+<bos>I see it!<eos>
+<bos>He's coming at us!<eos>
+<bos>Special Investigations,<eol>Agent Stanley speaking.<eos>
+<bos>Working hard, Mulder?<eos>
+<bos>This woman claims<eos>
+<bos>to have been taken aboard a spaceship<eos>
+<bos>and held in an antigravity chamber<eos>
+<bos>without food and water for three days.<eos>
+<bos>Antigravity is right.<eos>
+<bos>Sorry to interrupt your<eol>serious investigation...<eos>
+<bos>but I just heard a story<eos>
+<bos>that'd just about take your knees out.<eos>
+<bos>What's that?<eos>
+<bos>They found a body<eos>
+<bos>in the New Jersey woods yesterday,<eos>
+<bos>missing its right arm and shoulder.<eos>
+<bos>They think they may<eol>have been eaten off...<eos>
+<bos>by a human.<eos>
+<bos>Where in New Jersey?<eos>
+<bos>Just outside Atlantic City.<eos>
+<bos>Not an uncommon place<eol>to lose a body part.<eos>
+<bos>They think it's the Mob?<eos>
+<bos>Mm-mm. It was a homeless man.<eos>
+<bos>There doesn't seem to be a motive.<eos>
+<bos>You feeling lucky, Scully?<eos>
+<bos>Relative to whom?<eos>
+<bos>It's not our case, Mulder.<eos>
+<bos>The local police are handling it.<eos>
+<bos>An X file?<eos>
+<bos>Ever hear of something<eol>called the Jersey Devil?<eos>
+<bos>Yeah... it's a beast who's supposed<eos>
+<bos>to come out of the woods<eol>and attack cars, right?<eos>
+<bos>Kind of like an East Coast Bigfoot?<eos>
+<bos>Read the file about the case in 1947.<eos>
+<bos>Save me the trouble.<eos>
+<bos>It's 1947-- family watches dad<eol>get dragged off into the woods.<eos>
+<bos>Cops find dad with a few<eol>appendages gnawed off.<eos>
+<bos>Cops corner a large, naked man<eol>in the woods, and gun him down.<eos>
+<bos>Autopsy shows human flesh and bones<eos>
+<bos>in the man's large<eol>intestine-- a beast man.<eos>
+<bos>No. The original disappeared<eos>
+<bos>from the Paterson PD's files<eol>a few years after the incident.<eos>
+<bos>There is a statement from<eol>the attending pathologist.<eos>
+<bos>Mulder, it's the same story<eol>I've heard since I was a kid.<eos>
+<bos>It's a folktale; a myth.<eos>
+<bos>I heard the same story<eol>when I was a kid, too.<eos>
+<bos>Funny thing is, I believed it.<eos>
+<bos>Thanks, Lorraine.<eos>
+<bos>Fact is, we got a cannibalized<eol>body in New Jersey.<eos>
+<bos>Someone or something out there is hungry.<eos>
+<bos>They say animals can develop<eol>an appetite for human flesh,<eos>
+<bos>but this is no animal.<eos>
+<bos>You see the teeth marks<eol>just below the clavicle?<eos>
+<bos>They're human.<eos>
+<bos>Who found the body?<eos>
+<bos>The park ranger.<eos>
+<bos>Was he alive when it happened?<eos>
+<bos>Well, it's hard to tell.<eos>
+<bos>There's a skull fracture,<eos>
+<bos>but no sign of a struggle.<eos>
+<bos>Blood-alcohol level was up.<eos>
+<bos>Probably never knew what hit him.<eos>
+<bos>Any ideas about that?<eos>
+<bos>From the size of that bite mark--<eos>
+<bos>I'd say a large, adult male.<eos>
+<bos>I'll do my best. Uh, Detective Tomson<eos>
+<bos>is handling the case.<eos>
+<bos>Glenna.<eos>
+<bos>Hi. I'm Special Agent Dana Scully<eos>
+<bos>and this is Agent Fox Mulder.<eos>
+<bos>I don't remember anybody<eol>calling the FBI in on this.<eos>
+<bos>Oh, we're not here<eol>in an official capacity.<eos>
+<bos>Agent Scully is a medical doctor.<eos>
+<bos>We heard about your victim and<eos>
+<bos>she thought she might take a look.<eos>
+<bos>I'm sorry, I'm going to ask you to leave.<eos>
+<bos>We have an investigation.<eos>
+<bos>For God sakes, Tommy,<eos>
+<bos>this is no time to get pissy.<eos>
+<bos>We have jurisdiction here.<eos>
+<bos>Any suspects yet, Detective?<eos>
+<bos>I don't work for you, sir.<eos>
+<bos>And, unless you hear different<eol>from the attorney general,<eos>
+<bos>this case is a local matter.<eos>
+<bos>Agent Mulder, we should go.<eos>
+<bos>There's no need to get bent out of shape.<eos>
+<bos>On the contrary,<eos>
+<bos>I think I've been exceedingly polite.<eos>
+<bos>So what's eating that guy?<eos>
+<bos>He was perfectly in his rights.<eos>
+<bos>The FBI has no overriding jurisdiction<eos>
+<bos>on a murder case.<eos>
+<bos>Anyway, you'd feel the same way<eos>
+<bos>if someone was horning in on your work.<eos>
+<bos>Yeah, chances are he's without a clue.<eos>
+<bos>He'll probably be scratching his head<eos>
+<bos>when they bring the next body in.<eos>
+<bos>You missed your opening, Mulder.<eos>
+<bos>You could have really humiliated him<eos>
+<bos>and told him who the perpetrator was--<eos>
+<bos>the Jersey Devil.<eos>
+<bos>Hey, what do you say we grab a hotel,<eos>
+<bos>take in a floor show,<eos>
+<bos>drop a few quarters in the slot,<eos>
+<bos>do a little digging on this case?<eos>
+<bos>You're kidding, right?<eos>
+<bos>Okay, we can skip the floor show.<eos>
+<bos>Mulder, I have to be back in DC.<eos>
+<bos>You got a date? No.<eos>
+<bos>I have my godson's<eol>birthday party at 6:30.<eos>
+<bos>What are you doing?<eos>
+<bos>A little poking around.<eos>
+<bos>Maybe make a weekend out of it.<eos>
+<bos>Mulder, it's a three-hour<eol>drive back, by myself.<eos>
+<bos>In Friday-night traffic.<eos>
+<bos>Change for 50.<eos>
+<bos>Change?<eos>
+<bos>Found the body just over there,<eos>
+<bos>lying facedown on the rocks.<eos>
+<bos>32 years with the park service,<eos>
+<bos>I've come across some weird stuff<eos>
+<bos>but, I tell you,<eol>never anything like this.<eos>
+<bos>The victim was a homeless man.<eos>
+<bos>You get many of them<eol>wandering around out here?<eos>
+<bos>Well, occasionally, I'll see some,<eos>
+<bos>but most are scared of the woods.<eos>
+<bos>Scared?<eos>
+<bos>Of what?<eos>
+<bos>I don't know.<eos>
+<bos>The devil.<eos>
+<bos>People say that's just a myth.<eos>
+<bos>Depends on who you talk to.<eos>
+<bos>What do you think?<eos>
+<bos>Well, like I said, you know, 32 years...<eos>
+<bos>I see a lot of weird stuff.<eos>
+<bos>Like one time...<eos>
+<bos>a little over four years ago,<eos>
+<bos>I saw what I thought was a large man<eos>
+<bos>come out of a copse of birch trees--<eos>
+<bos>not-not a stitch of clothing.<eos>
+<bos>He was about 60 yards away.<eos>
+<bos>And he starts sniffing the air,<eos>
+<bos>you know, like a dog?<eos>
+<bos>And then he looks straight at me<eos>
+<bos>and I swear, he smelled me,<eos>
+<bos>because he took off<eol>into the woods so fast,<eos>
+<bos>you'd swear he wasn't human. Really.<eos>
+<bos>Yeah.<eos>
+<bos>You never saw him again? No.<eos>
+<bos>But I feel him.<eos>
+<bos>And...<eos>
+<bos>I've found things.<eos>
+<bos>Some scat, half-buried like a cat's,<eos>
+<bos>only more human.<eos>
+<bos>Found a half-eaten rabbit<eol>with what looked like<eos>
+<bos>a human cuspid tooth in it,<eol>and some deer bones<eos>
+<bos>looked like they'd been<eol>sharpened into tools.<eos>
+<bos>Do you think it might be<eos>
+<bos>what's responsible<eol>for the body you found?<eos>
+<bos>Well...<eos>
+<bos>I got a pension coming up in a few years.<eos>
+<bos>You know, you say the wrong thing...<eos>
+<bos>Yeah.<eos>
+<bos>You know, I'll tell you one thing:<eos>
+<bos>I don't ever come out here<eol>without my weapon anymore.<eos>
+<bos>How far is it into town from here?<eos>
+<bos>About a mile, mile and a half.<eos>
+<bos>I'm staying at the Galaxy Gateway<eos>
+<bos>for the next couple days.<eos>
+<bos>If you think of anything,<eol>will you call me?<eos>
+<bos>Sure.<eos>
+<bos>All right.<eos>
+<bos>Look at this gorilla!<eos>
+<bos>Where am I? I can't see!<eos>
+<bos>Where am I?<eos>
+<bos>Oh, come here.<eos>
+<bos>It's okay. It's all right.<eos>
+<bos>What happened?<eos>
+<bos>Did you bump your head?<eos>
+<bos>Oh, Cruiser, stop that!<eos>
+<bos>Go on.<eos>
+<bos>What... what happened?<eos>
+<bos>Jungle warfare.<eos>
+<bos>Oh, I'm going to kill that dog.<eos>
+<bos>If the hit squad doesn't<eol>get to him before you do.<eos>
+<bos>I'm so glad you're here, Dana.<eos>
+<bos>Get off me! Cruiser!<eos>
+<bos>Get down!<eos>
+<bos>Oh, you're amazing.<eos>
+<bos>What?<eos>
+<bos>You're such a natural at all this.<eos>
+<bos>I don't know how<eol>you keep it all together.<eos>
+<bos>Mommy radar.<eos>
+<bos>Mm! I don't think<eol>I'm cut out for this, Ellenn.<eos>
+<bos>Dana, you went through the FBI Academy.<eos>
+<bos>What better training could there be<eos>
+<bos>for motherhood?<eos>
+<bos>Seriously.<eos>
+<bos>You're great with kids.<eos>
+<bos>What are you talking about?<eos>
+<bos>When am I supposed to find the time?<eos>
+<bos>Well, first, you have to get a life.<eos>
+<bos>And, of course,<eol>it helps if you can find a man.<eos>
+<bos>Know of any?<eos>
+<bos>Yeah, they're disappearing<eos>
+<bos>faster than the Brazilian rain forest.<eos>
+<bos>What about that guy you work with?<eos>
+<bos>Mulder?<eos>
+<bos>Yeah, I thought you said he was cute.<eos>
+<bos>He's a jerk.<eos>
+<bos>He's not a jerk.<eos>
+<bos>He's, um...<eos>
+<bos>he's obsessed with his work.<eos>
+<bos>Hi. Hi.<eos>
+<bos>I'm Rob. I'm Scott's dad.<eos>
+<bos>Oh! Come in.<eos>
+<bos>Thanks.<eos>
+<bos>Hey, Tiger.<eos>
+<bos>How you doing?<eos>
+<bos>Having a good time?<eos>
+<bos>Divorced.<eos>
+<bos>Did anybody here know Roger Crockett?<eos>
+<bos>He was murdered two days ago.<eos>
+<bos>Ma'am, can I...?<eos>
+<bos>Hey, honey, you got spare change?<eos>
+<bos>Roger Crockett, anybody?<eos>
+<bos>What do you want to know?<eos>
+<bos>Did you know Roger Crockett?<eos>
+<bos>Did you hear how he died?<eos>
+<bos>Yeah.<eos>
+<bos>Any ideas who might have done it?<eos>
+<bos>You a cop?<eos>
+<bos>No. I'm FBI.<eos>
+<bos>I'll show you something.<eos>
+<bos>Okay.<eos>
+<bos>I need some money.<eos>
+<bos>What is this?<eos>
+<bos>Stuck in the pocket of a jacket I found.<eos>
+<bos>Does it mean anything to you?<eos>
+<bos>I've seen it.<eos>
+<bos>Where? Right here.<eos>
+<bos>Here? Digging in the trash.<eos>
+<bos>Are you hustling me?<eos>
+<bos>Swear to God.<eos>
+<bos>What do you think it is?<eos>
+<bos>I don't know.<eos>
+<bos>Scared the hell out of me.<eos>
+<bos>Has anybody else seen it?<eos>
+<bos>Oh, yeah. Everybody's pretty freaked.<eos>
+<bos>Anybody tell the cops?<eos>
+<bos>You think they don't know?<eos>
+<bos>Where you sleeping tonight?<eos>
+<bos>You're standing in my bedroom.<eos>
+<bos>You know the Galaxy Gateway?<eos>
+<bos>Room 756.<eos>
+<bos>Go ahead.<eos>
+<bos>Hey, they got HBO?<eos>
+<bos>Yeah, they do.<eos>
+<bos>Sir. You got a man up on that roof.<eos>
+<bos>Hey, back off.<eos>
+<bos>All right, calm down. I'm telling you,<eos>
+<bos>there's a man up on that roof!<eos>
+<bos>Get in the car! Now.<eos>
+<bos>What the hell do you think you're doing?<eos>
+<bos>Enjoying the night life<eos>
+<bos>here in beautiful Atlantic City.<eos>
+<bos>I'll go right to the<eol>D.A.'s Office, if I have to.<eos>
+<bos>Obstructing an investigation,<eol>misconduct...<eos>
+<bos>Let's go, let's go see her together.<eos>
+<bos>And while we're at it, why don't we add<eos>
+<bos>"withholding evidence" to the list.<eos>
+<bos>What are you talking about?<eos>
+<bos>Statements given to you<eol>describing something<eos>
+<bos>stalking the back streets<eol>of Atlantic City.<eos>
+<bos>This is the fishing trip<eos>
+<bos>they get me up<eol>at 3:00 in the morning for?<eos>
+<bos>Unbelievable.<eos>
+<bos>Why else would you be<eol>sweeping the streets tonight?<eos>
+<bos>You know it's out there.<eos>
+<bos>I got a perpetrator out there.<eos>
+<bos>Whether it's Hannibal the<eol>Cannibal or Elmer Fudd,<eos>
+<bos>I've got a job to protect people.<eos>
+<bos>Oh, is that your job?<eos>
+<bos>Or is it to keep the dice rolling,<eos>
+<bos>keep the tour buses rolling in.<eos>
+<bos>You can't fill those casinos,<eol>this town disappears<eos>
+<bos>like a quarter down the slot.<eos>
+<bos>I've seen it.<eos>
+<bos>Seen what?<eos>
+<bos>You've been spending too much time<eos>
+<bos>in supermarket check-out lines.<eos>
+<bos>This story's as old as the hills.<eos>
+<bos>Who's going to be responsible<eos>
+<bos>when you lose your first<eol>tourist, Detective?<eos>
+<bos>You are.<eos>
+<bos>No, you are, sir,<eos>
+<bos>because you're wasting my time<eos>
+<bos>and impeding the solution of this case.<eos>
+<bos>You want to go on a safari, go to Africa.<eos>
+<bos>In the meantime,<eol>enjoy the rest of your weekend.<eos>
+<bos>Agent Scully.<eos>
+<bos>Agent Mulder, line three.<eos>
+<bos>Where are you?<eos>
+<bos>Not far from where you left me.<eos>
+<bos>You're still in Atlantic City?<eos>
+<bos>Uh, Scully, you got anything<eol>happening this morning?<eos>
+<bos>What's that noise in the background?<eos>
+<bos>That's a guy getting sick.<eos>
+<bos>Mulder, where are you?<eos>
+<bos>The drunk tank?<eos>
+<bos>Well, it's not hard to see<eos>
+<bos>why they mistook you for a vagrant.<eos>
+<bos>You going to rag on me<eos>
+<bos>or are you going to take me<eol>to get me something to eat?<eos>
+<bos>Am I buying<eos>
+<bos>or did you manage to panhandle<eol>some spare change<eos>
+<bos>while you were at it?<eos>
+<bos>It moved like a cat, quick and graceful.<eos>
+<bos>There's no way a human could've<eol>gotten up on the roof that fast.<eos>
+<bos>Mulder.<eos>
+<bos>What?<eos>
+<bos>What's gonna happen when word of<eol>this gets back to the Bureau?<eos>
+<bos>They dropped the charges.<eol>That guy Tomson,<eos>
+<bos>he ran me through the system<eol>just to spite me.<eos>
+<bos>I'm talking about<eol>this Jersey Devil thing.<eos>
+<bos>I saw it-- it's exactly the way<eol>the ranger described.<eos>
+<bos>The way it moved,<eol>the way it sniffed the air.<eos>
+<bos>It's come out of the woods,<eol>probably in search of food.<eos>
+<bos>Yeah, I'll say.<eos>
+<bos>It was picking through<eol>the garbage, Scully.<eos>
+<bos>If it was a man-eater,<eol>why didn't it come after me?<eos>
+<bos>You're already ascribing it<eol>a motive and an alibi.<eos>
+<bos>This thing chewed somebody's arm off.<eos>
+<bos>It's not exactly a defensive posture.<eos>
+<bos>But you do believe that I saw something.<eos>
+<bos>Don't you? You saw something,<eos>
+<bos>I'll give you that,<eos>
+<bos>but I'm not about to go in and sell it<eos>
+<bos>not when it's nothing more than<eol>a sighting in a dark alley.<eos>
+<bos>I've still got a hotel room<eol>I'm paying for.<eos>
+<bos>Well, I have to get back<eol>to Washington by 7:30, so, uh...<eos>
+<bos>Another birthday party?<eos>
+<bos>No.<eos>
+<bos>I have a date.<eos>
+<bos>Can you cancel?<eos>
+<bos>Unlike you, Mulder,<eol>I would like to have a life.<eos>
+<bos>I have a life.<eos>
+<bos>Come on. I have somebody<eol>I want you to meet<eos>
+<bos>on the way home.<eos>
+<bos>Come on.<eos>
+<bos>Hold on.<eos>
+<bos>Just about every culture has one--<eos>
+<bos>Yeti, Sasquatch, the Russian<eol>almas, the sonnequat.<eos>
+<bos>Why is that?<eos>
+<bos>It's a universal wild man myth--<eos>
+<bos>a symbolic fear of our<eol>dual natures as humans<eos>
+<bos>as creators of life and destroyers of it.<eos>
+<bos>What's this chart?<eos>
+<bos>It shows the historic entry<eos>
+<bos>of man onto each continent<eos>
+<bos>and the effect it had<eol>on other animal species,<eos>
+<bos>which, as you see, has been disastrous.<eos>
+<bos>Why?<eos>
+<bos>We humans have retained hereditary traits<eos>
+<bos>through evolution<eos>
+<bos>that have proven to be<eol>extremely destructive.<eos>
+<bos>We tend to be tribal<eol>and aggressively territorial,<eos>
+<bos>oriented by selfish sexual<eol>and reproductive drives<eos>
+<bos>that make cooperation<eol>beyond the family or tribe<eos>
+<bos>extremely hard for us.<eos>
+<bos>So we kill other species<eol>in order to survive.<eos>
+<bos>Yeah, humans are top carnivores.<eos>
+<bos>We sit at the top of the food chain<eos>
+<bos>and we reduce other species'<eol>chances of survival.<eos>
+<bos>Well, nice to know Dana left<eol>here with more than a degree.<eos>
+<bos>But what if something<eol>entered the food chain above us?<eos>
+<bos>Nah. It won't happen.<eos>
+<bos>Our intelligence virtually ensures<eos>
+<bos>that, barring the introduction<eol>of some alien life-form,<eos>
+<bos>we will live out our days<eol>as rulers of the world.<eos>
+<bos>But-but what if, through<eol>some fluke of nature,<eos>
+<bos>a human was born<eos>
+<bos>who reverted to its<eol>most animal instincts?<eos>
+<bos>A kind of carnivorous Neanderthal.<eos>
+<bos>Wouldn't he occupy a space above us<eos>
+<bos>on the food chain?<eos>
+<bos>Oh, sure.<eos>
+<bos>All he'd have to do<eos>
+<bos>is wait outside any fast-food restaurant<eos>
+<bos>and eat us on the way in.<eos>
+<bos>Right, yeah, and-and...<eol>and haven't there been cases<eos>
+<bos>where men have been raised<eol>in the wilderness by animals<eos>
+<bos>who have no language<eol>and hunt like predators?<eos>
+<bos>Oh, yes, several--<eol>but cannibalism is rare<eos>
+<bos>even among the lower mammals.<eos>
+<bos>But even when faced with extinction?<eos>
+<bos>Maybe in the jungles of New Guinea or...<eos>
+<bos>It's just highly unlikely<eol>that what you're suggesting<eos>
+<bos>could have survived<eol>civilization or evolution<eos>
+<bos>out in the woods of New Jersey?<eos>
+<bos>Highly unlikely,<eos>
+<bos>but not outside the realm<eol>of extreme possibility?<eos>
+<bos>Well, it would be an amazing discovery.<eos>
+<bos>Well, the hard thing was<eol>when my wife remarried. I...<eos>
+<bos>Suddenly I felt very competitive<eol>for my son's attention.<eos>
+<bos>It was weird.<eos>
+<bos>I'm sure.<eos>
+<bos>I became a superdad<eol>on the weekends with Scott.<eos>
+<bos>I had this unconscious fear<eos>
+<bos>of being replaced.<eos>
+<bos>I actually had dreams<eos>
+<bos>where I was running over<eol>his stepfather with my car.<eos>
+<bos>You'll understand when you have kids.<eos>
+<bos>Having kids changes everything.<eos>
+<bos>That's what they say.<eos>
+<bos>Maybe some weekend, if you're up for it,<eos>
+<bos>we could take the kids<eol>out to the beach for the day.<eos>
+<bos>Yeah.<eos>
+<bos>Great.<eos>
+<bos>Thank you.<eos>
+<bos>So, can I ask about the case you're on<eos>
+<bos>or can't you say?<eos>
+<bos>Well...<eos>
+<bos>I don't think it's a case<eol>we should discuss over dinner.<eos>
+<bos>I don't suppose you'd want to hear<eos>
+<bos>about the finer points of estate<eol>planning and taxation?<eos>
+<bos>Mulder.<eos>
+<bos>Agent Mulder, this is Peter Brouillet<eos>
+<bos>of the Jersey Parks Department.<eos>
+<bos>Oh, yeah. Hi. Hi.<eos>
+<bos>I found a body out in the woods today.<eos>
+<bos>It looks like it's been dead<eol>six to eight months.<eos>
+<bos>A long-haired male<eos>
+<bos>missing the same tooth I found<eol>in that rabbit awhile back.<eos>
+<bos>It could be your devil.<eos>
+<bos>Where's the body now?<eos>
+<bos>I turned it over to the coroner's office.<eos>
+<bos>You're sure it was a male?<eos>
+<bos>Well, it had all the plumbing.<eos>
+<bos>Excuse me.<eos>
+<bos>Mm-hmm.<eos>
+<bos>I'm sorry.<eos>
+<bos>Excuse me.<eos>
+<bos>Certainly.<eos>
+<bos>Scully.<eos>
+<bos>Mulder.<eos>
+<bos>Sorry to interrupt your evening.<eos>
+<bos>That's okay.<eos>
+<bos>What's up?<eos>
+<bos>I just had an amazing thought.<eos>
+<bos>Maybe it isn't a beast man<eol>we're looking for after all.<eos>
+<bos>Well, if they picked it up,<eos>
+<bos>nobody logged the body on the chart.<eos>
+<bos>I sure haven't seen it.<eos>
+<bos>I don't understand.<eos>
+<bos>What else would they have done with it?<eos>
+<bos>I'm afraid we may have<eos>
+<bos>called you down here for nothing.<eos>
+<bos>They're gonna try to sweep<eos>
+<bos>this whole thing under the carpet.<eos>
+<bos>Why?<eos>
+<bos>Any publicity<eos>
+<bos>and you've got the streets crawling<eos>
+<bos>with kind of people who aren't<eol>here to play the crap tables.<eos>
+<bos>Word gets out there's something<eos>
+<bos>still on the loose, forget it.<eos>
+<bos>You said it was a female?<eos>
+<bos>The body they found was a male.<eos>
+<bos>There's a 50-50 chance there was a mate.<eos>
+<bos>We may never know unless<eol>we find out ourselves.<eos>
+<bos>If it's true...<eos>
+<bos>what are the chances<eol>of capturing it alive?<eos>
+<bos>If it is a primate,<eos>
+<bos>it would have a natural fear of heights.<eos>
+<bos>It would also want<eos>
+<bos>to stay close to its food source.<eos>
+<bos>This thing has no fear of heights.<eos>
+<bos>We'll stay together and<eol>start with the lower floors.<eos>
+<bos>How much time will that dart give us?<eos>
+<bos>It will put down<eos>
+<bos>a 500-pound bear for an hour...<eos>
+<bos>if I hit it.<eos>
+<bos>What the hell's a park ranger<eol>vehicle doing here?<eos>
+<bos>I don't know.<eos>
+<bos>Check it out.<eos>
+<bos>Can you run a check for me on...?<eos>
+<bos>Something here!<eos>
+<bos>It's blood.<eos>
+<bos>She could be bringing her killing here.<eos>
+<bos>She could be injured.<eos>
+<bos>Roger. Zebra team in position.<eos>
+<bos>What if it is a female, Scully?<eos>
+<bos>How close is she to you or me?<eos>
+<bos>Does she feel emotion?<eos>
+<bos>Or are her days just spent<eol>looking for food?<eos>
+<bos>Maybe she spends her days shopping.<eos>
+<bos>Eight million years out of Africa--<eos>
+<bos>I don't think we're all that different.<eos>
+<bos>Mulder, we've put men into space.<eos>
+<bos>We've built computers<eos>
+<bos>that work faster than the human mind.<eos>
+<bos>While we overpopulate the world<eos>
+<bos>and create new technologies<eol>to kill each other with?<eos>
+<bos>Maybe we're just beasts with big brains.<eos>
+<bos>What?<eos>
+<bos>No, I was just...<eos>
+<bos>thinking about<eol>my godson's birthday party.<eos>
+<bos>Eight little six-year-old boys<eol>running around.<eos>
+<bos>Talk about primitive behavior.<eos>
+<bos>Now, look, his name is Mulder<eos>
+<bos>and he's a Federal agent.<eos>
+<bos>You ever hear of him?<eos>
+<bos>No.<eos>
+<bos>You know him? No.<eos>
+<bos>Well, what are you doing here?<eos>
+<bos>I'm a professor of anthropology.<eos>
+<bos>Mulder. Does that sound familiar to you?<eos>
+<bos>Look, I know he's here somewhere.<eos>
+<bos>Will you check upstairs, Andrew?<eol>Go check upstairs?<eos>
+<bos>I want this place searched top to bottom.<eos>
+<bos>Make a move!<eos>
+<bos>Move, move!<eos>
+<bos>Mulder...<eos>
+<bos>Mulder, where are you?<eos>
+<bos>Mulder?<eos>
+<bos>Scully...!<eos>
+<bos>Lay back.<eos>
+<bos>Oh, Mulder, you're hurt.<eos>
+<bos>You should have seen her.<eos>
+<bos>She was beautiful.<eos>
+<bos>Yeah, well, she just about<eol>ripped your lungs out.<eos>
+<bos>She could have torn my head off,<eol>Scully, but she didn't<eos>
+<bos>Yeah, I need to talk to someone<eos>
+<bos>who can give me Federal<eol>jurisdiction on this case.<eos>
+<bos>with the Bureau right now.<eos>
+<bos>He wants to know what<eol>the hell is going on<eos>
+<bos>up here in Atlantic City.<eos>
+<bos>Tell him he's got a real live<eol>Neanderthal on the loose.<eos>
+<bos>She was young... I don't know,<eol>it's hard to say exactly.<eos>
+<bos>The Atlantic City Major Crime<eol>Unit has filed a complaint<eos>
+<bos>that we're endangering<eol>a murder investigation.<eos>
+<bos>they got her cornered in a building.<eos>
+<bos>Let's go.<eos>
+<bos>Can you see it? It crawled into the wall.<eos>
+<bos>Get a man in there.<eos>
+<bos>That's affirmative.<eos>
+<bos>And keep these people out of here.<eos>
+<bos>You can take her alive. Aah! Out of here!<eos>
+<bos>What's going on in there?<eos>
+<bos>I've got a man down.<eos>
+<bos>We got a naked woman just jumped<eos>
+<bos>from a second-story window.<eos>
+<bos>Suspect is headed south<eol>into the woods on foot.<eos>
+<bos>Good boy. Come on.<eos>
+<bos>I know these woods.<eos>
+<bos>If she's going for cover,<eol>she'll be down by the rocks.<eos>
+<bos>Look.<eos>
+<bos>Can you reach her from here?<eos>
+<bos>I can try.<eos>
+<bos>I got it! Good shot.<eos>
+<bos>Look! Up ahead!<eos>
+<bos>She tried to take my arm off.<eos>
+<bos>That's it. Right there.<eos>
+<bos>Looks like she's trying to bury herself.<eos>
+<bos>Why did you have to kill her?<eos>
+<bos>Same reason you kill a rabid animal.<eos>
+<bos>Hi.<eos>
+<bos>This just came through.<eos>
+<bos>It's the posthumous medical exam<eol>of the woman's body.<eos>
+<bos>They found fragments of human bone<eos>
+<bos>still in her digestive tract.<eos>
+<bos>They estimated her age<eol>to be 25 to 30 years.<eos>
+<bos>Now, they allowed Dr. Diamond<eol>to do a medical exam of the body<eos>
+<bos>but he found nothing<eos>
+<bos>that suggested prehistoric bone structure<eos>
+<bos>or physiology.<eos>
+<bos>Now, the ACPD has her listed<eol>as a Jane Doe,<eos>
+<bos>and a search for her identity<eos>
+<bos>and state psychiatric records<eol>has begun in earnest.<eos>
+<bos>Good luck.<eos>
+<bos>They have also released the medical exam<eos>
+<bos>from the male body that they found.<eos>
+<bos>His age is estimated<eol>to be about 40 years.<eos>
+<bos>There would have been offspring.<eos>
+<bos>The medical exam of the woman's uterus<eos>
+<bos>does seem to indicate<eos>
+<bos>that she may have given birth.<eos>
+<bos>She was just protecting<eol>her children, Scully.<eos>
+<bos>It all makes sense.<eos>
+<bos>The male dies<eol>and she comes out of the woods<eos>
+<bos>in search of food.<eos>
+<bos>Mulder, will you do me a favor?<eos>
+<bos>Will you just go out and have a beer?<eos>
+<bos>Will you take the day off?<eos>
+<bos>I'll cover for you.<eos>
+<bos>Will you just take some<eol>time for yourself.<eos>
+<bos>Thanks for the offer,<eol>but I've got an appointment<eos>
+<bos>at the Smithsonian<eol>with an ethnobiologist.<eos>
+<bos>I can't wait to tell him about this.<eos>
+<bos>Mulder.<eos>
+<bos>Yeah, just a second.<eos>
+<bos>It's for you.<eos>
+<bos>Hello?<eos>
+<bos>Hi, Dana. It's Rob.<eos>
+<bos>Oh, hi.<eos>
+<bos>Sorry to call you at work,<eos>
+<bos>it's just I have<eol>I have Scott for the night<eos>
+<bos>and we have two extra tickets<eol>for Cirque du Soleil.<eos>
+<bos>We thought maybe you'd like to ask Ellenn<eos>
+<bos>if you could take Trent and join us.<eos>
+<bos>Requisition for a car, please, Fran.<eos>
+<bos>Thank you.<eos>
+<bos>Who was that on the phone?<eos>
+<bos>A guy. A guy.<eos>
+<bos>Same guy.<eos>
+<bos>You going to have dinner with him again?<eos>
+<bos>I don't think so.<eos>
+<bos>No interest.<eos>
+<bos>Not at this time.<eos>
+<bos>Thanks, Fran.<eos>
+<bos>What are you doing?<eos>
+<bos>Going with you to the Smithsonian.<eos>
+<bos>Don't you have a life, Scully?<eos>
+<bos>You keep that up, Mulder,<eol>and I'll hurt you<eos>
+<bos>like that beast woman.<eos>
+<bos>Eight million years out of Africa.<eos>
+<bos>And look who's holding the door.<eos>
+<bos>Dad, did you just see<eol>something down there?<eos>
+<bos>Where? Over there.<eos>
+<bos>No. I'm sure it was nothing.<eos>
+<bos>No. I saw something.<eos>
+<bos>Hey, did you ever hear the story<eol>of the Jersey Devil?<eos>
+<bos>You know, when I was a kid,<eos>
+<bos>my dad used to tell this story<eos>
+<bos>about a creature<eos>
+<bos>who lived out there in the woods.<eos>
+<bos>It was half man, half animal.<eos>
+<bos>I used to believe...<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

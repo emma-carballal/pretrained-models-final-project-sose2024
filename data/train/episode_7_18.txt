@@ -1,0 +1,441 @@
+<bos>Radio check. Perimeter is clear.<eos>
+<bos>Copy that. Give me a check every ten.<eos>
+<bos>Why don't you folks make<eol>yourselves comfortable?<eos>
+<bos>Watch some television. Get some rest.<eos>
+<bos>Try to put your minds at ease.<eos>
+<bos>Just try to stay away from the windows<eol>and the doors, if you would.<eos>
+<bos>Do we have to ask you<eol>if we can use the bathroom?<eos>
+<bos>I feel like I'm a prisoner<eol>in my own home.<eos>
+<bos>Ma'am, I apologize for the imposition,<eol>but my job is to protect you.<eos>
+<bos>As of this evening, the FBI's<eol>top priority is keeping you safe.<eos>
+<bos>For how long? A week, a month? Then what?<eos>
+<bos>Jim, don't do this, please.<eos>
+<bos>You don't have to testify.<eos>
+<bos>It's not worth it. These people have<eol>a long reach. They're powerful.<eos>
+<bos>I have to do this.<eos>
+<bos>I'm going to bed.<eos>
+<bos>Thank you.<eos>
+<bos>The grand jury convenes at 9:00.<eol>We'll leave here at 7:30.<eos>
+<bos>I'll be right outside<eol>the door if you need me.<eos>
+<bos>Jim?<eos>
+<bos>Jim?<eos>
+<bos>Are you feeling all right?<eos>
+<bos>Jim?<eos>
+<bos>Mr. Skinner! Mr. Skinner!<eos>
+<bos>- Jim! - Dr. Scobie?<eos>
+<bos>- Jim! - Ma'am.<eos>
+<bos>Yes, at the time I was<eol>in another part of the house.<eos>
+<bos>Yes. Yes, sir. Yes, sir.<eos>
+<bos>Yes, sir, I will have<eol>answers for you. I...<eos>
+<bos>I...<eos>
+<bos>Follow me.<eos>
+<bos>There's fingerprints everywhere, but<eol>as they all belong to the deceased...<eos>
+<bos>and his wife, they don't help us.<eos>
+<bos>- This is where the body was found?<eol>- Yeah.<eos>
+<bos>What can you tell us about him?<eos>
+<bos>Dr. James Scobie, age 44,<eol>R&D biochemist with Morley Tobacco.<eos>
+<bos>If he were alive as of 26 minutes ago,<eos>
+<bos>Testimony concerning what?<eos>
+<bos>Not even his wife or his lawyer<eol>know the specifics.<eos>
+<bos>Only that it concerns research<eol>that he was involved in.<eos>
+<bos>Potentially extremely damaging to Morley.<eos>
+<bos>Enough so that Scobie<eol>received death threats.<eos>
+<bos>Given the high profile<eol>nature of the case,<eos>
+<bos>the director charged me<eol>with insuring Dr. Scobie's protection.<eos>
+<bos>Though we've yet to determine<eol>how someone got in here or...<eos>
+<bos>what killed him.<eos>
+<bos>You can't blow a whistle<eol>with a mouth like that.<eos>
+<bos>It's almost as if his flesh<eol>has been stripped or eaten away.<eos>
+<bos>I mean, an assailant<eol>could have thrown acid on him.<eos>
+<bos>Well, if it was acid in the face,<eol>he would have screamed bloody murder.<eos>
+<bos>Well, we're looking<eol>at all possibilities, Agent.<eos>
+<bos>We need answers.<eol>We don't have a lot of time.<eos>
+<bos>And we're going up against one of<eol>the biggest corporations in America.<eos>
+<bos>The director instructed me that he wants<eol>this case closed as swiftly as possible.<eos>
+<bos>I trust I can count on your help.<eos>
+<bos>- I'll get right on it. - Thank you.<eos>
+<bos>- Huh. - What?<eos>
+<bos>There's no ashtrays.<eol>Dr. Scobie and his wife don't smoke?<eos>
+<bos>Not that I witnessed.<eos>
+<bos>Tobacco employee that doesn't smoke.<eos>
+<bos>Isn't that kind of like<eol>a GM executive who drives a Ford?<eos>
+<bos>If this was a hit,<eol>it seems unnecessarily high profile.<eos>
+<bos>It kind of draws attention<eol>to itself, don't you think?<eos>
+<bos>That could be the point...<eol>to intimidate potential witnesses.<eos>
+<bos>Scobie had a supervisor at Morley...<eol>a Dr. Peter Voss.<eos>
+<bos>- I wanna talk to him.<eol>- You mind if I tag along?<eos>
+<bos>- No. -  Sir?<eos>
+<bos>We're here to see Dr. Voss.<eos>
+<bos>Do you have an appointment?<eos>
+<bos>Do you have an appointment?<eos>
+<bos>Maybe you missed this<eol>the first time around.<eos>
+<bos>Gentlemen, I can help you.<eos>
+<bos>Daniel Brimley, head<eol>of corporate security. A pleasure.<eos>
+<bos>Nice to meet you.<eos>
+<bos>Nobody was happy about Jim's decision,<eos>
+<bos>but the timing of his death<eol>couldn't have been worse.<eos>
+<bos>So you have no problem<eol>with us speaking to Dr. Voss?<eos>
+<bos>Absolutely not.<eol>Whatever we can do to help. Please.<eos>
+<bos>Could you, um...<eos>
+<bos>Could you give my sincerest<eol>condolences toJim's wifeJoan?<eos>
+<bos>How is she?<eos>
+<bos>I'm sure she'll take comfort<eol>in finding out why her husband died.<eos>
+<bos>We know it had to do with<eol>company research.<eos>
+<bos>I'm sorry.<eol>Dr. Voss would be in violation...<eos>
+<bos>of his employment confidentiality clause<eol>in answering that question.<eos>
+<bos>- Dr. Scobie was your friend?<eol>- Yeah, for 14 years.<eos>
+<bos>And yet you demoted him five weeks ago.<eos>
+<bos>You took him off a particular project.<eol>Can you tell us why that happened?<eos>
+<bos>As before, Dr. Voss<eol>would be in violation...<eos>
+<bos>here at Morley.<eos>
+<bos>I'm not sensing any cooperation<eol>whatsoever.<eos>
+<bos>In fact, I'm one more nonanswer<eol>away from getting...<eos>
+<bos>a federal warrant and searching<eol>this entire building.<eos>
+<bos>- Then this meeting is over. Dr. Voss.<eol>- Dr. Voss.<eos>
+<bos>Can you tell me what that is?<eos>
+<bos>- It's a tobacco beetle. Why?<eol>- I found it atJim Scobie's house.<eos>
+<bos>Well, you'll find a lot of these<eol>around here. They're everywhere.<eos>
+<bos>There's probably a dozen<eol>in the grill of your car right now.<eos>
+<bos>May I ask where<eol>you're going with this, Agent?<eos>
+<bos>I'm sorry. I can't.<eos>
+<bos>Answering that question<eol>would violate FBI confidentiality...<eos>
+<bos>due to the sensitive nature<eol>of our investigation.<eos>
+<bos>Evenin'.<eos>
+<bos>- What are you doing here?<eol>- I run out of smokes.<eos>
+<bos>Me and Dr. Scobie<eol>had an arrangement, as you know.<eos>
+<bos>So I figured, uh,<eol>Dr. Scobie not bein' around,<eos>
+<bos>that my arrangement with him...<eol>slides on over to you.<eos>
+<bos>Here ya go.<eos>
+<bos>That won't hold me.<eos>
+<bos>I'll bring you more.<eol>Just don't come here anymore.<eos>
+<bos>All right?<eos>
+<bos>It seems everybody's actin' funny<eol>around me all of a sudden, you know.<eos>
+<bos>Tellin' me not to talk,<eol>to stay away from their houses.<eos>
+<bos>- Huh. - Too bad about Dr. Scobie.<eos>
+<bos>- Yeah.<eol>- I bet people are wondering how he died.<eos>
+<bos>I've been working my own<eol>theory up in the old noggin.<eos>
+<bos>I'd be happy to share it<eol>with you someday.<eos>
+<bos>I think that you should leave now.<eos>
+<bos>Yeah.<eos>
+<bos>I don't wanna wear out my welcome.<eos>
+<bos>We'll be seein' a lot<eol>of each other, I expect.<eos>
+<bos>- Smoke 'em if you got 'em.<eol>- What have you found?<eos>
+<bos>Well, the tissue damage<eol>on Dr. Scobie's mouth extends...<eos>
+<bos>all the way down his trachea<eol>into his lungs.<eos>
+<bos>His alveoli looked like corned beef.<eos>
+<bos>What about this being the result<eol>of some sort of corrosive agent?<eos>
+<bos>No, that's not the case.<eol>There's no acids present, no caustics.<eos>
+<bos>This damage isn't the result<eol>of any kind of chemical reaction.<eos>
+<bos>His airways have more or less<eol>just been reamed out.<eos>
+<bos>Hypoxemia: The inability<eol>to transfer oxygen...<eos>
+<bos>from the lungs to the bloodstream.<eos>
+<bos>He choked to death?<eos>
+<bos>All right. I mean, this damage,<eos>
+<bos>however it was accomplished,<eol>someone did do this to him.<eos>
+<bos>Well, not necessarily. There weren't<eol>any signs of struggle in the room.<eos>
+<bos>- Maybe no one was ever there.<eol>- Where are you going with this?<eos>
+<bos>Well, that this isn't a homicide.<eol>You examined the body, Scully.<eos>
+<bos>Did you find any of these?<eos>
+<bos>- A bug? - It's a tobacco beetle.<eos>
+<bos>I didn't find anything like that, Mulder.<eos>
+<bos>Were you expecting me to?<eos>
+<bos>Killer bugs? This is what<eol>I'm supposed to tell the director?<eos>
+<bos>I don't know, but judging<eol>from Dr. Voss's reaction to this,<eos>
+<bos>I think it's the thing<eol>we should investigate.<eos>
+<bos>I've been tellin' you all week.<eol>How many times I gotta say it?<eos>
+<bos>No smoking! You hear me?<eos>
+<bos>America, man!<eos>
+<bos>E Pluribus, uh...<eos>
+<bos>I'll get you kicked out, you son<eol>of a bitch! You think I'm kiddin'?<eos>
+<bos>I'll do it!<eos>
+<bos>The law's on my side!<eos>
+<bos>Guests check in,<eol>but they don't check out.<eos>
+<bos>Well, judging from the condition<eol>of the body,<eos>
+<bos>I'd say that he died<eol>in the same manner as Dr. Scobie.<eos>
+<bos>Except this man's no<eol>corporate whistle blower.<eos>
+<bos>Thomas Gastall.<eol>Out-of-date Massachusetts license,<eos>
+<bos>food coupons...<eos>
+<bos>and a certificate of completion for<eol>a court-ordered anger management class.<eos>
+<bos>What could Morley Tobacco have against<eol>a transient from Massachusetts?<eos>
+<bos>- Probably nothing.<eol>- What are you suggesting, Mulder?<eos>
+<bos>ThatJim Scobie wasn't murdered.<eol>Neither was this man.<eos>
+<bos>Well, then what killed them?<eos>
+<bos>These.<eos>
+<bos>We didn't find any insects<eol>in Dr. Scobie's bathroom.<eos>
+<bos>But there was an open window<eol>through which they could have escaped.<eos>
+<bos>It's a long shot, Mulder, but it could<eol>be some form of contagious agent,<eos>
+<bos>like an insect-borne bacterium,<eos>
+<bos>which would mean there might be<eol>other victims in this building.<eos>
+<bos>FBI.<eos>
+<bos>Sorry to wake you.<eos>
+<bos>No, you didn't wake me.<eos>
+<bos>Come on in.<eos>
+<bos>Thank you.<eos>
+<bos>Do you know him?<eos>
+<bos>I knew his voice.<eos>
+<bos>He yelled a lot.<eos>
+<bos>He yelled?<eos>
+<bos>Yeah, he said I smoked too much.<eos>
+<bos>What are you gonna do, man?<eol>It's a free country.<eos>
+<bos>E Pluribus, uh...<eos>
+<bos>- Do you mind? - No.<eos>
+<bos>You don't seem surprised that he's dead.<eos>
+<bos>I guess his number come up.<eos>
+<bos>I'm just glad it wasn't me.<eos>
+<bos>- Well, what is your name, sir?<eol>- Darryl Weaver.<eos>
+<bos>Mr. Weaver, did you see<eol>or hear anything unusual last night?<eos>
+<bos>Little Korean fella down<eol>the hall dresses like Wonder Woman.<eos>
+<bos>- But that's every night.<eol>- Other than that?<eos>
+<bos>There wouldn't happen to be,<eol>uh, any reward money involved,<eos>
+<bos>would there?<eos>
+<bos>I mean, I could use an extra buck or two.<eos>
+<bos>Ain't that always the way.<eos>
+<bos>No, my mind is, uh,<eol>just drawin' a complete blank.<eos>
+<bos>That's my card.<eos>
+<bos>Thank you, Mr. Weaver.<eos>
+<bos>Anything?<eos>
+<bos>Two deaths in less than 24 hours<eol>and we've yet to come up with an answer.<eos>
+<bos>And the only thing I have to go on<eol>medically at this point is Mulder's bug.<eos>
+<bos>You know, I know an entomologist<eol>at UNC Willmington... Dr. Libby Nance.<eos>
+<bos>Good. Talk to her.<eos>
+<bos>Where you going?<eos>
+<bos>To see about something else<eol>that's been bugging me.<eos>
+<bos>- Mrs. Voss? - Yes?<eos>
+<bos>Fox Mulder. Is your husband home?<eos>
+<bos>I really shouldn't be talking<eol>to you without our lawyers.<eos>
+<bos>I understand your reluctance<eol>to talk, sir.<eos>
+<bos>You have a nice family, a lot to lose.<eos>
+<bos>What do you want, Agent Mulder?<eos>
+<bos>There's been another victim...<eol>Thomas Gastall.<eos>
+<bos>Died exactly the same way Scobie did.<eos>
+<bos>I'm sorry to hear that.<eos>
+<bos>But what's that got to do with me?<eos>
+<bos>Well, we found these all over him.<eos>
+<bos>I believe that that's<eol>what killed both men.<eos>
+<bos>Tobacco beetle. It's an herbivore.<eol>It eats tobacco.<eos>
+<bos>- Hence its name. - I understand that,<eos>
+<bos>but... maybe these don't.<eos>
+<bos>But why are you hiding<eol>behind your lawyers, Doctor?<eos>
+<bos>How many people have to die<eol>before you do the right thing?<eos>
+<bos>- I'll get it!<eos>
+<bos>- Hello? -  What did he want?<eos>
+<bos>- Are you spying on me?<eol>- I'm not spying on you, Peter.<eos>
+<bos>I'm looking out for you.<eol>What did he want?<eos>
+<bos>There's been another death... downtown.<eos>
+<bos>- How did it happen?<eol>- I don't know. I don't know.<eos>
+<bos>This has gone on long enough.<eol>We should come forward. I should.<eos>
+<bos>Do you hear what you're saying, Peter?<eos>
+<bos>Now, I want you to just take a moment.<eos>
+<bos>I want you to think about<eol>what really matters to you.<eos>
+<bos>Now tell me where<eol>I can find Darryl Weaver.<eos>
+<bos>- Why?<eol>- This was my mistake. I'll clean it up.<eos>
+<bos>- I don't know where he is.<eos>
+<bos>This doesn't make sense.<eos>
+<bos>What doesn't make sense?<eos>
+<bos>Well, it's a Lasioderma serricorne...<eol>a tobacco beetle.<eos>
+<bos>Only I've never seen one<eol>exactly like this.<eos>
+<bos>Hmm. What are the differences?<eos>
+<bos>Physical differences.<eos>
+<bos>Minor, but definitely notable.<eos>
+<bos>Deviations in the mandibles,<eol>the antennae,<eos>
+<bos>the body segmentation.<eos>
+<bos>What if such deviations<eol>arose from genetic engineering?<eos>
+<bos>- Engineering the bugs themselves? - No.<eos>
+<bos>I was actually thinking about<eol>another possibility... transgenomics.<eos>
+<bos>- Which is?<eol>- It's a form of DNA manipulation...<eos>
+<bos>alterations made on the genetic level.<eos>
+<bos>It is pretty widely known that tobacco<eol>companies have been pouring money...<eos>
+<bos>into that kind of research.<eos>
+<bos>Changing the tobacco plant itself<eol>in order to make it heartier,<eos>
+<bos>give it less nicotine, more nicotine,<eos>
+<bos>make it naturally menthol flavored.<eos>
+<bos>- You name it.<eol>- A form of what... super tobacco?<eos>
+<bos>Which possibly could have<eol>created super bugs.<eos>
+<bos>I guess the real question is,<eos>
+<bos>could they have become<eol>dangerous to humans?<eos>
+<bos>Mr. Weaver!<eos>
+<bos>Mr. Weaver!<eos>
+<bos>Sorry, Doc. No vacancy.<eos>
+<bos>- What happened there?<eos>
+<bos>Well, you tell me.<eos>
+<bos>You're the one with the PhD.<eos>
+<bos>I'm just a big old guinea pig.<eos>
+<bos>Uh, listen.<eos>
+<bos>Um, you have to leave town.<eos>
+<bos>And give up all this?<eos>
+<bos>Me not doin' my part for science?<eos>
+<bos>Here.<eos>
+<bos>Take it. It's everything<eol>I have in the bank.<eos>
+<bos>Four thousand.<eos>
+<bos>It's not much, but, uh, it's a start.<eos>
+<bos>W-W-Wait a minute. I'm not kidding.<eol>You gotta get out of here.<eos>
+<bos>Why?<eos>
+<bos>I got a good thing goin' here.<eos>
+<bos>I got cash money.<eos>
+<bos>I got all the coffin nails<eol>I can suck down.<eos>
+<bos>Although, lately,<eos>
+<bos>I've been thinkin' this particular brand,<eos>
+<bos>it doesn't, uh,<eol>do anyone else any favors,<eos>
+<bos>health-wise.<eos>
+<bos>You thinkin' that too, huh?<eos>
+<bos>Would it bother you if I lit one up?<eos>
+<bos>Toodles.<eos>
+<bos>No, you... you don't understand.<eos>
+<bos>Morley is a multibillion dollar<eol>global corporation.<eos>
+<bos>You think they're gonna let you endanger<eol>that, huh? They'll kill you first.<eos>
+<bos>Well, it sounds like<eol>a Darryl Weaver problem to me.<eos>
+<bos>Yeah, uh...<eos>
+<bos>What am I looking at?<eos>
+<bos>Thomas Gastall's left lung and bronchus.<eos>
+<bos>Well, I guess that explains<eol>where the beetles came from.<eos>
+<bos>Hey, Mulder. Where have you been?<eos>
+<bos>Talking to lawyers over atJustice<eol>tryin' to get a look at Morley's files.<eos>
+<bos>Well, take a look at this.<eos>
+<bos>They're the larval stage<eol>of the tobacco beetle, Mulder.<eos>
+<bos>And somehow they have ended up<eol>nesting in Thomas Gastall's lungs.<eos>
+<bos>The larvae must pupate inside the lungs,<eos>
+<bos>and then once they mature into beetles,<eol>exit the body en masse.<eos>
+<bos>- That explains the condition<eol>of the face and throat.<eos>
+<bos>Only how did they get into<eol>the lungs to begin with?<eos>
+<bos>Mulder?<eos>
+<bos>How is he?<eos>
+<bos>And so far, we're having some luck<eol>at clearing his lungs.<eos>
+<bos>there may be a dozen eggs<eol>that have yet to be hatched.<eos>
+<bos>And they're going to hatch.<eol>It's just, uh,<eos>
+<bos>we're buying time.<eos>
+<bos>How did this happen? These eggs,<eol>how'd they get into his lungs?<eos>
+<bos>I'm thinking he inhaled them.<eos>
+<bos>That's where it lays its eggs.<eos>
+<bos>If those genetically-altered beetles<eol>that we found did that,<eos>
+<bos>then maybe the eggs survived<eol>the processing into cigarettes.<eos>
+<bos>Like spores or pollen.<eol>Somehow small enough to be airborne.<eos>
+<bos>But Mulder isn't a smoker.<eol>And neither was Scobie.<eos>
+<bos>Maybe they were around someone who was.<eos>
+<bos>Don't bother calling security.<eos>
+<bos>Federal search warrant as promised.<eos>
+<bos>Do it.<eos>
+<bos>You're gonna talk to me, Doctor.<eos>
+<bos>One of my agents is dying of<eol>the same thing that killed Dr. Scobie.<eos>
+<bos>I believe you have information<eol>that can save him.<eos>
+<bos>We stand by our contention<eol>that any information is proprietary...<eos>
+<bos>and is therefore the sole property<eol>of Morley Tobacco.<eos>
+<bos>Listen to me, you son of a bitch.<eos>
+<bos>This isn't about Morley<eol>or your precious research.<eos>
+<bos>This is about saving lives.<eos>
+<bos>I'm advising you not to speak.<eos>
+<bos>This has gone on long enough.<eos>
+<bos>We thought we were doing a good thing.<eos>
+<bos>We knew people were never gonna stop<eol>smoking, no matter how unhealthy it was.<eos>
+<bos>So why not genetically<eol>engineer a safer cigarette?<eos>
+<bos>Except you engineered the bugs as well.<eos>
+<bos>We recruited test smokers.<eos>
+<bos>We conducted focus groups.<eol>There were no problems.<eos>
+<bos>And, uh, after a few months in,<eos>
+<bos>things... things got bad.<eos>
+<bos>We had four test subjects and, uh,<eos>
+<bos>three of them died.<eos>
+<bos>Is that what Dr. Scobie<eol>was gonna testify about?<eos>
+<bos>Yeah.<eos>
+<bos>And the company wanted us<eol>to keep it quiet.<eos>
+<bos>I thought let's correct the mistakes<eol>and face the consequences.<eos>
+<bos>Jim didn't.<eos>
+<bos>He was monitoring<eol>the focus group, and that's...<eos>
+<bos>that's how he got infected.<eos>
+<bos>You said only three died.<eos>
+<bos>Who was the fourth?<eos>
+<bos>- Clear! - Okay, go ahead.<eos>
+<bos>- Told me he meant to get Weaver.<eol>- Looks like Weaver got to him first.<eos>
+<bos>Mr. Brimley, can you hear me?<eos>
+<bos>You got Mickey's Big Mouth?<eos>
+<bos>There's no smoking in here.<eos>
+<bos>Mickey's Big Mouth?<eos>
+<bos>Anything else? A carton of cigarettes?<eos>
+<bos>You don't have my brand.<eos>
+<bos>Must be bad.<eos>
+<bos>How do you feel?<eos>
+<bos>Like a Dustbuster attacked me.<eos>
+<bos>We're looking for someone<eol>who may be able to help you.<eos>
+<bos>A Morley test subject<eol>by the name of Darryl Weaver.<eos>
+<bos>Mr. E Pluribus. Yeah.<eos>
+<bos>Well, Mr. Weaver seems to have<eol>some kind of tolerance or immunity,<eos>
+<bos>Mulder?<eos>
+<bos>Doctor!<eos>
+<bos>His sat's down to 72.<eos>
+<bos>Get some O2 on him and call the code.<eos>
+<bos>- Susan, code blue! -  Right, Doctor.<eos>
+<bos>Over to my side!<eos>
+<bos>Dr. Scully?<eos>
+<bos>We've got him stabilized<eol>on ECMO for the moment,<eos>
+<bos>but we're not gonna be able<eol>to maintain him on it for long.<eos>
+<bos>Of course you see why.<eos>
+<bos>There's more than<eol>there were six hours ago.<eos>
+<bos>I think this time<eol>we have to crack the chest.<eos>
+<bos>No.<eos>
+<bos>No, uh, he's too weak for<eol>thoracic surgery. He'd die on the table.<eos>
+<bos>I don't know what our other options are.<eos>
+<bos>I'd say for the time being, we just wait.<eos>
+<bos>That'll definitely kill him...<eos>
+<bos>sooner or later.<eos>
+<bos>Mrs. Voss, I'm Assistant<eol>Director Walter Skinner with the FBI.<eos>
+<bos>- May we come in?<eol>- What is this? What's going on?<eos>
+<bos>- He's not here.<eol>- He told me he was headed home.<eos>
+<bos>Behind you.<eos>
+<bos>I was just leavin'.<eol>I got what I came for.<eos>
+<bos>He took the test cigarettes.<eol>I couldn't stop him.<eos>
+<bos>Stop right there!<eos>
+<bos>Why?<eos>
+<bos>You gonna shoot me?<eos>
+<bos>I'm not gonna let you go<eol>and infect more people.<eos>
+<bos>You're gonna let me do<eol>whatever I wanna do.<eos>
+<bos>Dr. Voss here tells me you need me.<eos>
+<bos>You need me to save your boy.<eos>
+<bos>Don't do it.<eos>
+<bos>They say these things<eol>kill people, you know.<eos>
+<bos>Any brand, sooner or later.<eos>
+<bos>But you know,<eol>it doesn't have to be that way.<eos>
+<bos>I think Dr. Voss is really...<eos>
+<bos>on to something with his research, I do.<eos>
+<bos>It's over, Weaver. I'm through.<eos>
+<bos>Oh.<eos>
+<bos>Come on, now. I mean, you gotta figure...<eos>
+<bos>the first, uh, car...<eos>
+<bos>killed a bunch of people...<eos>
+<bos>before they perfected it,<eos>
+<bos>'cause it's all just part<eol>of the scientific process, you know.<eos>
+<bos>Mr. Weaver, I will shoot you.<eos>
+<bos>No, you won't.<eos>
+<bos>I'm a regular damn scientific marvel.<eos>
+<bos>They're gonna study me.<eos>
+<bos>They're gonna write<eol>scientific papers about me.<eos>
+<bos>I could be the cure for cancer.<eos>
+<bos>Me, Darryl Weaver.<eos>
+<bos>You ain't gonna shoot me.<eos>
+<bos>Toodles.<eos>
+<bos>-  How's Mulder? - Not good.<eos>
+<bos>Let's get the blood work on this man.<eos>
+<bos>Wait a minute.<eos>
+<bos>Wait a minute.<eos>
+<bos>Give me 30 milligrams<eol>of methyl-pyrrolidinyl-pyridine.<eos>
+<bos>- Nicotine? - Yeah.<eos>
+<bos>I think this could save Mulder's life.<eos>
+<bos>Hey. Good to be back?<eos>
+<bos>-  Beats the alternative. - Yeah.<eos>
+<bos>Well, you'll be interested to know<eol>that Morley Tobacco has subpoenaed...<eos>
+<bos>all of our files on the case.<eos>
+<bos>It was the nicotine itself<eol>that was keeping him alive?<eos>
+<bos>His fingertips were stained yellow with<eol>it. He was a four-pack a day smoker,<eos>
+<bos>far heavier than any<eol>of the focus group members who died.<eos>
+<bos>You know, nicotine is<eol>extremely poisonous.<eos>
+<bos>It's actually one of<eol>the oldest known insecticides.<eos>
+<bos>It's good for killing tobacco beetles.<eos>
+<bos>Well, once we loaded your system up<eol>with enough of it,<eos>
+<bos>it acted as a sort of chemotherapy.<eos>
+<bos>Except it almost stopped<eol>your breathing at the same time.<eos>
+<bos>That's not all it did.<eos>
+<bos>I bought these on the way to work.<eos>
+<bos>You're not gonna start smoking.<eos>
+<bos>Why not? They say the addiction<eol>is stronger than heroin.<eos>
+<bos>Mulder.<eos>
+<bos>Good. Skinner's waiting for us<eol>in his office.<eos>
+<bos>I'll be right up.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

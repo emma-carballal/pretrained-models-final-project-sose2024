@@ -1,0 +1,449 @@
+<bos>- T-minus ten seconds to engagement.<eos>
+<bos>Yaaah! Whoo-hoo!<eos>
+<bos>Whoo! Lo-Fat's goin'off!<eos>
+<bos>- Gotta kill! Gotta kill.<eol>- Stay out of my way, geeks.<eos>
+<bos>Come the next level, I'm a death machine.<eos>
+<bos>Whoo! Yeah!<eos>
+<bos>Status: combat ready.<eos>
+<bos>Situation: Guerrilla units<eol>in the immediate vicinity...<eos>
+<bos>of insertion module.<eos>
+<bos>Whoo! Yeah!<eos>
+<bos>- Let's do this! - Bring it on!<eos>
+<bos>- T-minus ten, nine,<eol>- Look at these heart rates.<eos>
+<bos>- Five, four, - Come on! Yeah!<eos>
+<bos>three, two,<eos>
+<bos>one.<eos>
+<bos>- Engage. - Whoo!<eos>
+<bos>Do you see 'em?<eos>
+<bos>They're out there, geeks,<eol>looking to fry your huevos.<eos>
+<bos>Call it, Retro! Call it!<eos>
+<bos>Now!<eos>
+<bos>Whoa! It's a total massacre out there.<eos>
+<bos>Phase two, geeks.<eos>
+<bos>- Ready, knuckleheads? - Flank right!<eos>
+<bos>- Flank left! - Go!<eos>
+<bos>Lo-Fat's down.<eos>
+<bos>- You got me, Moxie? - Got you covered.<eos>
+<bos>- Retro's in. - Adrenaline redline.<eos>
+<bos>The blood thirst is unquenchable.<eos>
+<bos>Moxie? Who's there?<eos>
+<bos>Who are you?<eos>
+<bos>I am Maitreya. This is my game.<eos>
+<bos>Agents Mulder and Scully.<eol>F.B.I. We're expected.<eos>
+<bos>I need to scan your I.D.<eos>
+<bos>Retina scan, please.<eos>
+<bos>Cool.<eos>
+<bos>Ma'am?<eos>
+<bos>I'll need you to look over<eol>those nondisclosure agreements.<eos>
+<bos>"To protect all proprietary<eol>or intellectual property...<eos>
+<bos>"owned by FPS, a private<eol>California corporation,<eos>
+<bos>under the harshest penalty of the law."<eos>
+<bos>Signature at the bottom, please.<eos>
+<bos>- FPS. - First Person Shooter.<eos>
+<bos>- Video games. - Digital entertainment.<eos>
+<bos>I can get into the Pentagon<eol>easier than this.<eos>
+<bos>Dudes! Agent Mulder, what's up, wild man?<eos>
+<bos>Welcome to the land<eol>where silicon meets silicone.<eos>
+<bos>Can I get you a latte from the bar,<eol>or perhaps a bottle of designer H2O?<eos>
+<bos>Scully?<eos>
+<bos>How 'bout a simple explanation<eol>as to why we're here?<eos>
+<bos>Why don't we take a brief moment to feel<eol>the pulse of the new American gold rush?<eos>
+<bos>You're standing on the launch pad<eol>of a rocket headed for the stars.<eos>
+<bos>Okay.<eos>
+<bos>There's been a little accident.<eos>
+<bos>What kind of accident?<eos>
+<bos>Like an industrial accident.<eos>
+<bos>- How did the victim die?<eol>- It's not exactly clear.<eos>
+<bos>- Right. - Was there equipment involved?<eos>
+<bos>- No. - Yes.<eos>
+<bos>- Yes and no.<eol>- What's your business here?<eos>
+<bos>- Our business? - Yeah.<eos>
+<bos>We're... We're consultants to FPS.<eos>
+<bos>Langly did some programming for them.<eos>
+<bos>- He created all of the bad guys.<eol>- Only the Euro-goons.<eos>
+<bos>We don't want to give you the idea<eol>that we're major profit participants.<eos>
+<bos>Cash or stock options?<eos>
+<bos>Options. Preferred rate.<eos>
+<bos>Vested immediately with a short-term<eol>exercise against venture collateral...<eos>
+<bos>to bypass S.E.C. regs.<eos>
+<bos>- The I.P.O. 's in a week.<eol>- Game ships on Friday.<eos>
+<bos>Fifty malls across<eol>the United States and Japan.<eos>
+<bos>Only there's a dead body<eol>between you and untold riches.<eos>
+<bos>I don't know about you guys,<eol>but I'd be checking my shorts for cake.<eos>
+<bos>- This man's been shot. - No!<eos>
+<bos>See, when somebody is shot,<eol>there's a gun involved, right?<eos>
+<bos>What do you call this?<eos>
+<bos>That's a laser blaster<eol>for wasting cyber-trash.<eos>
+<bos>- It emits a low-frequency...<eol>- Just let me! All right.<eos>
+<bos>The weapons feed off the FPS mainframe.<eos>
+<bos>The effect is intensely real,<eol>but harmless.<eos>
+<bos>You say this weapon is a toy, but<eol>this man clearly has gunshot wounds...<eos>
+<bos>- Through his... - Stun suit.<eos>
+<bos>It's rigged with paint<eol>for wounds and kill shots.<eos>
+<bos>Total bleeding-edge technology.<eos>
+<bos>- He's dead. I got it.<eol>- Who was he playing against?<eos>
+<bos>Against the game. You waste<eol>the cyber-thugs before they waste you.<eos>
+<bos>It's all about body count.<eos>
+<bos>But they're computer-generated images...<eos>
+<bos>running on a projector.<eos>
+<bos>It all happens in the game space.<eos>
+<bos>It's a total digital environment.<eos>
+<bos>Nothing's real. It's all virtual.<eos>
+<bos>Did anybody see what happened?<eos>
+<bos>I was in the control booth with Ivan.<eos>
+<bos>Retro was in the zone.<eol>His telemetry was solid.<eos>
+<bos>He looked unstoppable, like<eol>he was on his way to the next level,<eos>
+<bos>when suddenly he was cooked meat.<eos>
+<bos>Well, the next call's<eol>gonna be to the local P.D.<eos>
+<bos>No cops! No cops. You said no cops.<eos>
+<bos>You said you had connections.<eos>
+<bos>Connections or not,<eol>you've got a murder victim here.<eos>
+<bos>Headlines!<eos>
+<bos>Just what the Wall Street money dudes<eol>want to read as we're goin' to market.<eos>
+<bos>Just what the Wall Street money dudes<eol>want to read as we're goin' to market.<eos>
+<bos>Yes, this is Special Agent<eol>Dana Scully with the F.B.I.<eos>
+<bos>You said you were in<eol>the control booth when it happened?<eos>
+<bos>Can you tell me exactly what you saw?<eos>
+<bos>-  I'm still not sure if we even saw it.<eos>
+<bos>I mean, one minute everything<eol>was going perfect, and then we crashed.<eos>
+<bos>Ivan and I were sitting here.<eol>We both just looked at each other.<eos>
+<bos>It happened so fast.<eos>
+<bos>And then "goosh," Retro's<eol>vitals spike like he's been shot.<eos>
+<bos>And the system defaults.<eos>
+<bos>And they're right back in the game space.<eos>
+<bos>Lo-Fat, get over here! What happened?<eos>
+<bos>Retro? What's wrong?<eos>
+<bos>- Lights out. Game over.<eol>- What's wrong, man? What happened?<eos>
+<bos>What happened in there?<eos>
+<bos>We don't know. There's no<eol>res images on interior game spaces.<eos>
+<bos>What about the wire frame?<eos>
+<bos>Maybe I can.<eos>
+<bos>I'll strip down to wire frame display.<eos>
+<bos>Um, I mean...<eol>we've never mapped this area before.<eos>
+<bos>Retro was in noncombat space.<eos>
+<bos>- It's a chick. - It can't be.<eos>
+<bos>Can you texture-wrap her?<eos>
+<bos>- Holy Toledo!<eol>- She's packin' a flintlock.<eos>
+<bos>That ain't all she's packin'.<eol>Can you print that out for me?<eos>
+<bos>Goddess.<eos>
+<bos>Let me get this straight, Agent Scully.<eos>
+<bos>You got no murder weapon,<eol>no forensic evidence,<eos>
+<bos>no motive, no suspect.<eos>
+<bos>Scully.<eos>
+<bos>My partner Agent Mulder.<eol>This is Detective Lacoeur.<eos>
+<bos>- Have you got something?<eol>- Yeah, our killer, I believe.<eos>
+<bos>Hey, I'll put out an A.P.B.<eol>for Frederick's of Hollywood.<eos>
+<bos>Mulder, you're not serious.<eos>
+<bos>It's all in the computer.<eos>
+<bos>Mulder, that's any voluptuous vixen<eol>out of any number of video games.<eos>
+<bos>She's not in "any video game." She's in<eol>this one, and no one programmed her in.<eos>
+<bos>Yeah, but even if they had,<eol>she's not real.<eos>
+<bos>She's a character. She's-She's<eol>some immature, hormonal fantasy.<eos>
+<bos>Darryl Musashi. You see who that is?<eos>
+<bos>- Darryl Musashi.<eol>- As I live and breathe.<eos>
+<bos>- Who's Darryl Musashi? - The O.G.<eos>
+<bos>Original Guru.<eos>
+<bos>Word is he slums as a game designer<eol>when he's not contracted to the C.I.A.<eos>
+<bos>- The boy wonder of virtual mayhem.<eol>- What's he doing here?<eos>
+<bos>Ivan must have called him<eol>to go in and slay the ninja babe.<eos>
+<bos>Mulder, why does this game<eol>have the effect...<eos>
+<bos>of reducing grown men<eol>back to moony adolescence?<eos>
+<bos>That's Darryl Musashi!<eos>
+<bos>Mulder.<eos>
+<bos>- Huh.<eol>- Do you want me to autopsy the body?<eos>
+<bos>Emerging module<eol>into set mode. T-minus 20 seconds.<eos>
+<bos>Pay attention, worms.<eos>
+<bos>Darryl Musashi's gonna show us<eol>how this game's supposed to be played.<eos>
+<bos>I heard he scored 90 consecutive wins<eol>on Demon Space Drifter.<eos>
+<bos>- Ninety-one.<eol>- Look at him. The man's a sphinx.<eos>
+<bos>- T-minus ten,<eos>
+<bos>nine, eight,<eos>
+<bos>seven, six,<eos>
+<bos>five, four,<eos>
+<bos>three, two, one.<eos>
+<bos>Engage.<eos>
+<bos>Hey, Byers, you gotta see this.<eol>Mulder, get over here.<eos>
+<bos>- Is that him? Is that Darryl Musashi?<eol>- Yeah, that's him.<eos>
+<bos>He just stepped into the game.<eos>
+<bos>- Why is he just standing there?<eol>- Because he knows no fear.<eos>
+<bos>- Yeah! - Unbelievable.<eos>
+<bos>- Standing heart rate is 68.<eol>- He hasn't even broken a sweat.<eos>
+<bos>What just happened?<eos>
+<bos>She cut off his hands.<eos>
+<bos>Preliminary external<eol>examination of deceased,<eos>
+<bos>a 20-ish male,<eol>name listed only as "Retro,"<eos>
+<bos>offers no additional clues<eol>as to actual cause of death.<eos>
+<bos>Scratch that.<eos>
+<bos>Cause of death is from<eol>a large entry wound at the sternum...<eos>
+<bos>resulting in trauma<eol>to the internal organs...<eos>
+<bos>and blood loss.<eos>
+<bos>Wound is consistent<eol>with a high-velocity impact...<eos>
+<bos>from a large projectile...<eos>
+<bos>which passed through<eol>a three-ply Kevlar jacket.<eos>
+<bos>Scratch that.<eos>
+<bos>Wound is the result<eol>of high-velocity impact...<eos>
+<bos>from an unknown object...<eos>
+<bos>which, even if it did enter the body,<eos>
+<bos>left no damn trace evidence whatsoever.<eos>
+<bos>No powder burns,<eol>no chemical signatures...<eos>
+<bos>of any kind of explosive propellant.<eos>
+<bos>- No luck?<eol>- I thought I was on to something.<eos>
+<bos>You know, Mulder, this suit holds<eol>more than just exploding paint cells.<eos>
+<bos>and then sends that information<eol>back to the computer.<eos>
+<bos>Then when a player is shot,<eol>a battery pack sends a 12-volt jolt...<eos>
+<bos>that keeps him from getting up<eol>until the game is over.<eos>
+<bos>Virtual death.<eos>
+<bos>Yeah. Well, if only that were the case.<eos>
+<bos>that one of the charges had blown inward.<eos>
+<bos>But unfortunately,<eol>that wasn't the case either.<eos>
+<bos>I've got a birthday coming up.<eos>
+<bos>You have to admit, though, Scully, this<eol>is a pretty amazing piece of technology.<eos>
+<bos>- Yeah. Wasted on a stupid game.<eol>- Stupid?<eos>
+<bos>Dressing up like high-tech warriors...<eos>
+<bos>to play a futuristic version<eol>of cowboys and Indians.<eos>
+<bos>What kind of moron<eol>gets his ya-yas out like that?<eos>
+<bos>Mulder, what purpose<eol>does this game serve...<eos>
+<bos>- Who says it adds to it?<eol>- You think that taking up weapons...<eos>
+<bos>and creating gratuitous virtual mayhem...<eos>
+<bos>has any redeeming value whatsoever?<eos>
+<bos>That the testosterone frenzy that<eol>it creates stops when the game does?<eos>
+<bos>That's rather sexist, isn't it?<eos>
+<bos>I mean, maybe the game provides<eol>an outlet for certain impulses,<eos>
+<bos>that it fills a void<eol>in our genetic makeup...<eos>
+<bos>that the more civilizing effects<eol>of society fail to provide for us.<eos>
+<bos>That must be why men feel the great<eol>need to blast the crap out of stuff.<eos>
+<bos>Well, testosterone frenzy or no,<eos>
+<bos>the only suspect we have<eol>in this man's murder is a woman.<eos>
+<bos>Yeah, I've seen it.<eos>
+<bos>A computer-animated woman, Mulder,<eos>
+<bos>with a computer-animated weapon.<eos>
+<bos>A flintlock pistol, which would<eol>leave a very large entry wound.<eos>
+<bos>Pictures don't kill people.<eol>Guns kill people.<eos>
+<bos>As do swords.<eos>
+<bos>The world-renowned Darryl Musashi.<eos>
+<bos>Mulder.<eos>
+<bos>You're kidding.<eos>
+<bos>- Thanks.<eos>
+<bos>L.A. Sheriff s Department just picked<eol>up a female suspect for the murders.<eos>
+<bos>Who's the man? He's the man.<eos>
+<bos>He's the man with the badge!<eos>
+<bos>You get the feeling these men<eol>have something better to do?<eos>
+<bos>I mean, is that legal?<eos>
+<bos>Uh, we picked her up<eol>outside of a strip club in Reseda.<eos>
+<bos>Fits your description to a "T."<eos>
+<bos>- Was she read her rights?<eol>- About 500 times.<eos>
+<bos>- Oh, yeah.<eos>
+<bos>For the record, can you<eol>state your name, please?<eos>
+<bos>For the record, can you<eol>state your name, please?<eos>
+<bos>For the record again, my name is<eol>Jade Blue Afterglow. I reside...<eos>
+<bos>- I'm sorry. Your real name?<eol>- That is my real name.<eos>
+<bos>What were you expecting? Mildred?<eos>
+<bos>No.<eos>
+<bos>I sure seem to be upsetting<eol>a lot of people around here.<eos>
+<bos>Well, you're not<eol>upsetting me, Miss, uh...<eos>
+<bos>Afterglow.<eos>
+<bos>I sure upset the man<eol>running the metal detector.<eos>
+<bos>You say that you have<eol>no knowledge of Ivan Martinez...<eos>
+<bos>or a company known<eol>as First Person Shooter, or FPS.<eos>
+<bos>I meet a lot of men.<eos>
+<bos>Would it surprise you to know that you<eol>have been placed at a crime scene...<eos>
+<bos>in the offices of FPS?<eos>
+<bos>Let's just say it takes<eol>a whole lot to surprise me.<eos>
+<bos>You might want to start<eol>telling the truth.<eos>
+<bos>And what truth am I not telling you?<eos>
+<bos>That you murdered two men,<eos>
+<bos>one with a 14th-century broadsword,<eos>
+<bos>and the other with a flintlock pistol.<eos>
+<bos>Oh. You must have had me<eol>confused with my sister.<eos>
+<bos>Xena, warrior princess.<eos>
+<bos>Are you denying that this is you?<eos>
+<bos>- Now I get it. - What?<eos>
+<bos>The medical imaging place in Culver City.<eos>
+<bos>I got paid to let them<eol>do this body-scan thing.<eos>
+<bos>They paid you to scan your body?<eos>
+<bos>You think that's the strangest thing<eol>I've been paid to do?<eos>
+<bos>We're very sorry, Miss Afterglow, but...<eos>
+<bos>Uh, we're sorry. You're free to go.<eos>
+<bos>I don't know about you, Scully,<eol>but I am feeling the great need...<eos>
+<bos>to blast the crap out of something.<eos>
+<bos>- Hello? - Anybody here?<eos>
+<bos>Phoebe?<eos>
+<bos>Hey, you okay?<eos>
+<bos>Boy, I must have fell asleep.<eos>
+<bos>I was just thinking of taking a nap.<eos>
+<bos>I've been up for 70 hours<eol>straight analyzing code,<eos>
+<bos>trying to fix the game.<eos>
+<bos>- Where is everybody? Where's Ivan?<eol>- Um, he's with the money guys.<eos>
+<bos>They're all freaking.<eos>
+<bos>We need to talk to him right away<eol>about a woman named Jade Blue Afterglow.<eos>
+<bos>He scanned her body and he<eol>created the character out of her.<eos>
+<bos>- He put her in the game.<eol>- Hey, what are they doing?<eos>
+<bos>Oh.<eos>
+<bos>The Lone Gunmen are on the floor.<eos>
+<bos>Langly and I wrote a software patch.<eos>
+<bos>To bypass the problem.<eos>
+<bos>- Hey. - What just happened?<eos>
+<bos>Oh, I don't know.<eos>
+<bos>- They're in the game.<eol>- Hey, Phoebe, are you paying attention?<eos>
+<bos>You're supposed to wait<eol>until we said we were ready.<eos>
+<bos>What the hell's going on?<eos>
+<bos>Phoebe, come on.<eos>
+<bos>- What's happening?<eol>- Anyone up there running the program?<eos>
+<bos>I don't believe this.<eol>The program's running itself.<eos>
+<bos>- Phoebe! - This can't be happening.<eos>
+<bos>Somebody's shooting at them.<eos>
+<bos>They need help.<eos>
+<bos>Mulder!<eos>
+<bos>Nine, eight, seven,<eos>
+<bos>six, five,<eos>
+<bos>four, three,<eos>
+<bos>two, one.<eos>
+<bos>- Engage. - Bring it on.<eos>
+<bos>- You guys okay? - We've been better.<eos>
+<bos>- Byers has been hit.<eol>- I'm okay. It's a flesh wound.<eos>
+<bos>It's her. She's out there.<eos>
+<bos>She nailed Byers with that flintlock.<eos>
+<bos>Okay, on the count of three,<eol>I'm gonna lay down some cover, fellas.<eos>
+<bos>You ready?<eos>
+<bos>One,<eos>
+<bos>two, three.<eos>
+<bos>Mulder!<eos>
+<bos>Get in the module!<eos>
+<bos>- What is he doing?<eol>- Don't go after her! Get back here!<eos>
+<bos>- He's getting his ya-yas out.<eol>- We're not defaulting the program!<eos>
+<bos>- Mulder! - It's suicide!<eos>
+<bos>Put the sword down.<eos>
+<bos>Mulder?<eos>
+<bos>- Oh, no.<eos>
+<bos>Where's Mulder?<eos>
+<bos>I said, where's Mulder?<eos>
+<bos>Maybe you guys didn't hear me.<eol>Come on, guys. Where is he?<eos>
+<bos>We don't know.<eol>He just took off after her.<eos>
+<bos>- He was firing his weapon.<eol>- I saw where he went!<eos>
+<bos>I want to know where he is.<eos>
+<bos>Is there a door or an exit or some kind<eol>of passageway that he could have used?<eos>
+<bos>Just the one you came in.<eos>
+<bos>- It's just a game. - Yeah.<eos>
+<bos>- Easy for you to say. -  Agent Scully!<eos>
+<bos>I found him.<eos>
+<bos>This monitors everyone playing<eol>the game. There... player four.<eos>
+<bos>- It's his telemetry. - What do you mean?<eos>
+<bos>Player four. That's him.<eos>
+<bos>- On the monitor. - Right there.<eos>
+<bos>- Where? - That's Mulder.<eos>
+<bos>- He's alive. - Those are his vitals.<eos>
+<bos>- He's still in the game.<eol>- Yes, but where's the game?<eos>
+<bos>Frohike!<eos>
+<bos>Langly!<eos>
+<bos>Byers!<eos>
+<bos>- I think that's it. - Yeah.<eos>
+<bos>- What are you doing?<eol>- We're rerouting the circuitry.<eos>
+<bos>I mean, it won't work.<eol>There's no way to do that.<eos>
+<bos>We are back in business!<eol>Baby, you are dope.<eos>
+<bos>What?<eos>
+<bos>We were toast.<eol>I felt the flames licking my ass.<eos>
+<bos>Then the bankers saw<eol>the letters on the autopsy..."F.B.I.<eos>
+<bos>Cause of death: unknown."<eos>
+<bos>Yeah, and you're gonna be countin' teeth.<eos>
+<bos>- Her partner's lost in the game. - Lost?<eos>
+<bos>- The game has disappeared.<eol>- What are you talking about?<eos>
+<bos>Jade Blue Afterglow.<eol>Does that ring a bell?<eos>
+<bos>Jade Blue Afterglow?<eos>
+<bos>- Oh, you'd remember her.<eos>
+<bos>Hey! Phoebe!<eos>
+<bos>I don't know how it happened.<eos>
+<bos>You knew about her?<eos>
+<bos>Then it was you.<eol>You scanned that woman's body.<eos>
+<bos>Into my computer.<eos>
+<bos>She was my creation. She was mine.<eos>
+<bos>- But why?<eol>- You don't know what it's like...<eos>
+<bos>day in and day out, choking<eol>in a haze of rampant testosterone.<eos>
+<bos>I wouldn't be so sure.<eos>
+<bos>I mean, she was all I had<eol>to keep me sane,<eos>
+<bos>my only way to strike back as a woman.<eos>
+<bos>She was my goddess,<eol>everything I can never be.<eos>
+<bos>But, Phoebe, she is still a killer.<eos>
+<bos>I can't explain it, but she is,<eol>and you put her in that game.<eos>
+<bos>No, I didn't.<eos>
+<bos>I was creating my own game<eol>in my own computer.<eos>
+<bos>It was totally secret.<eol>I never told anyone.<eos>
+<bos>But somehow she jumped programs,<eos>
+<bos>and she's feeding off<eol>the male aggression.<eos>
+<bos>It's making her stronger and stronger.<eos>
+<bos>I need your help.<eos>
+<bos>You're the only one who can understand.<eos>
+<bos>- You've got to destroy her, Phoebe.<eol>- I don't know how.<eos>
+<bos>Well, there's got to be some way.<eos>
+<bos>There's got to be some vulnerability<eol>or a weakness somewhere.<eos>
+<bos>She has no weakness anymore.<eos>
+<bos>Hey!<eos>
+<bos>Bet you think you're gonna kick<eol>my butt up and down the block.<eos>
+<bos>Okay.<eos>
+<bos>Her name is Maitreya.<eos>
+<bos>- Maitreya?<eol>- She's input herself into the game.<eos>
+<bos>- We have to download her.<eol>- We can't even get on-line.<eos>
+<bos>- The system's been hijacked.<eol>- The program won't respond.<eos>
+<bos>Frohike, what's wrong?<eos>
+<bos>- What is that?<eol>- Mulder's vitals are wiggy.<eos>
+<bos>- What? - They're all over the map.<eos>
+<bos>This is your fault.<eos>
+<bos>- You put her here. - Hey!<eos>
+<bos>No fair pickin' on a girl.<eos>
+<bos>We're back on-line.<eos>
+<bos>- There's no picture.<eol>- No, we're just in res-up.<eos>
+<bos>No, there's something wrong.<eos>
+<bos>- That's not the game.<eol>- Yes, it is. It's level two.<eos>
+<bos>- How did that happen? - Where's Mulder?<eos>
+<bos>Mulder's in level one.<eos>
+<bos>-  No, he's right there.<eol>- Shut the game down.<eos>
+<bos>No, no. No, no. I can't.<eos>
+<bos>- Well, just turn it off.<eol>-  Power down, Langly.<eos>
+<bos>- The computer's not responding.<eol>- Look, we have to get him out of there!<eos>
+<bos>Yeah, and quick.<eos>
+<bos>Whoa! Stop right there!<eos>
+<bos>That's not really fair, is it?<eos>
+<bos>Well, that's just cheating.<eos>
+<bos>- Go, girl! - Scully's on fire!<eos>
+<bos>- The blood thirst in unquenchable!<eol>- Are you witnessing this?<eos>
+<bos>- Oh, yeah. - Scully's in the zone!<eos>
+<bos>- Clearly. - What's wrong?<eos>
+<bos>This is level two. It only gets harder.<eos>
+<bos>No one's ever beaten level two.<eos>
+<bos>- Are you okay?<eol>- Ask me if I'm humiliated.<eos>
+<bos>Mulder.<eos>
+<bos>-  This is nuts! - They'll never make it.<eos>
+<bos>- My whole life is in this game!<eol>- What are you trying to do?<eos>
+<bos>- Stay out of this!<eol>- She's gonna destroy it.<eos>
+<bos>- It's the only way to save them.<eol>- Let it go, both of you!<eos>
+<bos>- You can save them?<eol>- There's a kill command.<eos>
+<bos>- It kills the whole game.<eol>- You knew about this?<eos>
+<bos>- She knew about it too.<eol>- You said it wouldn't work.<eos>
+<bos>She was trying to save<eol>her creation, her goddess.<eos>
+<bos>You don't care who dies<eol>as long as your game survives.<eos>
+<bos>- Our friends are in there.<eol>- And we're not gonna let them die.<eos>
+<bos>Mulder?<eos>
+<bos>Give me that!<eol>This is out of your hands now.<eos>
+<bos>- Shut down the program.<eol>- You're the only ones that can do it.<eos>
+<bos>- They can't keep this up.<eol>- Scully's running out of ammo.<eos>
+<bos>- What's the command?<eol>- Don't do it, Phoebe.<eos>
+<bos>We're so close.<eos>
+<bos>- The command. - Give it to him.<eos>
+<bos>Shift-Alt-Blood Bath.<eos>
+<bos>Oh, my God.<eos>
+<bos>We killed the game,<eol>and Mulder and Scully along with it.<eos>
+<bos>Over here!<eos>
+<bos>- Scully! - Mulder!<eos>
+<bos>Scully!<eos>
+<bos>That's entertainment!<eos>
+<bos>We came, we saw, we conquered.<eos>
+<bos>And if the taste of victory is sweet,<eos>
+<bos>the taste of virtual victory<eol>is not Sweet 'N Low,<eos>
+<bos>nor the bullets made of sugar.<eos>
+<bos>Maybe out past where the imagination<eol>ends, our true natures lie,<eos>
+<bos>waiting to be confronted<eol>on their own terms.<eos>
+<bos>Out where the intellect is at war<eol>with the primitive brain...<eos>
+<bos>in the hostile territory<eol>of the digital world...<eos>
+<bos>where laws are silent and rules<eol>disappear in the midst of arms.<eos>
+<bos>Born in anarchy,<eol>with an unquenchable blood thirst,<eos>
+<bos>we shudder to think<eol>what might rise up from the darkness.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

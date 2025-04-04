@@ -1,0 +1,616 @@
+<bos>Don't you see?<eos>
+<bos>It's so painfully obvious.<eos>
+<bos>Why do you think<eol>our stock's in the toilet?<eos>
+<bos>Because you're cutting research<eos>
+<bos>and development in half.<eos>
+<bos>You've forgotten<eol>what the adventure's all about.<eos>
+<bos>Like it or not, the industry's changing.<eos>
+<bos>We need to make some hard choices.<eos>
+<bos>You save your sound bite for the press.<eos>
+<bos>Let's not relive<eol>the stockholders meeting again.<eos>
+<bos>Don't you get it?<eos>
+<bos>You're killing me.<eos>
+<bos>You're killing my company!<eos>
+<bos>Eurisko is not your company,<eol>Brad, not anymore,<eos>
+<bos>and you'd damn well better<eol>grow up and get used to it.<eos>
+<bos>You're going to regret this.<eos>
+<bos>New paragraph.<eos>
+<bos>As I'm sure everyone<eol>on the board will agree,<eos>
+<bos>Eurisko has to face head-on<eos>
+<bos>the realities of an increasingly<eol>competitive world.<eos>
+<bos>Since the unfortunate departure<eol>of Brad Wilczek, I have made<eos>
+<bos>certain recommendations which I believe<eos>
+<bos>will reposition Eurisko<eol>as an industry leader.<eos>
+<bos>At the top of this list<eos>
+<bos>is the immediate termination<eol>of the C.O.S. Project.<eos>
+<bos>Its disastrous performance<eol>over the past three quarters<eos>
+<bos>and projected losses well into 1994<eos>
+<bos>leave us no other choice.<eos>
+<bos>Hello? Hello!<eos>
+<bos>At the tone, Eastern<eol>Standard Time will be 7:35 p.m.<eos>
+<bos>What the hell?<eos>
+<bos>Damn.<eos>
+<bos>File deleted.<eos>
+<bos>Mulder.<eos>
+<bos>Jerry?<eos>
+<bos>You're Dana Scully, right?<eos>
+<bos>Jerry Lamana.<eos>
+<bos>Jerry and I worked together<eol>in Violent Crimes.<eos>
+<bos>Worked together? What are you<eol>talking "worked together"?<eos>
+<bos>We were partners.<eos>
+<bos>That's $8.50, please.<eos>
+<bos>So, Jerry, what are you doing here?<eos>
+<bos>Looking for you,<eol>and I'm buying you two lunch.<eos>
+<bos>No, really...<eos>
+<bos>No. It's on me.<eos>
+<bos>Here.<eos>
+<bos>Cause of death was electrocution.<eos>
+<bos>And it wasn't accidental?<eos>
+<bos>It looks like some kind<eol>of elaborate booby trap,<eos>
+<bos>but we don't know a whole lot more.<eos>
+<bos>Building engineer<eol>just found him 12 hours ago.<eos>
+<bos>Who's running the investigation?<eos>
+<bos>Either of you know Nancy Spiller?<eos>
+<bos>The forensics instructor at the academy?<eos>
+<bos>We used to call her the Iron Maiden.<eos>
+<bos>On a good day.<eos>
+<bos>Well, anyway, she's putting<eol>together the squad,<eos>
+<bos>and, well, I took the liberty<eol>of mentioning your name.<eos>
+<bos>Look, Jerry, I'd like to help you out,<eos>
+<bos>but we're not on general assignment.<eos>
+<bos>Because of the X-Files.<eos>
+<bos>Look, the truth is,<eos>
+<bos>I could use a little help on this.<eos>
+<bos>I don't want to drop<eol>the ball on this one.<eos>
+<bos>You won't drop the ball.<eos>
+<bos>Drake wasn't just a CEO<eol>of a Fortune 500 company.<eos>
+<bos>He was a good friend<eol>of the attorney general's.<eos>
+<bos>Another feather in my cap<eol>would be really nice<eos>
+<bos>right now 'cause the one I got<eol>is looking a little mangy.<eos>
+<bos>Yeah, but, Jerry... Look...<eos>
+<bos>I wouldn't ask if it wasn't important.<eos>
+<bos>How come you two went your separate ways?<eos>
+<bos>I'm a pain in the ass to work with.<eos>
+<bos>Seriously.<eos>
+<bos>I'm not a pain in the ass?<eos>
+<bos>We had different career goals.<eos>
+<bos>Jerry wanted the fifth floor.<eos>
+<bos>And you?<eos>
+<bos>I was gunning for a basement office<eos>
+<bos>with no heat or windows.<eos>
+<bos>Well, I know where you ended up.<eos>
+<bos>What about Jerry?<eos>
+<bos>He ran into a little bad luck in Atlanta,<eos>
+<bos>working hate crimes.<eos>
+<bos>What kind of bad luck?<eos>
+<bos>He misplaced a piece of evidence,<eos>
+<bos>bagged and everything.<eos>
+<bos>Sent it to the cleaners.<eos>
+<bos>By the time he got it back,<eol>a federal judge<eos>
+<bos>had lost both his hands<eol>and his right eye.<eos>
+<bos>29? Uh-huh.<eos>
+<bos>Going up.<eos>
+<bos>Must be for the visually impaired.<eos>
+<bos>How do you like that?<eos>
+<bos>A politically correct elevator.<eos>
+<bos>Third floor...<eos>
+<bos>fourth floor...<eos>
+<bos>You okay?<eos>
+<bos>Yeah.<eos>
+<bos>What was that?<eos>
+<bos>Yes?<eos>
+<bos>Hello?<eos>
+<bos>Security. Who's this?<eos>
+<bos>This is Agent Dana Scully.<eos>
+<bos>Agent Scully, do you have a problem?<eos>
+<bos>Fifth floor...<eos>
+<bos>Uh, actually, I think everything's okay.<eos>
+<bos>All right. ...ninth floor...<eos>
+<bos>Thank you. ...tenth floor, 11th floor...<eos>
+<bos>See here?<eos>
+<bos>Someone has tampered with the servo.<eos>
+<bos>They switched the ground to the negative<eos>
+<bos>so that when he put<eol>the key in the lock...<eos>
+<bos>He completed the circuit.<eos>
+<bos>It's fused.<eos>
+<bos>It takes a lot of juice<eol>to melt a steel key.<eos>
+<bos>And to throw a 180-pound man ten feet.<eos>
+<bos>The, uh, servo switch-- could<eol>it have been moved manually?<eos>
+<bos>We didn't find any prints<eol>in the surrounding area.<eos>
+<bos>Sure, it could have been switched<eos>
+<bos>manually, but whoever did it<eos>
+<bos>would have had to override the C.O.S.<eos>
+<bos>What's the C.O.S.?<eos>
+<bos>The central operating system.<eos>
+<bos>It runs the building.<eos>
+<bos>Regulates everything from energy output<eos>
+<bos>to the volume of water<eol>in each toilet flush.<eos>
+<bos>This is Claude Peterson, he's<eol>the building systems engineer.<eos>
+<bos>He discovered the body.<eos>
+<bos>If somebody wanted to<eol>override the C.O.S.,<eos>
+<bos>what would they...?<eos>
+<bos>Well, first he'd have<eol>to break the access codes,<eos>
+<bos>which-- well, let's just say<eol>it wouldn't be easy.<eos>
+<bos>Well, we're gonna need a list<eos>
+<bos>of all the people<eol>with that kind of know-how.<eos>
+<bos>I can tell you right now,<eos>
+<bos>it'll be a pretty short list.<eos>
+<bos>Would you be on it?<eos>
+<bos>Me? Yeah.<eos>
+<bos>Hey, look, I'm just a<eol>glorified building super.<eos>
+<bos>All I do is monitor the system,<eos>
+<bos>make sure it's functioning,<eos>
+<bos>like when I saw the overload<eol>in Mr. Drake's office.<eos>
+<bos>What about the phone lines?<eos>
+<bos>Does the C.O.S. monitor all phone calls?<eos>
+<bos>Yes, it does. Why?<eos>
+<bos>I'm just wondering.<eos>
+<bos>Okay, um, look, can I go now?<eos>
+<bos>Okay.<eos>
+<bos>Why did you ask him about the phones?<eos>
+<bos>Phone's off the hook.<eos>
+<bos>Maybe Drake was talking to somebody<eos>
+<bos>right before he did his<eol>Ben Franklin impersonation.<eos>
+<bos>Taught him everything he knows.<eos>
+<bos>Come in.<eos>
+<bos>It's past 3:00.<eos>
+<bos>I'm just looking for my profile notes.<eos>
+<bos>Maybe if you cleaned your desk<eol>more than once a year.<eos>
+<bos>They were right here, I'm telling you.<eos>
+<bos>Come on, we're late.<eos>
+<bos>Now, there are a couple elements<eos>
+<bos>for us to consider here.<eos>
+<bos>Both the statistical rarity<eol>of homicidal electrocution<eos>
+<bos>and the complexity of the crime<eos>
+<bos>indicate a certain devious premeditation.<eos>
+<bos>After all, there are much<eol>simpler ways of killing someone.<eos>
+<bos>All of which leads me to believe<eos>
+<bos>that our guy was some kind<eol>of sociopathic game player--<eos>
+<bos>maybe even a recluse,<eos>
+<bos>since he designed a trap<eos>
+<bos>not only to avoid detection<eos>
+<bos>but to avoid contact with the victim.<eos>
+<bos>Is that your profile?<eos>
+<bos>Forget it, huh?<eos>
+<bos>Drake's final phone call<eol>supports this theory.<eos>
+<bos>At the tone, Eastern<eol>Standard Time will be 7:35 p.m.<eos>
+<bos>Drake's estimated time of death.<eos>
+<bos>Why would Drake call for the correct time<eos>
+<bos>just before he died?<eos>
+<bos>It was an incoming call.<eos>
+<bos>From somewhere<eol>in the Eurisko building itself.<eos>
+<bos>Whoever set the trap<eos>
+<bos>wanted to make sure that Drake<eol>took the bait.<eos>
+<bos>Excellent work, Agent Lamana.<eos>
+<bos>Thank you.<eos>
+<bos>Jerry, what the hell are you doing?<eos>
+<bos>Hey, don't get all bent out of shape.<eos>
+<bos>Jerry, that was my profile.<eos>
+<bos>Look, I didn't think you'd mind.<eos>
+<bos>Anyway, they were just notes.<eos>
+<bos>I filled in the blanks.<eos>
+<bos>Jerry, you went into my office<eos>
+<bos>and you stole my work.<eos>
+<bos>Look, you're on this case<eos>
+<bos>'cause I asked you to help me out<eos>
+<bos>and you helped me out.<eos>
+<bos>What is the big deal?<eos>
+<bos>What did he say?<eos>
+<bos>He apologized... in his own way.<eos>
+<bos>I just got off the phone<eos>
+<bos>with Peterson, the systems engineer.<eos>
+<bos>One name? Brad Wilczek?<eos>
+<bos>He said it would be a short list.<eos>
+<bos>And it's headline news how<eol>much this guy despised Drake.<eos>
+<bos>That just seems too obvious.<eos>
+<bos>To kill Drake would be<eol>so brazenly egomaniacal.<eos>
+<bos>And fully consistent<eos>
+<bos>with Jerry's excellent<eol>behavioral profile.<eos>
+<bos>Fully.<eos>
+<bos>So this is what a 220 IQ<eos>
+<bos>and a $400 million<eol>severance settlement buys you.<eos>
+<bos>Yes?<eos>
+<bos>Brad Wilczek?<eos>
+<bos>We're with the FBI.<eos>
+<bos>What took you guys so long?<eos>
+<bos>Oh, and do you mind<eol>taking off your shoes?<eos>
+<bos>You can divide<eol>the computer science industry<eos>
+<bos>into two types of people--<eol>neat and scruffy.<eos>
+<bos>I take it Benjamin Drake fit<eol>into the first category.<eos>
+<bos>Neat people like things neat.<eos>
+<bos>They wear nicely pressed suits<eos>
+<bos>and work on surface phenomena--<eos>
+<bos>things they can understand--<eos>
+<bos>market shares and third quarter profits.<eos>
+<bos>And you had a different vision<eos>
+<bos>for the company?<eos>
+<bos>I started Eurisko<eol>out of my parents' garage.<eos>
+<bos>I was 22 years old, just spent a year<eos>
+<bos>following around the Grateful Dead.<eos>
+<bos>You know what Eurisko means?<eos>
+<bos>Mm-mm.<eos>
+<bos>That's from the Greek, isn't it?<eos>
+<bos>Um... "I learn things."<eos>
+<bos>Not exactly.<eos>
+<bos>It means "I discover things."<eos>
+<bos>Unfortunately, Ben Drake<eol>wasn't interested<eos>
+<bos>in discovery.<eos>
+<bos>He was a shortsighted,<eol>power-hungry opportunist.<eos>
+<bos>Let me show you something: a smart home.<eos>
+<bos>From this prototype, I have access<eos>
+<bos>to every square foot of my house.<eos>
+<bos>This place as safe as Fort Knox<eos>
+<bos>and as energy efficient<eol>as your average igloo.<eos>
+<bos>We were two years ahead<eol>of Microsoft and Cebus<eos>
+<bos>when Drake, in his infinite<eol>wisdom, killed the program.<eos>
+<bos>Mr. Wilczek,<eos>
+<bos>is this system related<eos>
+<bos>to the one in your corporate building?<eos>
+<bos>Variation on a theme.<eos>
+<bos>In your opinion,<eos>
+<bos>how many people know the system<eos>
+<bos>well enough to override it?<eos>
+<bos>Finally, the bonus question.<eos>
+<bos>"Not many" is the answer.<eos>
+<bos>Could someone have, uh,<eol>hacked into the system?<eos>
+<bos>Well, not your average<eol>phone freak, that's for sure.<eos>
+<bos>But there's plenty of kooks out there.<eos>
+<bos>Data travelers, electro-wizards,<eos>
+<bos>techno-anarchists.<eos>
+<bos>Anything's possible.<eos>
+<bos>Could you have done it?<eos>
+<bos>Of course.<eos>
+<bos>I designed the system.<eos>
+<bos>That's why you guys are here, isn't it?<eos>
+<bos>I'm your logical suspect.<eos>
+<bos>You don't seem too worried.<eos>
+<bos>It's a puzzle, Ms. Scully,<eos>
+<bos>and scruffy minds like me like puzzles.<eos>
+<bos>We enjoy walking down<eol>unpredictable avenues of thought<eos>
+<bos>turning new corners--<eos>
+<bos>but as a general rule,<eos>
+<bos>scruffy minds don't commit murder.<eos>
+<bos>Some see genius as the ability<eol>to connect the unconnected--<eos>
+<bos>to make juxtapositions,<eos>
+<bos>to see relationships where others cannot.<eos>
+<bos>Is Brad Wilczek a genius?<eos>
+<bos>I don't know.<eos>
+<bos>But I do know this for certain:<eos>
+<bos>He has a predilection<eol>for elaborate game playing.<eos>
+<bos>He has an intimate knowledge<eol>of the Eurisko building<eos>
+<bos>and he has a demonstrable motive<eos>
+<bos>for killing Benjamin Drake.<eos>
+<bos>The question remains.<eos>
+<bos>But if he's so clever,<eol>how do we nail him?<eos>
+<bos>End of field journal, October 24, 1993.<eos>
+<bos>File opened.<eos>
+<bos>From the outset,<eos>
+<bos>I knew that Eurisko<eol>would expand effectively,<eos>
+<bos>not by traditional Western structures,<eos>
+<bos>but by employing certain Zen beliefs<eos>
+<bos>and other Eastern philosophies...<eos>
+<bos>...and other Eastern philosophies...<eos>
+<bos>...Eastern philosoph...<eos>
+<bos>...Eastern...<eos>
+<bos>Will you give me a second?<eos>
+<bos>Look, I'm here with my hat in my hand.<eos>
+<bos>I screwed up. I'm sorry.<eos>
+<bos>What more can I say?<eos>
+<bos>All you had to do was ask.<eos>
+<bos>I would have helped you with the profile.<eos>
+<bos>You don't know what it's like, Mulder.<eos>
+<bos>What what's like?<eos>
+<bos>You heard about Atlanta?<eos>
+<bos>I gotta file daily reports<eol>like some cheery new agent.<eos>
+<bos>That was bad luck.<eos>
+<bos>That could've happened to anybody.<eos>
+<bos>Not to you.<eos>
+<bos>Don't run yourself down, Jerry.<eos>
+<bos>You're a good agent.<eos>
+<bos>We did some good work together...<eos>
+<bos>Come on, let's face it.<eol>I was tagging along.<eos>
+<bos>You were too busy dazzling them<eol>up there on the high wire.<eos>
+<bos>Mulder... take a look.<eos>
+<bos>We borrowed this<eos>
+<bos>from the voice biometrics<eol>lab at Georgetown.<eos>
+<bos>It's a computer spectrogram<eos>
+<bos>capable of identifying<eol>individual speech patterns.<eos>
+<bos>This is the recording<eos>
+<bos>the central operating system made<eos>
+<bos>of the phone call Drake received<eos>
+<bos>just before he died.<eos>
+<bos>At the tone, Eastern<eol>Standard Time will be 7:35 p.m.<eos>
+<bos>And this we spliced together<eos>
+<bos>from a series of lectures<eol>Brad Wilczek gave<eos>
+<bos>at the Smithsonian last year.<eos>
+<bos>At the tone, Eastern Standard Time<eos>
+<bos>will be 7:35 p.m.<eos>
+<bos>Now we'll stack them.<eos>
+<bos>At the tone,<eos>
+<bos>Eastern Standard Time will be 7:35 p.m.<eos>
+<bos>You're saying this is the same person?<eos>
+<bos>I'm saying that both voices<eol>are Brad Wilczek's.<eos>
+<bos>He may have disguised<eol>his voice electronically,<eos>
+<bos>but he couldn't alter the form<eos>
+<bos>that's unique to his own speech patterns.<eos>
+<bos>Which means that he was<eol>the one that killed Drake.<eos>
+<bos>He had the motive and the means.<eos>
+<bos>And now we have the physical evidence.<eos>
+<bos>Judge Benson lives in Washington Heights.<eos>
+<bos>I can get a warrant in less than an hour.<eos>
+<bos>Someone has to make sure<eol>Wilczek stays put.<eos>
+<bos>I'll go with you.<eos>
+<bos>No. Let me bring him in alone.<eos>
+<bos>I need this one, Mulder.<eos>
+<bos>All right.<eos>
+<bos>Come on, come on, let me in.<eos>
+<bos>Damn!<eos>
+<bos>Mr. Wilczek!<eos>
+<bos>Going up.<eos>
+<bos>Second floor, third floor, fourth...<eos>
+<bos>Can I help you?<eos>
+<bos>FBI.<eos>
+<bos>Welcome back, Brad.<eos>
+<bos>You're not equipped<eos>
+<bos>with a voice synthesizer.<eos>
+<bos>What is my user level?<eos>
+<bos>That is now at the discretion<eol>of the operating system.<eos>
+<bos>Going up.<eos>
+<bos>Second floor, third floor, fourth floor<eos>
+<bos>fifth floor, sixth floor,<eol>seventh floor, eighth floor<eos>
+<bos>ninth floor, tenth floor,<eos>
+<bos>11th floor, 12th floor, 14th floor<eos>
+<bos>15th floor, 16th floor...<eos>
+<bos>What the hell?<eos>
+<bos>What are you doing?<eos>
+<bos>Sorry. Those commands are not available<eos>
+<bos>at your current user level.<eos>
+<bos>Try again.<eos>
+<bos>...23rd floor, 24th floor...<eos>
+<bos>What are you doing?!<eos>
+<bos>What are you doing?!<eos>
+<bos>...27th floor...<eos>
+<bos>...28th floor...<eos>
+<bos>29th floor...<eos>
+<bos>30th floor...<eos>
+<bos>29-30, 29-30, 29-30, 29-30<eos>
+<bos>Son of a... 29-30, 29-30, 29-30, 29-30<eos>
+<bos>Oh, man.<eos>
+<bos>Going down.<eos>
+<bos>No!<eos>
+<bos>Don't do this!<eos>
+<bos>Oh, my God.<eos>
+<bos>Program executed.<eos>
+<bos>I heard about Jerry.<eos>
+<bos>I'm sorry.<eos>
+<bos>I don't think Wilczek did it.<eos>
+<bos>What?<eos>
+<bos>It doesn't make sense.<eos>
+<bos>Why would he go back to Eurisko?<eos>
+<bos>To destroy evidence, to cover his tracks.<eos>
+<bos>If you were going to destroy evidence,<eos>
+<bos>would you pose for the cameras?<eos>
+<bos>Mulder...<eos>
+<bos>you've been through a lot--<eos>
+<bos>more than I think even you realize.<eos>
+<bos>I think Wilczek is smarter than this.<eos>
+<bos>He just signed a confession.<eos>
+<bos>How much proof do you need?<eos>
+<bos>Excuse me, sir, this is a crime scene.<eos>
+<bos>You're gonna have to leave.<eos>
+<bos>I know. I ordered the subpoena.<eos>
+<bos>That subpoena's been obviated.<eos>
+<bos>What are you talking about?<eos>
+<bos>Unless you've got a code five clearance,<eos>
+<bos>I'm going to have<eol>to ask you to turn back.<eos>
+<bos>Thanks for coming.<eos>
+<bos>I'm here against my better judgment.<eos>
+<bos>In the future, I must insist<eos>
+<bos>that you respect the terms<eol>of our arrangement.<eos>
+<bos>I need to know why Brad Wilczek<eos>
+<bos>is the subject of a code<eol>five investigation--<eos>
+<bos>what the Defense<eol>Department wants with him.<eos>
+<bos>What do you think they'd want<eos>
+<bos>with the most innovative<eol>programmer in this hemisphere?<eos>
+<bos>Software. Yeah.<eos>
+<bos>For years, Wilczek has thumbed his nose<eos>
+<bos>at any contract involving<eol>weapons applications.<eos>
+<bos>He's a bleeding heart.<eos>
+<bos>What kind of software?<eos>
+<bos>How much do you know<eos>
+<bos>about artificial intelligence?<eos>
+<bos>I thought it was only theoretical.<eos>
+<bos>It was, until two years ago.<eos>
+<bos>Do you remember Helsinki--<eos>
+<bos>the first time that<eol>a chess-playing computer<eos>
+<bos>ever beat a grand master?<eos>
+<bos>That was Wilczek's program.<eos>
+<bos>And the rumor was that he did it<eos>
+<bos>by developing the first adaptive network.<eos>
+<bos>An adaptive network?<eos>
+<bos>It's a learning machine--<eos>
+<bos>a computer that actually thinks.<eos>
+<bos>And it's, uh, become<eol>something of a Holy Grail<eos>
+<bos>for some of our more<eol>acquisitive colleagues<eos>
+<bos>in the Department of Defense.<eos>
+<bos>They make me wear shoes all the time.<eos>
+<bos>What else do you want from me?<eos>
+<bos>I want you to tell me why you're willing<eos>
+<bos>to spend the rest of your life in prison<eos>
+<bos>for a crime you didn't commit.<eos>
+<bos>What are you talking about?<eos>
+<bos>I'm guilty.<eos>
+<bos>I know you're innocent.<eos>
+<bos>You're protecting a machine--<eos>
+<bos>the central operating system at Eurisko.<eos>
+<bos>If I'm protecting anything,<eol>it's not the machine.<eos>
+<bos>Then what?<eos>
+<bos>After the bomb was dropped<eol>on Hiroshima and Nagasaki,<eos>
+<bos>Robert Oppenheimer<eol>spent the rest of his life<eos>
+<bos>regretting he'd ever glimpsed an atom.<eos>
+<bos>Oppenheimer may have<eol>regretted his actions<eos>
+<bos>but he never denied<eol>responsibility for them.<eos>
+<bos>He loved the work, Mr. Mulder.<eos>
+<bos>His mistake was in sharing it<eol>with an immoral government.<eos>
+<bos>I won't make the same mistake.<eos>
+<bos>But your machine killed Drake.<eos>
+<bos>And it killed my friend.<eos>
+<bos>I'm sorry about what happened,<eol>but there's nothing I can do.<eos>
+<bos>And you talk about morality.<eos>
+<bos>You're afraid of the government<eos>
+<bos>but you're willing to accept the risk<eos>
+<bos>that your machine will kill again.<eos>
+<bos>The lesser of two evils.<eos>
+<bos>What about a third option?<eos>
+<bos>You created that machine.<eos>
+<bos>Now you tell me how to destroy it.<eos>
+<bos>Wilczek can create a virus<eos>
+<bos>that will destroy the system.<eos>
+<bos>Mulder, don't you see?<eos>
+<bos>Blaming the machine is<eol>an alibi, and a bad one.<eos>
+<bos>But it's the only thing that makes sense.<eos>
+<bos>The C.O.S. Project<eos>
+<bos>was posting big losses for Eurisko,<eos>
+<bos>and Drake was about<eol>to terminate the program.<eos>
+<bos>So the machine killed Drake<eos>
+<bos>out of self-defense?<eos>
+<bos>Self-preservation.<eos>
+<bos>It's the primary instinct<eol>of all sentient beings.<eos>
+<bos>Mulder, that level<eol>of artificial intelligence<eos>
+<bos>is decades away from being realized.<eos>
+<bos>Then why was our government<eos>
+<bos>trying to usurp Wilczek's research?<eos>
+<bos>Mulder, I think you're<eol>looking for something<eos>
+<bos>that isn't there.<eos>
+<bos>And I think it has<eol>something to do with Jerry.<eos>
+<bos>Maybe it wouldn't be such a bad idea<eos>
+<bos>if you talked to someone.<eos>
+<bos>You're probably right.<eos>
+<bos>Where are you going?<eos>
+<bos>To talk to someone.<eos>
+<bos>How much time do you need?<eos>
+<bos>Hello...<eos>
+<bos>Oh, my God...<eos>
+<bos>This is Special Agent Dana Scully<eos>
+<bos>I.D. number 2317-616.<eos>
+<bos>I need you to run a quick trace<eol>on a number for me.<eos>
+<bos>Yeah.<eos>
+<bos>202-555-6431.<eos>
+<bos>Yeah. That's my number.<eos>
+<bos>Somebody's accessing my computer.<eos>
+<bos>Mulder!<eos>
+<bos>Scully, what are you doing here?<eos>
+<bos>Someone or something's been<eol>scanning my computer files<eos>
+<bos>tapping my phones.<eos>
+<bos>I traced the line.<eos>
+<bos>It came from somewhere in there.<eos>
+<bos>It's the machine.<eos>
+<bos>How can we get in?<eos>
+<bos>You remember the Trojan Horse?<eos>
+<bos>Open sesame.<eos>
+<bos>Oh, what the...?<eos>
+<bos>Mulder!<eos>
+<bos>So much for the element of surprise.<eos>
+<bos>What do you say we take the stairs?<eos>
+<bos>28 down, one to go.<eos>
+<bos>Oh, great.<eos>
+<bos>Mulder?<eos>
+<bos>Trick or treat.<eos>
+<bos>No. Don't.<eos>
+<bos>What are you doing?<eos>
+<bos>I don't want to make<eol>the mistake Drake made.<eos>
+<bos>Damn.<eos>
+<bos>What are you looking at?<eos>
+<bos>There should be a way for you<eol>to drop down and open the door.<eos>
+<bos>Come on, Scully.<eos>
+<bos>Scully?<eos>
+<bos>Agent Mulder?<eos>
+<bos>What are you doing here?<eos>
+<bos>The machine's been acting all crazy.<eos>
+<bos>Power surges, shut-offs.<eos>
+<bos>That's why I'm here so late.<eos>
+<bos>Where's the B port?<eos>
+<bos>Oh, it's right back here.<eos>
+<bos>Look, are you sure<eol>you know what you're doing?<eos>
+<bos>Because, if you don't,<eol>it's my job on the line.<eos>
+<bos>Damn.<eos>
+<bos>System access granted.<eos>
+<bos>User code, level seven.<eos>
+<bos>Now I can put in the virus.<eos>
+<bos>Not bad, Agent Mulder.<eos>
+<bos>You know, I've been trying<eos>
+<bos>to access the CPU for the past two years.<eos>
+<bos>Now, please, take out your gun<eos>
+<bos>and remove the clip.<eos>
+<bos>Careful.<eos>
+<bos>Defense Department?<eos>
+<bos>Let's just say our paychecks<eol>are signed by the same person.<eos>
+<bos>Now give me the diskette<eos>
+<bos>and step away from the console.<eos>
+<bos>You don't want to test<eol>my resolve, Agent Mulder.<eos>
+<bos>Put down the gun.<eos>
+<bos>Look, you may think you know<eol>what you're dealing with...<eos>
+<bos>Shut up and drop the gun!<eos>
+<bos>You're making a mistake, Agent Scully.<eos>
+<bos>Compromising your sworn duty.<eos>
+<bos>This operation is more sensitive<eol>than you can possibly imagine.<eos>
+<bos>Don't listen to him.<eos>
+<bos>The technology in this machine<eos>
+<bos>is of enormous scientific interest.<eos>
+<bos>The machine's a monster, Scully.<eos>
+<bos>It's already killed two people.<eos>
+<bos>They won't be able to handle it<eol>any better than Wilczek did.<eos>
+<bos>Make no mistake...<eos>
+<bos>you will be held accountable.<eos>
+<bos>Mulder, put in the disk.<eos>
+<bos>What are you doing, Brad?<eos>
+<bos>Don't do this, Brad.<eos>
+<bos>Brad...?<eos>
+<bos>Brad, why are you doing this?<eos>
+<bos>Brad...?<eos>
+<bos>Brad...<eos>
+<bos>Why?<eos>
+<bos>I checked with Congressman Klebanow<eos>
+<bos>and the Department<eol>of Corrections Subcommittee.<eos>
+<bos>I even petitioned<eol>the Attorney General's Office.<eos>
+<bos>You won't find him.<eos>
+<bos>They can't just take a man<eol>like Brad Wilczek<eos>
+<bos>without an explanation.<eos>
+<bos>They can do anything they want.<eos>
+<bos>Where is he?<eos>
+<bos>In the middle of what we in the trade<eos>
+<bos>call "hard bargaining."<eos>
+<bos>Wilczek won't deal.<eos>
+<bos>He'll never work for them.<eos>
+<bos>Loss of freedom does<eol>funny things to a man<eos>
+<bos>and remember, Wilczek confessed<eos>
+<bos>to two murders, and you<eol>effectively destroyed<eos>
+<bos>the only evidence<eos>
+<bos>that could have exonerated him.<eos>
+<bos>What else could I have done?<eos>
+<bos>Nothing.<eos>
+<bos>Unless you were willing<eol>to let the technology survive.<eos>
+<bos>The Department of Defense<eol>still hasn't found anything?<eos>
+<bos>They've been on it for five days.<eos>
+<bos>Wilczek's virus was thorough.<eos>
+<bos>It left no trace<eol>of the artificial intelligence.<eos>
+<bos>The machine is dead.<eos>
+<bos>We've pushed the pulse code<eol>modulations to the limit.<eos>
+<bos>Nothing.<eos>
+<bos>A "B" port crashed.<eos>
+<bos>We've combed the parsing subroutine.<eos>
+<bos>Yes, sir. Twice.<eos>
+<bos>No, sir, still nothing,<eol>but I'd like to request...<eos>
+<bos>Yes, sir.<eos>
+<bos>No, I understand.<eos>
+<bos>Yes, sir.<eos>
+<bos>Well...<eos>
+<bos>six more hours<eos>
+<bos>before we have to consign<eol>the whole damn thing<eos>
+<bos>to the metal shredder.<eos>
+<bos>We'll do what we can, sir.<eos>
+<bos>Proximity detectors burned; no capacity.<eos>
+<bos>I can't follow his circuitry at all.<eos>
+<bos>I'm going to figure this thing out<eos>
+<bos>if it kills me.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

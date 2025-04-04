@@ -1,0 +1,516 @@
+<bos>" No Confíes En Nadie"<eos>
+<bos><i>No todo es una conspiración</i><eol><i>minuciosa y siniestra.</i><eos>
+<bos>- <i>Mírate, estás temblando.</i><eol>- <i>Uno a la vez.</i><eos>
+<bos>-<i>¿Qué ocurre?</i><eol>- <i>Frohike está cerca.</i><eos>
+<bos><i>¡No digas mi nombre! ¿Qué te ocurre?</i><eol><i>Ahora tendré que matarte.</i><eos>
+<bos><i>La central y yo realizamos</i><eol><i>tres rastreos con el CPM</i>-<i>700...</i><eos>
+<bos><i>y no detectamos</i><eol><i>un solo micrófono oculto.</i><eos>
+<bos><i>El detector acústico</i><eol><i>sólo lee sonidos pasivos.</i><eos>
+<bos><i>Llevo aquí 20 minutos</i><eol><i>y aún no sé qué diablos te pasa.</i><eos>
+<bos><i>Nadie te mataría, Frohike.</i><eol><i>Eres completamente inofensivo.</i><eos>
+<bos><i>No diré nada hasta que el fiiltro CSM</i>-<i>25</i><eol><i>de medidas preventivas sea activado.</i><eos>
+<bos>" Filtro Contra Medidas Preventivas"<eos>
+<bos><i>Ningún método de vigilancia</i><eol><i>puede vencer al CSM</i>-<i>25.</i><eos>
+<bos><i>De acuerdo.</i><eos>
+<bos><i>Ahora dinos de qué estás tan cerca.</i><eos>
+<bos><i>De "qué", no. De "quién".</i><eos>
+<bos><i>Si encuentran el punto de partida</i><eol><i>y lo siguen...</i><eos>
+<bos><i>ni siquiera los secretos</i><eol><i>del hombre más siniestro están seguros.</i><eos>
+<bos><i>¿El Hombre Cáncer?</i><eos>
+<bos>-<i>¿Qué descubriste?</i><eol>- <i>Todo posiblemente.</i><eos>
+<bos><i>Quizá su pasado, quién es...</i><eol>" El Pistolero Solitario"<eos>
+<bos><i>y quién quiere ser.</i><eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos><i>20 de agosto, de 1940.</i><eol><i>México D.F.</i><eos>
+<bos><i>Un agente estalinista asesinó</i><eol><i>a León Trotsky con un punzón.</i><eos>
+<bos><i>En ese mismo momento,</i><eol><i>miles de kilómetros al norte...</i><eos>
+<bos><i>en Baton Rouge, Luisiana, aparece él.</i><eos>
+<bos><i>Su padre era</i><eol><i>un ferviente activista comunista.</i><eos>
+<bos><i>Durante el pacto nazi</i>-<i>soviético</i><eol><i>mantenía informada a la NKVD...</i><eos>
+<bos><i>sobre los planes norteamericanos</i><eol><i>de entrar en la 2da. Guerra Mundial.</i><eos>
+<bos><i>Fue ejecutado</i><eol><i>bajo la Ley de Espionaje de 1917...</i><eos>
+<bos><i>antes de que su hijo</i><eol><i>aprendiera a caminar.</i><eos>
+<bos><i>Su madre, una fumadora,</i><eol><i>murió de cáncer de pulmón...</i><eos>
+<bos><i>antes de que su hijo</i><eol><i>dijera su primera palabra.</i><eos>
+<bos><i>Al no tener familia,</i><eol><i>quedó bajo la tutela del estado...</i><eos>
+<bos><i>y lo enviaron a varios orfanatos</i><eol><i>en la región central.</i><eos>
+<bos><i>No hizo amigos.</i><eol><i>Se pasaba el día leyendo solo.</i><eos>
+<bos><i>Yluego, desapareció...</i><eos>
+<bos><i>hasta un año y medio después</i><eol><i>de la Bahía de Cochinos.</i><eos>
+<bos>Parte 1 - "Todo salió muy bien<eol>en la plaza Dealey."<eos>
+<bos><i>¡Primer ministro Kruschev,</i><eol><i>te queremos a ti!</i><eos>
+<bos>¡Fidel Castro, te queremos a ti!<eos>
+<bos>¡Te vamos a dar duro, verás que sí!<eos>
+<bos>¡Madre Rusia--<eos>
+<bos>" El candidato de Manchuria"<eos>
+<bos>¿Por qué no vas a ver la película?<eos>
+<bos>Prefiero leer la peor novela<eol>que jamás se ha escrito...<eos>
+<bos>a ver la mejor película<eol>que jamás se ha hecho.<eos>
+<bos>Mi capitán.<eos>
+<bos>El general Francis pide que vaya a verlo<eol>inmediatamente, señor.<eos>
+<bos>Mi hijo de un año<eol>acaba de decir su primera palabra.<eos>
+<bos>- ¿Qué palabra dijo? -J.F.K.<eos>
+<bos>Hasta luego, Mulder.<eos>
+<bos>- <i>Está aquí, señor.</i> - Que entre.<eos>
+<bos>¿Quería verme, señor?<eos>
+<bos>Siéntese, capitán.<eos>
+<bos>Capitán, ¿ha visto alguna vez a estos<eol>dos hombres, conoce al general...<eos>
+<bos>- o me conoce a mí? - No, señor.<eos>
+<bos>En enero de 1961 , ¿ayudó<eol>al presidente del Congo, Kasavuba...<eos>
+<bos>a arrestar y asesinar a Patrice Lumumba?<eos>
+<bos>No, señor.<eos>
+<bos>¿Tomó parte en el adiestramiento<eol>de cubanos en la operación "Zapata"...<eos>
+<bos>también conocida como Bahía de Cochinos?<eos>
+<bos>Lo siento, señor.<eol>Desconozco semejante operación.<eos>
+<bos>El 31 de mayo de 1961 ,<eol>¿ayudó a ciudadanos dominicanos...<eos>
+<bos>a asesinar a Rafael Trujillo?<eos>
+<bos>No, señor.<eos>
+<bos>Su padre fue condenado por espía<eol>de la Unión Soviética.<eos>
+<bos>Fue ejecutado en Luisiana,<eol>en la silla eléctrica, ¿no es cierto?<eos>
+<bos>Siento haber sido muy joven o habría<eol>apretado el interruptor yo mismo.<eos>
+<bos>Descanse, capitán.<eos>
+<bos>Las acciones de su padre eran<eol>completamente ajenas a su voluntad.<eos>
+<bos>Todos aquí sabemos lo que es una vida<eol>desentrañada por las acciones de otro.<eos>
+<bos>- ¿ Un cigarrillo?<eol>- No, gracias. No los toco.<eos>
+<bos>Verá, capitán, la mayoría de la gente<eol>intenta controlar su vida...<eos>
+<bos>con el fin de asegurarse una existencia<eol>más libre, positiva y productiva.<eos>
+<bos>A menudo, sin embargo...<eos>
+<bos>los objetivos de otros<eol>entran en conflicto con los nuestros.<eos>
+<bos>Ahora, la mayoría de la gente,<eol>la gente normal, en realidad...<eos>
+<bos>apenas puede controlar su propia vida<eol>egocéntrica y corta de miras.<eos>
+<bos>Lideran ejércitos de abogados<eol>armados con armas de papel...<eos>
+<bos>atacando con litigios maliciosos,<eol>vengativos y cobardes.<eos>
+<bos>Otros...<eos>
+<bos>actúan bajo burocracias<eol>gigantescas y torpes.<eos>
+<bos>Y después, capitán...<eos>
+<bos>están los hombres extraordinarios.<eos>
+<bos>Aquellos que deben identificar,<eol>entender y en última instancia...<eos>
+<bos>cargar con la responsabilidad,<eol>no sólo de su propia existencia...<eos>
+<bos>sino con la de su país<eol>y la del mundo entero también.<eos>
+<bos>Su padre, capitán...<eos>
+<bos>creía que su país debía adoptar<eol>otra forma de gobierno...<eos>
+<bos>e hizo suya esa creencia.<eos>
+<bos>Así que, en ese sentido...<eos>
+<bos>lo consideramos un hombre extraordinario.<eos>
+<bos>Y creemos--<eos>
+<bos>Sabemos, capitán,<eol>que eso es cosa de familia.<eos>
+<bos>Ahora, no me interprete mal.<eos>
+<bos>Su padre debía ser ejecutado.<eos>
+<bos>El comunismo es, sin duda,<eol>la personificación más atroz del mal...<eos>
+<bos>que la humanidad jamás ha encarado.<eos>
+<bos>Y es, en parte, la razón<eol>por la que está aquí hoy.<eos>
+<bos>Debe comprender, capitán...<eos>
+<bos>que todo lo que le diré es confidencial<eol>y está compartimentado...<eos>
+<bos>de forma tan rigurosa,<eol>que si acepta esta misión...<eos>
+<bos>y la cumple con éxito...<eos>
+<bos>ya no será un oficial<eol>del ejército de los EE.UU...<eos>
+<bos>y su historial en el ejército<eol>quedará borrado.<eos>
+<bos>Su misión...<eos>
+<bos>es asesinar a un ciudadano<eol>norteamericano de 46 años...<eos>
+<bos>antiguo capitán<eol>de una lancha torpedera...<eos>
+<bos>casado y padre de dos hijos.<eos>
+<bos>La semana pasada, capitán...<eos>
+<bos>este país estuvo al borde<eol>de la aniquilación nuclear.<eos>
+<bos>Una situación que jamás habría surgido...<eos>
+<bos>si el individuo en cuestión,<eol>como comandante en jefe...<eos>
+<bos>hubiese proporcionado apoyo aéreo<eol>en la invasión de Bahía de Cochinos.<eos>
+<bos>¿Tienen una pantalla?<eos>
+<bos>Pueden decir que fueron los marcianos.<eos>
+<bos>Hemos encontrado y tendremos listo<eol>a un chivo expiatorio.<eos>
+<bos>¿Dónde?<eos>
+<bos>" Dallas, Texas 22 de Noviembre, 1963"<eos>
+<bos>"Avenida Westbrook<eol>Irving, Texas - 6:59 a.m."<eos>
+<bos>No deberías fumar, Lee.<eos>
+<bos>He leído estudios<eol>que dicen que puede matarte.<eos>
+<bos>Bueno...<eos>
+<bos>Sr. Hunt...<eos>
+<bos>he oído hablar de esos estudios...<eos>
+<bos>y sin duda son ciertos.<eos>
+<bos>Hoy verás muy bien al presidente.<eos>
+<bos>La familia del presidente me cae bien.<eol>Son personas interesantes.<eos>
+<bos>Pero tengo mi propia opinión sobre<eol>la política interior del presidente.<eos>
+<bos>Probablemente, sólo vaya a almorzar.<eos>
+<bos>Voy a ir al cine Texas,<eol>a ver una película.<eos>
+<bos>Sólo son 90 centavos.<eos>
+<bos>Me encanta ir al cine.<eos>
+<bos>Compré las barras de las cortinas, Lee.<eos>
+<bos>Compré barras iguales a éstas<eol>por correo en marzo.<eos>
+<bos>¿De veras? ¿O fue A.J. Hidell?<eos>
+<bos>Bueno, Sr. Hunt, los defensores de Fidel<eol>debemos tener cuidado.<eos>
+<bos>Sí, es cierto.<eos>
+<bos>Hablando de lo cual,<eol>informé a nuestro compañero defensor...<eos>
+<bos>que esconderás las barras en el sexto<eol>piso del almacén de libros...<eos>
+<bos>detrás de los cartones<eol>que están contra la pared del fondo.<eos>
+<bos>¿El visado cubano?<eos>
+<bos>Cuando me digan que han recogido<eol>las barras del almacén...<eos>
+<bos>el visado y el dinero para tu viaje<eol>estarán en tu habitación.<eos>
+<bos>Toma el autobús.<eos>
+<bos>Le di todo mi dinero a mi esposa.<eos>
+<bos>Es todo lo que tengo. $13 y monedas.<eos>
+<bos>Será mejor que te vayas, Lee.<eol>No quieres llegar tarde al trabajo.<eos>
+<bos>"Almacén de Textos Escolares de Texas<eol>8:00 a.m."<eos>
+<bos>Buenos días, Lee.<eol>Llegaste puntualmente al trabajo.<eos>
+<bos>Sí, señor.<eos>
+<bos>"Conducto de Desagüe del Río Trinity<eol>11:15 a.m."<eos>
+<bos>"Obras Públicas - Dallas"<eos>
+<bos><i>El presidente pasará en cualquier</i><eol><i>momento. Todos están en el quinto piso.</i><eos>
+<bos>¿Dónde está Lee? ¿No quiere venir?<eos>
+<bos>¡Sr. Presidente!<eos>
+<bos><i>El auto del presidente</i><eol><i>gira ahora hacia la calle Elm.</i><eos>
+<bos><i>Estuve antes en la autopista Stemmons...</i><eos>
+<bos><i>e incluso la autopista está abarrotada</i><eol><i>de gente esperando a ver al presidente.</i><eos>
+<bos><i>La gente sigue llenando las calles.</i><eos>
+<bos><i>La caravana está recorriendo ahora</i><eol><i>la calle Elm...</i><eos>
+<bos><i>pasando delante del almacén</i><eol><i>de textos escolares de Texas.</i><eos>
+<bos>- <i>No veo muy bien desde aquí.</i><eol>- ¡Nos han disparado!<eos>
+<bos><i>¡Al parecer, le ha ocurrido algo</i><eol><i>a la caravana!</i><eos>
+<bos><i>¿Alguien sabe qué ha ocurrido?</i><eol><i>¿Saben algo?</i><eos>
+<bos>¡Arriba!<eos>
+<bos>- ¿Conoce a este hombre?<eol>- Sí, trabaja para mí.<eos>
+<bos>¡Vamos!<eos>
+<bos><i>El presidente de los EE.UU. ha muerto.</i><eos>
+<bos><i>Ya está confiirmado.</i><eol><i>El presidente Kennedy está muerto.</i><eos>
+<bos>" Habitación Alquilada de Oswald<eol>1 :03 p.m."<eos>
+<bos>¡Ni hablar! No seré un chivo expiatorio.<eos>
+<bos>"Calle 10 y Patton 1:15 p.m."<eos>
+<bos><i>Se le considera peligroso,</i><eol><i>acérquense con precaución.</i><eos>
+<bos>Buenas tardes.<eos>
+<bos>Quiero que me muestre<eol>su identificación, señor.<eos>
+<bos>Tranquilo, amigo.<eos>
+<bos>Sólo quiero hablar contigo un momento.<eos>
+<bos>Si no me muestra su placa,<eol>asumiré que trabaja para ellos.<eos>
+<bos>¿" Ellos"? ¿Qué quieres decir?<eos>
+<bos>"Cine Texas - 1:45 p.m."<eol><i>¿Qué tal un cigarrillo?</i><eos>
+<bos><i>Gracias.</i><eos>
+<bos><i>¿Sabes? Keiffer voló un búnker.</i><eos>
+<bos><i>Él solito, además.</i><eos>
+<bos><i>Tiene más agallas que yo.</i><eol><i>Yo hice lo más fácil.</i><eos>
+<bos><i>Tiene agallas de verdad.</i><eos>
+<bos><i>Después de huir Connors y Thurston,</i><eol><i>voló el búnker con una granada.</i><eos>
+<bos><i>Eso sí que es increíble, ¿eh?</i><eos>
+<bos>Ponte de pie. Vamos.<eos>
+<bos>Esto acabará aquí.<eos>
+<bos>¡Tiene una pistola!<eos>
+<bos>¡No me estoy resistiendo al arresto!<eol>¡No me resisto!<eos>
+<bos>¡Dejen de golpearme, hijos de perra!<eos>
+<bos>¡No soy yo! ¡No soy yo!<eos>
+<bos>¡No me resisto al arresto!<eos>
+<bos>¡Brutalidad policial!<eol>¡Esto es brutalidad policial!<eos>
+<bos>¡No me resisto al arresto!<eos>
+<bos>- ¡Súbanlo al auto! - ¡Suéltenme!<eos>
+<bos>Parte II: "A sólo un paso de Graceland."<eol><i>Debemos, con acciones decididas...</i><eos>
+<bos><i>eliminar los males de la pobreza,</i><eol><i>la inseguridad y la injusticia...</i><eos>
+<bos><i>la tierra fértil en la que la semilla</i><eol><i>del comunismo crece y se desarrolla.</i><eos>
+<bos><i>Vivimos en tiempos revolucionarios.</i><eos>
+<bos><i>En todo el mundo...</i><eos>
+<bos><i>los hombres se rebelan contra viejos</i><eol><i>sistemas de explotación y opresión.</i><eos>
+<bos><i>Yde las heridas</i><eol><i>de este mundo precario...</i><eos>
+<bos><i>surgen nuevos sistemas</i><eol><i>de justicia e igualdad.</i><eos>
+<bos><i>Los descamisados y descalzos</i><eol><i>de todo el mundo...</i><eos>
+<bos><i>se están alzando</i><eol><i>como nunca lo habían hecho.</i><eos>
+<bos>Puedo matarte cuando me dé la gana.<eos>
+<bos><i>Nosotros, en occidente,</i><eol><i>debemos apoyar estas revoluciones.</i><eos>
+<bos>Pero hoy no.<eos>
+<bos><i>...por culpa de nuestra comodidad,</i><eol><i>nuestra complacencia...</i><eos>
+<bos><i>nuestro miedo morboso al comunismo...</i><eos>
+<bos><i>y nuestra propensión</i><eol><i>a aceptar la injusticia...</i><eos>
+<bos><i>las naciones occidentales</i><eol><i>que dieron origen...</i><eos>
+<bos><i>al espíritu revolucionario</i><eol><i>del mundo moderno</i>--<eos>
+<bos><i>"Arriésgate: Una aventura deJack</i><eol><i>Colquitt</i> - Escrita por Raúl Bloodworth"<eos>
+<bos><i>Esto ha llevado a muchos a creer</i><eol><i>que sólo el marxismo...</i><eos>
+<bos><i>tiene un espíritu revolucionario.</i><eos>
+<bos><i>Por lo tanto,</i><eol><i>el comunismo es un castigo...</i><eos>
+<bos><i>contra nuestro fracaso</i><eol><i>a la hora de hacer real la democracia...</i><eos>
+<bos><i>y seguir adelante</i><eol><i>con las revoluciones que iniciamos.</i><eos>
+<bos>No, no. ¿Por qué tuviste que hacer eso?<eos>
+<bos>¿Cómo no supiste<eol>que esto iba a ocurrir, Edgar?<eos>
+<bos>El año pasado a la Cámara no le agradaba<eol>la vigilancia por medios electrónicos.<eos>
+<bos>Así que no seguí.<eos>
+<bos>Pedimos permiso a Ramsey Clark<eol>para intervenir el teléfono de King...<eos>
+<bos>pero se negó.<eos>
+<bos>Nuestro agente de operaciones<eol>clandestinas...<eos>
+<bos>cree que el aliado de King,<eol>Stokely Carmichael...<eos>
+<bos>está reclutando un ejército de negros<eol>para luchar contra los blancos.<eos>
+<bos>¿No harías lo mismo si fueras negro?<eos>
+<bos>Si fuera una cuestión<eol>de derechos civiles...<eos>
+<bos>votaría por King y el Dr. Benjamín Spock<eol>para la presidencia.<eos>
+<bos>- Pero después de anoche no.<eol>- Lo dice con pena.<eos>
+<bos>Respeto a King,<eol>es un hombre extraordinario.<eos>
+<bos>Pero ahora habla como un maoísta.<eos>
+<bos>Y si convence a los negros<eol>para no luchar en Vietnam, perderemos.<eos>
+<bos>Y habrá caído la primera ficha de dominó.<eos>
+<bos>Debemos esforzarnos por desacreditarlo.<eos>
+<bos>¿Como tu estúpido proyecto "Suicidio"?<eol>¿"Sólo tienes una salida"?<eos>
+<bos>Esa carta estúpida con la que intentabas<eol>llevar a King a la desesperación...<eos>
+<bos>sólo le alertó<eol>sobre nuestro grado de vigilancia.<eos>
+<bos>Podríamos crear una película de él<eol>con otra mujer que no sea su esposa.<eos>
+<bos>Usando imágenes suyas, lo podríamos<eol>insertar en una película con otra mujer.<eos>
+<bos>Una mujer blanca.<eos>
+<bos>Necesitamos una solución más seria<eol>que una simple mala jugada.<eos>
+<bos>Si nos disculpan, señores, el director<eol>tiene una reunión en la Casa Blanca.<eos>
+<bos>Siéntate.<eos>
+<bos>Están tan llenos de mentiras para<eol>durarles el resto de sus siete vidas.<eos>
+<bos>Una unidad SIG podría ejecutar<eol>una operación encubierta.<eos>
+<bos>Un buen día, él y sus colaboradores<eol>más cercanos aparecerán muertos.<eos>
+<bos>Habría demasiadas preguntas.<eos>
+<bos>Los norteamericanos creen que el Sur<eol>aún sigue luchando la Guerra Civil.<eos>
+<bos>Encontraremos a un chiflado<eol>como chivo expiatorio...<eos>
+<bos>y el motivo será claramente racial.<eos>
+<bos>Otro chivo expiatorio.<eos>
+<bos>¿Deberíamos informar al presidente?<eos>
+<bos>Me esfuerzo mucho por evitar<eol>que ningún presidente sepa que existo.<eos>
+<bos>¿A quién le ordenará que lo haga?<eos>
+<bos>Lo haré yo mismo.<eos>
+<bos>Siento mucho respeto por ese hombre.<eos>
+<bos>" Memphis, Tennessee<eol>3 de abril, 1968 - 9:15 p.m."<eos>
+<bos><i>La nación está enferma.</i><eos>
+<bos><i>Los problemas afigen al país,</i><eol><i>estamos rodeados de confusión.</i><eos>
+<bos><i>Qué afiirmación más extraña.</i><eos>
+<bos><i>Pero sé, de algún modo...</i><eos>
+<bos><i>que sólo cuando cae la noche</i><eol><i>podemos ver las estrellas.</i><eos>
+<bos><i>Yveo a Dios</i><eol><i>actuando en este momento...</i><eos>
+<bos><i>del siglo XX...</i><eos>
+<bos><i>de tal forma...</i><eos>
+<bos><i>que los hombres,</i><eol><i>de algún modo extraño...</i><eos>
+<bos><i>están reaccionando.</i><eos>
+<bos><i>Algo está ocurriendo en nuestro mundo.</i><eos>
+<bos><i>Las masas se están alzando.</i><eos>
+<bos><i>Ydondequiera</i><eol><i>que estén reunidos hoy...</i><eos>
+<bos><i>ya sea enJohannesburgo, Sudáfrica...</i><eos>
+<bos><i>en Nairobi, Kenia, en Acra, Ghana,</i><eol><i>en la ciudad de Nueva York...</i><eos>
+<bos><i>en Atlanta, Georgia, enJackson,</i><eol><i>Misisipí, o en Memphis, Tennessee...</i><eos>
+<bos><i>el grito siempre es el mismo:</i><eos>
+<bos><i>"¡Queremos ser libres!"</i><eos>
+<bos>" Pensión - Calle Main 418<eol>4 de abril, 1968 - 5:15 p.m."<eos>
+<bos>Raúl.<eos>
+<bos>- Te traje los prismáticos que querías.<eol>- Déjalos al lado de tu ropa.<eos>
+<bos>Oí que el Dr. King se hospeda<eol>en el motel Lorraine aquí detrás.<eos>
+<bos>Nuestro comprador vendrá a ver el rifle.<eos>
+<bos>Te lo di esta mañana.<eos>
+<bos>Lo tengo.<eos>
+<bos>Mira, tres somos muchos.<eos>
+<bos>Aquí tienes $200. Ve al cine o algo.<eos>
+<bos>Regresa dentro de 2 ó 3 horas.<eol>Deja el <i>Mustang.</i> Lo necesitaré después.<eos>
+<bos><i>Ahora no sé qué ocurrirá.</i><eos>
+<bos><i>Nos esperan tiempos difíciles.</i><eos>
+<bos><i>porque he subido a lo alto</i><eol><i>de la montaña.</i><eos>
+<bos><i>No me importa.</i><eos>
+<bos><i>Como todo el mundo,</i><eol><i>quiero vivir una larga vida.</i><eos>
+<bos><i>La longevidad es importante.</i><eos>
+<bos><i>Pero eso no me preocupa ahora mismo.</i><eos>
+<bos><i>Sólo quiero cumplir la voluntad de Dios.</i><eos>
+<bos><i>YÉl me ha dejado</i><eol><i>subir a la cima de la montaña.</i><eos>
+<bos><i>He mirado desde lo alto...</i><eos>
+<bos><i>y he visto la Tierra Prometida.</i><eos>
+<bos><i>Quizá no llegue a ella con Uds.</i><eos>
+<bos><i>Pero esta noche quiero que sepan...</i><eos>
+<bos><i>que nosotros, como pueblo,</i><eol><i>llegaremos a la Tierra Prometida.</i><eos>
+<bos><i>¡Así que esta noche me siento feliz,</i><eol><i>nada me preocupa!</i><eos>
+<bos><i>¡No temo a ningún hombre!</i><eos>
+<bos><i>¡Mis ojos han visto la gloria</i><eol><i>de la llegada del Señor!</i><eos>
+<bos>" Editorial Montgomery & Glick"<eos>
+<bos>"¿Quiere mi consejo? ¡Quémelo!"<eos>
+<bos>"Además, creo que el argumento...<eos>
+<bos>de <i>Arriésgate</i> es absurdo y ridículo..."<eos>
+<bos><i>El senador por Nueva York, Robert F.</i><eol><i>Kennedy, hizo un llamamiento a la calma.</i><eos>
+<bos><i>Sólo diré que yo también</i><eol><i>puedo sentir en mi corazón...</i><eos>
+<bos><i>ese mismo sentimiento.</i><eos>
+<bos><i>Un miembro de mi familia fue asesinado.</i><eos>
+<bos><i>Yfue asesinado por un hombre blanco.</i><eos>
+<bos><i>Mi poeta favorito es Esquilo...</i><eos>
+<bos><i>y una vez escribió:</i><eos>
+<bos><i>"Incluso dormidos...</i><eos>
+<bos><i>el dolor que no podemos olvidar... "</i><eos>
+<bos>"Cae a gotas sobre nuestro corazón...<eos>
+<bos>sumiéndonos en la desesperación...<eos>
+<bos>en contra de nuestra voluntad<eol>y nuestra sabiduría...<eos>
+<bos>más allá de la gracia divina".<eos>
+<bos>Parte III<eol>"¡La época más maravillosa del año!"<eos>
+<bos>¿Operaciones de descontento nacional?<eos>
+<bos>Sí, el caso de Anita Hill<eol>ha perdido ímpetu desde octubre.<eos>
+<bos>Pues olvídense de ello.<eol>Lo hemos hecho bien.<eos>
+<bos>Pronto empezarán a lanzar<eol>acusaciones infundadas.<eos>
+<bos>¿Los Ángeles?<eos>
+<bos>El juicio de Rodney King ha sido<eol>trasladado a Simi Valley, como ordenó.<eos>
+<bos>"Saddam Hussein Línea Dos"<eos>
+<bos>Lo llamaré más tarde.<eos>
+<bos>En el plano internacional,<eol>Bosnia Herzegovina...<eos>
+<bos>votará en febrero<eol>para independizarse de Yugoslavia.<eos>
+<bos>A Estados Unidos le trae sin cuidado.<eos>
+<bos>Estoy preparando las nominaciones<eol>al Oscar. ¿Tiene alguna preferencia?<eos>
+<bos>Me trae sin cuidado.<eos>
+<bos>Lo que no quiero es que los Bills<eol>ganen el Super Bowl.<eos>
+<bos>Mientras viva, eso no ocurrirá.<eos>
+<bos>Será difícil, señor.<eol>Buffalo tiene muchas ganas de ganar.<eos>
+<bos>Igual que los soviéticos en 1980.<eos>
+<bos>¿Está diciendo que manipuló<eol>el partido de hockey olímpico?<eos>
+<bos>¿Qué le ocurre? ¿No cree en los milagros?<eos>
+<bos>El jefe le dio al arquero ruso...<eos>
+<bos>una pequeña palmada en la espalda<eol>de buena suerte antes del partido.<eos>
+<bos>Una aguja de novocaína<eol>escondida en una alianza falsa.<eos>
+<bos>El arquero estuvo algo lento con el palo.<eos>
+<bos>4 a 3 para el equipo de casa.<eos>
+<bos>Me las pagaron, Iván.<eos>
+<bos>- Bueno, caballeros, si eso es todo--<eol>- Un asunto interno más, señor.<eos>
+<bos>Ese " Espanto",<eol>que logró abrir los Expedientes X...<eos>
+<bos>nos dará problemas.<eos>
+<bos>Yo lo vigilaré.<eos>
+<bos>"Gorbachov Ha Renunciado"<eos>
+<bos>Gorbachov acaba de renunciar.<eos>
+<bos>Ya no tenemos enemigos.<eos>
+<bos>Feliz Navidad.<eos>
+<bos>Si no hizo planes, señor...<eos>
+<bos>todos nos vamos a reunir<eol>con nuestras familias en Virginia.<eos>
+<bos>Está invitado--<eos>
+<bos>Bueno...<eos>
+<bos>tengo que ver a unos...<eos>
+<bos>parientes.<eos>
+<bos>" Fox Mulder - Agente Especial"<eos>
+<bos>" Editorial Internacional Endeavor"<eos>
+<bos>"Jack Colquitt estaba sentado solo...<eos>
+<bos>en su apartamento...<eos>
+<bos>en Navidad.<eos>
+<bos>Creía...<eos>
+<bos>en el sacrificio.<eos>
+<bos>Sin embargo, algunas noches...<eos>
+<bos>anhelaba...<eos>
+<bos>una segunda oportunidad..."<eos>
+<bos>¿Sí?<eos>
+<bos><i>No creerás</i><eol><i>lo que nos han regalado por Navidad.</i><eos>
+<bos>" Dogway, Virginia Occidental<eol>24 de diciembre, 1991 - 10:21 p.m."<eos>
+<bos>La nave tiene las mismas dimensiones<eol>que la que fue vista sobre Hanoi...<eos>
+<bos>cuando estaba en Vietnam<eol>con la compañía...<eos>
+<bos>pero los infantes<eol>no la pudieron derribar.<eos>
+<bos>- ¿El ocupante? - En estado crítico.<eos>
+<bos>No pudo ocurrir en peor momento.<eos>
+<bos>El caso Roswell que nos inventamos<eol>estaba adquiriendo ímpetu.<eos>
+<bos>Los teníamos a todos despistados.<eos>
+<bos>- Con suerte, no se enterarán.<eol>- Esta noche no hubo suerte.<eos>
+<bos>Nuestros aviones espía Aurora confirman<eol>que los rusos siguieron su entrada...<eos>
+<bos>y han ubicado el lugar de impacto.<eos>
+<bos>¿No te has enterado?<eol>Los rusos ya no existen.<eos>
+<bos>¿Qué más da que estén en la ruina?<eos>
+<bos>La KGB no ignorará<eol>un suceso de esta magnitud.<eos>
+<bos>Tampoco los chinos, ni los alemanes...<eos>
+<bos>ni los británicos, ni nadie...<eos>
+<bos>que tenga la capacidad de descubrir<eol>lo que ocurrió aquí esta noche.<eos>
+<bos>Seguro que cada uno de ellos<eol>tiene a agentes de camino hacia aquí.<eos>
+<bos>¿Cuántos sucesos históricos hemos<eol>presenciado sólo nosotros dos juntos?<eos>
+<bos>¿Cuántas veces hemos hecho historia<eol>o la hemos cambiado?<eos>
+<bos>Y nuestros nombres nunca figurarán<eol>en los libros de historia.<eos>
+<bos>Ningún monumento se alzará<eol>con nuestra imagen.<eos>
+<bos>Y sin embargo, una vez más, esta noche...<eos>
+<bos>el curso de la historia<eol>quedará definido por dos desconocidos...<eos>
+<bos>ocultos en la sombra.<eos>
+<bos>Un alienígena vivo adelantaría<eol>el proyecto de Mulder varias décadas.<eos>
+<bos>La resolución 1013<eol>del Consejo de Seguridad...<eos>
+<bos>declara que cualquier país<eol>que capture a un ser semejante...<eos>
+<bos>es responsable<eol>de su inmediata exterminación.<eos>
+<bos>Yo soy el mentiroso, tú el asesino.<eos>
+<bos>Tus mentiras han matado a más hombres<eol>en un solo día que yo en toda mi vida.<eos>
+<bos>Nunca he matado a nadie.<eos>
+<bos>Quizá yo no sea el mentiroso.<eos>
+<bos>Tengo la oportunidad de vivir toda<eol>una vida sin matar a nadie ni a nada.<eos>
+<bos>Todo el trabajo de los últimos 30 años,<eol>todas nuestras victorias...<eos>
+<bos>si el mundo viera esto...<eos>
+<bos>destruiría todo lo que hemos conseguido<eol>en sólo unas horas.<eos>
+<bos>Esta noche...<eos>
+<bos>tenemos a un nuevo enemigo.<eos>
+<bos>Cara.<eos>
+<bos>Adelante.<eos>
+<bos>Haz historia.<eos>
+<bos><i>En aquel momento,</i><eol><i>tu trabajo en el sótano...</i><eos>
+<bos><i>estaba atrayendo la atención</i><eol><i>de la cúpula.</i><eos>
+<bos><i>Ypor eso te llamaron a ti.</i><eos>
+<bos>Parte IV " Los Expedientes X"<eos>
+<bos>" La doble paradoja de Einstein:<eol>Una nueva interpretación - Dana Scully"<eos>
+<bos>"Washington - 6 de marzo, 1992"<eos>
+<bos><i>Agente Scully, gracias por venir.</i><eol><i>Por favor.</i><eos>
+<bos><i>¿Ha oído hablar</i><eol><i>de un agente llamado Fox Mulder?</i><eos>
+<bos><i>Sí.</i><eos>
+<bos>-<i>¿Cómo?</i> - Por su reputación.<eos>
+<bos>Es un psicólogo educado en Oxford...<eos>
+<bos>autor de una monografía sobre<eol>asesinos múltiples y el ocultismo...<eos>
+<bos>que ayudó a capturar a Monty Propps,<eol>en 1988.<eos>
+<bos>Se le considera el mejor psicoanalista<eol>de la sección de crímenes violentos.<eos>
+<bos>Tenía un apodo en la Academia:<eol>" Espanto" Mulder.<eos>
+<bos>También le diré que el agente Mulder...<eos>
+<bos>ha desarrollado una devoción arrolladora<eol>por un proyecto sin asignar...<eos>
+<bos>fuera del ámbito dominante del FBI.<eos>
+<bos>¿Está familiarizada<eol>con los así llamados " Expedientes X"?<eos>
+<bos><i>Lo siento, aquí abajo no hay nadie más</i><eol><i>que los menos buscados por el FBI.</i><eos>
+<bos><i>Agente Mulder, soy Dana Scully.</i><eol><i>Me han asignado para trabajar con Ud.</i><eos>
+<bos><i>Es maravilloso sentirse</i><eol><i>tan apreciado de repente.</i><eos>
+<bos><i>¿A quién hizo enojar</i><eol><i>para que la destinaran aquí, Scully?</i><eos>
+<bos><i>En realidad, tengo muchas ganas</i><eol><i>de trabajar con Ud.</i><eos>
+<bos>- <i>He oído hablar mucho de Ud.</i><eol>-<i>¿De veras?</i><eos>
+<bos><i>Tenía la impresión</i><eol><i>de que la enviaron para espiarme.</i><eos>
+<bos><i>Henry David Thoreau escribió:</i><eos>
+<bos><i>"La mayoría de los hombres llevan</i><eol><i>una vida de tranquila desesperación".</i><eos>
+<bos><i>Su vida ha sido todo menos tranquila.</i><eos>
+<bos><i>Pero, en mi opinión, sólo desesperada.</i><eos>
+<bos><i>Es el hombre vivo más peligroso.</i><eos>
+<bos><i>No porque crea en sus acciones...</i><eos>
+<bos><i>sino porque cree que esas acciones</i><eol><i>es lo único que la vida le permite.</i><eos>
+<bos><i>Y, sin embargo, la única persona</i><eol><i>que no puede escapar de él...</i><eos>
+<bos><i>es él mismo.</i><eos>
+<bos>" Publicaciones Capital"<eos>
+<bos>" Estimado Sr. Bloodworth: Gracias,<eol>gracias, gracias por <i>Arriésgate. "</i><eos>
+<bos><i>Editorial Capital.</i><eos>
+<bos>- Walden Roth, por favor.<eol>- <i>Un momento.</i><eos>
+<bos>- <i>Walden Roth.</i><eol>- Ah, Sr. Roth, hola.<eos>
+<bos>Soy Raúl Bloodworth...<eos>
+<bos>el autor de <i>Una segunda oportunidad:</i><eol><i>Una aventura deJack Colquitt.</i><eos>
+<bos><i>Sí, claro, Sr. Bloodworth.</i><eol><i>Qué gran imaginación tiene.</i><eos>
+<bos><i>¡Asesinatos de alienígenas!</i><eos>
+<bos>¿Es exagerado? Quiero decir,<eol>¿mi imaginación es demasiado viva?<eos>
+<bos><i>No, me encanta.</i><eos>
+<bos><i>Como le dije en mi carta,</i><eol><i>deseo publicar su novela por entregas...</i><eos>
+<bos><i>en nuestra publicación</i> Roman A'Clef.<eos>
+<bos><i>Muchos grandes autores fueron publicados</i><eol><i>por primera vez en nuestra revista.</i><eos>
+<bos>¡Eso es genial!<eol>Tenía una idea para las ilustraciones.<eos>
+<bos>Pensé que podía ser<eol>al estilo de Tom Clancy y--<eos>
+<bos><i>Genial, por eso trabajamos</i><eol><i>con escritores jóvenes.</i><eos>
+<bos><i>Pero seré sincero con Ud.,</i><eol><i>tendrá que cedernos parte del control.</i><eos>
+<bos>Claro. Claro.<eos>
+<bos><i>Después de todo, es nuestra revista.</i><eos>
+<bos><i>Ypuedo asegurarle que la trataremos</i><eol><i>con el respeto más absoluto.</i><eos>
+<bos>No, no, estoy seguro de ello.<eos>
+<bos>- Es que estoy emocionado.<eol>- <i>Es comprensible.</i><eos>
+<bos><i>¿Tiene un agente o un abogado?</i><eos>
+<bos><i>No importa, recibirá un mínimo de $ 2.500</i><eol><i>y se ahorrará un 10%.</i><eos>
+<bos>Bueno, me parece perfecto, lo que sea.<eos>
+<bos>¿Cuándo tienen pensado<eol>publicar la historia?<eos>
+<bos>Roman A'Clef <i>estará en los quioscos</i><eol><i>el 12 de noviembre por la mañana.</i><eos>
+<bos>" 12 de noviembre, 1996<eol>Señores, por favor acepten...<eos>
+<bos>mi renuncia."<eos>
+<bos>Disculpe, señor. ¿Tiene la edición<eol>de esta semana de <i>Roman A'Clef?.</i><eos>
+<bos>- Gracias. - Aquí tiene.<eos>
+<bos>Éste no es el final que escribí.<eol>Está todo mal.<eos>
+<bos>Si va a quedarse ahí de pie leyendo,<eol>debo pedirle que la compre.<eos>
+<bos>Claro que no sé qué persona cuerda<eol>compraría esa basura.<eos>
+<bos>¿Eso es todo?<eos>
+<bos>Una cajetilla de <i>Morleys.</i><eos>
+<bos>La vida es como una caja de bombones.<eos>
+<bos>Un regalo barato, desconsiderado<eol>y mecánico que nadie te pide nunca.<eos>
+<bos>No lo puedes devolver<eol>porque te dan otra caja de bombones.<eos>
+<bos>Así que te quedas con una pastilla<eol>asquerosa indefinible de menta...<eos>
+<bos>que engulles estúpidamente<eol>cuando no queda otra cosa que comer.<eos>
+<bos>Es cierto, de vez en cuando,<eol>hay un bombón de mantequilla de maní...<eos>
+<bos>o un caramelo de miel...<eos>
+<bos>pero duran poco y el sabor es fugaz.<eos>
+<bos>Así que lo único que te quedan<eol>son fragmentos rotos...<eos>
+<bos>llenos de gelatina dura y frutos secos<eol>que te parten los dientes...<eos>
+<bos>que si estás tan desesperado<eol>como para comértelos, sólo te queda...<eos>
+<bos>una caja vacía...<eos>
+<bos>llena de envolturas de papel color café<eol>que no sirven para nada.<eos>
+<bos><i>Todo esto está basado</i><eol><i>en una historia que leí...</i><eos>
+<bos><i>en una de mis suscripciones semanales</i><eol><i>que me traía a la memoria algunas cosas.</i><eos>
+<bos><i>Voy a hablar con un</i> hacker <i>privado</i><eol><i>que ha investigado algunas pistas...</i><eos>
+<bos><i>que pueden darnos la prueba defiinitiva</i><eol><i>y entonces lo arrestaremos.</i><eos>
+<bos>Puedo matarte cuando me dé la gana.<eos>
+<bos>Pero hoy no.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

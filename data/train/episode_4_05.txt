@@ -1,0 +1,874 @@
+<bos>(power saw whirring)<eos>
+<bos>Hurry and get him out of there!<eos>
+<bos>I need two men on the left side now.<eos>
+<bos>Wait. Where you goin' with him?<eos>
+<bos>He's dead.<eos>
+<bos>There's a woman over there who isn't<eos>
+<bos>and she needs some oxygen.<eos>
+<bos>Boy: I want you to rise!<eos>
+<bos>Rise up and heal!<eos>
+<bos>What the hell you doing?<eos>
+<bos>Boy's laying on hands.<eos>
+<bos>Rise up<eos>
+<bos>and accept the miracle<eos>
+<bos>He's given you.<eos>
+<bos>You don't understand. The man's dead.<eos>
+<bos>Then the boy can't possibly<eol>do any harm, can he?<eos>
+<bos>For this<eos>
+<bos>is the power of belief--<eos>
+<bos>the power to separate<eol>the light from the darkness<eos>
+<bos>to create life from death.<eos>
+<bos>Amen.<eos>
+<bos>Show's over!<eos>
+<bos>Let's clear the area.<eos>
+<bos>Hallelujah, Samuel. Hallelujah.<eos>
+<bos>(singing gospel)<eos>
+<bos>Yes, indeed, praise God!<eos>
+<bos>Yes! Yes! Yes!<eos>
+<bos>I want everybody to say hallelujah!<eos>
+<bos>(congregation:) Hallelujah!<eos>
+<bos>Praise the Lord!<eos>
+<bos>The woman on the table has<eol>a malignant tumor on her spine.<eos>
+<bos>This boy here will attempt<eos>
+<bos>to heal her by simply<eol>laying his hands on her.<eos>
+<bos>Where did you get this?<eos>
+<bos>From the regional office in Tennessee.<eos>
+<bos>The preacher's name is...<eos>
+<bos>Reverend Calvin Hartley.<eos>
+<bos>You've heard ofhim.<eos>
+<bos>The boy is his adopted son, Samuel.<eos>
+<bos>He claims to have found him as an infant<eos>
+<bos>Iying in the tall weeds<eol>near the muddy Mississippi.<eos>
+<bos>He also claims the boy brought<eol>a man back from the dead.<eos>
+<bos>It's more than a claim.<eos>
+<bos>The man he saved appears<eol>as a regular attraction<eos>
+<bos>in the reverend's tent ministry.<eos>
+<bos>The boy's been performing miracles<eos>
+<bos>every week for the past ten years,<eol>twice on Sunday.<eos>
+<bos>Not according to the Kenwood sheriff.<eos>
+<bos>Local authorities think<eos>
+<bos>Reverend Hartley and his son are a scam.<eos>
+<bos>They've been trying to shut them down<eos>
+<bos>but without any luck.<eos>
+<bos>They've turned to the FBI<eol>to try and get a prosecution.<eos>
+<bos>Forwhat? Fraud?<eos>
+<bos>No. Murder.<eos>
+<bos>Watch the tape.<eos>
+<bos>Lucy Kelly has the cancer.<eos>
+<bos>Her doctors say it is inoperable.<eos>
+<bos>They say it is incurable.<eos>
+<bos>But I say to you<eos>
+<bos>that what the doctors cannot cure<eos>
+<bos>the Lord can.<eos>
+<bos>(congregation:) Amen!<eos>
+<bos>Yes, indeed. Praise God.<eos>
+<bos>Because God...<eos>
+<bos>can work... miracles.<eos>
+<bos>- Yes, Lord. - Praise God.<eos>
+<bos>The clear light of God's healing love...<eos>
+<bos>is fowing...<eos>
+<bos>through Samuel's healing hands...<eos>
+<bos>20 minutes later, Lucy Kelly<eol>was rushed to the hospital.<eos>
+<bos>She was pronounced dead on arrival.<eos>
+<bos>What caused her death?<eos>
+<bos>I don't know, but it wasn't cancer.<eos>
+<bos>They've requested someone<eos>
+<bos>with a medical background<eol>to assist local police.<eos>
+<bos>I know it's not an X file...<eos>
+<bos>When do we leave for Tennessee?<eos>
+<bos>I think I saw some of<eol>these same people at Woodstock.<eos>
+<bos>Mulder, you weren't at Woodstock.<eos>
+<bos>I saw the movie.<eos>
+<bos>You all right by yourself?<eos>
+<bos>I'll be fine.<eos>
+<bos>I won't be long.<eos>
+<bos>Okay.<eos>
+<bos>(sighing)<eos>
+<bos>Hartley: Most of you here today<eol>I know as neighbors<eos>
+<bos>and as cherished members<eol>ofour Miracle Ministry.<eos>
+<bos>But some ofyou have come from far away...<eos>
+<bos>as far away<eos>
+<bos>as Pensacola, Florida...<eos>
+<bos>(cheering)<eos>
+<bos>and Uniondale, Long lsland!<eos>
+<bos>Wayne Ashtown and his family.<eos>
+<bos>And it is especially to those ofyou<eos>
+<bos>who come from so far<eos>
+<bos>that I must apologize<eol>from the bottom ofmy heart...<eos>
+<bos>because, unfortunately<eos>
+<bos>Samuel cannot be here this afternoon.<eos>
+<bos>I know how very deeply disappointed<eos>
+<bos>each and every one of you<eol>must be feeling right now<eos>
+<bos>but I say unto you, do not be dismayed.<eos>
+<bos>Do not despair!<eos>
+<bos>Do not lose your hope...<eos>
+<bos>because in two short days,<eol>Samuel will be back here<eos>
+<bos>at our very special miracle mission!<eos>
+<bos>Yes, indeed, praise God.<eos>
+<bos>Maybe we should head backstage<eos>
+<bos>and see what the reverend has to say.<eos>
+<bos>Wait. This is where they bring out Elvis.<eos>
+<bos>As these people will testify<eos>
+<bos>Samuel can heal you.<eos>
+<bos>Yes, Samuel will heal you.<eos>
+<bos>But...<eos>
+<bos>only if you believe.<eos>
+<bos>God bless you!<eos>
+<bos>Scully: Reverend Hartley,<eol>we're with the FBl.<eos>
+<bos>I see Sheriff Daniels<eol>has sent in the cavalry.<eos>
+<bos>We just want to talk to Samuel<eos>
+<bos>for a couple of minutes.<eos>
+<bos>He's not here.<eos>
+<bos>Mulder: Well, where is he?<eos>
+<bos>I don't know.<eos>
+<bos>I haven't seen him.<eos>
+<bos>That boy's been a bit troubled lately.<eos>
+<bos>We're running late, Reverend.<eos>
+<bos>If you'll excuse me.<eos>
+<bos>Agent Mulder?<eos>
+<bos>Yeah.<eos>
+<bos>Sheriff Daniels.<eos>
+<bos>We spoke on the phone.<eos>
+<bos>This is Special Agent Dana Scully.<eos>
+<bos>You requested a copy<eol>of the coroner's report.<eos>
+<bos>Right. Thankyou.<eos>
+<bos>I see you got a chance<eos>
+<bos>to take in the Holy Roller sideshow.<eos>
+<bos>Something tells me you're not a member<eos>
+<bos>of the reverend's fock.<eos>
+<bos>I remember Hartley<eos>
+<bos>when he was a soapbox preacher<eos>
+<bos>collecting dollar bills in coffee cans.<eos>
+<bos>Since the boyjoined the act<eos>
+<bos>he's gotten himselfa Cadillac<eol>for every day of the week<eos>
+<bos>bought forwith money<eos>
+<bos>that should be used to improve<eol>our roads and schools.<eos>
+<bos>People want to believe.<eos>
+<bos>99% of the people in this world are fools<eos>
+<bos>and the rest ofus are<eol>in great danger of contagion.<eos>
+<bos>Even if Hartley and Samuel are fakes<eos>
+<bos>it's still a long way<eos>
+<bos>from accusing the boy of murder.<eos>
+<bos>Witnesses say the boy was there<eos>
+<bos>laying hands on those people<eol>when they died.<eos>
+<bos>You think that's how<eol>he killed them, with a touch?<eos>
+<bos>I don't know how<eos>
+<bos>but we've been looking<eol>for him since Tuesday<eos>
+<bos>and he does not want to be found.<eos>
+<bos>There's nothing unusual<eol>about these reports<eos>
+<bos>except that there were no autopsies.<eos>
+<bos>Hartley blocked my autopsy request<eos>
+<bos>on religious grounds.<eos>
+<bos>It doesn't help that the county coroner<eos>
+<bos>is a member of the Miracle Ministry.<eos>
+<bos>Maybe we can arrange<eos>
+<bos>to have them exhumed.<eos>
+<bos>to have them exhumed.<eos>
+<bos>Sheriff...<eos>
+<bos>It's Reverend Hartley's group.<eos>
+<bos>Damn.<eos>
+<bos>I told my people to keep quiet<eol>so this wouldn't happen.<eos>
+<bos>Looks like you might have a few believers<eos>
+<bos>on the payroll.<eos>
+<bos>Man: On behalf of the Miracle Ministry<eos>
+<bos>we demand that you stop this sacrilege.<eos>
+<bos>You're not just dealing<eol>with me anymore, Vance.<eos>
+<bos>You're dealing with the FBl.<eos>
+<bos>We don't mean you any disrespect.<eos>
+<bos>We're investigating a possible homicide.<eos>
+<bos>Federal law requires we do a postmortem<eol>examination on these bodies.<eos>
+<bos>I'm afraid we answer<eol>to a higher authority<eos>
+<bos>than the U.S. government--<eol>one that considers grave digging<eos>
+<bos>and defiling corpses mortal sins.<eos>
+<bos>Daniels: We'll get that autopsy, Vance.<eos>
+<bos>Sooner or later, you know we will.<eos>
+<bos>The deceased's family<eos>
+<bos>does not want her grave disturbed.<eos>
+<bos>Carol Wallace had no family.<eos>
+<bos>We were her family.<eos>
+<bos>We were her family<eos>
+<bos>and it was hard enough to bury her once.<eos>
+<bos>So if you insist<eol>on going through with this<eos>
+<bos>we're prepared to maintain a vigil<eos>
+<bos>and do whatever it takes to stop you.<eos>
+<bos>Daniels: Mulder<eos>
+<bos>Scully...<eos>
+<bos>What?<eos>
+<bos>One of my men just spotted<eol>the boy's car downtown.<eos>
+<bos>Can't do much here.<eos>
+<bos>Mulder: Let's go.<eos>
+<bos>Daniels: Not a very likely place<eol>to be saving souls.<eos>
+<bos>Where's the boy, Zook?<eos>
+<bos>He's in the can.<eos>
+<bos>What happened here?<eos>
+<bos>Damn fool started a fight.<eos>
+<bos>Figures them Bible thumpers<eos>
+<bos>wouldn't know how to hold their liquor.<eos>
+<bos>Where you been, Samuel?<eos>
+<bos>We've been looking for you.<eos>
+<bos>Yeah?<eos>
+<bos>I've been thinking.<eos>
+<bos>Well, you're going to have plenty of time<eos>
+<bos>for that now, son.<eos>
+<bos>I'm putting you under arrest.<eos>
+<bos>For murder?<eos>
+<bos>For suspicion ofmurder.<eos>
+<bos>You mind if I finish my beer first?<eos>
+<bos>Well, you go right on ahead.<eos>
+<bos>I'm going to have somebody<eol>take a statement from you.<eos>
+<bos>I'll see what I can do<eos>
+<bos>about getting your Caddie towed.<eos>
+<bos>Hey, Sheriff.<eos>
+<bos>What evidence do you have<eos>
+<bos>to charge the boy with murder?<eos>
+<bos>Well, what more do you want?<eos>
+<bos>The boy's practically given himself up.<eos>
+<bos>He's drunk, though.<eos>
+<bos>Well, then I'll add drunk and disorderly.<eos>
+<bos>Let's get this straight.<eos>
+<bos>It's not a question about the boy's guilt<eos>
+<bos>just how he did it.<eos>
+<bos>Let me have a minute with him?<eos>
+<bos>Suit yourself.<eos>
+<bos>Samuel, I'm Agent Mulder.<eos>
+<bos>This is Agent Scully.<eos>
+<bos>We're from the FBl.<eos>
+<bos>Looks like you took<eol>quite a beating there.<eos>
+<bos>Penance, Mr. Mulder.<eos>
+<bos>Some might call it a plain old bar brawl.<eos>
+<bos>You know what they say--<eos>
+<bos>" He giveth and He taketh away."<eos>
+<bos>Man gets too proud<eos>
+<bos>sometimes it does him good<eos>
+<bos>to get the crap kicked out of him.<eos>
+<bos>Saves God the trouble.<eos>
+<bos>The trouble of what?<eos>
+<bos>Humbling the guilty sinner.<eos>
+<bos>Guilty of murder?<eos>
+<bos>Yes, sir.<eos>
+<bos>How did you do it, Samuel?<eos>
+<bos>Apparently, my pride and my weakness<eos>
+<bos>were an invitation to the devil.<eos>
+<bos>I muddied the river of my own faith.<eos>
+<bos>Now my gift has been corrupted.<eos>
+<bos>You're saying that you killed<eol>those people with a touch?<eos>
+<bos>I've laid my hands on the ill,<eol>given them health.<eos>
+<bos>I've healed the sick.<eos>
+<bos>I've even touched the dying<eol>and given them life.<eos>
+<bos>God has given me a special gift.<eos>
+<bos>Did He buy you all that jewelry too?<eos>
+<bos>Something is missing in your story.<eos>
+<bos>Do you doubt the power of God, ma'am?<eos>
+<bos>No, but I doubt<eol>the veracity of your claims.<eos>
+<bos>I have looked on the infirm<eol>and seen their sickness--<eos>
+<bos>their cancer.<eos>
+<bos>just as I can see the pain<eos>
+<bos>on this man right here.<eos>
+<bos>Really?<eos>
+<bos>What pain is that?<eos>
+<bos>The pain you have...<eos>
+<bos>regarding a brother<eos>
+<bos>or a sister.<eos>
+<bos>It's an old pain.<eos>
+<bos>It's never been healed.<eos>
+<bos>Is this some kind<eos>
+<bos>of a trick?<eos>
+<bos>No trick, ma'am.<eos>
+<bos>Let's get the sheriff...<eos>
+<bos>I want to hear more about this pain.<eol>Tell me.<eos>
+<bos>I can see it, plain as day.<eos>
+<bos>It was a sister.<eos>
+<bos>You lost a sister quiteyoung.<eos>
+<bos>Someone took her away.<eos>
+<bos>What else do you see?<eos>
+<bos>Strangers...<eos>
+<bos>a bright light.<eos>
+<bos>Sheriff...<eos>
+<bos>Samuel: You should have<eol>come here earlier.<eos>
+<bos>I could have healed your pain.<eos>
+<bos>Let's get this overwith.<eos>
+<bos>I need another minute.<eos>
+<bos>I can't help you, not anymore.<eos>
+<bos>My gift is gone.<eos>
+<bos>Cuff him.<eos>
+<bos>Let's go.<eos>
+<bos>You have the right to remain silent.<eos>
+<bos>I'll tell you, Mr. Mulder--<eos>
+<bos>God watches over his fock.<eos>
+<bos>He gives us signs every day.<eos>
+<bos>Open your heart.<eos>
+<bos>He mightjust open your eyes.<eos>
+<bos>How do you think<eos>
+<bos>he does it?<eos>
+<bos>I don't know.<eos>
+<bos>Woman: Given his exemplary record<eos>
+<bos>and the highly circumstantial nature<eol>ofthis case<eos>
+<bos>I ask that my client be released<eos>
+<bos>on his own recognizance<eos>
+<bos>without bail...<eos>
+<bos>judge, that is not a good idea.<eos>
+<bos>Samuel!<eos>
+<bos>Let me go<eos>
+<bos>and it will be on your head.<eos>
+<bos>Enough.<eos>
+<bos>This is not a pulpit,<eol>this is a court oflaw.<eos>
+<bos>Is that understood?<eos>
+<bos>Yes, sir.<eos>
+<bos>Sorry.<eos>
+<bos>Man: Your Honor, despite the defendant's<eos>
+<bos>avowed guilt<eos>
+<bos>we see no reason to burden the county<eos>
+<bos>with his maintenance until trial.<eos>
+<bos>But we do request<eol>a minimum bail of$1 00,000.<eos>
+<bos>All right, ifthere are no objections.<eos>
+<bos>Bail is set at $1 00,000<eos>
+<bos>to be deposited directly into the clerk's<eos>
+<bos>probation account.<eos>
+<bos>My God!<eos>
+<bos>What is it?<eos>
+<bos>Good God!<eos>
+<bos>My God!<eos>
+<bos>What is it?!<eos>
+<bos>What is this?<eos>
+<bos>What...<eos>
+<bos>What...<eos>
+<bos>Oh, God!<eos>
+<bos>How much more<eos>
+<bos>will it take foryou to believe?<eos>
+<bos>The Lord has testified against me.<eos>
+<bos>Does the serpent have to biteyou<eos>
+<bos>on the ass till you understand?<eos>
+<bos>Everybody, clear this courtroom.<eos>
+<bos>Mulder: "And when it was morning<eos>
+<bos>"the east wind brought the locusts.<eos>
+<bos>"And the locusts covered<eol>the face ofthe whole earth.<eos>
+<bos>"So that the land was darkened.<eos>
+<bos>And they did eat every herb..."<eos>
+<bos>Come on, Mulder...<eos>
+<bos>"And all the fruit ofthe trees<eol>which the hail..."<eos>
+<bos>A few thousand grasshoppers<eos>
+<bos>does not constitute a plague.<eos>
+<bos>Besides, we're in farm country.<eos>
+<bos>This area is an agricultural smorgasbord<eos>
+<bos>for this type ofinfestation.<eos>
+<bos>Maybe in a cornfield,<eol>but this happened in a courtroom.<eos>
+<bos>So what's next?<eos>
+<bos>The slaying ofthe firstborn?<eos>
+<bos>(chuckles)<eos>
+<bos>Does this have to do<eos>
+<bos>with what Samuel said<eol>in the bar last night<eos>
+<bos>aboutyour sister?<eos>
+<bos>I had these patient cases sent over<eos>
+<bos>from Kenwood County Hospital.<eos>
+<bos>These are physician-documented cases<eos>
+<bos>ofpatients who went to Samuel<eos>
+<bos>after conventional treatments failed.<eos>
+<bos>"Spontaneous remission<eol>ofmetastatic cancer...<eos>
+<bos>" Regenerated nerve growth<eol>after post-trauma paraplegia..."<eos>
+<bos>I have encountered dozens<eol>ofpsychic healers<eos>
+<bos>but none like this.<eos>
+<bos>I think the kid is for real.<eos>
+<bos>This is intriguing<eos>
+<bos>but there is a whole library<eol>ofmedical literature<eos>
+<bos>dealing with unexplained<eol>spontaneous cures.<eos>
+<bos>Now Western medicine<eol>treats the human body<eos>
+<bos>in biochemical terms.<eos>
+<bos>But the body could also be treated<eos>
+<bos>as an electromagnetic system.<eos>
+<bos>Soyour theory is that ifSamuel<eos>
+<bos>can repair this energy field to heal<eos>
+<bos>he can also destroy it to kill.<eos>
+<bos>Why not?<eos>
+<bos>Okay, say that Samuel's touch can kill.<eos>
+<bos>Whywould he want to?<eos>
+<bos>He said he muddied the river<eol>ofhis own faith, meaning...<eos>
+<bos>(knock at door)<eos>
+<bos>Ifyou're available<eos>
+<bos>Reverend would like to seeyou.<eos>
+<bos>Hartley: I've been under<eol>a lot ofstress lately<eos>
+<bos>which I know doesn't excuse<eol>my rude behavioryesterday<eos>
+<bos>but I hopeyou found it<eol>in your hearts to forgive me.<eos>
+<bos>Why did you want to speakwith us?<eos>
+<bos>I need your help.<eos>
+<bos>Samuel is being tried for murder.<eos>
+<bos>You need a good lawyer.<eos>
+<bos>Samuel is innocent.<eos>
+<bos>How can you be sure?<eos>
+<bos>Because he's my son.<eos>
+<bos>That argument will not work on ajury.<eos>
+<bos>And Samuel's confession<eol>won't help much either.<eos>
+<bos>You have to understand--<eos>
+<bos>Samuel is a very complicated young man.<eos>
+<bos>He feels things like no one else.<eos>
+<bos>To him, a pinprick<eol>becomes a gaping wound.<eos>
+<bos>His power comes<eos>
+<bos>from this ability to feel.<eos>
+<bos>But some people fear that power.<eos>
+<bos>And out oftheirweakness and their fear<eos>
+<bos>they seek to destroy it.<eos>
+<bos>You mean Sheriff Daniels.<eos>
+<bos>It's no secret Sheriff Daniels<eol>has been trying to shut me down<eos>
+<bos>since I first opened my tent<eos>
+<bos>ten years ago.<eos>
+<bos>He seems to think<eos>
+<bos>thatyour ministry is a fraud.<eos>
+<bos>He's a faithless man, Agent Scully.<eos>
+<bos>His wife, she suffers<eol>from a most painful arthritis.<eos>
+<bos>Her fingers are twisted<eol>like bitter roots.<eos>
+<bos>Yet he keeps Samuel<eol>from ministering to her.<eos>
+<bos>In light ofrecent events,<eol>you can't blame him.<eos>
+<bos>I don't know how those poor people died.<eos>
+<bos>I can't explain that.<eos>
+<bos>Which is why I'm asking you<eol>to be there tonight<eos>
+<bos>soyou could see foryourselves<eos>
+<bos>Samuel doing God's work.<eos>
+<bos>Can I count on you both to be there?<eos>
+<bos>I think so. Mulder, what doyou think?<eos>
+<bos>Excuse me.<eos>
+<bos>Where did she go?<eos>
+<bos>Who?<eos>
+<bos>The little girl.<eos>
+<bos>There's no little girl around here.<eos>
+<bos>Scully: Mulder...<eos>
+<bos>A little girl.<eos>
+<bos>Brothers and sisters, helpyourselves.<eos>
+<bos>Let the folks with<eol>the wheelchairs through now.<eos>
+<bos>That's right. Don't be shy.<eos>
+<bos>Hello there.<eos>
+<bos>Welcome to the Miracle Ministry.<eos>
+<bos>Y'all come to see Samuel tonight?<eos>
+<bos>Yes.<eos>
+<bos>Will he be here? The paper said--<eos>
+<bos>Don't mind the papers.<eos>
+<bos>God's workwill be done.<eos>
+<bos>Young Samuel will cast out the devil<eos>
+<bos>and heal the sick.<eos>
+<bos>Did you hear that, honey?<eos>
+<bos>Could he see me?<eos>
+<bos>I'll tell you what--<eos>
+<bos>I'll put in a special word, hmm?<eos>
+<bos>What's your name, darling?<eos>
+<bos>Margaret Hohman.<eos>
+<bos>Margaret, you wait right here.<eos>
+<bos>I'll see ifsomebody can putyou<eos>
+<bos>in the front row.<eos>
+<bos>How's that, huh?<eos>
+<bos>I can't go out there,<eol>not afterwhat's happened.<eos>
+<bos>God tests the faith in us all, son.<eos>
+<bos>And because He has chosen you<eol>to act in His likeness<eos>
+<bos>He has given you the toughest test ofall.<eos>
+<bos>Do not forsake your gift, Samuel.<eos>
+<bos>Aw, man.<eos>
+<bos>I'm a preacher, son.<eos>
+<bos>That's my gift.<eos>
+<bos>But all the preaching in the world<eos>
+<bos>could never equal even a small miracle<eos>
+<bos>in consolidating the faith and hope<eos>
+<bos>ofthese people.<eos>
+<bos>Let this man-- whose lifeyou saved--<eos>
+<bos>give witness tonight<eol>to the grace and goodness<eos>
+<bos>ofyour healing power.<eos>
+<bos>They're all waiting on you, Samuel.<eos>
+<bos>Choir: *Ready, you got to be ready*<eos>
+<bos>*Ready, you got to be ready*<eos>
+<bos>*Ready, you got to be ready*<eos>
+<bos>*Ready, you got to be ready*<eos>
+<bos>*Ready, you got to be ready*<eos>
+<bos>*Ready, you got to be ready*<eos>
+<bos>*Ready, ready, ready*<eos>
+<bos>*Ready, ready, ready*<eos>
+<bos>*Ready, ready, ready*<eos>
+<bos>*ReadywhenJesus comes.*<eos>
+<bos>Yes, indeed!<eos>
+<bos>Praise God!<eos>
+<bos>Hallelujah!<eos>
+<bos>All: Hallelujah!<eos>
+<bos>Praise the Lord!<eos>
+<bos>All: Praise the Lord!<eos>
+<bos>God is here tonight.<eos>
+<bos>Oh, yes.<eos>
+<bos>- (crowd murmurs agreement)<eol>- Pass it down, please.<eos>
+<bos>I feel His presence.<eos>
+<bos>Oh, amen!<eos>
+<bos>Apparently miracles don't come cheap.<eos>
+<bos>God is here<eos>
+<bos>and He...<eos>
+<bos>is here...<eos>
+<bos>to heal!<eos>
+<bos>(cheering)<eos>
+<bos>Yes, heal!<eos>
+<bos>Hallelujah.<eos>
+<bos>There's a man<eos>
+<bos>I'd like to introduce toyou--<eos>
+<bos>a man who has seen the face ofGod<eos>
+<bos>but who was not satisfied<eol>to go to that great place.<eos>
+<bos>No, God had work for him to do<eol>right here on Earth.<eos>
+<bos>As it is in heaven, mm-hmm.<eos>
+<bos>I saw this man come back<eos>
+<bos>from beyond death's door.<eos>
+<bos>He stands here today<eol>as a living testament<eos>
+<bos>to the ability ofGod<eos>
+<bos>to work miracles.<eos>
+<bos>Ladies and gentlemen<eos>
+<bos>brothers and sisters...<eos>
+<bos>our beloved friend, Leonard Vance.<eos>
+<bos>Leonard: As it says inJohn<eos>
+<bos>chapter three--<eos>
+<bos>" No man can do these miracles<eol>unless God be with him."<eos>
+<bos>(murmurs ofagreement)<eos>
+<bos>That man to whom I owe my life<eos>
+<bos>is Samuel Hartley.<eos>
+<bos>And he is here tonight to heal you.<eos>
+<bos>Hartley: Thankyou, Leonard.<eos>
+<bos>Ladies and gentlemen--<eos>
+<bos>"God's soldier, Samuel Hartley".<eos>
+<bos>(crowd clapping)<eos>
+<bos>(gospel music begins)<eos>
+<bos>Mulder!<eos>
+<bos>(choir singing)<eos>
+<bos>*lt's time to seek the Lord*<eos>
+<bos>- *Find your daily time*<eol>- Receive God's love.<eos>
+<bos>*For the time of His coming is near*<eos>
+<bos>- *For no man knows*<eol>- Through the power ofGod.<eos>
+<bos>*The day nor the hour*<eos>
+<bos>*There is no time to waste*<eos>
+<bos>*You better get your house in order*<eos>
+<bos>*Or it may be too late*<eos>
+<bos>- *The Lord is coming* - Praywith me.<eos>
+<bos>*Coming*<eos>
+<bos>*lt could be morning or night*<eos>
+<bos>*l said He's coming*<eos>
+<bos>*Coming*<eos>
+<bos>- Closeyour eyes.<eol>- *Tomorrow might be too late*<eos>
+<bos>*Will you be ready?*<eos>
+<bos>*Ready, ready...*<eos>
+<bos>(gasping)<eos>
+<bos>(gasping louder)<eos>
+<bos>(loud heaving)<eos>
+<bos>What haveyou done, boy?<eos>
+<bos>All right, everyone, remain calm.<eos>
+<bos>Give this young woman some room.<eos>
+<bos>Everybody praise God.<eos>
+<bos>- Say hallelujah. - Get an ambulance!<eos>
+<bos>Don't panic now! just praise the Lord!<eos>
+<bos>Oh, my baby.<eos>
+<bos>She's dead.<eos>
+<bos>(sobbing)<eos>
+<bos>My lovely friends, children ofGod<eos>
+<bos>brothers and sisters<eos>
+<bos>ifyou desecrate the body<eos>
+<bos>then you slay the soul.<eos>
+<bos>Let's keep this poorwoman's body intact.<eos>
+<bos>We know that Reverend Hartley's<eos>
+<bos>been pressuring you<eos>
+<bos>but this is the third death linked<eos>
+<bos>with the Miracle Ministry.<eos>
+<bos>Reverend Hartley says<eos>
+<bos>an autopsy is against Scripture.<eos>
+<bos>What illness did your daughter<eol>suffer from, Mr. Hohman?<eos>
+<bos>She had M.S.<eos>
+<bos>Has she ever had a seizure before this?<eos>
+<bos>Not to my knowledge.<eos>
+<bos>You see, I think that the seizure she had<eos>
+<bos>is indicative ofsome kind<eol>ofembolism or aneurysm.<eos>
+<bos>But the boy only touched her forehead.<eos>
+<bos>And areyou going to be content<eos>
+<bos>to bury herwithout knowing<eol>the true cause ofdeath?<eos>
+<bos>Without knowing<eol>ifthere was foul play involved?<eos>
+<bos>Give me a moment.<eos>
+<bos>You think the boy really did it?<eos>
+<bos>No.<eos>
+<bos>Why not?<eos>
+<bos>I was raised a Catholic<eos>
+<bos>and I have a certain familiarity<eol>with the Scripture<eos>
+<bos>and God never lets<eol>the devil steal the show.<eos>
+<bos>You must have really liked The Exorcist.<eos>
+<bos>One ofmy favorite movies.<eos>
+<bos>Well...<eos>
+<bos>So who wereyou pursuing<eol>in the crowd tonight?<eos>
+<bos>I thought I saw someone I knew.<eos>
+<bos>That boy really has you going,<eol>doesn't he?<eos>
+<bos>Why doyou say that?<eos>
+<bos>In the bar, Samuel mentioned your sister.<eos>
+<bos>Is ityour sister you thinkyou're seeing?<eos>
+<bos>I've seen her twice now.<eos>
+<bos>Maybeyoujust want to see her.<eos>
+<bos>I'm not delusional, Scully.<eos>
+<bos>Don't discount the power ofsuggestion.<eos>
+<bos>A healer's greatest magic<eos>
+<bos>Iies in the patient's<eol>willingness to believe.<eos>
+<bos>Imagine a miracle, you're halfway there.<eos>
+<bos>We learned that in med school.<eos>
+<bos>You think this is what Margaret Hohman<eos>
+<bos>or her parents were imagining?<eos>
+<bos>We're going to go along<eol>with your investigation.<eos>
+<bos>It's 1 1 :21 p.m., March 7.<eos>
+<bos>Subject's name is Margaret Hohman.<eos>
+<bos>Female, Caucasian<eos>
+<bos>1 07 pounds.<eos>
+<bos>Mulder, take a look at this.<eos>
+<bos>Do I have to?<eos>
+<bos>Lesions on the lungs here.<eos>
+<bos>I'm finding them throughout<eol>the cardiovascular<eos>
+<bos>and pulmonary systems.<eos>
+<bos>There's also damage<eol>to the mucous membranes.<eos>
+<bos>She must have died from cellular hypoxia.<eos>
+<bos>A lack ofoxygen to the cells.<eos>
+<bos>What would cause that?<eos>
+<bos>My guess? lngestion or injection<eos>
+<bos>ofsodium or potassium cyanide,<eol>maybe arsenic.<eos>
+<bos>I won't know exactly<eos>
+<bos>until I run a toxicology screen on her.<eos>
+<bos>How soon?<eos>
+<bos>Lab opens in the morning.<eos>
+<bos>See whoyou can push to get it done--<eol>as soon as possible.<eos>
+<bos>(door clanks shut)<eos>
+<bos>(footsteps)<eos>
+<bos>Samuel, it's Agent Mulder.<eos>
+<bos>Yeah? What doyou want?<eos>
+<bos>I want to talkwith you.<eos>
+<bos>Ifyou'd preferyour<eol>attorneywere present...<eos>
+<bos>Whatever. No.<eos>
+<bos>I put a call in to Sheriff Daniels.<eol>He's on his way down here.<eos>
+<bos>- I'm going to ask him to releaseyou.<eol>- Why areyou doing this?<eos>
+<bos>You were there, man.<eos>
+<bos>You saw foryourself.<eos>
+<bos>Did you poison Margaret Hohman?<eos>
+<bos>Did I poison her?<eos>
+<bos>Did you poison her<eol>using potassium or sodium cyanide?<eos>
+<bos>Because that's what killed her.<eos>
+<bos>What areyou talking about?<eos>
+<bos>You're innocent, Samuel.<eos>
+<bos>Unless you had a hand in<eol>administering it. I don't thinkyou did.<eos>
+<bos>Whatever the cause, Mr. Mulder,<eol>I am responsible.<eos>
+<bos>Evidence will be presented tomorrow.<eos>
+<bos>Habeas corpus law<eol>will force them to releaseyou.<eos>
+<bos>You should go home and get some rest.<eos>
+<bos>just leave me alone, okay?<eos>
+<bos>Ifyou think the punishment foryour sins<eos>
+<bos>is the deaths ofthose people...<eos>
+<bos>The Lord has testified against me.<eos>
+<bos>I can't stand here and argue<eol>with your biblical rhetoric<eos>
+<bos>but I do know that the law<eol>will find you innocent.<eos>
+<bos>You said you could see my pain.<eos>
+<bos>Look at me.<eos>
+<bos>What doyou see now?<eos>
+<bos>I see nothing.<eos>
+<bos>I am blind.<eos>
+<bos>I don't believeyou.<eos>
+<bos>I've seen her.<eos>
+<bos>It was her, wasn't it?<eos>
+<bos>Your sister?<eos>
+<bos>You made her appear to me, didn'tyou?<eos>
+<bos>Look at me.<eos>
+<bos>I am very tired, Mr. Mulder.<eos>
+<bos>Is she alive?!<eos>
+<bos>Is that what I'm supposed to believe<eos>
+<bos>or is this a trick?<eos>
+<bos>You mean...<eos>
+<bos>a trick ofthe devil?<eos>
+<bos>(exasperated sigh)<eos>
+<bos>jailer!<eos>
+<bos>I see I'm a little late for the ball.<eos>
+<bos>I wanted you to release the boy.<eos>
+<bos>On what pretense?<eos>
+<bos>His innocence.<eos>
+<bos>Aren'tyou out ofyour depth here?<eos>
+<bos>This may be Hicksville toyou<eos>
+<bos>but we do try and hew<eol>to the legal system.<eos>
+<bos>He seems determined to stay here anyway.<eos>
+<bos>What does that tell you?<eos>
+<bos>It tells meyou're determined<eol>to have him charged<eos>
+<bos>whileyour real homicide suspect<eol>is still at large.<eos>
+<bos>(footsteps)<eos>
+<bos>Got some company forya, Sam.<eos>
+<bos>(grunting)<eos>
+<bos>What areyou looking at?<eos>
+<bos>(doorbell rings)<eos>
+<bos>I'll get it.<eos>
+<bos>I'll get it.<eos>
+<bos>Ma'am, Sheriff.<eos>
+<bos>Hey, Dennis. How areya?<eos>
+<bos>just fine, ma'am,just fine.<eos>
+<bos>Except we had an incident<eol>down at thejail.<eos>
+<bos>What incident, Tyson?<eos>
+<bos>The preacher boy.<eos>
+<bos>He's dead.<eos>
+<bos>He was alone in his cell<eol>when Mulder left him this morning.<eos>
+<bos>How could this have happened?<eos>
+<bos>The boy started a fight<eos>
+<bos>with a couple ofrowdies<eol>we picked up on a D.U.I.<eos>
+<bos>Took some mean blows to the head.<eos>
+<bos>Died before the ambulance got here.<eos>
+<bos>His blood is spilled<eos>
+<bos>and it's all overyou!<eos>
+<bos>Reverend...<eos>
+<bos>How much longer<eos>
+<bos>areyou going to hide behind that badge<eos>
+<bos>before the truth is revealed?<eos>
+<bos>I have work to do.<eos>
+<bos>Reverend Hartley...<eos>
+<bos>we're sorry foryour loss.<eos>
+<bos>That boy... he was blessed.<eos>
+<bos>He never hurt a soul.<eos>
+<bos>Vance: Come on there, Reverend.<eos>
+<bos>Our friends will find out about Samuel<eos>
+<bos>sooner than later, and, well...<eos>
+<bos>it's probably best<eol>ifthey hear it from you.<eos>
+<bos>Come on.<eos>
+<bos>Ma'am.<eos>
+<bos>You got that look on your face, Mulder.<eos>
+<bos>What look is that?<eos>
+<bos>The kind when you've forgotten your keys<eos>
+<bos>and you're trying to figure out<eos>
+<bos>how to get back in the house.<eos>
+<bos>What exactly are we trying to find?<eos>
+<bos>Clues.<eos>
+<bos>Oh.<eos>
+<bos>What does it mean?<eos>
+<bos>Mulder: Let's find out.<eos>
+<bos>Scully.<eos>
+<bos>It's potato.<eos>
+<bos>Someone left a trail offood<eos>
+<bos>in the ventilation system<eol>leading to the courtroom.<eos>
+<bos>You dumpyour locusts in here...<eos>
+<bos>instant plague.<eos>
+<bos>Where do they come from?<eos>
+<bos>Biological supply houses<eos>
+<bos>hatch them on order<eol>to farms and universities.<eos>
+<bos>Shouldn't be too hard<eol>to find out who set this up.<eos>
+<bos>And you think whoever did this<eos>
+<bos>is responsible for the murders.<eos>
+<bos>(frightened gasp)<eos>
+<bos>You're dead.<eos>
+<bos>They killed you.<eos>
+<bos>I was dead...<eos>
+<bos>but here I am.<eos>
+<bos>No!<eos>
+<bos>Why did you betray me?<eos>
+<bos>You murdered those people.<eos>
+<bos>They came to me to be healed<eos>
+<bos>and you murdered them.<eos>
+<bos>Why?<eos>
+<bos>After I gaveyou backyour life.<eos>
+<bos>You call this life?!<eos>
+<bos>(knocking)<eos>
+<bos>What in tarnation doyou want?<eos>
+<bos>We have a warrant<eos>
+<bos>for the arrest of Leonard Vance.<eos>
+<bos>Where is he?<eos>
+<bos>You must be mistaken.<eos>
+<bos>Scully: Afraid not, Reverend.<eos>
+<bos>We traced a pesticide order to him<eos>
+<bos>from a chemical company.<eos>
+<bos>Cyanogen bromide--<eos>
+<bos>It's a cyanide derivative.<eos>
+<bos>Leonard poisoned those people?<eos>
+<bos>(whimpering)<eos>
+<bos>Getyour clothes on, Vance.<eos>
+<bos>You're under arrest.<eos>
+<bos>I betrayed him.<eos>
+<bos>Cyanide.<eos>
+<bos>There's no way to tell<eol>how much he's ingested.<eos>
+<bos>I'll call an ambulance.<eos>
+<bos>We have to get him<eol>to the hospital ourselves.<eos>
+<bos>I thought, "Why didn't he let me die?"<eos>
+<bos>Beware offalse prophets<eos>
+<bos>who come toyou in sheep's clothing<eos>
+<bos>but inwardly are ravening wolves.<eos>
+<bos>That's what I thought he was<eos>
+<bos>because who else would bring me back<eos>
+<bos>Iooking like this?<eos>
+<bos>He was here.<eos>
+<bos>- Who? - Samuel.<eos>
+<bos>The man's delirious.<eos>
+<bos>He was here, Reverend.<eos>
+<bos>Right in this room...<eos>
+<bos>and he forgave me.<eos>
+<bos>(choking gasp)<eos>
+<bos>Scully: Rather than simply killing Samuel<eos>
+<bos>Vance contrived to kill<eol>the ministry's faith in him.<eos>
+<bos>We have conclusive evidence<eos>
+<bos>connecting him both<eol>to the courtroom infestation<eos>
+<bos>and to the poisoning deaths<eos>
+<bos>ofthree members ofthe ministry.<eos>
+<bos>Vance's obsession<eol>outlived Samuel however.<eos>
+<bos>His conscience haunted him<eol>until he became delusory<eos>
+<bos>and finally took his own life<eos>
+<bos>effectively ending our investigation.<eos>
+<bos>In light ofthis information<eos>
+<bos>it is highly doubtful<eos>
+<bos>that there have ever been any miracles<eos>
+<bos>in Kenwood, Tennessee.<eos>
+<bos>(phone rings)<eos>
+<bos>Mulder.<eos>
+<bos>(knock at door)<eos>
+<bos>Scully?<eos>
+<bos>Sheriff Danielsjust called.<eos>
+<bos>Samuel's body is missing from the morgue.<eos>
+<bos>Anywitnesses?<eos>
+<bos>One, so far.<eos>
+<bos>The night nurse who made the report--<eos>
+<bos>Beatrice Salinger.<eos>
+<bos>She saw somebody take him?<eos>
+<bos>Not actually.<eos>
+<bos>What doyou mean?<eos>
+<bos>Talk sense, Deputy.<eos>
+<bos>She didn't exactly see<eol>anyone taking the body.<eos>
+<bos>Well, what then?<eos>
+<bos>She, uh...<eos>
+<bos>she claims she saw Samuel<eol>walking out by himself.<eos>
+<bos>Sounds crazy, I know,<eol>but that's what she told me.<eos>
+<bos>You coming, Sheriff?<eos>
+<bos>I was drinking my coffee<eos>
+<bos>and going over the night orders<eos>
+<bos>for myward, seven south,<eos>
+<bos>when he walked right by me.<eos>
+<bos>His face was all black and blue.<eos>
+<bos>You're sure it was him.<eos>
+<bos>Well, at first I thought<eol>my eyes were playing tricks<eos>
+<bos>which happens a lot on graveyard<eos>
+<bos>so I got up to look again<eos>
+<bos>but I lost him around a corner.<eos>
+<bos>Hejust vanished.<eos>
+<bos>Then I went to check the morgue<eos>
+<bos>and his bodywas gone.<eos>
+<bos>Daniels: This is insane.<eos>
+<bos>I won't listen to any more<eol>ofthis crazy talk.<eos>
+<bos>I'm not the only one who saw him, Sheriff<eos>
+<bos>so I know I'm not crazy.<eos>
+<bos>Other people saw him too.<eos>
+<bos>I'm not crazy.<eos>
+<bos>It was Samuel.<eos>
+<bos>Lillian: This isn't true, Maurice, is it?<eos>
+<bos>The boywas an awful fake<eos>
+<bos>just likeyou said, wasn't he, Maurice?<eos>
+<bos>Wasn't he, Maurice?<eos>
+<bos>(knocking)<eos>
+<bos>Sir...<eos>
+<bos>going to have to askyou<eos>
+<bos>to come with me.<eos>
+<bos>District Attorney<eos>
+<bos>wants to askyou some questions<eos>
+<bos>concerning the boy's death.<eos>
+<bos>Sundays will probably<eol>never be the same again<eos>
+<bos>in these parts.<eos>
+<bos>I have a strong sense<eol>the Reverend Hartley<eos>
+<bos>is not going to be able<eol>to give up the pulpit.<eos>
+<bos>Even without his son?<eos>
+<bos>Might even strengthen his faith.<eos>
+<bos>The boy did rise from the dead.<eos>
+<bos>That kind ofthing happens<eol>only once or twice<eos>
+<bos>every 2,000 years or so.<eos>
+<bos>Yeah, and I have a story<eol>about a plague oflocusts.<eos>
+<bos>I just hope Reverend Hartley<eos>
+<bos>didn't arrange his body snatching<eos>
+<bos>as his miracle ofmiracles.<eos>
+<bos>Somehow, I don't think so.<eos>
+<bos>What exactly doyou think?<eos>
+<bos>I think people<eol>are looking hard for miracles.<eos>
+<bos>So hard that maybe<eol>they make themselves see<eos>
+<bos>what theywant to see.<eos>
+<bos>You coming, Mulder?<eos>
+<bos>I made this.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

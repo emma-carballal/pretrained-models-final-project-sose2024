@@ -1,0 +1,586 @@
+<bos>Please leave a message<eol>at the tone. Thank you.<eos>
+<bos>Hi, honey. It's about 8:30,<eos>
+<bos>and, um, I'm going to be here<eol>for a while.<eos>
+<bos>The presentation didn't go so well.<eos>
+<bos>Call me.<eos>
+<bos>I love you. Bye.<eos>
+<bos>Guess who I ran into<eol>from our class at Quantico.<eos>
+<bos>Marty Neil.<eos>
+<bos>J. Edgar Jr.?<eos>
+<bos>Just got bumped up.<eos>
+<bos>Foreign counterintelligence.<eos>
+<bos>New York City Bureau.<eos>
+<bos>Supervisory.<eos>
+<bos>Special agent.<eos>
+<bos>Supervisory? That's right.<eos>
+<bos>Two years out of the academy?<eos>
+<bos>How did he land that?<eos>
+<bos>He lucked into the<eol>World Trade Center bombing.<eos>
+<bos>Well, good for Marty.<eos>
+<bos>Come on, Dana.<eos>
+<bos>The guy is a loser.<eos>
+<bos>Look where he is now.<eos>
+<bos>It's where we should be.<eos>
+<bos>Brad Wilson told me<eos>
+<bos>the psychological profile you wrote<eos>
+<bos>on the Washington Crossing killer<eos>
+<bos>led them straight to the suspect.<eos>
+<bos>Word has it,<eos>
+<bos>you're on the Violent Crime<eol>section's fast track.<eos>
+<bos>So, how are you doing?<eos>
+<bos>Have you had any close<eol>encounters of the third kind?<eos>
+<bos>Is that what everyone thinks I do?<eos>
+<bos>No, of course not.<eos>
+<bos>But you do work with "Spooky" Mulder.<eos>
+<bos>Mulder's ideas may be a bit out there,<eos>
+<bos>but he is a great agent.<eos>
+<bos>Yeah, well, I've got this case<eol>that's "out there."<eos>
+<bos>Baltimore PD calls.<eos>
+<bos>They want our help<eol>on a serial killer profile.<eos>
+<bos>Three murders began six weeks ago.<eos>
+<bos>Victims vary in age, race, gender.<eos>
+<bos>No known connections to each other.<eos>
+<bos>I take it there's a pattern.<eos>
+<bos>Point of entry--<eos>
+<bos>actually the lack of one.<eos>
+<bos>What do you mean? One victim,<eos>
+<bos>college girl, killed in her<eol>10x12 cinder block dorm room.<eos>
+<bos>She was found with the windows locked<eos>
+<bos>and the door chained from the inside.<eos>
+<bos>The last incident, two days ago.<eos>
+<bos>High-security office building.<eos>
+<bos>Nothing on the security monitors.<eos>
+<bos>Janitor spoke to the victim<eol>minutes before the murder.<eos>
+<bos>Didn't hear or see a thing<eol>out of the ordinary.<eos>
+<bos>Suicides?<eos>
+<bos>Each victim was found<eos>
+<bos>with their liver ripped out.<eos>
+<bos>No cutting tool was used.<eos>
+<bos>Bare hands?<eos>
+<bos>This looks like an X File.<eos>
+<bos>Let's not get carried away.<eos>
+<bos>I'm going to solve these murders, but...<eos>
+<bos>what I would like from you is<eol>to go over the case histories.<eos>
+<bos>Maybe come down to the crime scene.<eos>
+<bos>Do you want me to ask Mulder?<eos>
+<bos>Okay, if he wants to come<eol>and do you a favor, great,<eos>
+<bos>but make sure he knows this is my case.<eos>
+<bos>Dana, if I can break a case<eol>like this one,<eos>
+<bos>I'll be getting my bump up the ladder<eos>
+<bos>and you?<eos>
+<bos>Maybe you won't have<eol>to be Mrs. Spooky anymore.<eos>
+<bos>So, why didn't they ask me?<eos>
+<bos>They're friends of mine from the academy.<eos>
+<bos>I'm sure they just felt more<eol>comfortable talking to me.<eos>
+<bos>Why would I make them so uncomfortable?<eos>
+<bos>It probably has to do<eol>with your reputation.<eos>
+<bos>Reputation? I have a reputation?<eos>
+<bos>Mulder, look, Colton plays by<eol>the book, and you don't.<eos>
+<bos>They feel your methods,<eol>your theories, are...<eos>
+<bos>Spooky?<eos>
+<bos>Do you think I'm spooky?<eos>
+<bos>Dana...<eos>
+<bos>Sorry I 'm late.<eos>
+<bos>We just got here.<eos>
+<bos>Uh, Fox Mulder, Tom... Colton.<eos>
+<bos>So, Mulder, what do you think?<eos>
+<bos>Does this look like the work<eol>of little green men?<eos>
+<bos>Gray.<eos>
+<bos>Excuse me?<eos>
+<bos>Gray. You said green men.<eos>
+<bos>A Reticulan skin tone is actually gray.<eos>
+<bos>They're notorious for their extraction<eos>
+<bos>of terrestrial human livers<eos>
+<bos>due to iron depletion<eol>in the Reticulum galaxy.<eos>
+<bos>You can't be serious.<eos>
+<bos>Do you have any idea what<eol>liver and onions go for<eos>
+<bos>on Reticulum?<eos>
+<bos>Excuse me.<eos>
+<bos>Dana, I've been thinking about this<eos>
+<bos>and I have a theory.<eos>
+<bos>It might explain a lot.<eos>
+<bos>Tell me what you think.<eos>
+<bos>What if the guy enters the building...<eos>
+<bos>Hold on a second.<eos>
+<bos>What in the hell's he doing?<eos>
+<bos>Uh, that vent is six inches by about 18.<eos>
+<bos>Even if a Reticulan could crawl through,<eos>
+<bos>it's screwed in place.<eos>
+<bos>This is the print I took<eol>yesterday from Usher's office.<eos>
+<bos>These others are from an X File.<eos>
+<bos>Ten murders, Baltimore area.<eos>
+<bos>Undetermined points of entry.<eos>
+<bos>Each victim had their liver removed.<eos>
+<bos>These prints were discovered<eol>at five of the ten crime scenes.<eos>
+<bos>Ten murders. Colton never mentioned...<eos>
+<bos>Most likely he's unaware of them.<eos>
+<bos>These two prints were lifted<eol>five years before he was born<eos>
+<bos>at Powhatan Mill.<eos>
+<bos>And these three were lifted<eos>
+<bos>probably five years before<eol>his mother was even born.<eos>
+<bos>Are you saying<eos>
+<bos>these prints are from<eol>the 1960s and 1930s?<eos>
+<bos>And fingerprinting was just<eol>coming into its own in 1903<eos>
+<bos>but there was a murder<eos>
+<bos>involving an extracted liver.<eos>
+<bos>Of course.<eos>
+<bos>Now, that's five murders every 30 years.<eos>
+<bos>That makes two more to go this year.<eos>
+<bos>You're saying these are copycats?<eos>
+<bos>What did we learn our first<eol>day at the academy, Scully?<eos>
+<bos>Each fingerprint is unique.<eos>
+<bos>These are a perfect match.<eos>
+<bos>and present a profile<eol>declaring that these murders<eos>
+<bos>are done by aliens?<eos>
+<bos>No, of course not. I find no<eol>evidence of alien involvement.<eos>
+<bos>Well, what then?<eos>
+<bos>This is the work<eol>of a 100-year-old serial killer<eos>
+<bos>who's capable of overpowering<eos>
+<bos>a healthy six-foot-two businessman?<eos>
+<bos>And he should stick out in a crowd<eos>
+<bos>with ten inch fingers.<eos>
+<bos>Look, bottom line<eos>
+<bos>this is Colton's case.<eos>
+<bos>Our X File dates back to 1903.<eos>
+<bos>We had it first.<eos>
+<bos>Mulder, they don't want you involved.<eos>
+<bos>They don't want to hear your theories.<eos>
+<bos>That's why Blevins has you<eol>hidden away down here.<eos>
+<bos>You're down here, too.<eos>
+<bos>Look, why don't we agree to this?<eos>
+<bos>They'll have their investigation<eol>and we'll have ours,<eos>
+<bos>and never the twain shall meet.<eos>
+<bos>Agreed?<eos>
+<bos>After a careful review<eos>
+<bos>of the violence and powerful<eol>nature of these murders,<eos>
+<bos>I believe the killer to be a male,<eos>
+<bos>25 to 35 years of age<eos>
+<bos>with above average intelligence.<eos>
+<bos>His manner of entry<eol>has so far been undetectable.<eos>
+<bos>This may be due to his superior knowledge<eos>
+<bos>of the inner structure<eol>of buildings and duct works<eos>
+<bos>or that he, in fact,<eol>hides in plain sight,<eos>
+<bos>posing as delivery<eol>or maintenance workers.<eos>
+<bos>The extraction of the liver<eos>
+<bos>is the most significant detail<eol>of these crimes.<eos>
+<bos>The liver possesses<eol>regenerative qualities.<eos>
+<bos>It cleanses the blood.<eos>
+<bos>The taking of this trophy<eol>is the transferring act<eos>
+<bos>for the killer to cleanse himself<eos>
+<bos>of his own impurities.<eos>
+<bos>I think he is acting<eol>under the classic form<eos>
+<bos>of obsessive/compulsive behavior.<eos>
+<bos>Now, since the victims are unrelated<eos>
+<bos>and we cannot predict who will be next,<eos>
+<bos>we must utilize the fact<eos>
+<bos>that a killer will not always<eol>succeed in finding a victim.<eos>
+<bos>When this occurs, a serial killer<eos>
+<bos>may return in frustration<eol>to the site of a previous murder<eos>
+<bos>hoping to recapture the emotional high.<eos>
+<bos>I think our best course of action<eos>
+<bos>is to target these sites.<eos>
+<bos>Good job, Agent Scully.<eos>
+<bos>If there are no objections,<eos>
+<bos>I'd like to begin our stakeouts<eol>of the murder sites tonight.<eos>
+<bos>We're looking for a male, 25 to 35,<eos>
+<bos>possibly wearing a uniform--<eol>gas company, UPS, whatever.<eos>
+<bos>I know you're assigned<eol>to another area, Scully,<eos>
+<bos>but if you don't mind some over time,<eos>
+<bos>you're welcome to come<eol>aboard with us on this.<eos>
+<bos>That is, if you don't mind<eol>working in an area<eos>
+<bos>that's a bit more down to earth.<eos>
+<bos>Position ten, station check.<eos>
+<bos>Position ten, I copy.<eos>
+<bos>Whoa!<eos>
+<bos>You wouldn't shoot an unarmed<eol>man, would you, copper?<eos>
+<bos>Mulder, what the hell are you doing here?<eos>
+<bos>He's not coming back here.<eos>
+<bos>His thrill is derived from the challenge<eos>
+<bos>of a seemingly impossible entry.<eos>
+<bos>He's already beaten this place.<eos>
+<bos>If you'd read the X File on the case,<eos>
+<bos>you'd come to the same conclusion.<eos>
+<bos>Mulder, you are jeopardizing my stakeout.<eos>
+<bos>Seeds?<eos>
+<bos>You're wasting your time.<eos>
+<bos>I'm going home.<eos>
+<bos>Scully! Call for backup,<eol>and get over here!<eos>
+<bos>Position ten requesting backup.<eos>
+<bos>In there.<eos>
+<bos>Federal agent!<eos>
+<bos>I'm armed.<eos>
+<bos>Proceed down the vent.<eos>
+<bos>Slowly!<eos>
+<bos>She's not by her car!<eos>
+<bos>Take him!<eos>
+<bos>All right, move, move, move! FBI!<eos>
+<bos>Don't move! Don't move!<eos>
+<bos>Get your hands up!<eos>
+<bos>Keep them up!<eos>
+<bos>You're under arrest.<eos>
+<bos>You have the right to remain silent...<eos>
+<bos>You were right.<eos>
+<bos>...in a court of law.<eos>
+<bos>You have a right<eol>to have an attorney present<eos>
+<bos>during questioning.<eos>
+<bos>If you cannot afford an attorney,<eos>
+<bos>one will be appointed for you.<eos>
+<bos>Is your full name Eugene Victor Tooms?<eos>
+<bos>Yes.<eos>
+<bos>Are you a resident<eol>of the state of Maryland?<eos>
+<bos>Yes.<eos>
+<bos>Are you an employee<eos>
+<bos>of the Baltimore<eol>Municipal Animal Control?<eos>
+<bos>Yes.<eos>
+<bos>Is it your intent to lie to me<eos>
+<bos>about anything here today?<eos>
+<bos>No.<eos>
+<bos>Were you ever enrolled in college?<eos>
+<bos>Yes.<eos>
+<bos>Were you ever enrolled in medical school?<eos>
+<bos>No.<eos>
+<bos>Have you ever removed<eol>a liver from a human being?<eos>
+<bos>No.<eos>
+<bos>Have you ever killed a living creature?<eos>
+<bos>Yes.<eos>
+<bos>Have you ever killed a human being?<eos>
+<bos>No.<eos>
+<bos>Were you ever in George Usher's office?<eos>
+<bos>No.<eos>
+<bos>Did you kill George Usher?<eos>
+<bos>No.<eos>
+<bos>Are you over 100 years old?<eos>
+<bos>That must be a control question.<eos>
+<bos>I had her ask it.<eos>
+<bos>No.<eos>
+<bos>Have you ever been to Powhatan Mill?<eos>
+<bos>Yes.<eos>
+<bos>In 1933?<eos>
+<bos>No.<eos>
+<bos>Are you afraid you might fail this test?<eos>
+<bos>Well...<eos>
+<bos>Yes...<eos>
+<bos>Because I didn't do anything.<eos>
+<bos>He nailed it. A-plus.<eos>
+<bos>As far as I 'm concerned<eos>
+<bos>the subject did not kill<eol>those two people.<eos>
+<bos>Maintenance people at the office building<eos>
+<bos>confirmed a call to animal control<eos>
+<bos>regarding a bad smell.<eos>
+<bos>They found a dead cat<eol>in the ventilation ducts<eos>
+<bos>on the second floor. Well, that's that.<eos>
+<bos>That still doesn't explain<eos>
+<bos>what he was doing there<eol>that late at night.<eos>
+<bos>So he's a one of the few<eol>civil servant we have<eos>
+<bos>with initiative and we busted him for it.<eos>
+<bos>He was crawling up an air duct by himself<eos>
+<bos>without alerting security.<eos>
+<bos>Dana, he passed the test.<eos>
+<bos>His story checks out.<eos>
+<bos>He's not the guy.<eos>
+<bos>It doesn't mean that<eol>your profile's incorrect.<eos>
+<bos>Scully's right. It is the guy.<eos>
+<bos>What do you got, Mulder?<eos>
+<bos>He lied on questions 11 and 13.<eos>
+<bos>His electrodermal<eol>and cardiographic response<eos>
+<bos>nearly go off the chart.<eos>
+<bos>Is number 11<eol>the hundred-year-old question?<eos>
+<bos>Let me tell you,<eos>
+<bos>I had a reaction to that stupid question.<eos>
+<bos>And what the hell<eol>is this Powhatan Mill thing?<eos>
+<bos>Two murders with matching M.O.'s<eos>
+<bos>occurred in Powhatan Mill in 1933.<eos>
+<bos>Just look at the chart.<eos>
+<bos>My interpretation of those reactions...<eos>
+<bos>I don't need you or that machine<eos>
+<bos>telling me if Tooms was alive in '33.<eos>
+<bos>He's the guy.<eos>
+<bos>I'm letting him go.<eos>
+<bos>You coming?<eos>
+<bos>Tom, I want to thank you<eos>
+<bos>for letting me put in<eol>some time with the VCS.<eos>
+<bos>But I am officially assigned<eol>to the X Files.<eos>
+<bos>I'll see what I can do about that.<eos>
+<bos>Tom, I can look out for myself.<eos>
+<bos>You said Mulder was out there.<eos>
+<bos>That guy's insane.<eos>
+<bos>You knew they wouldn't believe you.<eos>
+<bos>Why did you push it?<eos>
+<bos>Maybe I thought you caught the right guy.<eos>
+<bos>And maybe I run into<eol>so many people who are hostile<eos>
+<bos>just because they can't open their minds<eos>
+<bos>to the possibilities<eos>
+<bos>that sometimes the need<eol>to mess with their heads<eos>
+<bos>outweighs the millstone of humiliation.<eos>
+<bos>It seems like you were acting<eol>very territorial.<eos>
+<bos>I don't know. Forget it.<eos>
+<bos>Of course I was.<eos>
+<bos>In our investigations<eos>
+<bos>you may not always agree with me,<eos>
+<bos>but at least you respect the journey.<eos>
+<bos>And if you want to continue<eol>working with them,<eos>
+<bos>I won't hold it against you.<eos>
+<bos>I don't know.<eos>
+<bos>You must have something more<eos>
+<bos>than your polygraph interpretation<eos>
+<bos>to back up this bizarre theory<eos>
+<bos>and I have to see what it is.<eos>
+<bos>These are Eugene Tooms's prints.<eos>
+<bos>This is the fingerprint<eol>they took from Usher's office.<eos>
+<bos>It matches the old ones from the X Files.<eos>
+<bos>Obviously, no match.<eos>
+<bos>What if...<eos>
+<bos>somehow...<eos>
+<bos>How could that be?<eos>
+<bos>The only thing I know for certain is...<eos>
+<bos>they let him go.<eos>
+<bos>64 inches from the south wall.<eos>
+<bos>Let's run a check on liver transplants<eos>
+<bos>in the next 24 hours.<eos>
+<bos>Maybe this thing is black market.<eos>
+<bos>Come on. It was ripped out of there.<eos>
+<bos>Look, at this point,<eos>
+<bos>I'm willing to give any theory a shot--<eos>
+<bos>any sane theory.<eos>
+<bos>I'm sorry, Dana,<eos>
+<bos>but I only want qualified members<eos>
+<bos>of the investigating team<eol>at the crime scene.<eos>
+<bos>What's the matter, Colton?<eos>
+<bos>You worried I'll solve your case?<eos>
+<bos>Tom, we have authorized access<eol>to this crime scene.<eos>
+<bos>A report of you<eos>
+<bos>obstructing another officer's<eol>investigation<eos>
+<bos>might stick out on your personnel file.<eos>
+<bos>Look, Dana,<eos>
+<bos>whose side are you on?<eos>
+<bos>The victim's.<eos>
+<bos>105 inches from the fireplace.<eos>
+<bos>The victim is a Thomas Werner.<eos>
+<bos>Single, white...<eos>
+<bos>That's Tooms's.<eos>
+<bos>And he took something.<eos>
+<bos>Baltimore PD checked out<eol>Tooms's apartment.<eos>
+<bos>It was a cover.<eos>
+<bos>No one has ever lived there<eos>
+<bos>and he hasn't shown up for work<eos>
+<bos>since he was arrested.<eos>
+<bos>I found him.<eos>
+<bos>How do we learn about the present?<eos>
+<bos>We look to the past.<eos>
+<bos>I think this is where it all began,<eos>
+<bos>in 1903, on Exeter Street.<eos>
+<bos>Now look at the address<eos>
+<bos>of that first murder in 1903.<eos>
+<bos>Apartment 203.<eos>
+<bos>He killed the guy above him.<eos>
+<bos>Maybe his neighbor<eol>played the Victrola too loud.<eos>
+<bos>This must be Tooms's great-grandfather.<eos>
+<bos>What about the prints?<eos>
+<bos>Genetics might explain the patterns.<eos>
+<bos>It also might explain<eos>
+<bos>the sociopathic attitudes and behaviors.<eos>
+<bos>It begins with one family member<eol>who raises an offspring<eos>
+<bos>who raises the next child...<eos>
+<bos>So what is this, the anti-Waltons?<eos>
+<bos>Well, what do you think?<eos>
+<bos>I think what we have to do<eol>is track Eugene Tooms.<eos>
+<bos>There's four down<eol>and one to go this year.<eos>
+<bos>If we don't get him right now,<eos>
+<bos>the next chance<eol>we're gonna get is in, uh...<eos>
+<bos>2023.<eos>
+<bos>And you're gonna be<eos>
+<bos>head of the Bureau by then.<eos>
+<bos>So I think you have to<eol>go through the census,<eos>
+<bos>I'm gonna plow through this century's<eos>
+<bos>marriage, birth, death certificates...<eos>
+<bos>Do you have any Dramamine<eol>on you, by any chance?<eos>
+<bos>'Cause these... these things<eol>make me seasick.<eos>
+<bos>Anything?<eos>
+<bos>Nope.<eos>
+<bos>He disappeared off the face of the earth.<eos>
+<bos>You?<eos>
+<bos>Never was born, never married<eos>
+<bos>never died.<eos>
+<bos>At least in Baltimore County.<eos>
+<bos>Well, I did find one thing, though.<eos>
+<bos>Um, it's the current address<eol>of the investigating officer<eos>
+<bos>of the Powhatan Mill murders in 1933.<eos>
+<bos>I've been waiting 25 years for you.<eos>
+<bos>Sir?<eos>
+<bos>I called it quits in 1968,<eos>
+<bos>after 45 years as a cop...<eos>
+<bos>and those killings at Powhatan Mill.<eos>
+<bos>I was a sheriff then,<eos>
+<bos>and I 'd seen my share of murders--<eos>
+<bos>bloody ones--<eos>
+<bos>but I could go home and...<eos>
+<bos>pitch a few baseballs to my kid<eos>
+<bos>and never give it a second thought.<eos>
+<bos>You gotta be able to do that.<eos>
+<bos>You... you'd go crazy, right?<eos>
+<bos>But those murders in Powhatan Mill...<eos>
+<bos>when I walked into that room,<eol>my heart went cold.<eos>
+<bos>My hands... numbed.<eos>
+<bos>I could feel...<eos>
+<bos>it.<eos>
+<bos>Feel what, Frank?<eos>
+<bos>When I first heard<eol>about the death camps in 1945,<eos>
+<bos>I remembered Powhatan Mill.<eos>
+<bos>When I see the Kurds and the Bosnians...<eos>
+<bos>that room is there...<eos>
+<bos>I tell you.<eos>
+<bos>It's like all of the horrible acts<eos>
+<bos>that humans are capable of<eos>
+<bos>somehow gave birth<eol>to some kind of human...<eos>
+<bos>monster.<eos>
+<bos>That's why I say<eos>
+<bos>I've been waiting for you.<eos>
+<bos>Uh...<eos>
+<bos>there's a box in the trunk here.<eos>
+<bos>Get it for me, would you please?<eos>
+<bos>Now, this is all the evidence<eol>I've collected<eos>
+<bos>officially and unofficially.<eos>
+<bos>Unofficially?<eos>
+<bos>I knew that the murders in '63<eol>were by the same... person<eos>
+<bos>as in '33.<eos>
+<bos>But by then, they had me<eol>on a desk pushing papers<eos>
+<bos>and they wouldn't let me<eol>anywhere near the case.<eos>
+<bos>A piece of the removed liver?<eos>
+<bos>Yes.<eos>
+<bos>But, you know, that's not the only trophy<eos>
+<bos>he took with him.<eos>
+<bos>Family members reported<eol>small personal effects<eos>
+<bos>missing in each case--<eos>
+<bos>a hairbrush in the Walters murder...<eos>
+<bos>a coffee mug in the Taylor murder.<eos>
+<bos>Have you ever heard the name<eos>
+<bos>Eugene Victor Tooms? Hmph.<eos>
+<bos>When they wouldn't bring me<eol>aboard in '63,<eos>
+<bos>I...<eos>
+<bos>I did some of my own work.<eos>
+<bos>I took these surveillance pictures.<eos>
+<bos>Now, this...<eos>
+<bos>is Tooms.<eos>
+<bos>Of course, that was him 30 years ago.<eos>
+<bos>And this...<eos>
+<bos>...is the apartment where he lived.<eos>
+<bos>It was located at...<eos>
+<bos>...66 Exeter Street?<eos>
+<bos>Right.<eos>
+<bos>That's it.<eos>
+<bos>Right there.<eos>
+<bos>Here's 103.<eos>
+<bos>The old man was right.<eos>
+<bos>You can feel it.<eos>
+<bos>Nothing here.<eos>
+<bos>Check this out.<eos>
+<bos>What's down here?<eos>
+<bos>I don't know.<eos>
+<bos>Let's find out.<eos>
+<bos>Just an old coal cellar.<eos>
+<bos>Somebody having a garage sale?<eos>
+<bos>This is the shape on Werner's mantle.<eos>
+<bos>Frank said he collected trophies.<eos>
+<bos>Does he live in here?<eos>
+<bos>It looks like<eos>
+<bos>the wall's deteriorating.<eos>
+<bos>No. Somebody made it.<eos>
+<bos>This is a nest.<eos>
+<bos>Look.<eos>
+<bos>It's made out of rags and newspapers.<eos>
+<bos>This looks like the opening.<eos>
+<bos>Think there's anything inside?<eos>
+<bos>Oh, my God, Mulder...<eos>
+<bos>it smells like...<eos>
+<bos>I think it's bile.<eos>
+<bos>Is there any way I can get it<eol>off my fingers quickly<eos>
+<bos>without betraying my cool exterior?<eos>
+<bos>No one could live in this.<eos>
+<bos>I don't think it's where he lives.<eos>
+<bos>I think it's where he hibernates.<eos>
+<bos>Hibernates?<eos>
+<bos>Just listen.<eos>
+<bos>What if some genetic mutation<eol>could allow a man<eos>
+<bos>to awaken every 30 years?<eos>
+<bos>Mulder...<eos>
+<bos>And what if the five livers<eol>could provide him sustenance<eos>
+<bos>for that period?<eos>
+<bos>What if Tooms is some kind<eol>of 20th-century...<eos>
+<bos>genetic mutant?<eos>
+<bos>In any case, he's not here now<eos>
+<bos>and he's got to come back.<eos>
+<bos>Well, we're gonna need<eol>a surveillance team.<eos>
+<bos>Yeah. It'll take some finagling.<eos>
+<bos>Well, you go downtown and see<eol>what you can finagle.<eos>
+<bos>And I'll keep watch.<eos>
+<bos>Oh, wait.<eos>
+<bos>I'm snagged on something.<eos>
+<bos>Oh, it's okay.<eos>
+<bos>I got it.<eos>
+<bos>It's about time.<eos>
+<bos>So, who we looking for again?<eos>
+<bos>Eugene Tooms.<eos>
+<bos>He's unarmed, but consider him dangerous.<eos>
+<bos>Scully and I will be back<eol>to relieve you in eight hours<eos>
+<bos>if he doesn't show-- right here.<eos>
+<bos>You've got it...<eos>
+<bos>Spooky.<eos>
+<bos>We have to talk.<eos>
+<bos>I have to meet Mulder.<eos>
+<bos>That's what we have to talk about.<eos>
+<bos>You're using two of my men<eos>
+<bos>to sit in front of a building<eos>
+<bos>that's been condemned for ten years?<eos>
+<bos>It isn't in any way interfering<eol>with your investigation.<eos>
+<bos>When we first had lunch,<eos>
+<bos>I really looked forward<eol>to working with you.<eos>
+<bos>You are a good agent.<eos>
+<bos>But now, after Mulder,<eos>
+<bos>I couldn't have you far enough away.<eos>
+<bos>Don't bother going down there.<eos>
+<bos>I had the stakeout called off.<eos>
+<bos>You can't do that.<eos>
+<bos>No, I can't, but my regional ASAC can,<eos>
+<bos>especially after I told them about<eos>
+<bos>the irresponsible waste in man-hours.<eos>
+<bos>Huh-uh. Let me call Mulder.<eos>
+<bos>Let me tell him the news.<eos>
+<bos>Is this what it takes<eol>to climb the ladder, Colton?<eos>
+<bos>All the way to the top.<eos>
+<bos>Then I can't wait till you fall off<eos>
+<bos>and land on your ass.<eos>
+<bos>This is Fox Mulder.<eos>
+<bos>I'm not here.<eos>
+<bos>Leave a message.<eos>
+<bos>Where is everyone?<eos>
+<bos>Scully?<eos>
+<bos>This is Fox Mulder.<eos>
+<bos>I'm not here. Leave a message.<eos>
+<bos>Mulder, you must have gone out<eos>
+<bos>since Colton gave us the night off.<eos>
+<bos>I say we file a complaint against him.<eos>
+<bos>I am furious.<eos>
+<bos>Call me when you get in.<eos>
+<bos>Okay. Bye.<eos>
+<bos>Damn it.<eos>
+<bos>Oh, my...<eos>
+<bos>Damn it, answer!<eos>
+<bos>Scully!<eos>
+<bos>You all right?<eos>
+<bos>He's not going to get<eol>his quota this year.<eos>
+<bos>Look at him.<eos>
+<bos>He's building another nest.<eos>
+<bos>You'll be interested to know<eos>
+<bos>that I've ordered some genetic tests.<eos>
+<bos>The preliminary medical exam revealed<eos>
+<bos>quite abnormal development<eos>
+<bos>in the muscular and skeletal systems<eos>
+<bos>as well as a continually<eol>declining metabolic rate.<eos>
+<bos>It dips way below the levels<eol>registered in deep sleep.<eos>
+<bos>Did you hear what I said, Mulder?<eos>
+<bos>All these people<eol>putting bars on their windows...<eos>
+<bos>spending good money<eol>on high-tech security systems,<eos>
+<bos>trying to feel safe?<eos>
+<bos>I look at this guy, and I think...<eos>
+<bos>"it ain't enough."<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

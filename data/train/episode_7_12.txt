@@ -1,0 +1,389 @@
+<bos>Almost home now, Jason. What do we say?<eos>
+<bos>Sticks and stones may break my bones,<eos>
+<bos>but words can never hurt me.<eos>
+<bos>Keep your chin up, son.<eol>We'll get through this just fine.<eos>
+<bos>Jason, have you got a comment?<eol>How do you feel, Jason?<eos>
+<bos>Back up! Back up, there!<eos>
+<bos>Okay, folks, come on out.<eol>You're safe now.<eos>
+<bos>Just step out and stay in front of me.<eol>We'll get you in your house.<eos>
+<bos>- Come on, son.<eol>- Just stay in front of me.<eos>
+<bos>There you go, sweetheart.<eos>
+<bos>If you need anything during the night,<eos>
+<bos>if you don't feel well,<eol>you just ring that bell, okay?<eos>
+<bos>Okay, Mom.<eos>
+<bos>Good night, Jason.<eos>
+<bos>I know you're afraid.<eos>
+<bos>Maybe you think those people<eol>outside are right...<eos>
+<bos>that we should take you to the hospital<eol>and let the doctors treat you.<eos>
+<bos>We could do that.<eos>
+<bos>And they might take away your cancer<eol>and your body might feel better,<eos>
+<bos>but not your soul.<eos>
+<bos>It's God himself who gave you<eol>this illness, Jason,<eos>
+<bos>for reasons that are his.<eos>
+<bos>If you're to be well in body and spirit,<eos>
+<bos>it's God who must come to deliver you.<eos>
+<bos>Good morning. Here's a story to warm<eol>the cockles of your heart, Scully.<eos>
+<bos>"An 11-year-old boy diagnosed with<eol>lymphatic cancer cured with a miracle."<eos>
+<bos>Jason McPeck. Goochland, Virginia.<eos>
+<bos>Oh.<eos>
+<bos>Yeah, his parents refused<eol>treatment on religious grounds.<eos>
+<bos>His faith forbids medical aid,<eos>
+<bos>and soJason's cure<eol>was delivered by angels.<eos>
+<bos>Well, spontaneous remission, Mulder,<eol>isn't completely unheard of.<eos>
+<bos>So-called "miracle" recoveries<eol>attributable...<eos>
+<bos>to no clear cause or reason.<eos>
+<bos>It's not the miracle I'm suspicious of.<eol>It's the messenger.<eos>
+<bos>That came as an anonymous e-mail to me...<eos>
+<bos>from the Defense Advance<eol>Research Projects Agency.<eos>
+<bos>- DARPA? - Someone at DARPA.<eos>
+<bos>How'd you hear about it?<eos>
+<bos>You subscribe to the Goochland Guardian?<eos>
+<bos>No.<eos>
+<bos>So this just appeared miraculously<eol>on your doorstep this morning?<eos>
+<bos>As far as I can tell, I was<eol>the only one to whom it was delivered.<eos>
+<bos>Someone wants us on this case.<eos>
+<bos>- It's not a case, Mulder.<eol>- Yeah, not yet.<eos>
+<bos>I'm gonna go back over to DARPA.<eos>
+<bos>You see what else you can<eol>find out about that boy.<eos>
+<bos>I just gotta know whether it was<eol>Roma Downey or Della Reese.<eos>
+<bos>- Yes? - Hi.<eos>
+<bos>I'm Dana Scully with<eol>the Federal Bureau of Investigation.<eos>
+<bos>- Are you Mrs. McPeck?<eol>- What can we do for you?<eos>
+<bos>I'm here about your son.<eos>
+<bos>- Are we under investigation? - Uh, no.<eos>
+<bos>I-I was just hoping to better<eol>understand what happened to him.<eos>
+<bos>- May I ask, is he okay?<eol>- Jason, you've got somebody to see you.<eos>
+<bos>- Tell her how you're feeling.<eol>- I feel good.<eos>
+<bos>Just a little out of breath.<eos>
+<bos>You're looking at God's work.<eos>
+<bos>Jason's life owes to his grace<eol>and exalts his name in the highest.<eos>
+<bos>And you say that you saw angels?<eos>
+<bos>- Yes. - May I ask what they looked like?<eos>
+<bos>They looked like men.<eos>
+<bos>They came from the sky<eol>in a ball of light.<eos>
+<bos>- And what did they say?<eol>- They said not to be afraid.<eos>
+<bos>Then one of them pinched me kind of hard.<eos>
+<bos>- And then I was better right away.<eol>- He pinched you? Where?<eos>
+<bos>Right here.<eos>
+<bos>- What the hell are you doing?<eol>- God's work. What else?<eos>
+<bos>who saved that young boy's life,<eol>and yours.<eos>
+<bos>You got your light. Now get out.<eos>
+<bos>You're not at all curious...<eos>
+<bos>about the chip that's been<eol>put in that boy's neck?<eos>
+<bos>You, a medical doctor, who has<eol>the same technology in your body,<eos>
+<bos>who's witnessed this<eol>wondrous miracle firsthand?<eos>
+<bos>I've taken considerable trouble<eol>to prove my intentions.<eos>
+<bos>The newspaper at your door,<eol>the e-mail to Mulder,<eos>
+<bos>the elaborate demonstration<eol>of curing this boy's cancer.<eos>
+<bos>You see, I'm dying myself.<eos>
+<bos>A dying man who wants to make right...<eol>to share his secrets...<eos>
+<bos>and to bequeath this cure to millions<eol>of others, just like that boy.<eos>
+<bos>So you wanna give it to us?<eos>
+<bos>To you, Agent Scully.<eos>
+<bos>I've tired of Mulder's muleheadedness.<eos>
+<bos>His foolish ideas<eol>of overthrowing the system.<eos>
+<bos>You think I'm fooled by this?<eos>
+<bos>I made you my offer.<eos>
+<bos>Agent Mulder hears a breath of this,<eol>rest assure I'll rescind it.<eos>
+<bos>Take it to my grave.<eos>
+<bos>- Yes, I need a trace<eol>on a D.C. area phone number.<eos>
+<bos>I need an address. Thank you.<eos>
+<bos>- May I help you?<eol>- I'm sorry. I made a mistake.<eos>
+<bos>- May I see some identification?<eos>
+<bos>Look, is this necessary?<eol>I just walked through the wrong door.<eos>
+<bos>Your identification, please.<eos>
+<bos>- Look... - Third floor.<eos>
+<bos>Agent Scully.<eos>
+<bos>Please, sit.<eos>
+<bos>- I'm glad you came.<eol>- You obviously knew that I would.<eos>
+<bos>In the end...<eos>
+<bos>a man finally looks<eol>at the sum of his life...<eos>
+<bos>to see what he'll leave behind.<eos>
+<bos>Most of what I worked to build<eol>is in ruins.<eos>
+<bos>And now that the darkness descends,<eos>
+<bos>I find I have no real legacy.<eos>
+<bos>What are you dying of?<eos>
+<bos>Cerebral inflammation.<eos>
+<bos>A consequence of brain surgery<eol>I had in the fall.<eos>
+<bos>The doctors give me just a few months.<eos>
+<bos>So you want to use me<eol>to clear the slate...<eos>
+<bos>to make you a respectable person?<eos>
+<bos>It won't work.<eos>
+<bos>How many people in the world<eol>are dying of cancer?<eos>
+<bos>And here we are<eol>wasting time with the past.<eos>
+<bos>I'm here. Where is it?<eos>
+<bos>This miracle cure of yours.<eos>
+<bos>We'll need to take a trip.<eol>It will require a few days.<eos>
+<bos>I'll get back to you.<eos>
+<bos>I have access, Agent Scully.<eos>
+<bos>I have these miraculous chips, but the<eol>genetic research that makes them work...<eos>
+<bos>is closely guarded.<eos>
+<bos>There are men in this building<eol>who would kill me if they knew...<eos>
+<bos>what I'd offered you.<eos>
+<bos>They'd kill you too<eol>in the blink of an eye.<eos>
+<bos>I've destroyed a lot<eol>of things in my life,<eos>
+<bos>including the people most precious to me.<eos>
+<bos>All I want is a chance to do something<eol>in service to man before I go.<eos>
+<bos>Call received 8:01 p.m.<eos>
+<bos>Mulder, it's me.<eol>I wanted to let you know...<eos>
+<bos>that I'll be out of town<eol>for a day or two.<eos>
+<bos>It's a family emergency.<eos>
+<bos>I'll call you when I can.<eos>
+<bos>- This is Dana Scully.<eol>I'm not in right now.<eos>
+<bos>- Please leave a message after the beep.<eos>
+<bos>Hey, Scully, it's me.<eol>Pick up if you're there.<eos>
+<bos>Scully, you there?<eos>
+<bos>All right, I just... I got your message,<eol>and I hope everything's okay.<eos>
+<bos>I'll try you on your cell right now.<eos>
+<bos>You're going to smoke?<eos>
+<bos>- It's time I quit. - Just like that?<eos>
+<bos>No sacrifice is purely altruistic.<eos>
+<bos>We give, expecting to receive.<eos>
+<bos>What exactly is it you expect to receive?<eos>
+<bos>Your trust.<eos>
+<bos>You question my sincerity.<eol>You think I'm heartless.<eos>
+<bos>Would it soften your opinion<eol>of me if I confessed that...<eos>
+<bos>I've always had<eol>a particular affection for you?<eos>
+<bos>I assure you,<eol>my intentions are honorable.<eos>
+<bos>I have affection for Mulder too.<eos>
+<bos>My affection for you is special.<eos>
+<bos>I held your life in my hands.<eos>
+<bos>Your cancer was terminal,<eol>and I had a cure.<eos>
+<bos>Can you imagine what that's like?<eos>
+<bos>To have the power to extinguish a life...<eos>
+<bos>or to save it and let it flourish?<eos>
+<bos>Now to give you that power...<eos>
+<bos>so you can do the same.<eos>
+<bos>She said it was a family matter.<eos>
+<bos>Dropped off the key, asked me<eol>to water the plants. No biggie.<eos>
+<bos>A great girl.<eol>Independent as they come, you know?<eos>
+<bos>- She's a great girl. - Yeah, yeah.<eos>
+<bos>Tenants like having<eol>an F.B.I. agent in the building.<eos>
+<bos>Gives them a sense of security.<eos>
+<bos>Do you know how many people<eol>have died in there?<eos>
+<bos>- We don't talk about that.<eol>- You said she was carrying a suitcase.<eos>
+<bos>Did you notice anything else?<eol>Anything abnormal?<eos>
+<bos>No, no. Actually,<eol>it wasn't her carrying the suitcase.<eos>
+<bos>- It was her driver. - Her driver?<eos>
+<bos>Yeah, an older guy. Tall.<eos>
+<bos>I've seen him here before.<eol>Smokes like a chimney.<eos>
+<bos>Hey, don't you want...<eos>
+<bos>You've been at the wheel too long.<eol>Would you like me to drive?<eos>
+<bos>I might if you let me know<eol>where we're going.<eos>
+<bos>Knowing that, you'd feel comfortable?<eol>You'd trust me?<eos>
+<bos>How long did it take Mulder<eol>to win your trust?<eos>
+<bos>I've always trusted Mulder.<eos>
+<bos>You're not being honest with yourself.<eol>Think back.<eos>
+<bos>There was a time when you feared<eol>for your future, for your career,<eos>
+<bos>when you were first partnered<eol>with this man.<eos>
+<bos>I told you, I've studied you for years.<eos>
+<bos>And if you would permit me,<eol>I'd like to make an observation.<eos>
+<bos>You're drawn to powerful men,<eos>
+<bos>but you fear their power.<eos>
+<bos>You keep your guard up...<eol>a wall around your heart.<eos>
+<bos>How else do you explain<eol>that fearless devotion...<eos>
+<bos>to a man obsessed and a life alone?<eos>
+<bos>You'd die for Mulder,<eos>
+<bos>but you won't allow yourself to love him.<eos>
+<bos>Wow.<eos>
+<bos>I'm learning a whole other side to you.<eos>
+<bos>You're not just a coldblooded killer.<eol>You're a pop psychologist as well.<eos>
+<bos>I've been a destroyer all my life.<eos>
+<bos>Before I die,<eos>
+<bos>I'd like to prove that<eol>I'm capable of something more.<eos>
+<bos>- Turn here, on the left.<eol>- Where are we going?<eos>
+<bos>To show you what I'm capable of.<eos>
+<bos>Her name's Marjorie Butters.<eol>She's got quite a green thumb.<eos>
+<bos>Plays a mean game of Scrabble,<eol>if you're interested.<eos>
+<bos>And what's her relationship to you?<eos>
+<bos>Well, how should I put it?<eos>
+<bos>You could say that I'm her angel.<eos>
+<bos>Marjorie's 118 years old.<eos>
+<bos>- Oh! - I thought I'd surprise you.<eos>
+<bos>Marjorie, this is Dana Scully.<eol>She's a very good friend of mine.<eos>
+<bos>- Nice to meet you. - My pleasure.<eos>
+<bos>Well, come inside.<eol>I baked some fresh bread this morning.<eos>
+<bos>And there are tomatoes from the garden.<eos>
+<bos>I'll put the kettle on.<eos>
+<bos>To have this power...<eos>
+<bos>to visit this woman and see her joy...<eos>
+<bos>It must be why you became a doctor.<eos>
+<bos>I'll expect your call. Thanks.<eos>
+<bos>She requisitioned a fleet sedan<eol>when she left the Bureau yesterday.<eos>
+<bos>I don't know why,<eol>and there have been no fuel charges.<eos>
+<bos>Her mother doesn't know anything<eol>about a family emergency.<eos>
+<bos>Look, I know you're worried<eol>about the company that she's in.<eos>
+<bos>But from what you've told me,<eol>it's not like she's sneaking out.<eos>
+<bos>And the truth is, she's gone to<eol>a lot of trouble to allay your fears.<eos>
+<bos>I know she can take care of herself.<eos>
+<bos>It's just not like her to lie to me.<eos>
+<bos>That's my private line.<eos>
+<bos>- Skinner. -  Sir?<eos>
+<bos>- Agent Scully, where are you?<eol>- I'm on the road.<eos>
+<bos>- I'm sorry to call you on this line.<eol>- It's all right.<eos>
+<bos>It's just we've been worried about you.<eos>
+<bos>Everything's okay. I just wanted you<eol>to express that to Mulder.<eos>
+<bos>Can you tell him that I'll call him<eol>later? Just tell him that I'm fine.<eos>
+<bos>She said she's fine.<eos>
+<bos>She's in trouble.<eos>
+<bos>I'm going to the restroom.<eos>
+<bos>Mulder, I'm trusting you'll be able<eol>to make sense of what's on this tape.<eos>
+<bos>I had no other way of contacting you.<eos>
+<bos>Please try and understand<eol>that I weighed the risks.<eos>
+<bos>I couldn't divulge these plans<eol>without risking them,<eos>
+<bos>and I promise you<eol>that I weighed everything.<eos>
+<bos>Our current location is northbound<eol>on the Upstate Expressway.<eos>
+<bos>We're driving my F.B.I. fleet sedan.<eos>
+<bos>I promise I will get these tapes<eol>to you as fast as I can.<eos>
+<bos>Oh! Excuse me.<eos>
+<bos>Lifesaver?<eos>
+<bos>You may as well get comfortable.<eol>We've got a good drive ahead.<eos>
+<bos>It's the masters of disguise.<eos>
+<bos>- Can we laugh it up in your apartment?<eol>- We got heat on our tail.<eos>
+<bos>We did what you asked,<eol>pulled up what we could on Scully.<eos>
+<bos>We started with her credit cards to see<eol>if she purchased any airline tickets.<eos>
+<bos>And ended up hacking into<eol>some defense department node.<eos>
+<bos>Where they demanded that<eol>we immediately identify ourselves...<eos>
+<bos>or face prosecution for espionage<eol>or crimes against the government.<eos>
+<bos>What does this have to do<eol>with finding Scully?<eos>
+<bos>When we went into her computer, we found<eol>a series of deleted transmissions.<eos>
+<bos>E-mail that had been erased from her<eol>sub-directories, but not her hard drive.<eos>
+<bos>- A series of communications.<eol>- From someone named Cobra.<eos>
+<bos>Who the hell is Cobra?<eol>Scully would have told me about him.<eos>
+<bos>Well, looks like she's gone to<eol>great lengths to keep this from you.<eos>
+<bos>I don't believe that. She knows<eol>that I'd find her no matter what.<eos>
+<bos>Mulder, we can't find her.<eol>There's nowhere to start looking.<eos>
+<bos>Yeah, I don't believe that either.<eos>
+<bos>Give me that.<eos>
+<bos>How do you take your coffee?<eos>
+<bos>Unadulterated, thank you.<eos>
+<bos>You drugged me.<eos>
+<bos>I did nothing of the sort.<eos>
+<bos>How the hell did I get<eol>out of my clothes and into bed?<eos>
+<bos>I carried you.<eol>You'd been up for over 30 hours.<eos>
+<bos>You were delirious.<eol>I only wanted to make you comfortable.<eos>
+<bos>- Where are we? - Milford, Pennsylvania.<eos>
+<bos>Well, that wasn't part of the deal.<eos>
+<bos>I don't know what you're up to.<eos>
+<bos>The keys are in the ignition.<eos>
+<bos>You're free to go, of course.<eos>
+<bos>The choice is still yours.<eos>
+<bos>Sir, I need your attention.<eos>
+<bos>- Is my assistant... - No.<eos>
+<bos>She's away from her desk.<eol>I wouldn't just bust in here,<eos>
+<bos>- Is it secure? - Don't get testy, G-man.<eos>
+<bos>Are you aware of a federal fugitive<eol>code-named Cobra?<eos>
+<bos>For the past six months,<eol>Cobra's been e-mailing Scully...<eos>
+<bos>from the Department of Defense<eol>where he works on a shadow project...<eos>
+<bos>for advanced research.<eos>
+<bos>- Is that what I'm looking at here? - No.<eos>
+<bos>What they're pulling up is<eol>Scully's correspondence back to Cobra.<eos>
+<bos>- She has a relationship?<eol>- No. Somebody posing as Scully...<eos>
+<bos>who hacked into her computer<eol>and has been capturing all her e-mail,<eos>
+<bos>passing themselves off as Scully<eol>in order to win Cobra's trust.<eos>
+<bos>The last five exchanges<eol>hinted a meeting...<eos>
+<bos>where they're gonna exchange information<eol>on the project Cobra's working on.<eos>
+<bos>- A meeting? Where? -  Don't know.<eos>
+<bos>- They just ended.<eol>- Who's been in her computer?<eos>
+<bos>Smoking Man, or someone working for him.<eos>
+<bos>You gotta get to him now.<eos>
+<bos>You of all people should know<eol>that you just don't get to him.<eos>
+<bos>If you don't get to him, it may be<eol>the last time we see Scully alive.<eos>
+<bos>We'll be getting final instructions<eol>from our contact tonight.<eos>
+<bos>He's... He's invited us to dinner.<eos>
+<bos>I took the liberty of<eol>getting you something to wear.<eos>
+<bos>It's, uh... It's beautiful.<eos>
+<bos>I'm glad you like it.<eos>
+<bos>I look forward to tonight.<eos>
+<bos>- So your contact's going to join us?<eol>- I presume so.<eos>
+<bos>You extol our great trust, but<eol>you still haven't told me who he is.<eos>
+<bos>He is to human genetic science...<eos>
+<bos>as Oppenheimer and Fermi were<eol>to the advent of nuclear warfare.<eos>
+<bos>I'm still not clear what my<eol>importance is to this exchange.<eos>
+<bos>This man... We'll call him Cobra...<eos>
+<bos>he needs assurances...<eos>
+<bos>that the science he's gonna hand over<eol>won't fall into the wrong hands.<eos>
+<bos>- I've told him of you.<eol>He's expecting to meet you here.<eos>
+<bos>Well...<eos>
+<bos>to the future.<eos>
+<bos>I must tell you something else.<eos>
+<bos>Something that's so unbelievable,<eos>
+<bos>so incredible,<eos>
+<bos>that to know it is to<eol>look at the entire world anew.<eos>
+<bos>What?<eos>
+<bos>What we are being given,<eol>it's not the cure for cancer.<eos>
+<bos>It's the holiest of grails, Dana.<eos>
+<bos>It's the cure for all human disease.<eos>
+<bos>How?<eos>
+<bos>It's from that final frontier.<eos>
+<bos>It's largely extraterrestrial.<eos>
+<bos>Then you would be cured.<eos>
+<bos>That which makes miracles...<eos>
+<bos>can also make great evil.<eos>
+<bos>There are those who would use<eol>this power for their own purposes.<eos>
+<bos>To choose who will live and who will die.<eos>
+<bos>Theoretically, I can be cured, but...<eos>
+<bos>everything I've told you<eol>about wanting to make right?<eos>
+<bos>I'm a lonely man, Dana.<eos>
+<bos>Would you excuse me?<eos>
+<bos>Cobra hasn't shown.<eos>
+<bos>- What do you wanna do?<eol>- Wait. What else can we do?<eos>
+<bos>What trust you've won...<eos>
+<bos>Scully won't stick around forever.<eos>
+<bos>What's wrong?<eos>
+<bos>Just do your damn job.<eos>
+<bos>Calico inlet's 15 minutes out. South end.<eos>
+<bos>- What do I do when I get there?<eol>- I don't know. Just wait.<eos>
+<bos>Be careful.<eos>
+<bos>Finally we meet.<eos>
+<bos>You're just as you described yourself.<eol>Certainly more so last night at dinner.<eos>
+<bos>I only wish we could continue<eol>to correspond,<eos>
+<bos>but it must end after this.<eos>
+<bos>I hope one day we can take some time...<eos>
+<bos>when I'm not a marked man.<eos>
+<bos>This is it... the science I promised you.<eos>
+<bos>Well, wait. Where did you get this?<eos>
+<bos>- Where did it come from, this science?<eol>- Where did it come from?<eos>
+<bos>- Who developed it? - Scully?<eos>
+<bos>Yes, I'm Scully, but I don't believe<eol>we've spoken before or corresponded.<eos>
+<bos>They shot him. They killed him.<eos>
+<bos>And they shot at me.<eos>
+<bos>I wouldn't have sent you<eol>if I thought there'd be any danger.<eos>
+<bos>Dana.<eos>
+<bos>Yes, I got it.<eos>
+<bos>Forgive me.<eos>
+<bos>Here. Take it. This is for you.<eos>
+<bos>I gotta go.<eos>
+<bos>Go.<eos>
+<bos>There's nothing on this.<eos>
+<bos>- It's empty. - Completely.<eos>
+<bos>No. It can't be.<eos>
+<bos>It can't be.<eos>
+<bos>It's got to be on there.<eos>
+<bos>He was here!<eos>
+<bos>These were his offices.<eol>What the hell is this?<eos>
+<bos>He used you.<eos>
+<bos>Mulder, he laid it all out for me.<eol>I recorded it.<eos>
+<bos>I mailed you the tape.<eos>
+<bos>This old woman, Marjorie Butters,<eol>I met her.<eos>
+<bos>I saw her pictures,<eol>her birth certificate.<eos>
+<bos>You saw what you needed to see<eol>in order to make you believe.<eos>
+<bos>Well, then what about this boy?<eos>
+<bos>This boy with cancer?<eol>You can't deny that.<eos>
+<bos>That's... That's undeniable proof.<eos>
+<bos>Even if we could convince his parents<eol>to let us march him out,<eos>
+<bos>how long before that chip in his neck<eol>mysteriously disappears?<eos>
+<bos>This was the perfectly<eol>executed con, Scully.<eos>
+<bos>And the only thing I can't figure out<eol>is why you're still alive.<eos>
+<bos>Mulder, I looked into his eyes.<eos>
+<bos>I swear what he told me was true.<eos>
+<bos>The man's motives never changed.<eos>
+<bos>You think he used me to save himself...<eos>
+<bos>at the expense of the human race?<eos>
+<bos>He knows what that<eol>science is worth, how powerful it is.<eos>
+<bos>He'd let nothing stand in his way.<eos>
+<bos>You may be right.<eos>
+<bos>But for a moment,<eol>I saw something else in him.<eos>
+<bos>A longing for something more than power.<eos>
+<bos>Maybe for something he could never have.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

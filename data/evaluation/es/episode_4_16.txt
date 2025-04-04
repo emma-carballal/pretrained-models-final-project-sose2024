@@ -1,0 +1,570 @@
+<bos><i>El que muchos de Uds. hayan vuelto</i><eol><i>a casa, no a una bienvenida de héroes...</i><eos>
+<bos><i>sino a la hostilidad</i><eol><i>del pueblo norteamericano...</i><eos>
+<bos>Uno que nunca comprenderé...<eos>
+<bos>ni perdonaré.<eos>
+<bos>Pero también recalca<eol>nuestro deber sagrado...<eos>
+<bos>no sólo hoy, sino siempre...<eos>
+<bos>de honrar a aquellos<eol>que sirvieron con honor...<eos>
+<bos>y recordar a quienes cayeron.<eos>
+<bos>Hombres y mujeres<eol>cuyo último sacrificio...<eos>
+<bos>nunca debe ser olvidado.<eos>
+<bos>Probablemente no haya público...<eos>
+<bos>que comprenda mejor...<eos>
+<bos>que nuestra libertad no es gratuita.<eos>
+<bos>Uds. son mis ojos allá afuera.<eol>Háblenme. Reporten posiciones.<eos>
+<bos>No está en el sector 3.<eos>
+<bos>No hay señales de él en el 4.<eos>
+<bos>Reporte, sector 6.<eos>
+<bos><i>Mulder.</i><eos>
+<bos>Está aquí. Puedo sentirlo.<eos>
+<bos>¿Dónde está entonces?<eos>
+<bos>Espere.<eos>
+<bos>Creo que lo tengo en la sección 4.<eos>
+<bos>¿Puede confirmarlo, Scully?<eos>
+<bos>Identificación positiva.<eol>Se dirige a ti, 3.<eos>
+<bos>Mantengan sus posiciones.<eol>3 y 4, ¿tienen contacto visual?<eos>
+<bos>Lo tengo en 3. Va hacia ti, Scully.<eos>
+<bos><i>No le quites los ojos de encima, Scully.</i><eos>
+<bos>Mulder, ya me vio.<eos>
+<bos>- Se dirige a la cabina de sonido.<eol>- Entendido. Lo voy a interceptar.<eos>
+<bos>Háblenme. ¿Lo ve alguno de ustedes?<eos>
+<bos>¿Qué pasa, Scully?<eos>
+<bos>Me estoy acercando a él.<eos>
+<bos>- ¿Lo tiene en 3? - <i>Negativo.</i><eos>
+<bos>Lo perdí. ¿Lo tienes, 3?<eos>
+<bos><i>No lo veo, Scully.</i><eos>
+<bos><i>¿Qué pasa, agente Scully?</i><eos>
+<bos>- No lo veo en ninguna parte.<eol>- Debe dirigirse hacia ti.<eos>
+<bos>-<i>¿Lo tienes, Mulder?</i> - Aún no.<eos>
+<bos>Lo tengo.<eos>
+<bos>Lo perdí.<eos>
+<bos>Atrápelo, Mulder. Está frente a usted.<eos>
+<bos>¡Tiene un arma!<eos>
+<bos>¡General! ¡Váyase del escenario!<eos>
+<bos>No lo veo.<eos>
+<bos>No lo veo.<eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>" Port Evanston, Maryland<eol>Doce Horas Antes"<eos>
+<bos>Buenos días, señor.<eos>
+<bos>¡Está bien! ¡Vámonos!<eos>
+<bos>" Ud. Está Entrando Al Fuerte Evanston"<eos>
+<bos>¿Quién demonios es Ud.?<eos>
+<bos>¿Cómo entró aquí?<eos>
+<bos>¿Qué diablos está--?<eos>
+<bos>¡Teniente general! ¡Señor!<eos>
+<bos><i>El teniente general MacDougal murió</i><eol><i>de un disparo a muy corta distancia...</i><eos>
+<bos><i>esta mañana a las 6:00.</i><eos>
+<bos>El arma asesina no ha sido recuperada.<eos>
+<bos>El chofer del general, el soldado<eol>de primera clase Gus Burkholder...<eos>
+<bos>está detenido por sospecha de asesinato.<eos>
+<bos>Dice aquí que las pruebas confirman<eol>que el soldado no le disparó.<eos>
+<bos>Hay sospecha de un cómplice, basada<eol>en evidencia en la escena del crimen.<eos>
+<bos>Una "tarjeta de muerte" usada<eol>por los soldados en Vietnam...<eos>
+<bos>para marcar a quien mataron.<eos>
+<bos>Y por el posible vínculo del chofer<eol>con un grupo radical paramilitar...<eos>
+<bos>llamado La Mano Derecha, cuyo fin<eol>declarado es la revolución violenta.<eos>
+<bos>Hablé con el general Bloch.<eos>
+<bos>Él cree que hay probabilidad<eol>de oportunidades para un grupo así.<eos>
+<bos>Una situación que podría resultar<eol>en la pérdida pública de vidas.<eos>
+<bos>Docenas de oficiales militares<eol>de alto rango están en Washington...<eos>
+<bos>para una rededicatoria del monumento<eol>a los veteranos de Vietnam.<eos>
+<bos>A menos que podamos determinar<eol>un motivo claro...<eos>
+<bos>consideraremos a cualquiera<eol>de ellos un blanco.<eos>
+<bos>¿ Y si el soldado Burkholder<eol>está diciendo la verdad...<eos>
+<bos>y es inocente?<eos>
+<bos>Hasta encontrar a otro sospechoso,<eol>el FBI perseguirá a La Mano Derecha...<eos>
+<bos>y a su líder, un ex infante de marina<eol>llamado Denny Markham...<eos>
+<bos>en una estrategia para detener<eol>los planes que hubieran podido hacer.<eos>
+<bos>Por razones obvias, debemos ocultarle<eol>esto a los medios informativos.<eos>
+<bos>Trabajarán en equipos de dos.<eos>
+<bos>Si encuentran cualquier resistencia,<eol>no traben combate.<eos>
+<bos>Llamen y pidan refuerzos. Chandler<eol>tiene sus puestos y autorizaciones.<eos>
+<bos>Tenemos menos de 12 horas para impedir<eol>la posible pérdida de otras vidas.<eos>
+<bos>- ¿Entendido? - Muy bien.<eos>
+<bos>- Beckwith y Fontana, Virginia Beach.<eol>- Les agradezco que hayan venido.<eos>
+<bos>Jackson y Miller, Uds. irán a Alexandria.<eos>
+<bos>¿Fue para beneficio del general o pudo<eol>desarrollar una verdadera estrategia?<eos>
+<bos>En este momento estoy actuando<eol>en base a mi instinto.<eos>
+<bos>¿O sea que no hay un procedimiento<eol>delineado para un asesino invisible?<eos>
+<bos>¿Habló con el soldado Burkholder?<eos>
+<bos>Lo entrevisté y lo convencí de que<eol>se sometiera a una prueba de polígrafo.<eos>
+<bos>- ¿ Y? - La pasó.<eos>
+<bos>La naturaleza de sus alegatos<eol>sugeriría un positivo falso.<eos>
+<bos>Quien hizo la prueba admitió que el<eol>resultado es altamente interpretativo.<eos>
+<bos>¿Oyó su historia?<eos>
+<bos>Sí, y me pareció convincente, pero<eol>también le creí a la comisión Warren.<eos>
+<bos>Si tengo que planear una estrategia en<eol>base a esa historia, no hay estrategia.<eos>
+<bos>Alguien mató al general. Eso significa<eol>que alguien no está diciendo la verdad.<eos>
+<bos>El hombre que encabeza<eol>La Mano Derecha, Markham.<eos>
+<bos>- ¿Tiene una orden de arresto para él?<eol>- Sí. ¿Por qué?<eos>
+<bos>Permita que Mulder y yo<eol>se la entreguemos.<eos>
+<bos>Si damos un paso en falso,<eol>Markham sabrá que andamos tras él...<eos>
+<bos>desaparecerá y encontrará<eol>otra forma de apretar el gatillo.<eos>
+<bos>Ya he visto a más soldados muertos<eol>de los que jamás hubiera querido ver.<eos>
+<bos>Sr. Markham.<eos>
+<bos>-<i>¿Quién es?</i><eol>- Los agentes Mulder y Scully del FBI.<eos>
+<bos><i>¿Qué quieren?</i><eos>
+<bos>Es muy urgente que hablemos con Ud.<eol>de inmediato, señor.<eos>
+<bos><i>La puerta no tiene traba.</i><eos>
+<bos>¿De qué quieren hablar conmigo?<eos>
+<bos>Del asesinato del Gral. Peter MacDougal.<eos>
+<bos>¿Sospechan de mí?<eos>
+<bos>No, pero sí de su grupo y del soldado<eol>de primera clase Gus Burkholder.<eos>
+<bos>¿Es ése un nombre que debería conocer?<eos>
+<bos>Está en la lista de direcciones<eol>de La Mano Derecha.<eos>
+<bos>Hay dos mil nombres en esa lista.<eol>No conozco a cada uno de ellos.<eos>
+<bos>Nos gustaría revisar esa lista<eol>con Ud., señor.<eos>
+<bos>Ni loco se la daría.<eos>
+<bos>Ya tenemos una copia.<eol>Por favor venga con nosotros.<eos>
+<bos>No iré a ninguna parte.<eos>
+<bos>Señor, tenemos una orden de arresto.<eos>
+<bos>Si no coopera,<eol>bajo la nueva ley de antiterrorismo...<eos>
+<bos>podemos detenerlo y lo haremos hasta que<eol>nos dé la información que necesitamos.<eos>
+<bos>Se arruinó el vecindario.<eos>
+<bos>Puede hacer esto tan fácil<eol>o tan difícil como quiera, señor.<eos>
+<bos>La Mano Derecha cree<eol>en otorgarle poder al individuo...<eos>
+<bos>sobre un gobierno federal<eol>corrupto y corruptor.<eos>
+<bos>Estamos preparados para el momento...<eos>
+<bos>en que la resistencia armada<eol>sea necesaria.<eos>
+<bos>Habrá que sacrificar vidas.<eos>
+<bos>Pero ese día no ha llegado.<eos>
+<bos>- ¿Tomaría una prueba de polígrafo?<eol>- Mi palabra es suficiente.<eos>
+<bos>¿Qué palabra dice sobre esto?<eos>
+<bos>¿De dónde salió?<eos>
+<bos>Eso le pregunto a Ud.<eos>
+<bos>Más hombres van a morir.<eos>
+<bos>Este tipo es una amenaza<eol>a la seguridad nacional.<eos>
+<bos>Creo que tiene más armas y municiones<eol>que muchos ejércitos del tercer mundo.<eos>
+<bos>Me dijo que sacara esta foto<eol>de su archivero.<eos>
+<bos>¿Quién es?<eos>
+<bos>Dice que él fue quien mató<eol>al general MacDougal.<eos>
+<bos>Se llama Nathaniel Teager.<eos>
+<bos>Ha matado a 26 enemigos él solo,<eol>confirmado.<eos>
+<bos>Una verdadera máquina asesina.<eos>
+<bos>El mismo gobierno que lo creó<eol>lo dio por muerto.<eos>
+<bos>¿Lo dio por muerto?<eos>
+<bos>Pertenecía al destacamento B-11<eol>de Boinas Verdes...<eos>
+<bos>el pelotón conocido<eol>como los Sables Sangrientos.<eos>
+<bos>En 1971 , transportaban al B-11<eol>a la zona de guerra...<eos>
+<bos>cuando derribaron a su helicóptero.<eol>No hubo sobrevivientes.<eos>
+<bos>¿Cuándo se tomó esta foto?<eos>
+<bos>En diciembre de 1995.<eos>
+<bos>Sólo unas horas después<eol>de que La Mano Derecha...<eos>
+<bos>lo liberó del campamento de prisioneros<eol>en las afueras del bosque U-Minh.<eos>
+<bos>Seguramente sabe que en 1973,<eol>el Departamento de Defensa...<eos>
+<bos>determinó que no quedaban<eol>prisioneros de guerra en Vietnam.<eos>
+<bos>Tal vez por eso trataron de secuestrar<eol>al sargento Teager cuando lo trajimos.<eos>
+<bos>¿El gobierno secuestró a un prisionero<eol>de guerra norteamericano?<eos>
+<bos>Dije que trataron de secuestrarlo.<eos>
+<bos>Hicieron que sus comandos abordaran<eol>nuestro avión en San Diego.<eos>
+<bos>Cuando entraron a la cabina de carga<eol>donde lo escondimos, ya no estaba.<eos>
+<bos>Nunca supe cómo había desaparecido.<eos>
+<bos>Creo que he oído suficiente.<eos>
+<bos>No le crees, ¿verdad?<eos>
+<bos>¿ Y si estuviera diciendo la verdad?<eos>
+<bos>¿ Un prisionero de guerra fantasma dado<eol>por muerto regresa a vengar injusticias?<eos>
+<bos>- Quizá la guerra no haya terminado.<eol>- Tal vez no la guerra de Markham.<eos>
+<bos>Considerando los hechos del caso y<eol>la prueba de polígrafo de Burkholder...<eos>
+<bos>esto es lo más cercano<eol>a una explicación que tenemos.<eos>
+<bos>O es sólo una historia ingeniosamente<eol>propuesta para encubrir...<eos>
+<bos>una conspiración cuidadosamente planeada.<eos>
+<bos>También existe esa posibilidad.<eos>
+<bos>Que Markham tome la prueba de polígrafo.<eos>
+<bos>- ¿ Y si la pasa? - No la pasará.<eos>
+<bos>¿Sra. Davenport?<eos>
+<bos>¿Renée Davenport?<eos>
+<bos>Sí.<eos>
+<bos>¿Esposa del cabo interino Gary Davenport<eol>de las Fuerzas Especiales?<eos>
+<bos>Disculpe, ¿lo conozco?<eos>
+<bos>No, señora.<eos>
+<bos>Vine a actuar en su nombre, porque Gary<eol>sigue siendo un prisionero de guerra.<eos>
+<bos>Gary está muerto.<eos>
+<bos>No, señora.<eos>
+<bos>Ojalá me perdone, como lo perdona a él,<eol>como hombre y como soldado...<eos>
+<bos>por restituir el honor<eol>y el recuerdo del B-11 .<eos>
+<bos>¡Dios mío!<eos>
+<bos>¿De dónde las sacó?<eos>
+<bos>¿Quién se las dio?<eos>
+<bos>¿Dónde está?<eos>
+<bos>Cielos.<eos>
+<bos>¿Dónde está? ¿Adónde se fue?<eos>
+<bos>¿Es cierto que ella lo identificó<eol>en la foto?<eos>
+<bos>Un mal fax de ella.<eol>¿Tienen la foto original?<eos>
+<bos>Sí, y más copias para distribuir.<eos>
+<bos>Tenemos a seguridad revisando<eol>a los vendedores y trabajadores.<eos>
+<bos>Se la enviamos a la policía local,<eol>pero sin excluir a otros sospechosos.<eos>
+<bos>Creí que había identificado a Teager.<eos>
+<bos>Sí, pero no puedo autorizar<eol>o fomentar una estrategia...<eos>
+<bos>cuyo objetivo sea un soldado<eol>que está oficialmente muerto.<eos>
+<bos>¿Porque su nombre está en un muro?<eos>
+<bos>No. Acabo de hablar con el laboratorio<eol>forense del ejército donde han estado...<eos>
+<bos>los restos de Teager desde que<eol>los recogieron donde cayó el avión.<eos>
+<bos>¿Tienen sus restos?<eos>
+<bos>Markham pudo haber<eol>escenificado todo esto...<eos>
+<bos>buscando a alguien vulnerable como ella<eol>para hacer creer sus mentiras.<eos>
+<bos>- ¿Para qué tomarse tantas molestias?<eol>- Para crear un señuelo...<eos>
+<bos>para desviar nuestra atención.<eol>Parece estar funcionando.<eos>
+<bos>Esa mujer vio a alguien.<eol>Quiero saber a quién.<eos>
+<bos>Sí. Es él.<eos>
+<bos>¿Está segura?<eos>
+<bos>Todo lo que dijo sonaba<eol>a que Gary aún está vivo.<eos>
+<bos>Eso no puede ser, ¿verdad?<eos>
+<bos>¿Dice que desapareció?<eos>
+<bos>Eso es lo que es tan raro.<eos>
+<bos>Estaba parado frente a mí...<eos>
+<bos>y de pronto ya no estaba.<eos>
+<bos>¿ Y si lo que dijo es verdad?<eol>¿ Y si Gary estuviera vivo?<eos>
+<bos>He tratado de seguir adelante<eol>con mi vida. Me volví a casar.<eos>
+<bos>¿Qué le voy a decir ahora a mi esposo?<eos>
+<bos>¿Qué debo hacer?<eos>
+<bos>Su ojo.<eos>
+<bos>¿Qué?<eos>
+<bos>¡Dios mío! ¿Qué me está pasando?<eos>
+<bos>Creo que se le reventó un vaso capilar.<eos>
+<bos>- ¡Dios mío! - Mantenga ahí el pañuelo.<eos>
+<bos>- ¿Podrían examinarle el ojo?<eol>- ¿Examinarle el ojo? ¿Para qué?<eos>
+<bos>Según el decir general, el hombre<eol>a quien buscamos, a quien ella vio...<eos>
+<bos>tiene la habilidad de desaparecer.<eos>
+<bos>Tal vez exista una conexión.<eos>
+<bos>Lo que tiene es una simple<eol>hemorragia subconjuntiva...<eos>
+<bos>probablemente ocasionada<eol>por su estado emocional.<eos>
+<bos>¿ Y cómo llegó a ese estado emocional?<eos>
+<bos>¿ Y tú? ¿Qué vas a hacer?<eos>
+<bos>Voy a ver si realmente estamos<eol>persiguiendo a un hombre muerto.<eos>
+<bos>" 1:22 PM - Laboratorio Central<eol>de Identificación del Ejército"<eos>
+<bos>- Sí. - Dr. Benjamín Keyser.<eos>
+<bos>Creo que localicé lo que está buscando.<eos>
+<bos>Es un milagro que lo haya encontrado.<eol>El historial fue parcialmente destruido.<eos>
+<bos>Dos bicúspides...<eos>
+<bos>y un molar.<eos>
+<bos>¿Eso fue todo lo que quedó de Teager<eol>donde cayó el avión?<eos>
+<bos>Han localizado gente con mucho menos y<eol>éstos son los dientes del Sgto. Teager.<eos>
+<bos>Los cotejé con su historial dental.<eos>
+<bos>¿Hay alguna forma de saber<eol>cómo fueron extraídos los dientes?<eos>
+<bos>Asumo que se los sacaron.<eos>
+<bos>En cada uno de estos dientes,<eol>hay marcas pronunciadas en el esmalte.<eos>
+<bos>Mírelas Ud. mismo.<eos>
+<bos>¿Se puede saber si eso fue<eol>antes o después de su muerte?<eos>
+<bos>No, realmente no.<eos>
+<bos>Esto es presunto, ¿no? Declararlo muerto<eol>en base a evidencia no concluyente.<eos>
+<bos>Lo anotaron aquí. Hasta lo subrayaron.<eos>
+<bos>" No Concluyente"<eos>
+<bos>Quien firmó este certificado de<eol>defunción quiso ignorar los hechos, ¿no?<eos>
+<bos>No sé quién sería. Este historial<eol>fue parcialmente destruido.<eos>
+<bos>¿Hay alguna forma de averiguarlo?<eos>
+<bos>Basándonos en el historial y en los<eol>informes registrados al mismo tiempo...<eos>
+<bos>podríamos hacer una suposición<eol>bastante acertada.<eos>
+<bos>¿Sí?<eos>
+<bos>Sí. Un momento.<eos>
+<bos>- Es para usted, señor. - Hola.<eos>
+<bos>General Steffan, soy el agente especial<eol>Fox Mulder del FBI.<eos>
+<bos>Lo llamo porque hay razones para creer<eol>que su vida puede estar en peligro.<eos>
+<bos>¿De qué habla?<eos>
+<bos>De que la persona o personas<eol>que asesinaron al general MacDougal...<eos>
+<bos>pueden haber decidido matarlo a Ud.<eos>
+<bos><i>¿En qué información se basa?</i><eos>
+<bos>En un acta de defunción<eol>que Ud. pudo haber firmado.<eos>
+<bos><i>El acta de defunción</i><eol><i>del sargento Nathaniel Teager.</i><eos>
+<bos>No sé nada sobre eso,<eol>pero voy en camino al Pentágono.<eos>
+<bos>Señor, estoy a 10 minutos.<eos>
+<bos>Le pido que confíe en mi evaluación del<eol>riesgo y tome todas las precauciones.<eos>
+<bos>- Sí.<eol>- <i>Bien. ¿Conoce a su chofer, señor?</i><eos>
+<bos>Sí. Conduce mi auto muy a menudo.<eos>
+<bos>Bien. Enviaré a dos agentes del FBI<eol>a escoltarlo, sólo como precaución.<eos>
+<bos>Tienen el número de mi celular.<eol>¿De acuerdo?<eos>
+<bos>¿Quiénes saben lo que es un pentágono?<eos>
+<bos>Un pentágono es una figura<eol>que tiene 5 lados...<eos>
+<bos>y eso es el Pentágono.<eos>
+<bos>En este momento estamos en la sección A.<eos>
+<bos>Construido en 1941<eol>por decreto del Congreso...<eos>
+<bos>el Pentágono es virtualmente<eol>en sí mismo una ciudad.<eos>
+<bos>- General. - Buenas tardes.<eos>
+<bos>- Todo bien, general.<eol>- Gracias, caballeros.<eos>
+<bos>Eso es todo.<eos>
+<bos>" El Pentágono"<eos>
+<bos>Mulder, estoy en el Centro Médico<eol>de Georgetown.<eos>
+<bos><i>¿Averiguaste qué le causó</i><eol><i>la hemorragia en el ojo?</i><eos>
+<bos>El oftalmólogo descubrió algo<eol>llamado escotoma transitorio.<eos>
+<bos>- ¿Escotoma?<eol>- <i>Un punto ciego fotante.</i><eos>
+<bos>¿Qué causaría eso?<eos>
+<bos><i>Hay muchas enfermedades</i><eol><i>que pueden herir la retina.</i><eos>
+<bos><i>Diabetes, glaucoma,</i><eol><i>degeneración macular.</i><eos>
+<bos><i>A su vez crean una deficiencia</i><eol><i>en el campo visual.</i><eos>
+<bos>- ¿Tiene alguna de esas enfermedades?<eol>- <i>Parece que no.</i><eos>
+<bos>¿No te parece raro<eol>que tenga un punto ciego...<eos>
+<bos>que no hubiera notado antes?<eos>
+<bos>No necesariamente.<eos>
+<bos>El cerebro tiende a completar y la<eol>corteza visual compensa conceptualmente.<eos>
+<bos>Eso podría explicar<eol>la desaparición de Teager.<eos>
+<bos>Le pregunté eso al doctor y se rió de mí.<eos>
+<bos>Un momento, Scully.<eos>
+<bos><i>¿Agente Mulder?</i><eol><i>Habla el Gral. Steffan.</i><eos>
+<bos>Encontré algo en mi escritorio.<eol>Algo muy perturbador.<eos>
+<bos>- ¿Dónde está? - <i>En mi oficina.</i><eos>
+<bos>¿Están con Ud. los agentes que le asigné?<eos>
+<bos>No. Están aquí afuera.<eos>
+<bos>Quiero que los llame a su oficina<eol>de inmediato, general.<eos>
+<bos>¿Quién puso esto aquí?<eos>
+<bos>Escúcheme con atención. Voy para allá.<eos>
+<bos>¿General Steffan?<eos>
+<bos>Llame a una ambulancia.<eos>
+<bos>El secretario del general estuvo aquí<eol>organizando su escritorio...<eos>
+<bos>no más de 15 minutos antes<eol>de que le dispararan al general.<eos>
+<bos>Nunca vio esta carta, ni vio a nadie<eol>entrar o salir de la oficina...<eos>
+<bos>fuera del general<eol>y los agentes que le asigné.<eos>
+<bos>Según mi examen, nada respecto<eol>al general puede explicar tu relato.<eos>
+<bos>Estaba hablando por teléfono con él.<eol>Le dispararon a quemarropa en la frente.<eos>
+<bos>- Creo que habría visto a quien disparó.<eol>- No necesariamente.<eos>
+<bos>Tal vez lo sorprendieron.<eos>
+<bos>Aún ignoramos demasiada<eol>evidencia forense, Mulder.<eos>
+<bos>¿No le encontraste escotoma?<eos>
+<bos>Está más allá de mi capacidad<eol>el hacer esa clase de análisis aquí.<eos>
+<bos>Está más allá de la capacidad de todos,<eol>pero alguien tiene que explicar...<eos>
+<bos>cómo un general de cuatro estrellas<eol>puede ser asesinado de un disparo...<eos>
+<bos>en lo que es simbólicamente la base<eol>militar mejor protegida en el país.<eos>
+<bos>¿Señor?<eos>
+<bos>Necesito que vengan los dos<eol>a ver algo de inmediato.<eos>
+<bos>Es él. Es Teager.<eos>
+<bos>Sea quien sea, quiero saber<eol>cómo demonios sucedió esto.<eos>
+<bos>No tenemos una explicación clara, señor.<eos>
+<bos>Venía hacia acá, agente Mulder.<eol>Sabía que el general estaba en peligro.<eos>
+<bos>Hice todo lo que pude.<eol>Le asigné dos agentes.<eos>
+<bos>Esto es una locura.<eol>Este hombre está matando a voluntad.<eos>
+<bos>- Correcto, señor.<eol>- ¿ Y no se puede detenerlo?<eos>
+<bos>Creo que Teager tiene una habilidad...<eos>
+<bos>de borrarse efectivamente<eol>del campo visual.<eos>
+<bos>Si es invisible, ¿por qué aparece<eol>en este video tan claramente?<eos>
+<bos>Creo que se puede esconder<eol>de la vista humana manipulando algo...<eos>
+<bos>a lo que Scully se ha referido<eol>como algo que ocurre naturalmente.<eos>
+<bos>- Un punto ciego.<eol>- Es una conjetura, señor.<eos>
+<bos>- ¿O sea que si lo estoy mirando--?<eol>- Tal vez no pueda verlo.<eos>
+<bos>¿No es cierto que ciertos soldados han<eol>reportado la aparición inexplicada...<eos>
+<bos>y la desaparición<eol>de guerrilleros del Vietcong?<eos>
+<bos>He leído los informes yo mismo.<eos>
+<bos>Tal vez Teager aprendió algo de sus<eol>guardianes en 25 años de aislamiento.<eos>
+<bos>Tenemos 7 km de calles transitadas<eol>con 31 oficiales en un desfile.<eos>
+<bos>Si lo que dice es verdad,<eol>no puedo proteger a esos hombres.<eos>
+<bos>Cancélelo.<eos>
+<bos>Haya desfile o no,<eol>esos hombres serán vulnerables.<eos>
+<bos>La única forma de detener a ese asesino<eol>es atrapándolo.<eos>
+<bos>- ¿Cómo haremos eso?<eol>- Encontrando a su víctima antes que él.<eos>
+<bos>"Centro de Detención del Ejército<eol>Fuerte Evanston, Maryland 4:08 PM"<eos>
+<bos>Soy el general de división<eol>Benjamín Bloch.<eos>
+<bos>Lo hizo otra vez, ¿verdad?<eos>
+<bos>Les dije que lo haría.<eos>
+<bos>Según el FBI,<eol>Ud. conoce al hombre que buscan.<eos>
+<bos>Tal vez pueda decirme<eol>por qué no logran encontrarlo.<eos>
+<bos>Por la misma razón<eol>que no lo encuentran Uds.<eos>
+<bos>Lo cual me imagino es<eol>por lo que está aquí en este momento.<eos>
+<bos>Estoy aquí porque hay gente muriendo.<eos>
+<bos>Soldados que dedicaron sus vidas<eol>a la defensa de este país.<eos>
+<bos>Supongo que ésa es una forma de verlo.<eos>
+<bos>En este momento<eol>se le acusa de conspiración...<eos>
+<bos>para cometer homicidio y traición.<eos>
+<bos>Aun si ambas acusaciones fracasan, hay<eol>suficiente evidencia para condenarlo...<eos>
+<bos>por posesión y transportación<eol>de armas ilegales.<eos>
+<bos>¿Me está amenazando?<eos>
+<bos>Le estoy ofreciendo un trato...<eos>
+<bos>para Ud. y la gente a la que representa.<eos>
+<bos>Si cree que tengo<eol>algún control sobre Teager...<eos>
+<bos>se equivoca.<eos>
+<bos>Sólo necesito saber qué es lo que quiere.<eos>
+<bos>Ud. sabe qué quiere y ambos sabemos<eol>que no puede dárselo.<eos>
+<bos>No sin arrastrar su uniforme limpio<eol>por el lodo.<eos>
+<bos>No sin arrastrar su uniforme limpio<eol>por el lodo.<eos>
+<bos>Cualquier cosa que me haga<eol>no le hará cambiar de parecer, general.<eos>
+<bos>Está enviando un mensaje...<eos>
+<bos>y asegurándose de que todos<eol>lo escuchen fuerte y claramente.<eos>
+<bos>¡Marquen!<eos>
+<bos>¡Marquen el tiempo!<eos>
+<bos>Me dijo que tenía prisa.<eos>
+<bos>El tráfico está un poco pesado<eol>debido al desfile.<eos>
+<bos>Necesita información sobre prisioneros<eol>de guerra norteamericanos.<eos>
+<bos>- Sobre un hombre llamado Teager.<eol>- No tengo información sobre él.<eos>
+<bos>- ¿Por qué vino? - Dígame lo que sabe.<eos>
+<bos>Un prisionero de guerra llamado Teager<eol>puede estar de regreso...<eos>
+<bos>llevando a cabo sentencias de muerte<eol>contra quienes lo dejaron en Vietnam.<eos>
+<bos>- ¿Quiénes son esos hombres? - Generales.<eos>
+<bos>Steffan y MacDougal.<eos>
+<bos>- Tienen una conexión. - ¿Cuál es?<eos>
+<bos>Una noticia reciente muy bochornosa<eol>para el ejército de los EE.UU...<eos>
+<bos>sobre la eliminación<eol>de soldados de Vietnam del Sur.<eos>
+<bos>Hombres empleados por nuestro gobierno<eol>como espías y comandos...<eos>
+<bos>y abandonados tras las líneas enemigas<eol>para ser capturados y asesinados.<eos>
+<bos>La operación fue repudiada<eol>y sus vidas borradas de los registros.<eos>
+<bos>Por una comisión secreta de tres hombres<eol>que podrían enfrentarse a acusaciones.<eos>
+<bos>Sus testimonios podrían usarse<eol>en el cálculo de compensaciones.<eos>
+<bos>¿Dice que nuestro gobierno quiere<eol>muertos a esos tres oficiales?<eos>
+<bos>¿Por qué nos pidieron<eol>que los protegiéramos?<eos>
+<bos>Porque saben que no pueden hacerlo.<eos>
+<bos>¿Quién es el tercer hombre?<eos>
+<bos>Necesito un nombre.<eos>
+<bos>- ¿General Bloch?<eol>- ¡General! ¡Detengan el auto!<eos>
+<bos>¿Qué está pasando aquí?<eos>
+<bos>Necesitamos que se baje del auto,<eol>por su propia seguridad.<eos>
+<bos>¿Por qué?<eos>
+<bos>Recibimos información<eol>de que su vida puede estar en peligro.<eos>
+<bos>¿De quién?<eos>
+<bos>¡Tirador! ¡Agáchense!<eos>
+<bos>- ¿Dónde? ¿Dónde está? - Estaba ahí.<eos>
+<bos>Lo vi.<eos>
+<bos>Era él, señor. Era el hombre de la foto.<eos>
+<bos>- ¿Está segura? - Lo vi, señor.<eos>
+<bos>- Era él. - ¿Está segura?<eos>
+<bos>Avíseme cuando lo averigüe.<eos>
+<bos>Oí lo que pasó. Me dijeron que<eol>le salvaste la vida al general Bloch.<eos>
+<bos>Él está bien. Está ahí.<eos>
+<bos>- ¿ Viste a alguien en el desfile?<eol>- No estoy realmente segura.<eos>
+<bos>Lo viste, ¿verdad? Viste a Teager.<eos>
+<bos>Ya te dije que no estoy segura.<eos>
+<bos>Pero sacaste tu arma. Debes haber<eol>estado más convencida que eso.<eos>
+<bos>¿Por qué estás tan convencido de que<eol>el general Bloch era su próximo blanco?<eos>
+<bos>Averigüé lo del general Bloch<eol>de la misma persona que me dijo...<eos>
+<bos>que no debimos haberle salvado la vida<eol>a Bloch ni a los otros generales.<eos>
+<bos>- ¿De qué habla? - Este caso.<eos>
+<bos>¿Por qué cree que le cayó en el regazo...<eos>
+<bos>a menos que encabezar un destacamento<eol>antiterrorista sea parte de su trabajo?<eos>
+<bos>Eso no prueba que lo embaucaron.<eos>
+<bos>Desde el principio sabían<eol>que no se podía detener a Teager.<eos>
+<bos>- ¿Querían que fallara Skinner?<eol>- Y nosotros.<eos>
+<bos>Dada la naturaleza del caso,<eol>sabían que nos llamaría.<eos>
+<bos>El gobierno no va a sacrificar<eol>las vidas de oficiales de alto rango...<eos>
+<bos>sólo para desacreditarnos.<eos>
+<bos>El desacreditarnos, en este caso,<eol>será sólo secundario.<eos>
+<bos>¿Secundario a qué?<eos>
+<bos>A mantener su política secreta de<eol>negación de los prisioneros de guerra...<eos>
+<bos>lo cual requirió silenciar<eol>a los hombres que crearon esa política.<eos>
+<bos>Creo que la historia de Denny Markham<eol>está causando el efecto deseado.<eos>
+<bos>Estás creyendo la mentira.<eos>
+<bos>Denny Markham podría ser el único en<eol>este caso que está diciendo la verdad.<eos>
+<bos>Pero si no me crees, ¿por qué no<eol>se lo preguntas al general Bloch mismo?<eos>
+<bos>¿Preguntarme qué?<eos>
+<bos>No puedo seguir esperando aquí.<eol>Voy a dar el discurso de apertura.<eos>
+<bos>- Tal vez quiera reconsiderar.<eol>- No reconsiderará.<eos>
+<bos>El no salir sería una admisión de culpa.<eos>
+<bos>Aún tenemos razones para creer<eol>que su vida está en peligro.<eos>
+<bos>Sigue siendo su deber protegerme, ¿no?<eos>
+<bos>- Eso estamos tratando de hacer.<eol>- Entonces cumplan con su deber.<eos>
+<bos>General--<eos>
+<bos>Escuchen bien,<eol>porque no tenemos mucho tiempo.<eos>
+<bos>Todos conocen sus responsabilidades.<eos>
+<bos>Tienen sus sectores y sus asignaciones.<eos>
+<bos><i>Es un placer para mí</i><eol><i>presentarles a un hombre muy especial.</i><eos>
+<bos><i>Herido y condecorado</i><eol><i>por valentía en Vietnam...</i><eos>
+<bos><i>tuvo una idea, una visión.</i><eos>
+<bos><i>Crear un monumento conmemorativo</i><eol><i>nacional...</i><eos>
+<bos>¿Eres tú, compañero?<eos>
+<bos><i>para todos los norteamericanos</i><eol><i>que dieron sus vidas en Vietnam.</i><eos>
+<bos>¿Adónde vas?<eos>
+<bos><i>Damas y caballeros...</i><eos>
+<bos>-<i>les presento al fundador...</i><eol>- ¿Adónde vas?<eos>
+<bos><i>del Fondo para el Monumento</i><eol><i>Conmemorativo de los Veteranos...</i><eos>
+<bos><i>de Vietnam, el Sr.Jan Frost.</i><eos>
+<bos><i>Bienvenidos, damas y caballeros.</i><eos>
+<bos><i>Estamos aquí para rededicar</i><eol><i>este monumento...</i><eos>
+<bos><i>en este día tan importante.</i><eos>
+<bos><i>Recordamos sobre todo a aquellos que</i><eol><i>no pueden estar hoy aquí con nosotros.</i><eos>
+<bos>Soy yo, Leo Danziger.<eos>
+<bos>Te vi, compañero.<eos>
+<bos>¿Dónde estás?<eos>
+<bos>Detrás de ti.<eos>
+<bos>Creí que estabas muerto.<eos>
+<bos>Eso fue lo que nos dijeron.<eos>
+<bos>Porque es lo que querían que creyeran.<eos>
+<bos>No comprendo.<eos>
+<bos>Comprenderás...<eos>
+<bos>después de esta noche.<eos>
+<bos>¿De qué hablas?<eos>
+<bos>Los esperé, Leo.<eol>Esperé a que fueran por mí.<eos>
+<bos>- Pero nunca vinieron.<eol>- Tal vez no sabían.<eos>
+<bos>Lo sabían.<eos>
+<bos>Y prefirieron dejarme morir.<eol>Era más fácil que admitir la verdad.<eos>
+<bos>Todo eso se acabó, Teager.<eos>
+<bos>Se acabó hace mucho tiempo.<eos>
+<bos>No para mí...<eos>
+<bos>ni para los otros.<eos>
+<bos>¿Me estás diciendo que hay más?<eos>
+<bos>¿Qué haces, compañero?<eos>
+<bos>¿Dónde estás?<eos>
+<bos><i>Es un verdadero honor presentarles</i><eol><i>a otro gran estadounidense...</i><eos>
+<bos><i>y compañero de lucha.</i><eos>
+<bos><i>El general de división Benjamín Bloch.</i><eos>
+<bos>Almirante Leitch...<eos>
+<bos>Senador Baine...<eos>
+<bos>compatriotas...<eos>
+<bos>y sobre todo los veteranos.<eos>
+<bos><i>Probablemente no haya público</i><eol><i>que comprenda mejor...</i><eos>
+<bos><i>que nuestra libertad no es gratuita.</i><eos>
+<bos>Uds. son mis ojos allá afuera.<eol>Háblenme. Reporten posiciones.<eos>
+<bos>No está en el sector 3.<eos>
+<bos>No hay señales de él en el 4.<eos>
+<bos>Y por eso es nuestro deber recordarlos.<eos>
+<bos>Espere.<eos>
+<bos>Creo que lo tengo en la sección 4.<eos>
+<bos>¿Puede confirmarlo, Scully?<eos>
+<bos>Identificación positiva.<eol>Se dirige a ti, 3.<eos>
+<bos>Mantengan sus posiciones.<eol>3 y 4, ¿tienen contacto visual?<eos>
+<bos>Lo tengo en 3. Va hacia ti, Scully.<eos>
+<bos><i>No le quites los ojos de encima, Scully.</i><eos>
+<bos>Mulder, ya me vio.<eos>
+<bos>- Se dirige a la cabina de sonido.<eol>- Entendido. Lo voy a interceptar.<eos>
+<bos>Háblenme. ¿Lo ve alguno de ustedes?<eos>
+<bos>¿Qué pasa, Scully?<eos>
+<bos>Me estoy acercando a él.<eos>
+<bos>- ¿Lo tiene en 3? - <i>Negativo.</i><eos>
+<bos>Lo perdí. ¿Lo tienes, 3?<eos>
+<bos><i>No lo veo, Scully.</i><eos>
+<bos><i>¿Qué pasa, agente Scully?</i><eos>
+<bos>- No lo veo en ninguna parte.<eol>- Debe dirigirse hacia ti.<eos>
+<bos>-<i>¿Lo tienes, Mulder?</i> - Aún no.<eos>
+<bos>Lo tengo.<eos>
+<bos>Lo perdí.<eos>
+<bos>Atrápelo, Mulder. Está frente a usted.<eos>
+<bos>¡Tiene un arma!<eos>
+<bos>¡General! ¡Váyase del escenario!<eos>
+<bos>No lo veo.<eos>
+<bos>Vi a Teager con el rabillo del ojo.<eos>
+<bos>Desapareció.<eos>
+<bos>No hay motivo para alarmarse,<eol>damas y caballeros.<eos>
+<bos>Sólo un pequeño disturbio.<eol>Tratemos de mantener el orden.<eos>
+<bos>- ¿Dónde está el general Bloch?<eol>- Con Skinner.<eos>
+<bos>- Tenemos que detenerlo.<eol>- ¿Qué está pasando?<eos>
+<bos>Creo que sólo puede esconderse si está<eol>en la línea directa de visión de uno.<eos>
+<bos>¿Cuando alguien lo está<eol>mirando directamente?<eos>
+<bos>Por eso mató a los generales<eol>MacDougal y Steffan a quemarropa.<eos>
+<bos>Aléjense del auto. Está en el auto.<eos>
+<bos>Teager está en el auto.<eos>
+<bos>¡Abajo!<eos>
+<bos>¡Salga del auto con las manos arriba!<eos>
+<bos>Se acabó, Teager.<eos>
+<bos>Salga.<eos>
+<bos>¡Llamen a una ambulancia!<eos>
+<bos>Teager, NathanielJ.<eos>
+<bos>Sargento del destacamento B-11<eol>de Boinas Verdes.<eos>
+<bos>Número de servicio 82278.<eos>
+<bos>Fecha de nacimiento: 7 de marzo de 1952.<eos>
+<bos>Teager, NathanielJ. Sargento.<eos>
+<bos>El Pentágono afirma que el hombre<eol>que murió era un tal Thomas Lynch.<eos>
+<bos>Un veterano que estuvo 15 años dentro<eol>y fuera de hospitales psiquiátricos.<eos>
+<bos>Y fue miembro de La Mano Derecha.<eos>
+<bos>Su nombre estaba en la lista<eol>de Denny Markham. Markham lo identificó.<eos>
+<bos>Deben haber llegado a él.<eos>
+<bos>El médico forense del ejército afirma<eol>que tiene múltiples confirmaciones.<eos>
+<bos>Ud. lo oyó. Ambos lo oímos.<eol>Está sucediendo de nuevo.<eos>
+<bos>Están cubriendo las mentiras con más<eol>mentiras, tratando de hacerlo invisible.<eos>
+<bos>Tenemos que emplazar a Markham y a<eol>Bloch y solicitar el cadáver de Teager.<eos>
+<bos>No puedo hacer eso, agente Mulder.<eos>
+<bos>¿Por qué?<eos>
+<bos>Esta investigación se le cedió al<eol>Departamento de Investigación Criminal.<eos>
+<bos>- Ya no está bajo nuestra jurisdicción.<eol>- No les permita hacer esto.<eos>
+<bos>- Déjelo, Mulder. Ud. hizo su trabajo.<eol>- También Nathaniel Teager.<eos>
+<bos>Encontró al hombre a quien buscaba,<eol>pero ahora está muerto. Se acabó.<eos>
+<bos>¿Es eso lo que cree?<eos>
+<bos>¿Es eso lo que realmente piensa?<eos>
+<bos>No sólo están negando la vida<eol>de este hombre, sino también su muerte.<eos>
+<bos>Y con todo respeto, señor...<eos>
+<bos>podría ser usted.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

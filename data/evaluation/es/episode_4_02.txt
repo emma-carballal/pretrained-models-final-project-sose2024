@@ -1,0 +1,477 @@
+<bos><i>y nuestros recursos para detectarla.</i><eos>
+<bos><i>Muchos científicos opinan</i><eol><i>que el contacto con otros pueblos...</i><eos>
+<bos><i>ha dejado de ser</i><eol><i>algo más que un sueño...</i><eos>
+<bos><i>para convertirse en un hecho natural</i><eol><i>en la historia humana...</i><eos>
+<bos><i>que, quizás, muchos de nosotros</i><eol><i>alcanzaremos a ver.</i><eos>
+<bos>- Disculpen. - Déjenla pasar.<eos>
+<bos>¿Agente Scully?<eos>
+<bos>Detective Rempulski,<eol>policía de Alexandria.<eos>
+<bos>Gracias por venir a hacer esto.<eos>
+<bos>¿Es él?<eos>
+<bos>Sí.<eos>
+<bos>"Oficina Central del FBI<eol>Washington, D.C."<eos>
+<bos>Agente Scully, por favor, siéntese.<eos>
+<bos>Agente Scully,<eol>hemos tenido un breve diálogo...<eos>
+<bos>pero, ¿podría volver a exponer el asunto<eol>que intentaremos cerrar aquí?<eos>
+<bos>Sí, señor.<eos>
+<bos>Hace cuatro años...<eos>
+<bos>el jefe de sección Blevins me asignó<eol>al proyecto conocido como Expedientes X.<eos>
+<bos>Como soy doctora en medicina,<eol>especializada en ciencias exactas...<eos>
+<bos>mi tarea era brindar<eol>una perspectiva analítica...<eos>
+<bos>sobre el trabajo<eol>del agente especial Fox Mulder...<eos>
+<bos>cuyas investigaciones<eol>sobre lo paranormal...<eos>
+<bos>se originaban en su férrea convicción...<eos>
+<bos>de que su hermana fue secuestrada<eol>por extraterrestres a los 12 años.<eos>
+<bos>Vengo aquí, hoy...<eos>
+<bos>cuatro años después...<eos>
+<bos>para informar sobre la ilegitimidad...<eos>
+<bos>del trabajo del agente Mulder.<eos>
+<bos>Según mi opinión científica...<eos>
+<bos>él se convirtió,<eol>en el curso de estos años...<eos>
+<bos>en una víctima.<eos>
+<bos>Una víctima<eol>de sus propias y falsas expectativas...<eos>
+<bos>y de su fe...<eos>
+<bos>en la más grande de las mentiras.<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>CREER LA MENTI RA<eos>
+<bos>" Montañas de San Elías,<eol>Territorio de Yukón, Canadá"<eos>
+<bos>Veremos al guía en el campamento<eol>de la base. Nos llevará al lugar.<eos>
+<bos>- ¿Él lo vio? - Sí.<eos>
+<bos>Dice que es increíble.<eos>
+<bos>¿En cuánto tiempo llegaremos?<eos>
+<bos>¿Ahora? Debemos darnos prisa<eol>para llegar a la cima al anochecer.<eos>
+<bos>Prefiero dormirme viéndolo<eol>y no estar ansioso toda la noche.<eos>
+<bos>- Será un esfuerzo.<eol>- Toda mi vida esperé este día.<eos>
+<bos>Hagámoslo.<eos>
+<bos>Aquí.<eos>
+<bos>¿Cómo está?<eos>
+<bos>- Es un placer conocerlo. - George.<eos>
+<bos>Dios mío.<eos>
+<bos>Es una belleza.<eos>
+<bos><i>Supongo que puede explicar</i><eol><i>esta desavenencia con el agente Mulder.</i><eos>
+<bos>Sí, señor.<eos>
+<bos>Los últimos acontecimientos<eol>echaron una nueva luz...<eos>
+<bos>sobre la evidencia fáctica y física...<eos>
+<bos>capaz de demostrar la existencia<eol>de vida extraterrestre...<eos>
+<bos>que es la base de la ferviente devoción<eol>del agente Mulder por su trabajo.<eos>
+<bos>¿Qué evidencia fáctica?<eos>
+<bos>El agente Mulder se entrevistó<eol>recientemente con un hombre...<eos>
+<bos>cuya búsqueda de esa evidencia<eol>parecía coincidir con la de él.<eos>
+<bos>En su apasionado afán por creer...<eos>
+<bos>el agente Mulder<eol>fue embaucado por ese hombre.<eos>
+<bos>Fue embaucado por un acto<eol>de prestidigitación científica...<eos>
+<bos>calculado para perpetuar<eol>falsas verdades...<eos>
+<bos>la mentira más grande.<eos>
+<bos>Estoy aquí hoy<eol>para dar a conocer esa mentira...<eos>
+<bos>para mostrar el engañoso mecanismo...<eos>
+<bos>que nos llevó a él y a mí<eol>a creer en ella...<eos>
+<bos>y revelar la verdad<eol>sobre el trabajo del agente Mulder.<eos>
+<bos>Y lo tomé por las rodillas<eol>y él cayó hacia atrás...<eos>
+<bos>sobre mí, y nos precipitamos<eol>escalones abajo.<eos>
+<bos>Hablando de Bill, ¿va a venir?<eos>
+<bos>Buenas noches.<eol>¿Me permite su abrigo? Gracias.<eos>
+<bos>Allí está.<eos>
+<bos>Hola, Dana. Luces bien.<eos>
+<bos>Tú luces bien, hermano mayor.<eos>
+<bos>Lamento llegar tarde.<eol>Mi avión se demoró por el tránsito.<eos>
+<bos>- ¿Recibiste mi tarjeta de cumpleaños?<eol>- Sí. Gracias por recordarlo este año.<eos>
+<bos>- Una vez por década. - Padre McCue.<eos>
+<bos>Lo estaba esperando.<eos>
+<bos>- ¿Cómo te encuentras, Dana?<eol>- Estoy bien.<eos>
+<bos>- Vamos a cenar.<eol>- Sí, me muero de hambre.<eos>
+<bos>Y el loro dice: "Sólo tengo una pregunta.<eos>
+<bos>¿Qué hacía esa gallina allí dentro?"<eos>
+<bos>- Mamá, abriré otra botella de vino.<eol>- Bien.<eos>
+<bos>Me siento incómodo sentado aquí.<eol>De seguro, tú también.<eos>
+<bos>- Lo siento.<eol>- Conozco a tu familia desde hace años.<eos>
+<bos>Tu mamá me pidió que viniese<eol>para hablar contigo.<eos>
+<bos>Sé que hace bastante tiempo<eol>que no conversamos...<eos>
+<bos>desde que te alejaste de la iglesia.<eos>
+<bos>- Padre McCue...<eol>- Pero en esta crisis personal...<eos>
+<bos>con tu salud amenazada...<eos>
+<bos>que regreses a tu fe<eol>es importante y esencial.<eos>
+<bos>Estoy agradecida por la preocupación<eol>de mi madre y la suya...<eos>
+<bos>pero mi cáncer está en tratamiento<eol>y he tomado todas las precauciones.<eos>
+<bos>La fe puede fortalecerte.<eos>
+<bos>No he sentido la necesidad.<eos>
+<bos>Tengo fortaleza...<eos>
+<bos>y no desandaré mis pasos ahora.<eos>
+<bos>Yo no soy así.<eol>Sería mentirme a mí misma y a Ud.<eos>
+<bos>Te llaman.<eos>
+<bos>Con permiso.<eos>
+<bos>Soy yo. Lamento interrumpir tu cena.<eos>
+<bos>- ¿Ocurre algo malo? - Necesito tu ayuda.<eos>
+<bos><i>Alguien llamado Arlinski se comunicó</i><eol><i>conmigo desde el Smithsonian.</i><eos>
+<bos>¿Se comunicó contigo por qué?<eos>
+<bos>- Por algo que encontró en Canadá.<eol>-<i>¿Qué?</i><eos>
+<bos><i>Preferiría no mencionarlo por teléfono.</i><eol><i>Te veré en el Smithsonian.</i><eos>
+<bos>- ¿Cuándo? - Ahora mismo.<eos>
+<bos><i>Voy para allá.</i><eos>
+<bos>"Instituto Smithsonian"<eol>Me disculparé con tu familia.<eos>
+<bos>- Pero esto no podía esperar.<eol>- Está bien.<eos>
+<bos>¿Quién es ese Arlinski?<eos>
+<bos>Un antropólogo forense con quien estuve<eol>en contacto estos últimos cuatro años.<eos>
+<bos>Una vez se vio envuelto en el escándalo<eol>de una foto falsa de OVNIs...<eos>
+<bos>pero continúa sosteniendo su inocencia.<eos>
+<bos>- ¿Qué vine a ver? - No voy a decírtelo.<eos>
+<bos>Quiero que tú misma lo decidas.<eos>
+<bos>Puedo suponer, por los sedimentos<eol>de las muestras de hielo...<eos>
+<bos>que el cuerpo que están observando<eol>tiene más de 200 años.<eos>
+<bos>- Luce perfectamente intacto. - Sí.<eos>
+<bos>Eso no tiene sentido.<eol>Habría señales de depredación.<eos>
+<bos>Por la posición en que fue hallado,<eol>sepultado en una grieta a gran altura...<eos>
+<bos>se habría congelado tan rápido<eol>que no pudo ser devorado.<eos>
+<bos>¿Eso tiene explicación geológica?<eos>
+<bos>La zona en la cual fue hallado...<eos>
+<bos>está en la morrena final de un glacial<eol>que luego retrocedió.<eos>
+<bos>Doscientos años atrás,<eol>la zona en la cual se congeló...<eos>
+<bos>estaba dentro de la línea de bosques,<eol>y pudo haber deshielo.<eos>
+<bos>- ¿Quién lo halló?<eol>- Un equipo de geodestas canadienses.<eos>
+<bos>Junto con un colega mío llamado Babcock.<eos>
+<bos>- Están aún en lo alto de la montaña.<eol>- ¿Quién más sabe sobre esto?<eos>
+<bos>Nadie.<eos>
+<bos>Sé cuál fue su primer pensamiento.<eos>
+<bos>¿La cordillera de San Elías?<eol>Es mucho andar para un fraude.<eos>
+<bos>Si hay que andar,<eol>¿por qué no llegar hasta el final?<eos>
+<bos>Por mi parte, soy muy prudente.<eos>
+<bos>Pero las muestras de hielo que tomé<eol>no pueden ser falsas.<eos>
+<bos>¿Tiene las muestras de hielo aquí?<eos>
+<bos>Sí. Aquí.<eos>
+<bos>Tomamos una de cada lado del cuerpo.<eos>
+<bos>Con 360 grados de correspondencia<eol>unívoca entre los sedimentos.<eos>
+<bos>Sinceramente, creo<eol>que lo que tenemos aquí...<eos>
+<bos>es la masa corpórea completa<eol>de una entidad biológica extraterrestre.<eos>
+<bos>Absoluto e irrefutable.<eos>
+<bos>Cualitativamente insostenible.<eos>
+<bos>Anúncielo y nadie le creerá.<eol>Ni usted podrá confirmarlo.<eos>
+<bos>La misma gente que ocultó la verdad<eol>estará a cargo de su autenticación.<eos>
+<bos>Por eso lo llamé. Necesito extraerlo<eol>para poder autenticarlo.<eos>
+<bos>Ese cuerpo significa todo para Ud.,<eol>agente Mulder.<eos>
+<bos>- Tendrá la prueba en sus manos.<eol>- ¿ Y Uds. qué quieren?<eos>
+<bos>Queremos el crédito.<eos>
+<bos>¿Te parece absurdo?<eos>
+<bos>- No tengo una opinión.<eol>- ¿No tienes una opinión?<eos>
+<bos>- Éste es tu Santo Grial, no el mío.<eol>- ¿Qué quiere decir eso?<eos>
+<bos>Demostrar al mundo la existencia<eol>de vida extraterrestre...<eos>
+<bos>no es mi último deseo.<eos>
+<bos>¿ Y Papá Noel o el conejo de Pascuas?<eos>
+<bos>Éste no es un capricho egoísta.<eos>
+<bos>Dudo tanto de ese hombre<eol>como tú, pero la prueba...<eos>
+<bos>categórica, de que unos seres racionales<eol>coexistieron con nosotros...<eos>
+<bos>eso cambiaría todo y pondría en jaque<eol>todas las verdades conocidas.<eos>
+<bos>No existe una revelación mayor,<eol>ningún descubrimiento científico mayor.<eos>
+<bos>Tú ya lo crees, Mulder.<eol>¿Qué diferencia habrá?<eos>
+<bos>¿Esa prueba cambiará algo en ti?<eos>
+<bos>Si alguien te demostrase la existencia<eol>de Dios, ¿eso te cambiaría?<eos>
+<bos>Sólo si hubiese sido refutada.<eos>
+<bos>¿ Y aceptas la posibilidad<eol>de que la fe en Dios es una mentira?<eos>
+<bos>En realidad, no pienso en eso<eol>y no creo que se pueda demostrar.<eos>
+<bos>¿ Y si se pudiese? ¿No valdría la pena<eol>buscar ese conocimiento?<eos>
+<bos>¿No será que es más fácil<eol>seguir creyendo la mentira?<eos>
+<bos>No puedo ir contigo.<eos>
+<bos>Al menos, ¿podrías echar un vistazo<eol>a las muestras y decirme si son falsas?<eos>
+<bos>Es lo único que pido.<eos>
+<bos><i>Lo que no podía decirle</i><eol><i>al agente Mulder...</i><eos>
+<bos>algo de lo que acababa de enterarme...<eos>
+<bos>era que el cáncer que me diagnosticaron<eol>varios meses atrás...<eos>
+<bos>no se había extendido.<eos>
+<bos>Y los médicos me han dicho...<eos>
+<bos>de no producirse un milagro...<eos>
+<bos>que seguirá invadiendo<eol>implacablemente mi cuerpo...<eos>
+<bos>avanzando cada día más aprisa,<eol>hacia lo inevitable.<eos>
+<bos>¿Para qué es eso?<eos>
+<bos>No conozco bien a estos hombres.<eos>
+<bos>- ¿ Y tú? - Lo suficiente.<eos>
+<bos>Estaré aquí arriba, solo,<eol>hasta que regreses.<eos>
+<bos>Espero no tener que usarla.<eos>
+<bos>Es mejor que echen un vistazo a esto.<eos>
+<bos>Cuando hacíamos un corte lateral...<eos>
+<bos>vi algo en el hielo.<eos>
+<bos>Aquí.<eos>
+<bos>¿Qué crees que sea?<eos>
+<bos>No lo sé.<eol>Podría ser una burbuja, un punto débil.<eos>
+<bos>O un conducto de vaciamiento,<eol>un vertedero.<eos>
+<bos>Podrían haberlo deslizado por allí.<eos>
+<bos>¿Desde dónde?<eos>
+<bos>No lo sé.<eos>
+<bos>No es el ángulo correcto.<eos>
+<bos>Sí, tienes razón.<eos>
+<bos>No lo sabremos<eol>hasta que lo hayamos sacado de allí.<eos>
+<bos>" Laboratorio de Paleoclimatología<eol>Universidad Americana"<eos>
+<bos>La concentración de hierro<eol>y las temperaturas son consistentes.<eos>
+<bos>Hay una matriz fija de cristales,<eol>hacia el centro...<eos>
+<bos>y eso sugiere el enfriamiento rápido<eol>que mencionó.<eos>
+<bos>Aquí, en el borde,<eol>tenemos partículas de hidrocarburos...<eos>
+<bos>restos de combustible de avión,<eol>como hay en casi todo el mundo.<eos>
+<bos>Pero no en el hielo arcaico.<eos>
+<bos>No se equivoque. Éste es hielo arcaico.<eos>
+<bos>Esta muestra posee<eol>numerosas capas de sedimentación...<eos>
+<bos>como los anillos de un árbol.<eos>
+<bos>Entonces, ¿no ha sido manipulada?<eos>
+<bos>No. No, por lo que veo aquí.<eos>
+<bos>¿Por qué está analizando este hielo?<eos>
+<bos>Otro agente me pidió que lo hiciera.<eos>
+<bos>¿Sabe de dónde proviene la muestra?<eos>
+<bos>Del territorio de Yukón. ¿Por qué?<eos>
+<bos>Hay cierto...material celular<eol>dentro de la matriz.<eos>
+<bos>- ¿Planta o animal? - No lo sé.<eos>
+<bos>Tendría que clasificarlo como quimera...<eos>
+<bos>una célula híbrida.<eos>
+<bos>- ¿De dónde? - No lo sé.<eos>
+<bos>- ¿Es susceptible de división celular?<eol>- Tampoco sé eso.<eos>
+<bos>Quisiera observarla en un microscopio<eol>electrónico, si le parece.<eos>
+<bos>Sí, por favor.<eos>
+<bos>Dijo que alguien nos esperaría.<eos>
+<bos>Sí, un guía llamado Ralston.<eos>
+<bos>No comprendo. Esto estaba acordado.<eos>
+<bos>Él sabía que debía llevarnos<eol>hasta la cima.<eos>
+<bos>No sé qué hacer.<eos>
+<bos>Podríamos seguir esta huella<eol>hasta llegar al lugar.<eos>
+<bos>Quizás nos topemos con él en el camino.<eos>
+<bos>Un sitio insólito para tomar una siesta.<eos>
+<bos>- Le dispararon. - Dios mío.<eos>
+<bos>¿Es nuestro guía?<eos>
+<bos>Sí.<eos>
+<bos>Disculpe. Busco al Dr. Vitagliano.<eos>
+<bos>El Dr. Vitagliano. ¿Se encuentra aquí?<eos>
+<bos>No, temo que no.<eos>
+<bos>Tenía una cita con él.<eol>He llegado un poco tarde.<eos>
+<bos>Lo siento.<eos>
+<bos>¡Dios mío!<eos>
+<bos>Los han matado a todos.<eos>
+<bos>¡Babcock!<eos>
+<bos>¡El cuerpo!<eos>
+<bos>¡No está!<eos>
+<bos>¡Se lo llevaron!<eos>
+<bos>Nadie lo sabía. No hablamos con nadie.<eos>
+<bos>Se comunicaban por radio.<eol>Quizás alguien los escuchaba.<eos>
+<bos>Hay uno con vida.<eos>
+<bos>- Es Babcock. - Tráigale un poco de agua.<eos>
+<bos>Parece que le dispararon con un arma.<eos>
+<bos>Pero no fue una herida profunda.<eol>La hemorragia se detuvo.<eos>
+<bos>- ¿Quién hizo esto? - Tome.<eos>
+<bos>Se llevaron el cuerpo.<eos>
+<bos>No. Yo lo sepulté.<eos>
+<bos>¿Dónde?<eos>
+<bos>Bill. ¿Qué haces aquí?<eos>
+<bos>Atendí el teléfono<eol>cuando llamaron a mamá.<eos>
+<bos>Tal vez quieras cambiarte de ropa.<eos>
+<bos>Gracias. ¿Dónde está mamá?<eos>
+<bos>No le conté a mamá lo que ocurrió.<eos>
+<bos>¿Qué ocurrió realmente?<eos>
+<bos>Me arrojaron<eol>por el tramo de una escalera.<eos>
+<bos>Pero me encuentro bien, afortunadamente.<eos>
+<bos>Tú no estás bien, Dana.<eos>
+<bos>Sé sobre tu cáncer.<eos>
+<bos>- Le pedí a mamá que no te dijera.<eol>- ¿Por qué?<eos>
+<bos>Porque es muy personal.<eos>
+<bos>Porque no quiero compasión.<eos>
+<bos>Tú crees que puedes curarte sola.<eos>
+<bos>Mamá me dijo que empeoraste.<eos>
+<bos>Que el cáncer pasó<eol>a tu torrente sanguíneo.<eos>
+<bos>¿Qué haces trabajando,<eol>dejando que te empujen y golpeen?<eos>
+<bos>¿Qué quieres demostrar?<eol>¿Que lucharás hasta el último día?<eos>
+<bos>Por favor, Bill.<eos>
+<bos>¿Sabes cuánto está sufriendo mamá?<eos>
+<bos>¿Por qué crees que no le avisé<eol>cuando llamaron?<eos>
+<bos>- ¿Qué debería hacer yo?<eol>- Tenemos una responsabilidad.<eos>
+<bos>No sólo ante nosotros mismos,<eol>sino ante los que nos rodean.<eos>
+<bos>Aunque no me haya sincerado<eol>frente a ti, el padre McCue o Dios...<eos>
+<bos>yo soy responsable<eol>por lo que es importante para mí.<eos>
+<bos>¿Qué? ¿Quién? ¿Ese sujeto Mulder?<eos>
+<bos>¿ Y dónde está él, Dana?<eol>¿Dónde está él, para ayudarte?<eos>
+<bos>Gracias por venir.<eos>
+<bos>"Sudeste de Washington, D.C."<eos>
+<bos>Aquí podremos realizar un buen examen<eol>del cuerpo, para despejar dudas.<eos>
+<bos>No estaremos seguros<eol>sin una datación de carbono 14.<eos>
+<bos>Sabemos que su fisiología<eol>será muy reveladora.<eos>
+<bos>El fraude del hombre de Piltdown<eol>se mantuvo durante 40 años...<eos>
+<bos>hasta una datación de carbono 14,<eol>que tampoco fue muy buena.<eos>
+<bos>Si éste fuese un fraude, ¿tendríamos<eol>seis hombres muertos en esa montaña?<eos>
+<bos>Hay alguien que está convencido<eol>de que no es un fraude.<eos>
+<bos>Como puede imaginar,<eol>esas escaleras son muy transitadas.<eos>
+<bos>Por eso, buscamos en el laboratorio,<eol>donde hallamos huellas desconocidas.<eos>
+<bos>- ¿Pudo reconstruir su identidad? - Sí.<eos>
+<bos>Éste es su agresor.<eol>Pero no tiene antecedentes criminales.<eos>
+<bos>Busque en la base de datos federales.<eos>
+<bos>" Perfil de Empleados Federales"<eos>
+<bos>¡Caramba! ¿Cómo supo<eol>que era empleado del gobierno?<eos>
+<bos>¿Dónde trabaja?<eos>
+<bos>PENTÁGONO Aquí en Washington.<eos>
+<bos>Michael Kritschgau.<eos>
+<bos>Perteneció al ejército, ahora trabaja<eol>para Investigaciones del Pentágono.<eos>
+<bos>¿Es éste el hombre?<eos>
+<bos>El cuerpo tiene 147 centímetros<eol>de largo...<eos>
+<bos>pesa 24 kilogramos.<eos>
+<bos>La dermis es lampiña...<eos>
+<bos>gris, con textura elefantina, sin olor.<eos>
+<bos>Hay varias erupciones pequeñas<eol>en la superficie de la piel...<eos>
+<bos>muy posiblemente debidas a la presencia<eol>de fosfato de hierro en el hielo.<eos>
+<bos>Por lo demás, no parece haber...<eos>
+<bos>cicatrices ni marcas identificables.<eos>
+<bos>La circunferencia de la cabeza...<eos>
+<bos>es de 64 centímetros.<eos>
+<bos>Hay cuatro dígitos en cada mano<eol>y tres en cada pie.<eos>
+<bos>El sexo es indeterminado.<eos>
+<bos>Los ojos no tienen párpados...<eos>
+<bos>son negros...<eos>
+<bos>cubiertos por lo que parece ser<eol>una delgada membrana...<eos>
+<bos>que ahora estoy...<eos>
+<bos>extrayendo.<eos>
+<bos>El tejido subyacente...<eos>
+<bos>parece ser semigelatinoso...<eos>
+<bos>atravesado por una delicada<eol>estructura venosa.<eos>
+<bos>El examen de la cavidad torácica<eol>confirma la presencia...<eos>
+<bos>de lo que parece ser<eol>un sistema cardiopulmonar.<eos>
+<bos>Corazón y pulmones identificables...<eos>
+<bos>dentro de una masa<eol>de tejido blanco y viscoso...<eos>
+<bos>que no parece corresponderse...<eos>
+<bos>con la fisiología humana.<eos>
+<bos>" Departamento de Defensa - División<eol>de Investigaciones. Sethsburg, Virginia"<eos>
+<bos>¡Deténgase! ¡Agente federal!<eos>
+<bos>¡Alto!<eos>
+<bos>¡Michael Kritschgau!<eos>
+<bos>¡Está bajo arresto!<eos>
+<bos>¡Identifique su ubicación!<eos>
+<bos>¡Salga del automóvil!<eos>
+<bos>¡Ahora!<eos>
+<bos>¡Muévase!<eos>
+<bos>Por favor, no dispare. No quise<eol>hacerle daño. No tenía alternativa.<eos>
+<bos>- ¡Las manos sobre el auto!<eol>- Si me arresta, me matarán.<eos>
+<bos>- No sé de qué habla.<eol>- La misma gente que trata de matarla.<eos>
+<bos>La gente que le ocasionó un cáncer.<eos>
+<bos>Hay que hacer cultivos de tejidos,<eol>análisis y secuencias de ADN.<eos>
+<bos>Aconsejaría una cromatografía<eol>y la datación de carbono 14 que sugirió.<eos>
+<bos>Pero si esto no es un extraterrestre,<eol>no sé qué puede ser.<eos>
+<bos>Había localizado al agente Mulder<eol>en un depósito...<eos>
+<bos>fuera de Washington,<eol>en Sethsburg, Virginia.<eos>
+<bos>Habían llevado el cuerpo congelado<eol>en helicóptero...<eos>
+<bos>por la ladera de la montaña...<eos>
+<bos>y atravesaron el límite con Canadá<eol>en un camión frigorífico.<eos>
+<bos>Después de haber realizado<eol>un examen físico limitado...<eos>
+<bos>el agente Mulder<eol>estaba dispuesto a creer...<eos>
+<bos>que ese cuerpo pertenecía<eol>a una entidad biológica extraterrestre.<eos>
+<bos>Que finalmente había hallado<eol>esa prueba tan elusiva...<eos>
+<bos>que no sólo demostraría<eol>la existencia de vida extraterrestre...<eos>
+<bos>sino también el secuestro<eol>de su hermana Samantha.<eos>
+<bos>Pero Kritschgau la convenció a Ud.<eol>de lo contrario. ¿Cómo?<eos>
+<bos>Me contó una historia<eol>que detallaba punto por punto...<eos>
+<bos>la manera sistemática en que Mulder<eol>había sido engañado y utilizado.<eos>
+<bos>Y cómo yo, siendo su compañera,<eol>había sido guiada por el mismo camino...<eos>
+<bos>perdiendo a un miembro de mi familia<eol>por mi lealtad...<eos>
+<bos>y contrayendo una enfermedad mortal<eol>que, me dijo...<eos>
+<bos>fue creada por los hombres<eol>responsables de engañar a Mulder.<eos>
+<bos>¿Pudo convencer al agente Mulder<eol>de esos hechos?<eos>
+<bos>Sólo pude convencerlo<eol>de que fuese conmigo...<eos>
+<bos><i>para poder oír la historia</i><eol><i>como yo lo había hecho.</i><eos>
+<bos>¿Quién demonios es?<eos>
+<bos>No te muevas.<eos>
+<bos>- ¿Cómo está la herida? - Viviré.<eos>
+<bos>¿Qué es esto?<eos>
+<bos>Cierra la puerta.<eos>
+<bos>- ¿Adónde fue Mulder?<eol>- Recibió una llamada.<eos>
+<bos>- ¿Él es un creyente? - Oh, sí.<eos>
+<bos>- Entonces somos los únicos que sabemos.<eol>- Correcto.<eos>
+<bos>La mentira que usted cree...<eos>
+<bos>que hábilmente le han hecho creer,<eol>agente Mulder...<eos>
+<bos>es que existe vida inteligente<eol>distinta de la nuestra...<eos>
+<bos>y que hemos tenido contacto<eol>con esas formas de vida.<eos>
+<bos>Ud. dice que todo esto fue orquestado.<eol>Es un fraude.<eos>
+<bos>- Y lo usaron a Ud. para perpetuarlo.<eol>- ¿Cómo pudo enterarse de eso?<eos>
+<bos>Trabajando para el Departamento<eol>de Defensa.<eos>
+<bos>Observando cómo una dependencia<eol>industrial militar...<eos>
+<bos>que operaba sin obstáculos ni controles<eol>durante la Guerra Fría...<eos>
+<bos>desviaba la atención que despertaban<eol>ellos y sus constantes fechorías...<eos>
+<bos>utilizando evidencias muy verosímiles...<eos>
+<bos>para convencer a adeptos apasionados<eol>como Ud., de que podrían ser verdad.<eos>
+<bos>¿ Y, sólo por casualidad,<eol>se topó con la agente Scully?<eos>
+<bos>Yo era como usted, agente Mulder.<eos>
+<bos>Sospechaba de todo,<eol>menos de lo que tenía que sospechar.<eos>
+<bos>Fui jefe de propaganda del Departamento<eol>de Defensa durante una década.<eos>
+<bos>Puedo mostrarle registros<eol>de desinformación...<eos>
+<bos>que se remontan a la Guerra de Corea,<eol>antes de que Ud. naciera.<eos>
+<bos>¿Por qué viene a verme ahora<eol>y no cuatro años atrás?<eos>
+<bos>Tengo un hijo que está muy enfermo.<eos>
+<bos>Combatió en la Guerra del Golfo.<eos>
+<bos>Las mentiras son tan graves...<eos>
+<bos>que la única forma de cubrirlas...<eos>
+<bos>consiste en crear algo más increíble aún.<eos>
+<bos>Ellos lo inventaron a Ud...<eos>
+<bos>su hipnosis regresiva, la historia<eol>del secuestro de su hermana...<eos>
+<bos>las mentiras que le contaron a su padre.<eos>
+<bos>Ud. ansiaba creer,<eol>¿y quién iba a culparlo por ello?<eos>
+<bos>¿ Y los miles de OVNIs que se avistaron?<eos>
+<bos>Naves militares de carácter ultrasecreto<eol>diseñadas para alimentar la histeria.<eos>
+<bos>¿Las pruebas biológicas extraterrestres?<eos>
+<bos>Anomalías biológicas no clasificadas,<eol>que ocurren de modo natural...<eos>
+<bos>y que la ciencia algún día explicará.<eos>
+<bos>¿El cuerpo que se halló?<eos>
+<bos>Fabricado meticulosamente<eol>con biomateriales...<eos>
+<bos>creados por medio de la hibridación<eol>de células diferenciadas...<eos>
+<bos>llamadas quimeras, que fueron congeladas<eol>en ese lugar durante un año...<eos>
+<bos>utilizando sedimentos y materiales<eol>que confirmarían su edad...<eos>
+<bos>vertidos por un pequeño conducto<eol>practicado en el exterior de la roca.<eos>
+<bos>Una vez datado el cuerpo con carbono 14,<eol>se demostrará el fraude.<eos>
+<bos>- El cuerpo no será analizado jamás.<eol>- ¿Qué dice?<eos>
+<bos>La intención era que Ud. lo viese...<eos>
+<bos>hacerle creer la mentira...<eos>
+<bos>para que finalmente se comprometa...<eos>
+<bos>y difunda la noticia.<eos>
+<bos>Este hombre es un mentiroso.<eos>
+<bos>Puede comprobarlo Ud. mismo,<eol>agente Mulder.<eos>
+<bos>El cuerpo hace mucho que no está.<eos>
+<bos>¿Dr. Arlinski?<eos>
+<bos>No está.<eos>
+<bos>¿Qué?<eos>
+<bos>Es Arlinski. Está muerto.<eos>
+<bos>Este hombre también.<eos>
+<bos>¿Quién hizo esto?<eos>
+<bos>Lo que teníamos aquí era la prueba.<eol>No podía ser otra cosa.<eos>
+<bos>Tú mismo lo dijiste.<eol>Se necesitaban otros análisis.<eos>
+<bos>Las muestras de hielo eran auténticas.<eos>
+<bos>Si el hielo era real,<eol>¿cómo puede ser falso el cuerpo?<eos>
+<bos>El material celular<eol>de las muestras de hielo...<eos>
+<bos>coincidía exactamente<eol>con lo que describió Kritschgau:<eos>
+<bos>células híbridas,<eol>quimeras dentro de la matriz.<eos>
+<bos>¿Estamos seguros de que esas células<eol>no son extraterrestres?<eos>
+<bos>Ese hombre describió todo,<eol>no pudo adivinar los detalles.<eos>
+<bos>Lo lamento, pero son hechos que empañan<eol>toda argumentación en su contra.<eos>
+<bos>Hechos empañados por las mentiras<eol>creadas para legitimarlos.<eos>
+<bos>Aquí, la única mentira<eol>es la que tú sigues creyendo.<eos>
+<bos>Con todo lo que he visto<eol>y experimentado...<eos>
+<bos>me niego a creer que no sea verdad.<eos>
+<bos>Porque es más fácil<eol>creer la mentira, ¿verdad?<eos>
+<bos>¿Qué diablos te dijo ese sujeto<eol>para que creas su historia?<eos>
+<bos>Dijo que los hombres<eol>que están detrás de este engaño...<eos>
+<bos>detrás de estas mentiras...<eos>
+<bos>me provocaron esta enfermedad<eol>para que tú creas.<eos>
+<bos><i>Lo que generalmente conocemos</i><eol><i>como vida inteligente...</i><eos>
+<bos><i>es algo semejante</i><eol><i>a nuestra digna persona.</i><eos>
+<bos><i>Es sumamente probable...</i><eos>
+<bos><i>que existan tales formas</i><eol><i>de vida inteligente...</i><eos>
+<bos><i>en otras galaxias del universo.</i><eos>
+<bos><i>E incluso es más probable...</i><eos>
+<bos><i>que muchas de esas formas sean</i><eol><i>más inteligentes que nosotros.</i><eos>
+<bos><i>Pienso que es innegable...</i><eos>
+<bos><i>que vivimos</i><eol><i>en un universo habitado...</i><eos>
+<bos><i>que hay vida en todas partes.</i><eos>
+<bos><i>Al descubrir</i><eol><i>cómo son los demás planetas...</i><eos>
+<bos><i>al descubrir...</i><eos>
+<bos><i>si existen civilizaciones</i><eol><i>en los planetas de otras estrellas...</i><eos>
+<bos><i>recuperamos el verdadero sentido</i><eol><i>de nuestro entorno.</i><eos>
+<bos><i>No creo que debamos esperar</i><eol><i>hasta que ocurra el encuentro...</i><eos>
+<bos><i>debemos hacer lo posible</i><eol><i>por estar preparados para ello.</i><eos>
+<bos><i>No puedo concebir una pesadilla...</i><eos>
+<bos><i>tan aterradora...</i><eos>
+<bos><i>como establecer</i><eol><i>semejante comunicación...</i><eos>
+<bos><i>con lo que llaman seres superiores...</i><eos>
+<bos><i>o, si lo prefieren,</i><eol><i>las tecnologías del espacio exterior.</i><eos>
+<bos>A primera hora de esta mañana,<eol>recibí una llamada de la policía...<eos>
+<bos>pidiéndome que fuese<eol>al apartamento del agente Mulder.<eos>
+<bos>El detective me pidió--<eos>
+<bos>Necesitaba que yo identificase un cuerpo.<eos>
+<bos>Agente Scully--<eos>
+<bos>El agente Mulder murió<eol>en la madrugada de ayer...<eos>
+<bos>de un balazo a la cabeza<eol>que, aparentemente, él mismo disparó.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

@@ -1,0 +1,611 @@
+<bos>ï»¿1 We're not...<eos>
+<bos>who...<eos>
+<bos>we are.<eos>
+<bos>We're not...<eos>
+<bos>who we are.<eos>
+<bos>It goes no further than this.<eos>
+<bos>It stops right here...<eos>
+<bos>right now.<eos>
+<bos>Team captain John Richter here.<eos>
+<bos>It's been a couple of frustrating months,<eos>
+<bos>but after a great deal<eol>of stick-with-it-ness<eos>
+<bos>we're very proud to report that,<eos>
+<bos>as of a half an hour ago,<eos>
+<bos>we surpassed the previous record<eos>
+<bos>for drilling down into an ice sheet.<eos>
+<bos>All right!<eos>
+<bos>This team of scientists made up<eos>
+<bos>the Arctic Ice Core Project.<eos>
+<bos>They were sent to Alaska<eos>
+<bos>by the government's Advanced<eol>Research Project Agency<eos>
+<bos>nearly a year ago<eol>to drill into the Arctic ice.<eos>
+<bos>The samples they removed<eos>
+<bos>contained trapped gases,<eol>dust, chemicals--<eos>
+<bos>evidence that could reveal<eos>
+<bos>the structure of the earth's climate<eos>
+<bos>back to the dawn of man.<eos>
+<bos>Their work was a success,<eol>nearly completed.<eos>
+<bos>No reports or indications<eol>of problems of any kind<eos>
+<bos>until only a week later<eos>
+<bos>this next transmission was received.<eos>
+<bos>We're not...<eos>
+<bos>who...<eos>
+<bos>we are.<eos>
+<bos>We're not...<eos>
+<bos>who we are.<eos>
+<bos>It goes no further than this.<eos>
+<bos>It stops... right here...<eos>
+<bos>right now.<eos>
+<bos>What happened up there?<eos>
+<bos>So far nobody's been able<eol>to reach the compound<eos>
+<bos>because of bad weather.<eos>
+<bos>Obviously they think<eos>
+<bos>we're either brilliant or expendable<eos>
+<bos>because we've pulled the assignment.<eos>
+<bos>Is it severe isolation distress?<eos>
+<bos>These were top geophysicists.<eos>
+<bos>They were trained and<eol>screened for this project<eos>
+<bos>in every way imaginable,<eos>
+<bos>including psychological makeup.<eos>
+<bos>We leave for Nome today.<eos>
+<bos>We'll meet up with three scientists<eos>
+<bos>familiar with the Ice Core Project<eos>
+<bos>and then head north up to the Icy Cape.<eos>
+<bos>The National Weather Service<eos>
+<bos>reports a three-day window<eos>
+<bos>to get in and get out<eol>before the next Arctic storm.<eos>
+<bos>Bring your mittens.<eos>
+<bos>Here's the snap. Raiders blitz.<eos>
+<bos>Fouts dumps it across the middle<eol>to Winslow.<eos>
+<bos>He's at the 15! The ten!<eol>Touchdown-- San Diego!<eos>
+<bos>Touchdown!<eos>
+<bos>Fouts is God!<eos>
+<bos>Sorry, my team scored.<eos>
+<bos>There's no football on Wednesday.<eos>
+<bos>Fouts retired in '87, didn't he?<eos>
+<bos>No, this is just some of my<eos>
+<bos>all-time favorite plays on tape.<eos>
+<bos>You two FBI?<eos>
+<bos>Agent Mulder, Agent Scully. And you?<eos>
+<bos>Danny Murphy, professor<eol>of geology, U.C. San Diego.<eos>
+<bos>San Diego-- you get much of a<eol>chance to study ice down there?<eos>
+<bos>Just what's around the keg.<eos>
+<bos>Dr. Dasilva, Dr. Hodge?<eos>
+<bos>Yeah, sorry we're late.<eos>
+<bos>Agent Scully, Agent Mulder.<eos>
+<bos>Mulder. Nice to meet you.<eos>
+<bos>How you doing, Mr. Mulder? Dr. Murphy.<eos>
+<bos>What for?<eos>
+<bos>Want to make sure<eol>we are who we say we are.<eos>
+<bos>It's me.<eos>
+<bos>It's you.<eos>
+<bos>It's me.<eos>
+<bos>It's you.<eos>
+<bos>It's me. Thanks a lot.<eos>
+<bos>Well, now that we know who we are,<eos>
+<bos>anybody care to take a guess<eol>as to why we're going?<eos>
+<bos>Well,<eos>
+<bos>two federal agents, a geologist,<eos>
+<bos>a medical doctor, and a toxicologist.<eos>
+<bos>That should give us some<eol>idea what they're thinking.<eos>
+<bos>I assume you all took a look at the tape.<eos>
+<bos>Something wrong?<eos>
+<bos>Come on, you're FBI.<eos>
+<bos>You have to know more than we do.<eos>
+<bos>You folks the ones going up to Icy Cape?<eos>
+<bos>Yeah.<eos>
+<bos>Then I'm the one flying you.<eos>
+<bos>My name is Bear.<eos>
+<bos>The plane's across the way.<eos>
+<bos>Provisions are loaded.<eos>
+<bos>Grab your gear.<eos>
+<bos>Oh, could we see some credentials?<eos>
+<bos>Credentials.<eos>
+<bos>The only credentials I have<eos>
+<bos>is that I'm the only pilot<eol>willing to fly you up there.<eos>
+<bos>You don't like those credentials,<eos>
+<bos>walk.<eos>
+<bos>Bear, see if you can get<eol>the power started.<eos>
+<bos>Anything to get out of here.<eos>
+<bos>Where do we start?<eos>
+<bos>Body bags are on the plane.<eos>
+<bos>Before we touch anything,<eos>
+<bos>we have to thoroughly document the scene.<eos>
+<bos>Flashing.<eos>
+<bos>That's what they were drilling for.<eos>
+<bos>Quarter of a million years melting away<eos>
+<bos>in a couple of days.<eos>
+<bos>I want to preserve some samples.<eos>
+<bos>It's the generator.<eos>
+<bos>Oh.<eos>
+<bos>Agent Mulder!<eos>
+<bos>Hold on.<eos>
+<bos>Hold it down.<eos>
+<bos>That will keep him out for a while.<eos>
+<bos>You okay?<eos>
+<bos>Yeah, he didn't break the skin.<eos>
+<bos>Bear, you okay?<eos>
+<bos>He got me.<eos>
+<bos>Get that jacket off.<eos>
+<bos>Give me the stuff. I'll do it myself.<eos>
+<bos>Is it rabies?<eos>
+<bos>I don't see any indication<eol>of glottal spasm or tetany.<eos>
+<bos>If it is rabies,<eos>
+<bos>it's certainly not a strain<eol>I'm familiar with.<eos>
+<bos>Look at this.<eos>
+<bos>Black nodules.<eos>
+<bos>Swollen lymph nodes.<eos>
+<bos>Symptoms of bubonic plague.<eos>
+<bos>I'll do a blood test.<eos>
+<bos>We'll take it from there.<eos>
+<bos>This dog has got<eos>
+<bos>a skin irritation on its neck.<eos>
+<bos>It looks like it's been scratching off<eos>
+<bos>its own hair.<eos>
+<bos>Look at this, look at this.<eos>
+<bos>What the hell was that?<eos>
+<bos>From the autopsies<eos>
+<bos>it's clear these men killed one another.<eos>
+<bos>There are contusions<eos>
+<bos>around the throat areas of three men--<eos>
+<bos>evidence of strangulation.<eos>
+<bos>Richter and Campbell killed themselves.<eos>
+<bos>I also found tissue damage due to fever.<eos>
+<bos>Did any of them have<eos>
+<bos>the black spots the dog has?<eos>
+<bos>No.<eos>
+<bos>None of them had the black nodules.<eos>
+<bos>So, uh, those spots<eol>didn't have anything to do<eos>
+<bos>with those guys<eol>killing each other, right?<eos>
+<bos>I wouldn't rule it out.<eos>
+<bos>I just reexamined the dog.<eos>
+<bos>The nodules are gone.<eos>
+<bos>What could that mean?<eos>
+<bos>It could mean that the spots<eol>are a symptom of some disease<eos>
+<bos>at an early stage.<eos>
+<bos>Danny?<eos>
+<bos>Sorry.<eos>
+<bos>The playoff game against Miami, '82.<eos>
+<bos>Helps to get my mind off stuff.<eos>
+<bos>My interpretation of satellite<eol>remote sensing photos<eos>
+<bos>is a little rusty.<eos>
+<bos>All right, this is the Icy Cape area.<eos>
+<bos>It approximates the depth<eol>of the ice sheet<eos>
+<bos>to be about 3,000 meters thick.<eos>
+<bos>I also found this data,<eos>
+<bos>and if I'm reading it correctly,<eos>
+<bos>the team actually found the ice sheet<eos>
+<bos>to be twice that depth.<eos>
+<bos>That's very good.<eos>
+<bos>The numbers indicate<eos>
+<bos>the topography to be concave.<eos>
+<bos>Looks like they were drilling<eos>
+<bos>inside a meteor crater.<eos>
+<bos>No, you're wrong, it's impossible.<eos>
+<bos>I analyzed two samples.<eos>
+<bos>What did you find?<eos>
+<bos>There seems to be a presence<eol>of ammonium hydroxide<eos>
+<bos>in Richter's blood sample.<eos>
+<bos>It's not possible.<eos>
+<bos>Ammonia would vaporize<eol>at human body temperature.<eos>
+<bos>I checked all the air filtration systems.<eos>
+<bos>I found no evidence of any such toxins.<eos>
+<bos>I have.<eos>
+<bos>In the ice,<eos>
+<bos>and that's not all there is.<eos>
+<bos>I found a high ratio of ammonia to water<eos>
+<bos>in the ice core.<eos>
+<bos>The earth's atmosphere<eos>
+<bos>could never have produced such levels,<eos>
+<bos>not even a quarter<eol>of a million years ago.<eos>
+<bos>Look in the scope.<eos>
+<bos>Unless a foreign object<eos>
+<bos>was introduced into that environment.<eos>
+<bos>Tell me that's not a foreign object.<eos>
+<bos>Whoa.<eos>
+<bos>Scully.<eos>
+<bos>That same thing is in Richter's blood.<eos>
+<bos>What if that single-celled organism<eos>
+<bos>is the larval stage of a larger animal?<eos>
+<bos>That's kind of a leap, don't you think?<eos>
+<bos>The evidence is there.<eos>
+<bos>Maybe the organism<eos>
+<bos>in the ice core somehow got into the men.<eos>
+<bos>Come on, nothing can survive<eol>in subzero temperatures<eos>
+<bos>for a quarter of a million years.<eos>
+<bos>Unless that's how it lives.<eos>
+<bos>Lookit, I don't see why<eol>you're squabbling over some bug.<eos>
+<bos>You said it yourself,<eol>Scully, your autopsy found<eos>
+<bos>those men killed each other.<eos>
+<bos>That's it, now I say, let's<eol>just get the hell out of here.<eos>
+<bos>I agree, we can have the bodies sent<eos>
+<bos>to a facility where they can<eol>make a definitive diagnosis<eos>
+<bos>in the event<eos>
+<bos>that something was missed, Agent Scully.<eos>
+<bos>If those bodies are infected<eos>
+<bos>with an unknown organism,<eos>
+<bos>we can't take them back.<eos>
+<bos>We can't go back<eos>
+<bos>without proper quarantine procedures.<eos>
+<bos>We can't risk bringing<eol>back the next plague.<eos>
+<bos>Let's say you're right,<eol>they came down with something.<eos>
+<bos>We haven't, and I ain't<eol>waiting around until we do.<eos>
+<bos>I think it's safe to go back.<eos>
+<bos>There's no reason why we'd be infected.<eos>
+<bos>We've taken all the necessary<eol>biological safeguards.<eos>
+<bos>The dog did bite Bear.<eos>
+<bos>There's only one way to proceed.<eos>
+<bos>A doctor eliminates every possibility.<eos>
+<bos>We must determine<eol>if any of us is infected.<eos>
+<bos>All right. Parasitic diagnostic procedure<eos>
+<bos>requires that each of us provide<eol>a blood and a stool sample.<eos>
+<bos>A stool sample? Wow.<eos>
+<bos>This kind of travel always makes<eol>that kind of tough... for me.<eos>
+<bos>Okay, anybody got<eos>
+<bos>the morning sports section handy?<eos>
+<bos>I ain't dropping my cargo for no one.<eos>
+<bos>What I'm doing is getting<eos>
+<bos>my gear, getting my plane,<eol>and flying the hell out of here.<eos>
+<bos>You can't go.<eos>
+<bos>The dog bit you.<eos>
+<bos>I got hired to fly you<eol>up here and fly you back.<eos>
+<bos>No one said this might<eol>be part of the deal.<eos>
+<bos>So the deal is over.<eos>
+<bos>We can't let him leave<eol>without him being checked.<eos>
+<bos>Who's going to stop him?<eos>
+<bos>We have to.<eos>
+<bos>We can't risk infecting the population.<eos>
+<bos>If he gets on that plane,<eol>I'm gonna be on it with him.<eos>
+<bos>Well, we don't have<eol>time to argue about it.<eos>
+<bos>Take a vote.<eos>
+<bos>Whoever believes we should confine Bear<eos>
+<bos>until he agrees to an examination...<eos>
+<bos>All right.<eos>
+<bos>Bear, we just want to check you out.<eos>
+<bos>If we don't find any trace<eos>
+<bos>of the parasite or the virus,<eos>
+<bos>we'll all go.<eos>
+<bos>All right.<eos>
+<bos>Give me the damn jar.<eos>
+<bos>Murphy, get a rope.<eos>
+<bos>Right.<eos>
+<bos>Here.<eos>
+<bos>Oh, my God.<eos>
+<bos>Oh.<eos>
+<bos>Get my bag.<eos>
+<bos>We don't know enough about it.<eol>It's killing him.<eos>
+<bos>Scully, help me hold the skin.<eos>
+<bos>Hold still, Bear.<eos>
+<bos>Forceps.<eos>
+<bos>Hold still, Bear.<eos>
+<bos>Just another second.<eos>
+<bos>You're going to be okay.<eos>
+<bos>This is the AICP investigative team<eos>
+<bos>calling Doolittle Airfield.<eos>
+<bos>Come in.<eos>
+<bos>DAF responding.<eos>
+<bos>This is Agent Mulder.<eos>
+<bos>We have a serious biological hazard.<eos>
+<bos>Request air pickup<eol>and quarantine procedures.<eos>
+<bos>Over.<eos>
+<bos>Come in, Doolittle Airfield.<eos>
+<bos>We copy, Agent Mulder.<eos>
+<bos>This area is under a heavy storm,<eos>
+<bos>and no aircraft can get out<eol>for the next day.<eos>
+<bos>Maybe the military base in Kotzebue<eos>
+<bos>can set up a quarantine.<eos>
+<bos>Advise immediate evacuation.<eos>
+<bos>The Arctic storm is bearing<eol>in your direction. Over.<eos>
+<bos>We were told we'd have three<eol>clear days of weather. Over.<eos>
+<bos>Welcome to the top<eol>of the world, sir. Over.<eos>
+<bos>Is Bear in any condition to fly?<eos>
+<bos>If we don't get out of here in an hour,<eos>
+<bos>we don't get out for days.<eos>
+<bos>He's dead.<eos>
+<bos>Well, it's similar to a tapeworm<eos>
+<bos>in that it has a scolex<eol>with suckers and hooks.<eos>
+<bos>So, then, it's familiar,<eos>
+<bos>something you can deal with.<eos>
+<bos>What?<eos>
+<bos>No.<eos>
+<bos>Very different from any organism--<eos>
+<bos>at least that I know of.<eos>
+<bos>Have you figured out<eol>how it's transmitted yet?<eos>
+<bos>Exchange of fluids, touch,<eol>air, all of the above?<eos>
+<bos>I don't know.<eos>
+<bos>All the other dead bodies<eol>had the creature.<eos>
+<bos>This is the only one that's still alive.<eos>
+<bos>All in the spine?<eos>
+<bos>No, it appears they were<eol>in the hypothalamus gland<eos>
+<bos>deep in the brain.<eos>
+<bos>Hypothalamus.<eos>
+<bos>What was that again?<eos>
+<bos>It's a gland that secretes hormones,<eos>
+<bos>although I don't know why<eos>
+<bos>a parasite would want to attach to it.<eos>
+<bos>Hypothalamus releases acetylcholine,<eos>
+<bos>which is what produces<eol>violent, aggressive behavior,<eos>
+<bos>so that might be a connection.<eos>
+<bos>Everybody that's been infected<eos>
+<bos>certainly seems to act aggressively.<eos>
+<bos>Maybe the worm feeds on acetylcholine,<eos>
+<bos>which floods our capacity<eol>to control violent behavior.<eos>
+<bos>Well, a parasite shouldn't want<eol>to kill its host.<eos>
+<bos>No, it doesn't kill you<eol>until it's extracted.<eos>
+<bos>Then it releases a poison.<eos>
+<bos>So you're saying it's possible<eos>
+<bos>that the worm makes you<eol>want to kill other people,<eos>
+<bos>which is maybe what happened<eol>to the first team.<eos>
+<bos>Or what could happen to us.<eos>
+<bos>It's just a theory.<eos>
+<bos>We don't have any definite proof.<eos>
+<bos>Except five dead men.<eos>
+<bos>If the worm makes people<eol>violently aggressive,<eos>
+<bos>then why did Richter<eol>and Campbell kill themselves?<eos>
+<bos>Maybe they did it to save us.<eos>
+<bos>I'm just, uh... double-checking.<eos>
+<bos>Making sure I didn't miss anything.<eos>
+<bos>Just some sleep, right?<eos>
+<bos>Sleep. I'm so tired, I can't sleep.<eos>
+<bos>Well, we're all wired and hypersensitive.<eos>
+<bos>It will be good to get a<eol>fresh start in the morning.<eos>
+<bos>Mulder, I don't want to waste a second<eos>
+<bos>trying to find a way to kill this thing.<eos>
+<bos>I don't know if we should kill it.<eos>
+<bos>This area of the ice sheet<eol>is formed over a meteor crater.<eos>
+<bos>The worm lives in ammonia, it<eol>survives subzero temperatures.<eos>
+<bos>Theorists in alternative<eol>life designs believe<eos>
+<bos>in ammonia-supported life systems<eos>
+<bos>on planets with freezing temperatures.<eos>
+<bos>No.<eos>
+<bos>The meteor that crashed here<eos>
+<bos>a quarter of a million years ago<eol>may have carried<eos>
+<bos>that type of life to Earth.<eos>
+<bos>Mulder, that pilot<eol>developed surface symptoms<eos>
+<bos>within a few minutes.<eos>
+<bos>Within a few hours<eos>
+<bos>that parasite had total control.<eos>
+<bos>What would happen if this<eol>got into the population?<eos>
+<bos>A city the size of New York<eos>
+<bos>could be infected within a few days.<eos>
+<bos>Exactly, but what do we know about it?<eos>
+<bos>This organism might be<eol>lying dormant in another crater.<eos>
+<bos>Mulder, if we don't kill it now,<eol>we run the risk<eos>
+<bos>of becoming Richter and Campbell<eol>with guns to our heads.<eos>
+<bos>But if we do kill it now,<eol>we may never know<eos>
+<bos>how to stop it or anything<eol>like it in the future.<eos>
+<bos>Future?<eos>
+<bos>Mulder, how can you talk<eol>about the future?<eos>
+<bos>Tell me it's hot in here.<eos>
+<bos>Don't worry, you don't have a fever.<eos>
+<bos>The heating system is malfunctioning.<eos>
+<bos>Outside it's 40 below,<eol>and in here it's sweltering.<eos>
+<bos>Can you hear what they're arguing about?<eos>
+<bos>Oh, they're probably discussing<eos>
+<bos>their little government secrets.<eos>
+<bos>You think they knew it was<eol>up here before we arrived?<eos>
+<bos>I'm sure of it.<eos>
+<bos>You know, Bear's infected blood<eol>did get on Scully.<eos>
+<bos>It also got on you.<eos>
+<bos>How do you know it can't be contained?<eos>
+<bos>It can, by extermination.<eos>
+<bos>We should take those bodies--<eos>
+<bos>worms and all-- outside<eol>and incinerate them.<eos>
+<bos>Something going on we should know about?<eos>
+<bos>Agent Scully, you all right?<eos>
+<bos>Yes, I'm fine.<eos>
+<bos>It's nothing.<eos>
+<bos>You seem a little bit stressed out.<eos>
+<bos>What the hell are you trying to say?<eos>
+<bos>Let's all just settle down.<eos>
+<bos>It's been a long, hard day.<eos>
+<bos>We're all tired and scared.<eos>
+<bos>Let's not turn on one another.<eos>
+<bos>At least not without a good reason.<eos>
+<bos>Maybe we should all get some sleep.<eos>
+<bos>You kidding?<eos>
+<bos>You think any of us<eol>could sleep right now?<eos>
+<bos>Guys, let's face it-- we<eol>got to check for spots.<eos>
+<bos>Any person or persons who has them<eos>
+<bos>should be confined.<eos>
+<bos>Are we agreed on that?<eos>
+<bos>Are you going to do the exams?<eos>
+<bos>No.<eos>
+<bos>We do them in front of each other.<eos>
+<bos>No secrets.<eos>
+<bos>Before anyone passes judgment,<eos>
+<bos>may I remind you we are in the Arctic?<eos>
+<bos>Yeah?<eos>
+<bos>Sleep tight.<eos>
+<bos>Don't let the bedbugs bite.<eos>
+<bos>Yeah, good night.<eos>
+<bos>Good night, Mulder.<eos>
+<bos>Good night, Scully.<eos>
+<bos>At least everyone's okay.<eos>
+<bos>Don't forget,<eos>
+<bos>the spots on the dog went away.<eos>
+<bos>Mulder, what are you doing?<eos>
+<bos>Murphy's dead.<eos>
+<bos>You killed him.<eos>
+<bos>I found him like this.<eos>
+<bos>I heard one of the doors close.<eos>
+<bos>I came out to check it out.<eos>
+<bos>It was one of you.<eos>
+<bos>No, he said he didn't do it.<eos>
+<bos>I don't have any of the symptoms.<eos>
+<bos>You checked him yourself, Hodge.<eos>
+<bos>Yeah, six hours ago.<eos>
+<bos>It was one of you. Stop it!<eos>
+<bos>Stop it! Shut up!<eos>
+<bos>Mulder, just<eos>
+<bos>put the gun down and let Hodge<eos>
+<bos>give you a blood test.<eos>
+<bos>So he can doctor the results?<eol>I'm not gonna<eos>
+<bos>let him stick a needle in me.<eos>
+<bos>He could be infected.<eos>
+<bos>He has to be confined now.<eos>
+<bos>Then just turn around<eos>
+<bos>and let us take a look at your neck.<eos>
+<bos>I'm not turning my back on anyone!<eos>
+<bos>As far as I'm concerned,<eos>
+<bos>you're all infected!<eos>
+<bos>Hodge is right-- we ought to lock him up.<eos>
+<bos>Mulder.<eos>
+<bos>Scully, get that gun off me.<eos>
+<bos>Mulder,<eos>
+<bos>you have to understand.<eos>
+<bos>Put it down!<eos>
+<bos>You put it down first!<eos>
+<bos>Scully!<eos>
+<bos>For God's sakes, it's me.<eos>
+<bos>Mulder, you may not be who you are.<eos>
+<bos>In here I'll be safer than you.<eos>
+<bos>What were you doing?<eos>
+<bos>You know what I was doing.<eos>
+<bos>You know,<eos>
+<bos>I can't help thinking, Agent Scully,<eos>
+<bos>you're the only one with a gun.<eos>
+<bos>If you get infected,<eol>we don't stand a chance, do we?<eos>
+<bos>Good.<eos>
+<bos>Was there something there?<eos>
+<bos>You're okay, Nancy.<eos>
+<bos>We're all okay.<eos>
+<bos>Now is not the time for the three of us<eos>
+<bos>to break down and turn on each other.<eos>
+<bos>There's four of us.<eos>
+<bos>Mulder isn't one of us anymore.<eos>
+<bos>If Mulder is infected,<eol>it's not his fault.<eos>
+<bos>We can't turn our backs on him now.<eos>
+<bos>He needs us to help him.<eos>
+<bos>She's right.<eos>
+<bos>Who knows<eos>
+<bos>what prolonged exposure<eol>to the parasite could do to him?<eos>
+<bos>It could damage him to the point<eol>of permanent psychosis.<eos>
+<bos>But if he is infected,<eol>he doesn't go back.<eos>
+<bos>I won't risk the possibilities.<eos>
+<bos>This is AICP calling Doolittle Airfield.<eos>
+<bos>Please come in.<eos>
+<bos>This is the Arctic Ice Core Project<eos>
+<bos>sending a general distress call.<eos>
+<bos>Please respond.<eos>
+<bos>Nancy, want to put a drop<eol>of the uninfected blood<eos>
+<bos>on the slide of the blood<eol>drawn from the pilot?<eos>
+<bos>Run that by me again.<eos>
+<bos>Put the uninfected blood<eol>on the infected blood.<eos>
+<bos>No! Damn it!<eos>
+<bos>What did I just get through telling you?<eos>
+<bos>You just infected already infected blood.<eos>
+<bos>Now I have to start all over again.<eos>
+<bos>I made a mistake.<eol>You don't have to yell at me.<eos>
+<bos>Wasted hours of work... Okay, well, then<eos>
+<bos>maybe you should just do it by yourself!<eos>
+<bos>Damn it! God, I'm not your assistant!<eos>
+<bos>All you do is...<eol>Oh, just get out of here.<eos>
+<bos>Go take a shower or something.<eos>
+<bos>Hodge.<eos>
+<bos>What?<eos>
+<bos>Come take a look at this.<eos>
+<bos>The larvae from two different worms<eos>
+<bos>killed each other.<eos>
+<bos>An individual worm<eol>will not tolerate another<eos>
+<bos>invading its host.<eos>
+<bos>It does to the invader<eol>what it did to humans.<eos>
+<bos>It makes them kill.<eos>
+<bos>Doesn't make any sense for<eol>a species to kill its own.<eos>
+<bos>It needs another to procreate.<eos>
+<bos>Worms are hermaphroditic.<eos>
+<bos>It can reproduce itself.<eos>
+<bos>Look at the evidence in the microscope.<eos>
+<bos>This thing does not like company.<eos>
+<bos>So, what are you saying?<eos>
+<bos>The way to kill it<eos>
+<bos>is to introduce another worm<eos>
+<bos>into an already infected body?<eos>
+<bos>It sounds okay.<eos>
+<bos>It passed the worms in its stool.<eos>
+<bos>They're dead.<eos>
+<bos>I want to talk to him first.<eos>
+<bos>Try and make this voluntary.<eos>
+<bos>What?<eos>
+<bos>You can't go in alone.<eos>
+<bos>If anything happens, you come inside.<eos>
+<bos>I can't do this to him until I'm sure.<eos>
+<bos>It's just you?<eos>
+<bos>Yes.<eos>
+<bos>It's one of them.<eos>
+<bos>No one's been killed<eol>since you've been in here.<eos>
+<bos>So?<eos>
+<bos>We found a way to kill it.<eos>
+<bos>Two worms in one host<eol>will kill each other.<eos>
+<bos>You give me one worm, you'll infect me.<eos>
+<bos>If that's true,<eos>
+<bos>then why didn't you let us inspect you?<eos>
+<bos>I would have, but you pulled a gun on me.<eos>
+<bos>Now I don't trust them.<eos>
+<bos>I want to trust you.<eos>
+<bos>Okay.<eos>
+<bos>But now they're not here.<eos>
+<bos>This is the last one.<eos>
+<bos>She's not going to let us give it to him.<eos>
+<bos>Well, she'll have to if he's infected.<eos>
+<bos>He'll convince her somehow.<eos>
+<bos>I just examined him.<eos>
+<bos>He's uninfected.<eos>
+<bos>So is she.<eos>
+<bos>Which means that it must be one of you.<eos>
+<bos>All right.<eos>
+<bos>Let's go over to the main building.<eos>
+<bos>I'd like to check him myself.<eos>
+<bos>Then he can examine both of us.<eos>
+<bos>Want to lead the way?<eos>
+<bos>No!<eos>
+<bos>Get the worm.<eos>
+<bos>Don't!<eos>
+<bos>No!<eos>
+<bos>Oh, my God.<eos>
+<bos>Mulder,<eos>
+<bos>it's her!<eos>
+<bos>No!<eos>
+<bos>No!<eos>
+<bos>Scully!<eos>
+<bos>It's Dasilva.<eos>
+<bos>No!<eos>
+<bos>Hodge! Now!<eos>
+<bos>Mulder.<eos>
+<bos>After this, there won't be any left.<eos>
+<bos>They're all going to be dead!<eos>
+<bos>Do it!<eos>
+<bos>It's all right.<eos>
+<bos>It's all over.<eos>
+<bos>It all stops right here,<eos>
+<bos>right now.<eos>
+<bos>Okay, I got it.<eos>
+<bos>Okay, lock her down.<eos>
+<bos>She's being put in quarantine<eol>along with the dog.<eos>
+<bos>We'll keep her there until we're sure<eos>
+<bos>that she won't infect<eol>the rest of the population.<eos>
+<bos>Meanwhile our tests came back normal,<eos>
+<bos>so we've been released.<eos>
+<bos>Plane ready.<eos>
+<bos>It'll take you as far from the ice<eos>
+<bos>as you want to go.<eos>
+<bos>I'm going back to the site.<eos>
+<bos>This time I'm going fully prepared<eos>
+<bos>with proper equipment.<eos>
+<bos>There's still a lot<eol>of research to be done<eos>
+<bos>on the genetic structure,<eol>on its origins...<eos>
+<bos>Wait, Mulder, don't you know?<eos>
+<bos>Know what?<eos>
+<bos>45 minutes after they evacuated us,<eos>
+<bos>they torched the place.<eos>
+<bos>There's nothing left.<eos>
+<bos>Who did that?<eos>
+<bos>The military,<eos>
+<bos>Centers for Disease Control.<eos>
+<bos>You ought to know.<eos>
+<bos>They're your people.<eos>
+<bos>It's still there, Scully.<eos>
+<bos>200,000 years down.<eos>
+<bos>In the ice.<eos>
+<bos>Leave it there.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

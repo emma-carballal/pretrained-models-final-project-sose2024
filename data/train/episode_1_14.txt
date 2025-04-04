@@ -1,0 +1,800 @@
+<bos>ï»¿1 God...<eos>
+<bos>What are you doing to Barnett?<eos>
+<bos>Excuse me?<eos>
+<bos>What are you doing to Johnny?<eos>
+<bos>Go on back to your ward.<eos>
+<bos>There's nothing<eol>you can do for your friend now.<eos>
+<bos>What?<eos>
+<bos>John Barnett is dead.<eos>
+<bos>No, I heard him screaming.<eos>
+<bos>I said John Barnett is dead.<eos>
+<bos>You understand?<eos>
+<bos>Go on, Crandall. Get out of here.<eos>
+<bos>There's nothing more to see here.<eos>
+<bos>You understand?<eos>
+<bos>I still don't get it.<eos>
+<bos>What does this have to do with us?<eos>
+<bos>Robbing a jewelry store<eol>is a Federal crime.<eos>
+<bos>Thank you.<eos>
+<bos>I don't know; I got a call from<eol>some guy I used to work with<eos>
+<bos>over at the Violent Crime Section.<eos>
+<bos>Said it was important.<eos>
+<bos>Reggie, Reggie.<eos>
+<bos>Mulder... I hate it when you do that.<eos>
+<bos>This is Special Agent Scully.<eos>
+<bos>Reggie Purdue.<eos>
+<bos>How are you?<eos>
+<bos>What happened here?<eos>
+<bos>Lone gunman took out a salesgirl<eos>
+<bos>after she filled up a bag for him.<eos>
+<bos>You guys turn up anything?<eos>
+<bos>Not much...<eos>
+<bos>except...<eos>
+<bos>this.<eos>
+<bos>It's going to blow your mind.<eos>
+<bos>Why?<eos>
+<bos>I'm telling you, Mulder,<eos>
+<bos>this is going to blow your mind.<eos>
+<bos>What is it?<eos>
+<bos>Wait a second.<eos>
+<bos>You see why I called you?<eos>
+<bos>What about witness descriptions?<eos>
+<bos>White male, 5'11" to 6', ski mask.<eos>
+<bos>Damn it, Reggie, that's Barnett.<eos>
+<bos>Yeah. But it can't be.<eos>
+<bos>Who's Barnett?<eos>
+<bos>It was my first case at the Bureau.<eos>
+<bos>Barnett was doing armed jobs all over DC,<eos>
+<bos>and getting away with it--<eol>very trigger happy.<eos>
+<bos>Killed seven people.<eos>
+<bos>There was this big task force.<eos>
+<bos>Reggie was my ASAC.<eos>
+<bos>I was 28 years old,<eol>right out of the Academy.<eos>
+<bos>I had this theory on the case.<eos>
+<bos>Reggie thought I was full of it.<eos>
+<bos>I was full of it.<eos>
+<bos>What was the theory?<eos>
+<bos>That Barnett had an inside connection.<eos>
+<bos>An employee at the armored car company<eos>
+<bos>was tipping him off<eol>about large shipments of cash.<eos>
+<bos>Turns out I was sort of right.<eos>
+<bos>Sort of?<eos>
+<bos>Yeah, we planted bogus waybills--<eos>
+<bos>manifests with the armored car<eol>company to try to set a trap<eos>
+<bos>but Barnett was way ahead of us.<eos>
+<bos>That's when the notes started.<eos>
+<bos>"Fox can't guard the chicken coop."<eos>
+<bos>Clever, huh?<eos>
+<bos>So, you never caught him?<eos>
+<bos>No, we did.<eos>
+<bos>We did, but not, uh, not clean.<eos>
+<bos>An agent died because I screwed up.<eos>
+<bos>And what happened to Barnett?<eos>
+<bos>He avoided the death penalty<eol>on a technicality,<eos>
+<bos>but he went down for every job he did.<eos>
+<bos>Consecutive terms-- 340 years.<eos>
+<bos>The judge promised me<eol>he would die in prison.<eos>
+<bos>So you think he escaped?<eos>
+<bos>No, that's just it.<eos>
+<bos>He did die in prison, four years ago.<eos>
+<bos>You're sure?<eos>
+<bos>I was paying attention.<eos>
+<bos>This guy a friend of yours?<eos>
+<bos>Yeah. I play golf with him every Sunday.<eos>
+<bos>What do you think?<eos>
+<bos>You just brought this in ten minutes ago.<eos>
+<bos>You're slipping, Henderson.<eos>
+<bos>Ten minutes may be<eol>enough time for you, Mulder.<eos>
+<bos>Of course, I wouldn't know that<eos>
+<bos>from personal experience.<eos>
+<bos>Yeah... Seriously, what do you think?<eos>
+<bos>Okay, first impressions:<eos>
+<bos>The ink is fresh,<eos>
+<bos>the note was written<eol>in the last 48 hours...<eos>
+<bos>ballpoint, but you knew that.<eos>
+<bos>A right-hander.<eos>
+<bos>Let's see...<eos>
+<bos>Written by someone sitting down.<eos>
+<bos>But now I'm just showing off.<eos>
+<bos>Yeah, does it match Barnett?<eos>
+<bos>I'd say it's him.<eos>
+<bos>But you're not sure?<eos>
+<bos>95%.<eos>
+<bos>The writing's sloppy.<eos>
+<bos>Some of the ascenders<eol>and descenders are heavier.<eos>
+<bos>Could it have been traced<eol>over an old note of Barnett's?<eos>
+<bos>Could be, but it's a damn<eol>good job if it is.<eos>
+<bos>Thanks, Henderson. I owe you one.<eos>
+<bos>Promises, promises.<eos>
+<bos>There's Barnett.<eos>
+<bos>We staked out an airport warehouse<eos>
+<bos>but everything went to hell<eos>
+<bos>when Barnett took the driver<eol>of the armored truck hostage.<eos>
+<bos>Where's Mulder?<eos>
+<bos>There, coming around back.<eos>
+<bos>Barnett doesn't see him.<eos>
+<bos>He's got a clear shot.<eos>
+<bos>Yeah, he should have taken it.<eos>
+<bos>But he couldn't.<eos>
+<bos>No, no, not with a hostage so close.<eos>
+<bos>Because it's not by the book.<eos>
+<bos>It would have saved one life, maybe two.<eos>
+<bos>Bastard Barnett<eol>just started blasting away.<eos>
+<bos>So Mulder did shoot Barnett.<eos>
+<bos>Twice, in the shoulder and hand,<eos>
+<bos>but not before Barnett killed the driver<eos>
+<bos>and Agent Steve Wallenberg.<eos>
+<bos>Mulder never forgave himself for that.<eos>
+<bos>You should have heard his testimony<eos>
+<bos>at Barnett's trial.<eos>
+<bos>Probably had a lot to do<eol>with the sentence<eos>
+<bos>the judge gave Barnett.<eos>
+<bos>I'll never forget Mulder<eos>
+<bos>coming down from the witness stand<eos>
+<bos>and Barnett turning<eol>and saying he'd get Mulder.<eos>
+<bos>To tell you the truth,<eos>
+<bos>I wish Mulder had killed Barnett<eol>right there in the warehouse.<eos>
+<bos>What did Henderson<eos>
+<bos>come up with?<eos>
+<bos>95% sure it's Barnett's handwriting.<eos>
+<bos>What's that?<eos>
+<bos>Federal Bureau of Prisons<eos>
+<bos>sent me a copy of his death certificate.<eos>
+<bos>"Name of deceased: Barnett, John Irvin.<eos>
+<bos>"Cause of death: cardiac arrest.<eos>
+<bos>Date: September 16, 1989."<eos>
+<bos>It must be a clever copycat.<eos>
+<bos>The note was written<eol>in the last 48 hours.<eos>
+<bos>Pull any prints? No prints.<eos>
+<bos>Maybe he planned it<eol>with someone on the outside.<eos>
+<bos>Revenge from the grave?<eos>
+<bos>That'd be a neat trick.<eos>
+<bos>He planned to get you, didn't he?<eos>
+<bos>I was just down talking to Agent Purdue.<eos>
+<bos>Yeah? He show you the videotape?<eos>
+<bos>You did the right thing, Mulder.<eos>
+<bos>Did I?<eos>
+<bos>Steve Wallenberg had a wife and two kids.<eos>
+<bos>One of his boys is an all-star<eol>on his football team now.<eos>
+<bos>I pulled that trigger two seconds earlier<eos>
+<bos>and Wallenberg would be here<eol>to see his kid play.<eos>
+<bos>Instead, I got some dead man<eos>
+<bos>robbing jewelry stores<eol>and sending me haikus.<eos>
+<bos>Down... set... hup!<eos>
+<bos>Let's go! Let's go now!<eos>
+<bos>Fire it in there!<eos>
+<bos>Yeah, that's better!<eos>
+<bos>Good pass! Very good!<eos>
+<bos>Way to go, Alex!<eos>
+<bos>Hustle it up! Come on, guys!<eol>Line it up! Let's go!<eos>
+<bos>Down!<eos>
+<bos>Set! Hup!<eos>
+<bos>Go! Go! Go! Go hard!<eos>
+<bos>Find your man! There it is!<eos>
+<bos>Let's play!<eos>
+<bos>Let's get on the line,<eol>let's go! Block him!<eos>
+<bos>I'll get you, you son of a bitch!<eos>
+<bos>I've been thinking about it, Mulder<eos>
+<bos>and I think that somebody<eol>is messing with your head.<eos>
+<bos>Barnett said he'd get me. You were there.<eos>
+<bos>I don't care what Barnett said;<eol>he's dead, Mulder.<eos>
+<bos>Apparently not.<eos>
+<bos>Aw, come on.<eos>
+<bos>Let me tell you something:<eos>
+<bos>There are a lot of guys<eos>
+<bos>who know that Barnett made the threat.<eos>
+<bos>It's Barnett, Reggie.<eos>
+<bos>How can you say that?<eos>
+<bos>I don't know. I just feel it.<eos>
+<bos>You know, all this talk around<eol>here about Spooky Mulder--<eos>
+<bos>I never used to pay it much mind.<eos>
+<bos>I figured it was just talk<eos>
+<bos>about how paranoid you were and all.<eos>
+<bos>And now?<eos>
+<bos>Remember the day<eol>you walked into my office<eos>
+<bos>wet from Quantico?<eos>
+<bos>You pissed me off just looking at you<eos>
+<bos>but then I saw how your mind worked.<eos>
+<bos>How you were always three jumps ahead.<eos>
+<bos>It was scary, Mulder.<eos>
+<bos>Everybody said so.<eos>
+<bos>I've heard this story.<eos>
+<bos>Yeah, well, maybe you<eol>ought to hear it again.<eos>
+<bos>You let a lot of people down<eol>here in the Bureau.<eos>
+<bos>They had big plans for you.<eos>
+<bos>A lot of people are saying<eos>
+<bos>that Spooky Mulder has become<eol>an embarrassment; a liability.<eos>
+<bos>What?<eos>
+<bos>Are you saying that somebody<eol>from the Bureau's behind this?<eos>
+<bos>Maybe, maybe not.<eos>
+<bos>It's always best<eol>to cover your ass in any event.<eos>
+<bos>Sorry.<eos>
+<bos>This was just faxed.<eos>
+<bos>It's a copy of John Barnett's<eol>last will and testament.<eos>
+<bos>No surviving relatives.<eos>
+<bos>Left what little he had<eol>to another prisoner--<eos>
+<bos>a Joe Crandall-- and instructions<eos>
+<bos>for his body to be cremated.<eos>
+<bos>His will was executed<eol>six months after his death,<eos>
+<bos>and this document states<eol>that his ashes were spread<eos>
+<bos>along the bank of the Delaware River<eos>
+<bos>by an employee of the crematory<eos>
+<bos>used by the prison.<eos>
+<bos>It's like I said.<eos>
+<bos>I think somebody's<eol>messing with your head.<eos>
+<bos>Killing a sales clerk<eol>just to leave me a note?<eos>
+<bos>I'd say that's going<eol>a little out of your way.<eos>
+<bos>He's older now.<eos>
+<bos>He may have put on some weight.<eos>
+<bos>How much older?<eos>
+<bos>Five years.<eos>
+<bos>He could be wearing any kind of disguise.<eos>
+<bos>Take us back to the day in question.<eos>
+<bos>Was it your impression,<eol>Agent Mulder, that John Barnett<eos>
+<bos>took a kind of a perverse<eol>pleasure in his crimes?<eos>
+<bos>Didn't he send you notes to taunt you?<eos>
+<bos>Yes. I felt<eos>
+<bos>that he was daring us to catch him.<eos>
+<bos>That he killed his victims<eos>
+<bos>almost as if it were part of a game.<eos>
+<bos>Describe for the court,<eol>if you would, Agent Mulder,<eos>
+<bos>what happened when you<eol>finally caught John Barnett.<eos>
+<bos>We had a Customs warehouse<eol>at the airport staked out.<eos>
+<bos>We knew that Barnett had someone<eos>
+<bos>working for the armored car transport<eos>
+<bos>tipping him off<eol>about large cash shipments,<eos>
+<bos>but we never figured<eol>that he would actually be<eos>
+<bos>inside the vehicle when it arrived.<eos>
+<bos>That's how Barnett was able<eos>
+<bos>to take the driver<eol>of the vehicle hostage.<eos>
+<bos>In other words, John Barnett<eol>used his own accomplice<eos>
+<bos>as a hostage?<eos>
+<bos>Yes, ma'am.<eos>
+<bos>And then what happened?<eos>
+<bos>We surrounded Barnett.<eos>
+<bos>We ordered him to surrender his hostage<eos>
+<bos>and his weapon.<eos>
+<bos>And where were you at this time,<eol>Agent Mulder?<eos>
+<bos>I was right behind Barnett.<eos>
+<bos>With a clear shot at the suspect?<eos>
+<bos>Yes, ma'am.<eos>
+<bos>But you didn't fire. Why?<eos>
+<bos>No. It's against FBI regulations<eos>
+<bos>to unnecessarily endanger<eol>the life of a hostage<eos>
+<bos>and I thought<eos>
+<bos>that with no means of escape,<eos>
+<bos>Barnett would give up.<eos>
+<bos>But what happened instead?<eos>
+<bos>The suspect-- uh, John Barnett,<eos>
+<bos>fired his weapon<eol>point-blank at his hostage<eos>
+<bos>and then he turned his gun<eol>on Steve Wallenberg...<eos>
+<bos>shot him in the face.<eos>
+<bos>Thank you, Agent Mulder.<eos>
+<bos>No further questions at this time.<eos>
+<bos>He gunned him down just for spite.<eos>
+<bos>Your Honor, we object!<eol>The witness will step down<eos>
+<bos>He was a man with<eol>a wife and two small children<eos>
+<bos>Sir, please step down. and you...<eos>
+<bos>...you shot him without<eos>
+<bos>hesitation,<eos>
+<bos>without conscience,<eol>without an ounce of humanity,<eos>
+<bos>I will find you in contempt of court!<eos>
+<bos>Order! Order in the court!<eos>
+<bos>If there is not order in this court,<eos>
+<bos>I will be forced to clear the courtroom!<eos>
+<bos>Your Honor, this testimony<eol>is highly irregular<eos>
+<bos>and inflammatory against my client.<eos>
+<bos>I ask that it be<eol>stricken from the record.<eos>
+<bos>Duly noted, Counselor.<eos>
+<bos>The jury will disregard...<eos>
+<bos>I'll... get... you.<eos>
+<bos>I'll need printouts of every variation.<eos>
+<bos>Right.<eos>
+<bos>I just got off the phone with the prison.<eos>
+<bos>What did they come up with?<eos>
+<bos>No, I called them on a hunch.<eos>
+<bos>John Barnett died of<eol>a heart attack, right?<eos>
+<bos>At least that's what it says<eol>on his death certificate.<eos>
+<bos>Well, I had them fax me<eol>all of his medical records.<eos>
+<bos>Barnett was admitted<eol>to the prison infirmary<eos>
+<bos>for an infection in his right hand.<eos>
+<bos>There isn't any indication or diagnosis<eos>
+<bos>of coronary complications.<eos>
+<bos>In fact, on his physical,<eol>six months earlier,<eos>
+<bos>he was given a clean bill of health.<eos>
+<bos>Crandall, someone to see you.<eos>
+<bos>I don't get many visitors.<eos>
+<bos>You knew John Barnett?<eos>
+<bos>Yes, sir.<eos>
+<bos>How well did you know him?<eos>
+<bos>Excuse me, ma'am.<eos>
+<bos>Pretty well.<eos>
+<bos>He left you everything<eol>he had, in his will.<eos>
+<bos>You must have known him<eol>better than pretty well.<eos>
+<bos>Used to change his bandages,<eol>and we just got to...<eos>
+<bos>know each other.<eos>
+<bos>Are you aware that Barnett died<eol>of cardiac arrest<eos>
+<bos>in this facility, in 1989?<eos>
+<bos>Cardiac arrest? Where does it say that?<eos>
+<bos>On his death certificate.<eos>
+<bos>He ain't dead, is he?<eos>
+<bos>Why do you say that?<eos>
+<bos>Last time I saw John Barnett,<eos>
+<bos>it was right in that room over there.<eos>
+<bos>Doctor working on him with a knife<eos>
+<bos>took his bad hand clean off.<eos>
+<bos>What doctor?<eos>
+<bos>Was it Dr. Ridley?<eos>
+<bos>Yeah, yeah, it was Dr. Ridley.<eos>
+<bos>That's the one.<eos>
+<bos>He told me Johnny was dead<eos>
+<bos>but, uh... I knew it was a lie.<eos>
+<bos>Put a knife right up<eol>under my chin just for asking.<eos>
+<bos>How could you tell Barnett wasn't dead?<eos>
+<bos>I saw him looking at me.<eos>
+<bos>I saw him blink.<eos>
+<bos>I'll never forget those eyes.<eos>
+<bos>What are you going to do?<eos>
+<bos>I know what I'm not going to do.<eos>
+<bos>I'm not going to hang around<eol>and wait for Barnett<eos>
+<bos>to send me another valentine.<eos>
+<bos>You mean the ghost of John Barnett.<eos>
+<bos>I didn't know you believed<eol>in ghosts, Scully.<eos>
+<bos>Hello?<eos>
+<bos>Yeah, just a minute.<eos>
+<bos>It's for you.<eos>
+<bos>Mulder.<eos>
+<bos>Fox Mulder.<eos>
+<bos>Barnett?<eos>
+<bos>I'll run a trace.<eos>
+<bos>You sound surprised.<eos>
+<bos>Well, you know, shouldn't I be?<eos>
+<bos>You know, it's illegal<eol>to tape another's phone call<eos>
+<bos>without their express permission.<eos>
+<bos>Isn't that what they call it?<eos>
+<bos>In some states.<eos>
+<bos>What makes you think I'm taping you?<eos>
+<bos>Same thing makes me think<eos>
+<bos>you're putting a trace on this call.<eos>
+<bos>What state are you in?<eos>
+<bos>Same state you are.<eos>
+<bos>I stood next to you<eol>in line for coffee this morning.<eos>
+<bos>I don't think so.<eos>
+<bos>Man, I'm everywhere you are.<eos>
+<bos>Everywhere.<eos>
+<bos>I own you.<eos>
+<bos>How do I know it's really you, Barnett?<eos>
+<bos>What did I say to you in the courtroom?<eos>
+<bos>Did you ever doubt me?<eos>
+<bos>I don't know-- what did you<eol>tell me in the courtroom?<eos>
+<bos>If you think you're going<eol>to keep me on this phone<eos>
+<bos>with this clumsy act...<eos>
+<bos>Listen, by all accounts,<eol>John Barnett is a dead man.<eos>
+<bos>Oh, you're the dead man, Mulder.<eos>
+<bos>Fine. I just need confirmation<eos>
+<bos>that you are who you say you are.<eos>
+<bos>You want confirmation?<eos>
+<bos>You got it.<eos>
+<bos>Barnett? You there?<eos>
+<bos>You lost him.<eos>
+<bos>Yeah, he was hip to the trace.<eos>
+<bos>Was it Barnett?<eos>
+<bos>John Barnett was from New Hampshire.<eos>
+<bos>He had a slight accent.<eos>
+<bos>Listen to this.<eos>
+<bos>Fine. I just need confirmation<eos>
+<bos>that you are who you say you are.<eos>
+<bos>You want confirmation?<eos>
+<bos>You got it.<eos>
+<bos>What did he mean by that?<eos>
+<bos>I don't know, but that is John Barnett.<eos>
+<bos>I'm sure of it.<eos>
+<bos>Oh...<eos>
+<bos>Yeah.<eos>
+<bos>Reggie, it's Mulder.<eos>
+<bos>Mulder, what do you want?<eos>
+<bos>It's the middle of the night.<eos>
+<bos>It's only 10:45, Reggie.<eos>
+<bos>Yeah, well, I was sleeping.<eos>
+<bos>Listen, Reggie, it doesn't look<eol>like Barnett's dead after all.<eos>
+<bos>Now what?<eos>
+<bos>I got an inmate at the prison<eos>
+<bos>who swears he saw Barnett alive<eol>the night they say he died.<eos>
+<bos>Mulder, go home.<eos>
+<bos>Get some rest.<eos>
+<bos>No, listen, Reggie,<eol>there's just one thing<eos>
+<bos>that doesn't make sense to me.<eos>
+<bos>Yeah, what's that?<eos>
+<bos>Agent Henderson said that that note<eos>
+<bos>that was left at the jewelry store<eos>
+<bos>was written by a right-hander.<eos>
+<bos>Yeah, so?<eos>
+<bos>Well, this inmate at the prison<eos>
+<bos>he swears he saw<eol>Barnett's right hand amputated.<eos>
+<bos>Reggie, you there?<eos>
+<bos>Hey, Reggie!<eos>
+<bos>Reggie? What's going on?<eos>
+<bos>Are you there?<eos>
+<bos>What the hell's going on, Reggie?<eos>
+<bos>Reggie! What happened?<eos>
+<bos>Hey, Reggie!<eos>
+<bos>Reggie? What's going on? Are you there?<eos>
+<bos>What the hell's going on, Reggie?<eos>
+<bos>Hope you guys brought<eol>your fine-tooth comb.<eos>
+<bos>I want every piece of lint<eol>collected and analyzed.<eos>
+<bos>If nothing turns up,<eol>run it through again.<eos>
+<bos>Mulder...<eos>
+<bos>His wife died of cancer six years ago.<eos>
+<bos>Never liked to talk about it.<eos>
+<bos>As long as I knew him, he was<eol>working on a mystery novel.<eos>
+<bos>He promised to show it to me<eol>once, but he never did.<eos>
+<bos>Think he was afraid I wouldn't like it.<eos>
+<bos>I'm probably the only guy on the Bureau<eos>
+<bos>he trusted enough to even ask.<eos>
+<bos>I'm sorry.<eos>
+<bos>I'm just thinking how different<eol>things would've been<eos>
+<bos>if I would have taken that shot<eol>at Barnett when I had it.<eos>
+<bos>Mulder...<eos>
+<bos>we're still not<eol>100% sure that this is him.<eos>
+<bos>Fresh ink, slightly smeared.<eos>
+<bos>I hate to tell you,<eos>
+<bos>and I'm not known to be wrong<eol>about these things<eos>
+<bos>but this note was most certainly written<eos>
+<bos>by a right-handed person.<eos>
+<bos>You see the pressure points<eol>inside the pen grooves?<eos>
+<bos>It's a dead giveaway.<eos>
+<bos>Mm.<eos>
+<bos>Would you be able to tell<eol>if this note was written<eos>
+<bos>by somebody using a prosthetic hand?<eos>
+<bos>Well, this fellow...<eos>
+<bos>and I'm assuming<eos>
+<bos>from the cursive figures here<eos>
+<bos>that it is a male suspect--<eos>
+<bos>he has a fairly nice, fluid style.<eos>
+<bos>Judging from the pressure variations<eos>
+<bos>in the connectors...<eos>
+<bos>this person would need<eol>good finger dexterity.<eos>
+<bos>You're not going to get<eol>that with a prosthesis.<eos>
+<bos>So you think it's the same person<eos>
+<bos>that wrote the first note.<eos>
+<bos>Uh-huh.<eos>
+<bos>This the guy you think<eol>killed Agent Purdue?<eos>
+<bos>Yeah.<eos>
+<bos>You know what occurred to me?<eos>
+<bos>You never got any prints off those notes.<eos>
+<bos>If this guy was wearing<eol>a glove on his pen hand,<eos>
+<bos>the note wouldn't be smeared like it is.<eos>
+<bos>For what it's worth.<eos>
+<bos>I was just trying to find you.<eos>
+<bos>Listen to this:<eos>
+<bos>According to the AMA, Dr. Ridley--<eos>
+<bos>who signed Barnett's death certificate--<eos>
+<bos>hasn't officially been a doctor<eol>since 1979.<eos>
+<bos>What do you mean?<eos>
+<bos>His membership expired and wasn't renewed<eos>
+<bos>after the state of Maryland<eol>revoked his medical license<eos>
+<bos>for flagrant research malpractice<eos>
+<bos>and misuse of a government grant.<eos>
+<bos>Where does it say that?<eos>
+<bos>Right here, in the Federal Journal<eos>
+<bos>for the National Institute of Health.<eos>
+<bos>What kind of research?<eos>
+<bos>He was conducting experiments<eol>on young children<eos>
+<bos>afflicted with a disease called progeria.<eos>
+<bos>The patient you see is<eol>an eight-year-old girl<eos>
+<bos>suffering from the advanced<eol>stages of progeria.<eos>
+<bos>She looks about 90.<eos>
+<bos>Only about 100 cases<eol>have ever been reported,<eos>
+<bos>so the disease is rare.<eos>
+<bos>But fatal.<eos>
+<bos>Some progeria patients<eol>make it to early adulthood<eos>
+<bos>but others become terminal<eol>at age seven or eight.<eos>
+<bos>What's the cause of death?<eos>
+<bos>Clinically, it's cardiac<eos>
+<bos>or cerebral vascular disease<eos>
+<bos>but actually,<eos>
+<bos>these poor kids die of old age.<eos>
+<bos>Is that Dr. Ridley?<eos>
+<bos>Yes, in 1974.<eos>
+<bos>Joe Ridley thought<eos>
+<bos>that he could take<eol>their accelerated aging<eos>
+<bos>and slow it down.<eos>
+<bos>Initially,<eos>
+<bos>some of his lab work was promising<eos>
+<bos>but then things got out of control.<eos>
+<bos>He wanted to begin human trials.<eos>
+<bos>Why wasn't he allowed to?<eos>
+<bos>Because he hadn't met the criteria.<eos>
+<bos>It was all too hypothetical,<eol>too dangerous.<eos>
+<bos>I mean...<eos>
+<bos>I knew Joe Ridley.<eos>
+<bos>He didn't care about those kids.<eos>
+<bos>He talked about them<eos>
+<bos>as if they were laboratory animals.<eos>
+<bos>This terrible disease, progeria<eos>
+<bos>he saw it as a "wonderful opportunity."<eos>
+<bos>He used those exact words with me once.<eos>
+<bos>An opportunity to "unlock<eol>all the secrets."<eos>
+<bos>When they refused to<eol>allow the human trials,<eos>
+<bos>he became enraged.<eos>
+<bos>Do you know what they called<eol>Joe Ridley behind his back?<eos>
+<bos>What?<eos>
+<bos>Doktor Mengele.<eos>
+<bos>So, how did Dr. Ridley<eos>
+<bos>eventually lose his medical license?<eos>
+<bos>He went ahead<eos>
+<bos>with the human trials secretly,<eos>
+<bos>on an out-patient basis.<eos>
+<bos>When we learned about it, of course,<eos>
+<bos>we terminated his grant<eos>
+<bos>and filed charges<eos>
+<bos>with the state medical boards.<eos>
+<bos>I'm afraid your colleague Dr. Ridley<eos>
+<bos>has dropped off the face of the earth.<eos>
+<bos>Yeah.<eos>
+<bos>Although it's rumored<eol>he went to South America<eos>
+<bos>to continue his work.<eos>
+<bos>You don't just reverse aging.<eos>
+<bos>Ridley's found a way.<eos>
+<bos>Listen to what you're saying.<eos>
+<bos>He wanted human research subjects, right?<eos>
+<bos>Prisoners-- prisoners like John Barnett.<eos>
+<bos>Mulder, it's science fiction.<eos>
+<bos>Well, what would you<eol>have said 20 years ago<eos>
+<bos>about gene splicing, DNA fingerprinting<eos>
+<bos>cloning, artificial intelligence?<eos>
+<bos>Maybe we're not looking for a<eol>man in his late 40s, after all.<eos>
+<bos>Maybe John Barnett has found<eol>the perfect disguise--<eos>
+<bos>youth.<eos>
+<bos>I want to age him backwards now.<eos>
+<bos>Let's start with ten years.<eos>
+<bos>Now five years more.<eos>
+<bos>And add 20 pounds.<eos>
+<bos>A healthy 20 pounds.<eos>
+<bos>Ridley's notes<eol>from the human trials at NIH<eos>
+<bos>indicate he didn't see aging<eol>as inevitable<eos>
+<bos>but as an opportunistic disease...<eos>
+<bos>a disease that could be<eol>prevented, reversed even,<eos>
+<bos>by changing the chemical cues<eol>that trigger certain genes.<eos>
+<bos>However, there is no evidence whatsoever<eos>
+<bos>that Ridley's work yielded any results<eos>
+<bos>or that his theories--<eol>all hope to the contrary--<eos>
+<bos>hold any validity.<eos>
+<bos>According to the leading<eol>scientific journals,<eos>
+<bos>projections on this kind<eol>of genetic engineering<eos>
+<bos>are at best speculative and futuristic.<eos>
+<bos>Who is it?<eos>
+<bos>Dr. Joe Ridley.<eos>
+<bos>If you're really Dr. Joseph Ridley,<eos>
+<bos>where have you been<eol>for the past five years?<eos>
+<bos>I originally continued<eol>my research in Mexico,<eos>
+<bos>but for the last three years,<eos>
+<bos>I spent my time in Central America.<eos>
+<bos>In Belize to be exact.<eos>
+<bos>What about Barnett?<eos>
+<bos>John Barnett<eos>
+<bos>is the only patient left.<eos>
+<bos>The only one who survived<eol>the experiments.<eos>
+<bos>What about you?<eos>
+<bos>My appearance is deceiving.<eos>
+<bos>I have no more than a month to live<eos>
+<bos>as I am dying from a rare<eol>cerebral vascular disease.<eos>
+<bos>The same disease<eos>
+<bos>that kills the kids<eol>suffering from progeria?<eos>
+<bos>That's right.<eos>
+<bos>An unfortunate side effect<eol>of the treatment.<eos>
+<bos>By using the genetic<eol>components of progeria,<eos>
+<bos>I was able to reverse the aging process<eos>
+<bos>in much the same way<eol>the disease expedited it.<eos>
+<bos>At the same time, I and my patients<eos>
+<bos>became genetically susceptible<eos>
+<bos>to the same ailments<eos>
+<bos>a child of six or eight would,<eos>
+<bos>if he had the disease.<eos>
+<bos>And what about Barnett?<eos>
+<bos>John Barnett.<eos>
+<bos>If I didn't so personally detest the man,<eos>
+<bos>I might call him my one triumph.<eos>
+<bos>Barnett's not dying?<eos>
+<bos>Only his eyes, which for some reason<eos>
+<bos>do not respond to the gene therapy.<eos>
+<bos>Otherwise, John Barnett<eol>appears to be thriving.<eos>
+<bos>But how?<eos>
+<bos>I varied Barnett's treatment.<eos>
+<bos>Once I isolated the progeria receptors<eos>
+<bos>I stumbled on something<eol>quite unexpected--<eos>
+<bos>these same genes related<eol>to the production of myelin.<eos>
+<bos>The material that insulates<eol>neurons in the body.<eos>
+<bos>Yes.<eos>
+<bos>You see, myelin is not present<eol>in the very young<eos>
+<bos>and by reversing the effects of aging,<eos>
+<bos>I found with Barnett<eos>
+<bos>I was able to regulate<eol>the production of myelin,<eos>
+<bos>myelin being the material<eos>
+<bos>that prohibits you or I from, say,<eos>
+<bos>regenerating a new hand<eol>if we were to have ours cut off.<eos>
+<bos>You were able<eol>to grow John Barnett a new hand?<eos>
+<bos>Not exactly.<eos>
+<bos>Not a human hand, anyway.<eos>
+<bos>I could never get the cells<eol>to divide or behave properly.<eos>
+<bos>I'm afraid to ask.<eos>
+<bos>What kind of hand did you grow?<eos>
+<bos>By taking samples<eol>of what we call cell morphogens<eos>
+<bos>from an amputated salamander arm<eos>
+<bos>and applying them to the<eol>back of the creature,<eos>
+<bos>they were able to grow a new limb<eos>
+<bos>on a completely different<eol>part of the body...<eos>
+<bos>but only on salamanders.<eos>
+<bos>Until John Barnett.<eos>
+<bos>Yeah.<eos>
+<bos>Unbelievable.<eos>
+<bos>My work has cost me dearly.<eos>
+<bos>I'm an outcast in the medical community.<eos>
+<bos>I was called Dr. Mengele,<eol>Dr. Frankenstein,<eos>
+<bos>but I didn't care.<eos>
+<bos>Because you knew that<eol>if your theories panned out...<eos>
+<bos>The man who owns the fountain<eol>of youth controls the world.<eos>
+<bos>When the AMA censured me,<eos>
+<bos>certain sponsors<eol>came out of the woodwork.<eos>
+<bos>One of them is the U.S. government.<eos>
+<bos>They financed your research?<eos>
+<bos>You might be more surprised to learn<eos>
+<bos>just how high up the ladder<eol>this dirty little secret goes.<eos>
+<bos>I know why you've contacted me.<eos>
+<bos>Listen and I'll explain.<eos>
+<bos>I am not particularly proud of the way<eos>
+<bos>in which this matter was handled,<eos>
+<bos>but, uh, like it or not,<eol>John Barnett is a fact of life.<eos>
+<bos>I wish Agent Purdue were around<eol>to appreciate the irony.<eos>
+<bos>The government knew full well<eos>
+<bos>that Barnett was in the country.<eos>
+<bos>You, of course, know<eos>
+<bos>that Barnett stole<eol>all of Ridley's research.<eos>
+<bos>Yes, Ridley knows--<eos>
+<bos>Well, what Ridley doesn't know<eos>
+<bos>is that our government<eol>is bargaining with Barnett<eos>
+<bos>to buy it from him.<eos>
+<bos>What does he want?<eos>
+<bos>A lot of money, immunity, safe haven.<eos>
+<bos>Will he get it?<eos>
+<bos>He holds all the cards.<eos>
+<bos>You're aware that this freak of science<eos>
+<bos>you're negotiating with is a murderer?<eos>
+<bos>The information he has...<eos>
+<bos>could change the course of mankind.<eos>
+<bos>Consider the options.<eos>
+<bos>I will.<eos>
+<bos>Hi. This is Dana Scully.<eos>
+<bos>Please leave a message after the tone.<eos>
+<bos>then two more beeps)<eos>
+<bos>Retrieving messages.<eos>
+<bos>Hi, Dana, it's Mom.<eos>
+<bos>I just wanted to call and say hi.<eos>
+<bos>Uh, give me a call whenever.<eos>
+<bos>Okay, hon. Bye-bye.<eos>
+<bos>Hi, Dana, it's Kathy.<eos>
+<bos>Look, I still hope you're still gonna<eos>
+<bos>meet me before my cello recital--<eos>
+<bos>What's that?<eos>
+<bos>It's my private answering machine.<eos>
+<bos>Or at least it used to be.<eos>
+<bos>What do you mean?<eos>
+<bos>When I ran from the shower this<eol>morning, I heard someone<eos>
+<bos>dialing in my private code<eol>and replaying my messages.<eos>
+<bos>Last night, before Dr. Ridley arrived<eos>
+<bos>I could have sworn there was<eol>someone in my apartment.<eos>
+<bos>But when Ridley knocked,<eos>
+<bos>I thought I'd mistaken the noise for him.<eos>
+<bos>Scully...<eos>
+<bos>This morning, I took this down to Prints<eos>
+<bos>before I came here.<eos>
+<bos>John Barnett's left index oblique<eos>
+<bos>is on the underside of this unit.<eos>
+<bos>Mulder.<eos>
+<bos>Barnett?<eos>
+<bos>Your new friend Ridley...<eos>
+<bos>don't grow too fond of him, huh?<eos>
+<bos>He's going to die soon,<eol>like the rest of your friends.<eos>
+<bos>The rest of my friends?<eos>
+<bos>One by one.<eos>
+<bos>You're not that smart.<eos>
+<bos>So tell me, you're not going to make me<eos>
+<bos>prove it to you again, are you?<eos>
+<bos>Oh, well, no matter.<eos>
+<bos>It will be your turn soon enough.<eos>
+<bos>But you won't get that chance.<eos>
+<bos>Oh, no?<eos>
+<bos>Who's going to stop me, huh?<eos>
+<bos>Man, this is...<eol>this is the land of the free!<eos>
+<bos>Well, I'm just checking in.<eos>
+<bos>Bye.<eos>
+<bos>For now.<eos>
+<bos>What does Barnett know about<eol>what's on your messages?<eos>
+<bos>Uh, that my mother called for no reason<eos>
+<bos>and I'm meeting a friend<eol>before her cello recital.<eos>
+<bos>Where's that?<eos>
+<bos>Before the performance and during,<eos>
+<bos>we're working at a disadvantage<eos>
+<bos>because we don't know exactly<eol>what Barnett looks like.<eos>
+<bos>Study each of these faces.<eos>
+<bos>Know them, particularly the eyes.<eos>
+<bos>I'm including a diagram of the theater.<eos>
+<bos>You have six front entrances<eol>and four more backstage.<eos>
+<bos>We know that if he shows,<eol>he'll be keying on Scully<eos>
+<bos>so wherever she is,<eol>she should not leave your sight.<eos>
+<bos>We've got two hours<eol>before the performance.<eos>
+<bos>Know this place inside and out.<eos>
+<bos>We don't want any shots fired,<eol>if we can help it.<eos>
+<bos>We want to take Barnett alive, okay?<eos>
+<bos>How you feeling?<eos>
+<bos>It's the first time<eol>I've ever played the target.<eos>
+<bos>Let's make sure it's not the last time.<eos>
+<bos>Gun!<eos>
+<bos>Down!<eos>
+<bos>Check her out.<eos>
+<bos>Stay back, Mulder!<eos>
+<bos>Shut up!<eos>
+<bos>Back off, back off.<eos>
+<bos>Don't even think about it.<eos>
+<bos>Just let her go.<eos>
+<bos>Go ahead, go ahead and shoot.<eos>
+<bos>Go ahead, man.<eos>
+<bos>Shoot, Mulder.<eos>
+<bos>What are you afraid of, huh?<eos>
+<bos>What, it's against regulations, huh?<eos>
+<bos>No, man.<eos>
+<bos>You need me alive, don't you?<eos>
+<bos>'Cause I'm the only one who knows<eos>
+<bos>where the research is, huh?<eos>
+<bos>I could shoot her...<eos>
+<bos>and you just have<eol>to live with it, don't you, huh?<eos>
+<bos>Shut up!<eos>
+<bos>Please, no.<eos>
+<bos>How about it, Mulder?<eos>
+<bos>Please, please.<eos>
+<bos>Just like old times, huh? Huh?<eos>
+<bos>Call an ambulance!<eos>
+<bos>I'll do it! Right!<eos>
+<bos>You hear me?<eos>
+<bos>It's okay, Scully,<eol>an ambulance is on the way.<eos>
+<bos>You all right?<eos>
+<bos>Don't try to move.<eos>
+<bos>Barnett, where are they?<eos>
+<bos>Can you hear me? Barnett!<eos>
+<bos>Where? Where'd you hide them?<eos>
+<bos>Come on...<eos>
+<bos>How you feeling?<eos>
+<bos>Like somebody kicked me in the ribs.<eos>
+<bos>That bullet went through<eol>eight layers of Kevlar.<eos>
+<bos>You're lucky to be alive.<eos>
+<bos>What about him?<eos>
+<bos>They flew in three specialists<eol>to try to save his life.<eos>
+<bos>That guy in the ugly suit,<eol>there, is probably CIA.<eos>
+<bos>He's been trying to talk to him.<eos>
+<bos>Is Barnett conscious?<eos>
+<bos>Yeah, but he's not talking.<eos>
+<bos>Mulder, I know what you did<eol>wasn't by the book.<eos>
+<bos>Tells you a lot<eol>about the book, doesn't it?<eos>
+<bos>Barnett! Barnett, come on!<eos>
+<bos>Barnett...<eos>
+<bos>Shock him! Now!<eos>
+<bos>Nothing here. Nothing here-- stand clear.<eos>
+<bos>They lost him.<eos>
+<bos>Bastard'll take that research<eol>with him to the grave.<eos>
+<bos>Where do you think it is?<eos>
+<bos>Who knows?<eos>
+<bos>If Barnett didn't destroy it,<eos>
+<bos>he could've stashed it anywhere...<eos>
+<bos>which would have a certain<eol>cruel irony, wouldn't it?<eos>
+<bos>Scientific knowledge that could<eol>change the course of mankind,<eos>
+<bos>buried out in a field somewhere.<eos>
+<bos>Or sitting in some safe deposit box,<eos>
+<bos>getting old just like the rest of us.<eos>
+<bos>If he didn't destroy it,<eos>
+<bos>chances are that, somehow, someday,<eos>
+<bos>somebody will find it.<eos>
+<bos>And when they do,<eos>
+<bos>maybe he didn't get his revenge<eol>from beyond the grave,<eos>
+<bos>but somehow, I feel like<eos>
+<bos>we haven't heard the last<eol>from John Barnett.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

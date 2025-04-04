@@ -1,0 +1,496 @@
+<bos>"SÍGUEME"<eos>
+<bos>"SOMBRERO LOCO"<eos>
+<bos>" Parque con Pista de Recorrido Bosher<eol>Departamento de Parques de Manassas"<eos>
+<bos>" PARQUES"<eos>
+<bos>Tome. Pruebe con este tamiz.<eos>
+<bos>Concéntrense en esta área de aquí. Allí.<eos>
+<bos>¡Mulder!<eos>
+<bos>¿Qué sucede?<eos>
+<bos>No sé si pueda explicarlo.<eos>
+<bos>¿ Una excavación forense<eol>un domingo a las 5:00 a.m.?<eos>
+<bos>- ¿Qué buscas? - Dame un minuto, ¿sí?<eos>
+<bos>¿Qué haces aquí?<eos>
+<bos>Tengo un sueño recurrente.<eol>Es sobre una niña rubia.<eos>
+<bos>¿Estás aquí debido a algo<eol>que viste en un sueño?<eos>
+<bos>Señor.<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>" Parque Bosher - Manassas, Virginia"<eol>Excave con cuidado.<eos>
+<bos>Con cuidado.<eos>
+<bos>Cuéntame tu sueño.<eos>
+<bos>Soñé fragmentos<eol>durante tres noches seguidas...<eos>
+<bos>y anoche lo soñé entero y me guió a ella.<eos>
+<bos>Necesito el pecho expuesto.<eos>
+<bos>Sí, señor. Lleva un poco de tiempo.<eos>
+<bos>¿Señor? Permítanos hacer eso. ¿Señor?<eos>
+<bos>Si destruyes pruebas,<eol>no sabremos qué pasó.<eos>
+<bos>Sé qué pasó. La estrangularon.<eos>
+<bos>Él usó cable eléctrico de calibre ocho.<eos>
+<bos>Le quitó algo al cuerpo <i>post mortem.</i><eol>Un trofeo.<eos>
+<bos>Cortó un pedazo de tela de su ropa<eol>en forma de corazón.<eos>
+<bos>¿Sacaste todos estos detalles<eol>de tu sueño?<eos>
+<bos>Sé su modo de proceder de memoria.<eos>
+<bos>- ¿De quién? - DeJohn Lee Roche.<eos>
+<bos>Mató a trece niñas<eol>entre los 8 y los 10 años.<eos>
+<bos>Con ella, son 14.<eos>
+<bos>" Expedientes R-S"<eos>
+<bos>Fue un caso muy arduo.<eol>Fue muy difícil de atrapar.<eos>
+<bos>Para 1990,<eol>habían encontrado a 10 víctimas...<eos>
+<bos>dispersas a lo largo del litoral este.<eos>
+<bos>La primera murió en 1979.<eos>
+<bos>Llamaron al caso "Corazones de papel"<eol>por los trofeos.<eos>
+<bos>Secuestró de sus casas<eol>a todas las víctimas.<eos>
+<bos>Reggie Purdue me llamó porque pensó que<eol>podría meterme en la cabeza del asesino.<eos>
+<bos>¿Lo lograste?<eos>
+<bos>Concluí que probablemente<eol>era un vendedor...<eos>
+<bos>alguien que viajaba mucho...<eos>
+<bos>y que se ganaba la confianza de todos.<eol>Alguien común.<eos>
+<bos>Roche vendía aspiradoras.<eol>Viajaba a todo el noreste.<eos>
+<bos>Al demostrar su aspiradora en una casa...<eos>
+<bos>se fijaba bien en las niñas.<eos>
+<bos>Elegía a una y volvía por ella<eol>meses después.<eos>
+<bos>Lo atraparon gracias a tu perfil.<eos>
+<bos>¿ Y qué me dices de los trofeos,<eol>los corazones de tela?<eos>
+<bos>No los hallamos, pero eran innecesarios.<eos>
+<bos>Lo acusamos de 13 homicidios. Confesó 13.<eos>
+<bos>Pasó la prueba del polígrafo,<eol>pero esto me incomodaba.<eos>
+<bos>Quería hallar los corazones<eol>para contarlos...<eos>
+<bos>y ver si en verdad sumaban 13.<eos>
+<bos>Supongo que no eran 13.<eos>
+<bos>Por lo menos...<eos>
+<bos>creo que puedo ayudarte<eol>a explicar tu sueño.<eos>
+<bos>Creo que nunca dejaste<eol>de pensar en este caso.<eos>
+<bos>Creo que pudiste haberlo resuelto<eol>mientras dormías.<eos>
+<bos>¿Crees que yo ya poseía<eol>esta información...<eos>
+<bos>acerca de la víctima No. 14...<eos>
+<bos>y la procesé subconscientemente?<eos>
+<bos>Tú lo dijiste una vez.<eos>
+<bos>Dijiste que...<eos>
+<bos>un sueño es la respuesta a la pregunta<eol>que no sabemos formular.<eos>
+<bos>Muy buen trabajo, Mulder.<eos>
+<bos>Identifiquemos a esta niña<eol>para enterrarla debidamente.<eos>
+<bos>Creo que se llama Addie Sparks.<eos>
+<bos>Desapareció de King of Prussia,<eol>Pensilvania...<eos>
+<bos>en junio de 1975.<eos>
+<bos>Contacté al Centro para Niños<eol>Desaparecidos y Explotados...<eos>
+<bos>para buscar en su base de datos.<eos>
+<bos>1975 es muy temprano.<eos>
+<bos>Creo que es ella.<eos>
+<bos>Es la misma altura.<eol>La zapatilla es igual.<eos>
+<bos>Entonces, Roche comenzó<eol>antes de lo que pensamos.<eos>
+<bos>Mulder, tendremos que verificar esto.<eos>
+<bos>¿Podrás hacerlo?<eos>
+<bos>" Norristown, Pensilvania"<eos>
+<bos>- ¿Frank Sparks? - ¿Puedo ayudarlos?<eos>
+<bos>Somos los agentes Scully y Mulder.<eos>
+<bos>Somos del FBI. ¿Podemos hablar con usted?<eos>
+<bos>Encontraron a Addie.<eos>
+<bos>" Pruebas"<eos>
+<bos>Esto era para el Ratón Pérez.<eos>
+<bos>Cuando Addie dormía...<eos>
+<bos>yo le ponía 25 centavos en este bolsillo.<eos>
+<bos>- Su madre lo cosió.<eol>- ¿Dónde está su esposa, señor?<eos>
+<bos>Murió el verano pasado.<eos>
+<bos>¿Quieren--<eos>
+<bos>¿Quieren decir que el responsable<eol>ya está en prisión?<eos>
+<bos>Sí, señor, y no saldrá.<eos>
+<bos>¿Se dedican de tiempo completo<eol>a dar este tipo de noticia?<eos>
+<bos>No, señor, no de tiempo completo.<eos>
+<bos>- No es un buen trabajo. - No.<eos>
+<bos>Solía pensar...<eos>
+<bos>que su desaparición era peor<eol>que hallarla muerta porque...<eos>
+<bos>nunca lograría saber qué sucedió.<eos>
+<bos>Pero ahora que lo sé...<eos>
+<bos>me alegra que mi esposa no esté.<eos>
+<bos>Fue afortunada.<eos>
+<bos>¿Cuántas personas como yo...<eos>
+<bos>van a visitar hoy?<eos>
+<bos>¿Cómo dice, señor?<eos>
+<bos>¿Había más víctimas que Uds. desconocían?<eos>
+<bos>El auto de Roche.<eol>Roche conducía un El Camino blanco.<eos>
+<bos>- Lo vi en mi sueño.<eol>- ¿Qué significa eso?<eos>
+<bos>Habría querido tener cerca los corazones.<eos>
+<bos>Un vendedor los tendría en el auto.<eos>
+<bos>Quizá. ¿Crees que los corazones<eol>aún estén en su auto?<eos>
+<bos>No los tiene en prisión.<eol>Revisan su celda y cartas.<eos>
+<bos>Su auto se subastó en 1992.<eol>Se lo quitaron.<eos>
+<bos>Vale la pena investigar.<eol>Hay que contar esos corazones.<eos>
+<bos>¿No crees que hayan revisado su auto?<eos>
+<bos>Pero yo no lo hice.<eos>
+<bos>Aquí está.<eos>
+<bos>He estado arreglándolo.<eos>
+<bos>Le quité el techo trasero,<eol>le puse calcomanías.<eos>
+<bos>- Cosas así. - Gracias.<eos>
+<bos>¿ Un homicida múltiple fue dueño<eol>de mi auto? ¿En verdad?<eos>
+<bos>Le ayudo a arreglarlo.<eos>
+<bos>Algo está mal.<eos>
+<bos>Quizá esté abajo.<eos>
+<bos>Sombrero loco.<eos>
+<bos>Oye, Scully, el techo trasero.<eos>
+<bos>El muchacho dijo que se lo quitó.<eos>
+<bos>"Alicia en el País de las Maravillas"<eos>
+<bos>Sombrero Loco. El Sombrerero Loco.<eos>
+<bos>Ocho, nueve, diez...<eos>
+<bos>once, doce, trece, catorce.<eos>
+<bos>Addie Sparks.<eos>
+<bos>Quince...<eos>
+<bos>dieciséis.<eos>
+<bos>Mató a dos víctimas más.<eos>
+<bos>Hacía mucho que no nos veíamos.<eos>
+<bos>Tiene una compañera nueva.<eos>
+<bos>Es la agente Scully.<eos>
+<bos>- ¿Qué hay?<eol>- Encontramos a Addie Sparks,John.<eos>
+<bos>Felicidades, supongo.<eos>
+<bos>Y encontramos sus corazones de tela.<eos>
+<bos>Los dieciséis.<eos>
+<bos>Dieciséis víctimas,John.<eos>
+<bos>¿Por qué dijo que 13?<eos>
+<bos>No sé. El trece suena más mágico.<eos>
+<bos>Háblenos de las últimas dos víctimas.<eos>
+<bos>Es cadena perpetua.<eol>No tiene nada que perder.<eos>
+<bos>- No tengo nada que ganar.<eol>- Puede ganar...<eos>
+<bos>un momento de decencia en su vida.<eos>
+<bos>Dejar que estas familias<eol>entierren a sus hijas.<eos>
+<bos>Entiendo que se lo toma muy a pecho.<eos>
+<bos>¿Qué le parece esto?<eos>
+<bos>Si hace una canasta, le diré.<eos>
+<bos>¿Confía en un pedófilo?<eos>
+<bos>Si trae mis corazones<eol>y me los devuelve...<eos>
+<bos>le diré todo lo que quiera saber.<eos>
+<bos>Quiero salir.<eos>
+<bos><i>...presidente Nixon</i><eol><i>y H.R. Haldeman...</i><eos>
+<bos><i>al transcribir</i><eol><i>la cinta requerida judicialmente.</i><eos>
+<bos><i>Woods declaró que borró sólo</i><eol><i>cinco minutos de la conversación.</i><eos>
+<bos>- <i>Pero la cinta contenía</i>--<eol>- Fox, es tu turno.<eos>
+<bos><i>Bajo investigación</i><eol><i>del senador Howard Baker...</i><eos>
+<bos><i>H.R. Haldeman reiteró la explicación</i><eol><i>de la Casa Blanca que Rose</i>--<eos>
+<bos>- Samantha. - ¿ Vas a mover o no?<eos>
+<bos>¿Tenemos que ver esto, Fox?<eos>
+<bos><i>Sería difícil decir que fue accidental.</i><eol>" Fiscal de Watergate"<eos>
+<bos>Transmitirán <i>El mago</i> a las 9:00.<eos>
+<bos>Mamá y papá dijeron que podía ver<eol>la película, tonto.<eos>
+<bos>Están aquí junto con los Galbrand.<eol>Me dejaron a cargo.<eos>
+<bos>No otra vez.<eos>
+<bos>¡Samantha, corre!<eos>
+<bos>¿Me trajo mis corazones?<eos>
+<bos>Ayer, dijo que<eol>yo me lo tomaba muy a pecho.<eos>
+<bos>¿Por qué me dijo eso?<eos>
+<bos>¿Dónde estuvo en 1973?<eos>
+<bos>- ¿El año entero? - En noviembre.<eos>
+<bos>El 27 de noviembre.<eos>
+<bos>¿Sabe a qué me refiero?<eos>
+<bos>Vendía aspiradoras en 1973.<eos>
+<bos>Hice un viaje de negocios<eol>a Martha's Vineyard ese año y...<eos>
+<bos>le vendí una aspiradora a su papá.<eos>
+<bos>Se la compró a su mamá.<eos>
+<bos>Creo que era, eh...<eos>
+<bos>una ElectroVac Duquesa<eol>o modelo Princesa...<eos>
+<bos>y su papá y yo hablamos<eol>sobre ella extensamente.<eos>
+<bos>Le fue muy difícil elegir.<eos>
+<bos>¿Qué sabe acerca de mi hermana?<eos>
+<bos>Si me trae mis corazones...<eos>
+<bos>quizá le diga más.<eos>
+<bos>Este hombre me golpeó.<eos>
+<bos>Yo no lo vi.<eos>
+<bos>Yo sí.<eos>
+<bos>Estuvo ahí. Estuvo en la casa.<eol>Se llevó a Samantha.<eos>
+<bos>En tu sueño. Fue un sueño.<eol>Tu mente lo creó.<eos>
+<bos>Un sueño es la respuesta<eol>a la pregunta que no sabemos formular.<eos>
+<bos>Algo enterrado en tu subconsciente.<eos>
+<bos>Ya lo oíste.<eol>Mencionó estar en Martha's Vineyard.<eos>
+<bos>¿Es un secreto el que hayas vivido ahí?<eos>
+<bos>- ¿Cómo lo sabría?<eol>- Por medio de la biblioteca.<eos>
+<bos>Los reos tienen<eol>computadoras con Internet.<eos>
+<bos>Lo investigué.<eos>
+<bos>- Roche entró en línea ayer.<eol>- ¿Qué buscaba?<eos>
+<bos>No está registrado, pero en la Red<eol>puede encontrar cualquier cosa sobre ti.<eos>
+<bos>Está jugando contigo.<eos>
+<bos>Es chantaje emocional y tú lo permites.<eos>
+<bos>Entraste ahí<eol>demostrando tus sentimientos.<eos>
+<bos>Vio la vulnerabilidad y se aprovechó.<eos>
+<bos>Tuviste un sueño, una pesadilla...<eos>
+<bos>y fue por todas las emociones<eol>que te hace recordar este caso.<eos>
+<bos>- No fue más que un sueño.<eol>- El último se hizo realidad.<eos>
+<bos>¿Crees que los extraterrestres<eol>secuestraron a Samantha?<eos>
+<bos>¿Alguna vez lo creíste?<eos>
+<bos>Entonces, ¿qué crees que le ocurrió?<eos>
+<bos>¿Qué dices que crees ahora?<eos>
+<bos>No sé qué ocurrió. No sé qué creer.<eos>
+<bos>Sólo sé que tengo que averiguarlo.<eos>
+<bos>Mamá. Estoy en el sótano.<eos>
+<bos>Lo siento.<eos>
+<bos>No era mi intención despertarte.<eol>¿Cómo te sientes?<eos>
+<bos>Bien. Estoy bien.<eos>
+<bos>¿Qué haces aquí abajo en plena noche?<eos>
+<bos>¿Reconoces estas telas? Cualquiera.<eos>
+<bos>- ¿Qué busco? - Míralas con atención.<eos>
+<bos>¿Te parecen conocidas?<eos>
+<bos>¿Cómo?<eos>
+<bos>Conocidas. ¿Las habías visto?<eos>
+<bos>No sé qué quieres que te diga.<eos>
+<bos>Mi memoria no es tan buena<eol>desde mi apoplejía.<eos>
+<bos>No sé qué--<eos>
+<bos>Descuida.<eos>
+<bos>Papá nunca te compró<eol>una aspiradora, ¿verdad?<eos>
+<bos>Sí, hace mucho tiempo.<eos>
+<bos>- Ya no la uso. - ¿Dónde está?<eos>
+<bos>Está en la bodega bajo las escaleras.<eos>
+<bos>Fox, ¿qué ocurre?<eos>
+<bos>" ElectroVac Princesa"<eos>
+<bos>"Oficina Central del FBI" ¿Señor?<eos>
+<bos>Me negaron el acceso a Roche.<eol>Dicen que Ud. lo ordenó.<eos>
+<bos>¿Por qué golpeó a un prisionero federal?<eos>
+<bos>Scully no lo reportó,<eol>aunque debió hacerlo.<eos>
+<bos>Lo grabaron por política de la prisión.<eos>
+<bos>¡Tiene suerte de que no lo sancione!<eos>
+<bos>Se metió demasiado en esto.<eol>Dejó que él lo afectara.<eos>
+<bos>Tengo motivos para creer que puede<eol>decirnos qué le pasó a mi hermana.<eos>
+<bos>Es una posibilidad, señor.<eos>
+<bos>Aparentemente,John Lee Roche<eol>estuvo en Boston en 1973.<eos>
+<bos>Viajó a Martha's Vineyard<eol>en octubre de ese mismo año.<eos>
+<bos>- Las fechas coinciden. - Necesito saber.<eos>
+<bos>Sólo necesito hablar con él una vez más.<eos>
+<bos>Esto lo convierte en una peor idea.<eos>
+<bos>Señor, el hecho es...<eos>
+<bos>que debemos encontrar e identificar<eol>a dos víctimas más.<eos>
+<bos>Nadie conoce a Roche mejor que Mulder<eol>y éste aún es el caso de Mulder.<eos>
+<bos>Ande con pies de plomo.<eos>
+<bos>Asegúrese de que así sea.<eos>
+<bos>No hablaré con Ud. si vuelve a pegarme.<eos>
+<bos>No puede tocarlos.<eol>Se quedarán en la bolsa.<eos>
+<bos>Deme los nombres.<eos>
+<bos>Creo que usted ya conoce uno.<eos>
+<bos>Pruébelo.<eos>
+<bos>Estaban televisando el caso Watergate.<eos>
+<bos>Usted y su hermana...<eos>
+<bos>estaban frente al televisor...<eos>
+<bos>jugando a un juego de mesa<eol>con fichas de plástico...<eos>
+<bos>rojas y azules.<eos>
+<bos>De cualquier manera,<eol>usted quería ver un programa...<eos>
+<bos>con Bill Bixby.<eos>
+<bos>- ¿Cómo rayos se llamaba?<eol>- ¿Cómo supo lo que yo dije?<eos>
+<bos>Los observaba desde la ventana.<eol>Fui muy cauteloso.<eos>
+<bos>Si es cierto,<eol>dígame dónde está mi hermana.<eos>
+<bos>Elíjalo.<eos>
+<bos>¿Qué?<eos>
+<bos>Si elige el de su hermana,<eol>le diré dónde está.<eos>
+<bos>Oiga, ande. Sus probabilidades son 50-50.<eos>
+<bos>De cualquier manera, tendrá una víctima.<eos>
+<bos>Ése. ¿Seguro quiere ése?<eos>
+<bos>No, estoy bromeando.<eol>Es una buena elección.<eos>
+<bos>"Sombrero Loco"<eos>
+<bos>"Confluencia de Cacapon,<eol>Virginia Occidental"<eos>
+<bos>Traigamos un equipo.<eos>
+<bos>- Que ellos lo hagan. - Ayúdame, Scully.<eos>
+<bos>No es ella, Scully.<eos>
+<bos>¿Tengo razón?<eos>
+<bos>Samantha se rompió la clavícula<eol>izquierda a los 6 años.<eos>
+<bos>Teníamos un columpio de soga<eol>en el jardín.<eos>
+<bos>- No está rota, ¿verdad?<eol>- Tienes razón. No es ella.<eos>
+<bos>No es ella.<eos>
+<bos>Pero es alguien.<eos>
+<bos>Como dije, era una probabilidad de 50-50.<eos>
+<bos>Díganos el nombre de esa niña.<eos>
+<bos>Era Karen Ann Philiponte.<eos>
+<bos>Vivía en el campo en Amherst del Este,<eol>Nueva York.<eos>
+<bos>Crecía menta bajo su ventana.<eos>
+<bos>Me paré afuera de ella<eol>sobre matas de menta.<eos>
+<bos>- Olía de maravilla. - ¿En qué año?<eos>
+<bos>Julio de 1974.<eos>
+<bos>Convencí a su madre de comprar<eol>una ElectroVac Bajel...<eos>
+<bos>pero en el último minuto dijo que no.<eos>
+<bos>Ah, bueno.<eos>
+<bos>- Es su hermana.<eol>- Si eso es verdad, dígame dónde está.<eos>
+<bos>Quiere saber más, ¿no es así?<eos>
+<bos>Quiere saberlo todo, ¿verdad?<eol>¿Descubrir el gran misterio?<eos>
+<bos>- Déjese de juegos mentales.<eol>- No puedo decirle.<eos>
+<bos>Digo, sé que aún no me cree.<eos>
+<bos>Necesita que se lo muestre,<eol>que se lo enseñe porque...<eos>
+<bos>después de tantos años,<eol>nada menos le satisfaría, ¿cierto?<eos>
+<bos>Ud. sólo quiere salir de aquí.<eos>
+<bos>Desde luego que sí.<eos>
+<bos>Sólo durante un par de días.<eol>Soy realista.<eos>
+<bos>Digo, más que eso, yo--<eos>
+<bos>anhelo verle la cara.<eos>
+<bos>Ay, Dios.<eos>
+<bos>En vez de eso, verá el interior<eol>de su celda. Se pudrirá en ella.<eos>
+<bos>¿Te encuentras bien?<eos>
+<bos>Lo último que deberíamos hacer<eol>es darle lo que pide.<eos>
+<bos>Si lo hacemos,<eol>nos tomaría el pelo para siempre.<eos>
+<bos>Sé que puedes comprender eso.<eos>
+<bos>Debe haber otra manera<eol>de conocer la verdad.<eos>
+<bos>- <i>Oficialía.</i><eol>- Soy el agente Mulder del FBI...<eos>
+<bos><i>placa númeroJ</i>-<i>T</i>-<i>T</i>-<i>0</i>-<i>4</i>-<i>7</i>-<i>1</i>-<i>0</i>-<i>1</i>-<i>1</i>-<i>1</i>-<i>1.</i><eos>
+<bos><i>Necesito una salida</i><eol><i>de un prisionero federal.</i><eos>
+<bos>"Aerolíneas Seaboard, Vuelo #1650<eol>Washington A Boston"<eos>
+<bos>¿Puedo ir al baño?<eos>
+<bos>Mantenga las manos en su regazo.<eos>
+<bos>- ¿Quiere algo de beber? - Con permiso.<eos>
+<bos>- ¿Es su primer vuelo? - Sí.<eos>
+<bos>- Está muy emocionada. - ¿Te diviertes?<eos>
+<bos>- Sí. - ¿Cómo te llamas?<eos>
+<bos>Caitlin.<eos>
+<bos>¿Cómo que sacó a Roche?<eos>
+<bos>Mulder convenció al juez<eol>de que era una emergencia.<eos>
+<bos>¿ Y dónde estaba Ud.?<eos>
+<bos>Ya me había despedido de Mulder.<eol>Le sugerí que fuera a dormir.<eos>
+<bos>Tengo idea de dónde puede estar,<eol>y puedo alcanzarlo.<eos>
+<bos>Yo soy quien lo alcanzará. ¿Adónde va?<eos>
+<bos>A Martha's Vineyard.<eos>
+<bos>Ojalá comprenda<eol>la singularidad de la situación...<eos>
+<bos>y su efecto sobre el agente Mulder.<eos>
+<bos>Entiendo perfectamente<eol>el efecto que le provoca.<eos>
+<bos>Si mal no recuerdo,<eol>de eso hablamos la última vez.<eos>
+<bos>Me defraudó.<eos>
+<bos>Arreglemos esto<eol>antes de que se salga de control.<eos>
+<bos>¿No hay nadie en casa?<eos>
+<bos>Me senté en este sofá.<eos>
+<bos>Cuando su papá compró la aspiradora.<eos>
+<bos>- ¿Está listo? - Adelante.<eos>
+<bos>Noviembre 27 de 1973.<eos>
+<bos>Observé la casa durante horas.<eos>
+<bos>Me estacioné enfrente.<eos>
+<bos>Sólo reconocía el terreno.<eol>No planeaba hacerlo esa noche.<eos>
+<bos>Pero, de pronto, sus padres salieron<eol>y se me ocurrió que--<eos>
+<bos>¿Adónde fueron?<eos>
+<bos>Con los vecinos a jugar pinocle. No sé.<eos>
+<bos>- A hacer lo que estuviera de moda.<eol>- Adelante.<eos>
+<bos>Cuando se fueron,<eol>bajé del auto y me acerqué...<eos>
+<bos>y observé cómo usted y su hermana...<eos>
+<bos>jugaban ese juego de mesa.<eos>
+<bos>Un poco después de las 8:00,<eol>estaba listo.<eos>
+<bos>Fui a la caja de fusibles.<eos>
+<bos>Corté la electricidad,<eol>las luces se apagaron.<eos>
+<bos>Me dirigí a la puerta principal...<eos>
+<bos>y estuve a punto de abrirla a patadas.<eos>
+<bos>Estaba abierta.<eos>
+<bos>Era 1973.<eol>Era un mundo diferente en ese entonces.<eos>
+<bos>- ¿ Y luego qué hizo?<eol>- Usted lo recuerda.<eos>
+<bos>Entré por la puerta<eol>y Ud. fue por el arma de su padre.<eos>
+<bos>Le reconozco ese mérito.<eol>Pero se paralizó y luego...<eos>
+<bos>yo me llevé a su hermana de aquí<eol>a un lugar más feliz.<eos>
+<bos>¿Es exactamente como ocurrió?<eos>
+<bos>- ¿Aquí en esta habitación? - Sí.<eos>
+<bos>Ésta no es la casa.<eos>
+<bos>Mi padre compró esta casa<eol>cuando se divorció.<eos>
+<bos>Estamos en Tisbury del Oeste.<eos>
+<bos>La otra casa está en Chilmark.<eos>
+<bos>¡Está a 10 kilómetros de aquí!<eos>
+<bos>Nunca estuvo aquí.<eol>No secuestró a Samantha.<eos>
+<bos>- Eso quisiera.<eol>- No, pero creo saber lo que pasó.<eos>
+<bos>De alguna manera, entró en mis sueños.<eos>
+<bos>- ¿Cómo dice? - Yo hice su perfil.<eos>
+<bos>Entré en su cabeza.<eol>Quizá Ud. entró en la mía.<eos>
+<bos>Quizá se formó algún nexo entre nosotros.<eos>
+<bos>Y a través de él,<eol>vio mis recuerdos de Samantha.<eos>
+<bos>- Los usó en contra mía.<eol>- Sólo se está resistiendo.<eos>
+<bos>¡Ésta no es la casa, infeliz tonto!<eos>
+<bos>¡Nunca estuvo aquí, mentiroso!<eos>
+<bos>Es pura geografía. Fue hace 23 años.<eol>Estamos hablando de geografía.<eos>
+<bos>Pero recuerda todos los detalles<eol>vívidamente.<eos>
+<bos>Es porque los vio a través de mis ojos...<eos>
+<bos>a través de mis sueños.<eos>
+<bos>Me contaron cosas sobre Ud.<eol>¿Sabe qué me contaron?<eos>
+<bos>Me contaron que persigue extraterrestres.<eos>
+<bos>Piensa que todo estará bien<eol>si puede creer...<eos>
+<bos>en platillos voladores.<eos>
+<bos>Pero yo le digo la pura verdad.<eos>
+<bos>Yveo que no es de mente muy abierta.<eos>
+<bos>Usted debió haber sido<eol>un gran vendedor, Roche.<eos>
+<bos>El primer vuelo es a las 6:00 a.m.<eos>
+<bos>Disfrute sus últimas horas<eol>de libertad. Vamos.<eos>
+<bos>¡Fox! ¡Auxilio!<eos>
+<bos>¡Libérame! ¡Auxilio!<eos>
+<bos>¡Ayúdame!<eos>
+<bos>¡Fox, ayúdame!<eos>
+<bos>¡Ayúdame!<eos>
+<bos>¡Libérame! ¡Fox!<eos>
+<bos>¡Fox, ayúdame! ¡Libérame!<eos>
+<bos>"ADIÓS"<eos>
+<bos>¡Mulder, abra la puerta!<eos>
+<bos>¿Dejó escapar a Roche?<eos>
+<bos>Seguro lo hice dormido. Tuve otro sueño.<eos>
+<bos>Averigüe si alguien lo vio partir.<eos>
+<bos>Se llevó el último corazón.<eos>
+<bos>- Y también tu placa y tu teléfono.<eol>- ¿ Y su arma?<eos>
+<bos>¿Cómo lo explica?<eos>
+<bos>- No puedo. - No puede.<eos>
+<bos>Un depredador está libre por su culpa.<eol>Con horas de ventaja.<eos>
+<bos>¿Sabe hacia dónde podría dirigirse?<eos>
+<bos>- Sí. - ¿Hacia dónde?<eos>
+<bos>Déjeme usar su teléfono.<eos>
+<bos>- Había una niña en el avión.<eol>- ¿Cuál niña?<eos>
+<bos><i>Aerolíneas Seaboard.</i><eos>
+<bos>- Comuníqueme con su supervisor.<eol>- ¿Cuál niña?<eos>
+<bos>Habla el agente Fox Mulder del FBI.<eos>
+<bos>Quiero la lista de pasajeros<eol>del vuelo 1650...<eos>
+<bos>de Washington a Boston<eol>que salió anoche a las 8:50 p.m.<eos>
+<bos>Mi número de placa es--<eos>
+<bos><i>Lo siento.</i><eol><i>Ya llamó un agente Mulder.</i><eos>
+<bos>- ¿Dice que fue un anglosajón? - Sí.<eos>
+<bos>- ¿Cuán alto era?<eol>- Como de 1.90 metros o algo así.<eos>
+<bos>Dijo que se apellidaba Mulder.<eos>
+<bos>Tenía una placa. Dijo que era oficial.<eos>
+<bos>Ay, Dios mío. ¿Qué he hecho?<eos>
+<bos>Enviamos por la madre de la niña.<eos>
+<bos>- Viene hacia acá. - Bien.<eos>
+<bos>¿Qué voy a decirle? Todo es culpa mía.<eos>
+<bos>No es culpa suya. Es culpa mía.<eos>
+<bos>Lo siento. Tenías razón. Me tomó el pelo.<eos>
+<bos>¿No crees que secuestró a Samantha?<eos>
+<bos>Ya no importa nada de eso, ¿verdad?<eos>
+<bos>¿Adónde se llevaría a esta niña?<eos>
+<bos>¿ Usaría su modo de proceder<eol>y la sacaría del estado?<eos>
+<bos>No. Sabe que lo atraparemos.<eos>
+<bos>Sólo necesita que demoremos.<eos>
+<bos>Se quedará en el área de Boston. Cerca.<eos>
+<bos>¿Es un animal de costumbres?<eol>¿Irá a un lugar conocido?<eos>
+<bos>¿A revivir la gloria pasada?<eol>No sé, quizá. ¿Qué?<eos>
+<bos>Vivió en Boston a principios de los 70.<eos>
+<bos>- ¿Qué tienen?<eol>- La antigua dirección de Roche.<eos>
+<bos>Revere.<eol>Camino Alicia 9809, apartamento 6.<eos>
+<bos>- Está ahí. - ¿Cómo sabe?<eos>
+<bos><i>Alicia en el País de las Maravillas.</i><eos>
+<bos>- No me convence. - De ahí sacó la idea.<eos>
+<bos>¡Muy bien, vamos!<eos>
+<bos>¡Revisen las otras habitaciones!<eos>
+<bos>No creo que la haya traído aquí.<eos>
+<bos>Nunca trajo a nadie aquí.<eos>
+<bos>¡No hay nadie!<eos>
+<bos>¡Muy bien, dispérsense!<eol>¡Encuentren la entrada!<eos>
+<bos>Comienzo a creer que sí compartimos<eol>ese nexo que mencionó.<eos>
+<bos>Siempre logra encontrarme.<eos>
+<bos>¿Estás bien, Caitlin?<eos>
+<bos>Bien. Yo soy Fox. Voy a llevarte a casa.<eos>
+<bos>Tengo tu arma, Fox.<eos>
+<bos>Caitlin, ¿me haces un favor?<eol>¿Puedes contar hasta 20?<eos>
+<bos>¿Cerrarías los ojos y contarías<eol>hasta 20 en voz alta y despacio?<eos>
+<bos>Uno. Dos.<eos>
+<bos>Tres.<eos>
+<bos>- Dispararé. - Cuatro.<eos>
+<bos>- No haga que esto termine mal. - Cinco.<eos>
+<bos>Seis.<eos>
+<bos>Siete.<eos>
+<bos>- No me da alternativa. - Ocho.<eos>
+<bos>En verdad no quiero volver a prisión.<eos>
+<bos>¡Baje el arma, Roche!<eos>
+<bos>Once. Doce.<eos>
+<bos>- Le falta una. - Trece.<eos>
+<bos>- ¿Cómo va a encontrarla sin mí?<eol>- Catorce.<eos>
+<bos>- ¿Cómo sabe que no es Samantha?<eol>- Quince.<eos>
+<bos>- ¿Eh? - Dieciséis. Diecisiete.<eos>
+<bos>- ¿Cómo lo sabe? - Dieciocho.<eos>
+<bos>Diecinueve--<eos>
+<bos>- Descuida. Yo te protegeré.<eol>- Llame a una ambulancia.<eos>
+<bos>"Quiero Creer"<eos>
+<bos>Tengo los resultados del laboratorio.<eos>
+<bos>El análisis del tinte determinó<eol>que la última tela...<eos>
+<bos>se produjo entre 1969 y 1974...<eos>
+<bos>pero no hay nada más que puedan decirnos.<eos>
+<bos>Mulder, no es Samantha.<eos>
+<bos>Y sin importar quién sea esa niña,<eol>vamos a encontrarla.<eos>
+<bos>¿Cómo?<eos>
+<bos>No lo sé, pero te conozco.<eos>
+<bos>¿Por qué no te vas a casa a dormir?<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

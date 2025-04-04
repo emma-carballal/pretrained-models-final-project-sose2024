@@ -1,0 +1,664 @@
+<bos>I am in charge.<eos>
+<bos>Well, these men want some answers.<eos>
+<bos>They want to know what your plan is.<eos>
+<bos>Let's face it-- this thing<eol>could kill us all.<eos>
+<bos>We should have been gone two days ago.<eos>
+<bos>No one would listen to me.<eos>
+<bos>Nobody knew what it was<eol>two days ago, Perkins.<eos>
+<bos>Nobody knows now.<eos>
+<bos>Somebody has to go for help.<eos>
+<bos>What about the rest of us?<eos>
+<bos>What are we supposed to do?<eos>
+<bos>Just wait here till help arrives?<eos>
+<bos>We have to take a chance.<eos>
+<bos>One of us has to hike out.<eos>
+<bos>That person might not make it in time.<eos>
+<bos>He might not make it down<eol>to the road before nightfall.<eos>
+<bos>Then what?<eos>
+<bos>I say we make a run for it--<eos>
+<bos>split up, take our chances.<eos>
+<bos>It's suicide, Dyer. Fine.<eos>
+<bos>You stay here.<eos>
+<bos>Tell us how it turns out.<eos>
+<bos>Help me!<eos>
+<bos>Hurry up!<eos>
+<bos>You're going the wrong way!<eos>
+<bos>I think it's broken.<eos>
+<bos>Come on, you got to get up.<eos>
+<bos>I don't think can't make it.<eos>
+<bos>We gotta keep moving.<eos>
+<bos>We're not going to make it.<eos>
+<bos>We're not going... make it...<eos>
+<bos>Take a good look, Scully.<eos>
+<bos>What am I looking at?<eos>
+<bos>30 loggers working<eol>a clear-cutting contract<eos>
+<bos>in Washington State--<eos>
+<bos>rugged, manly men<eos>
+<bos>in the full bloom of their manhood.<eos>
+<bos>Right; but what am I looking for?<eos>
+<bos>Anything strange, unexplainable,<eol>unlikely, boyfriend...<eos>
+<bos>I don't know.<eos>
+<bos>I give up, Mulder.<eos>
+<bos>You give up? Funny.<eos>
+<bos>That's apparently what<eol>the Federal Forest Service<eos>
+<bos>has done, as well.<eos>
+<bos>Why? What happened to them?<eos>
+<bos>In a word, they vanished.<eos>
+<bos>Or so it would appear.<eos>
+<bos>This is Doug Spinney and Steven Teague.<eos>
+<bos>They call themselves "monkey wrenchers"--<eos>
+<bos>the guys who drive spikes into trees,<eos>
+<bos>sabotage logging equipment and<eol>otherwise make life miserable<eos>
+<bos>for lumberjacks and lumber mills.<eos>
+<bos>Ecoterrorists or<eol>militant environmentalists.<eos>
+<bos>Right.<eos>
+<bos>Two weeks ago, the group of<eol>loggers I just showed you<eos>
+<bos>radioed a message<eos>
+<bos>that Spinney and Teague<eol>had gone on a spree--<eos>
+<bos>spiking trees, sabotaging equipment,<eos>
+<bos>causing general mischief.<eos>
+<bos>One week later,<eos>
+<bos>all radio communication was cut off.<eos>
+<bos>Do they know why?<eos>
+<bos>No. The lumber company<eol>that employs the men<eos>
+<bos>has asked the Federal Forest<eol>Service to look into the matter.<eos>
+<bos>Two officials were sent in a week ago,<eos>
+<bos>and no one has heard from them since.<eos>
+<bos>It appears these monkey wrenchers<eos>
+<bos>are doing more than<eol>just a little mischief making.<eos>
+<bos>That's what the lumber company<eos>
+<bos>and the Federal<eol>Forest Service are accusing.<eos>
+<bos>They've asked the FBI to investigate.<eos>
+<bos>I had to pull few strings<eol>to make sure we got the case.<eos>
+<bos>For an ecoterrorism case?<eos>
+<bos>Do I dare ask why?<eos>
+<bos>In 1934, long before anyone<eos>
+<bos>even knew what an ecoterrorist was,<eos>
+<bos>a WPA crew<eos>
+<bos>working that same area<eol>vanished without a trace.<eos>
+<bos>Not one of those men was ever<eol>found or heard from again.<eos>
+<bos>And you suspect what, Bigfoot?<eos>
+<bos>Not likely.<eos>
+<bos>That's a lot of flannel<eol>to be choking down,<eos>
+<bos>even for Bigfoot.<eos>
+<bos>Come on, Scully, it'll be<eol>a nice trip to the forest.<eos>
+<bos>Hi.<eos>
+<bos>Fox Mulder. This is Dana Scully.<eos>
+<bos>We're with the FBI.<eos>
+<bos>Larry Moore, Federal Forest Service.<eos>
+<bos>You can put your gear<eol>in the back of the truck.<eos>
+<bos>Must be pretty rugged<eol>where we're going, huh?<eos>
+<bos>Yeah.<eos>
+<bos>What's that in your windshield there,<eos>
+<bos>is that a bullet hole?<eos>
+<bos>.22 caliber.<eos>
+<bos>Somebody take a shot at you?<eos>
+<bos>What it would appear.<eos>
+<bos>There's not much to hunt around here<eos>
+<bos>with that type of ammo, except freddies.<eos>
+<bos>"Freddies"?<eos>
+<bos>Employees of the Federal Forest Service.<eos>
+<bos>It's, uh, it's what the<eol>ecoterrorists call us.<eos>
+<bos>Is that who you think took a shot at you?<eos>
+<bos>Let me get this out of the way.<eos>
+<bos>I have no quarrel with these<eol>ecoterrorists in principle.<eos>
+<bos>I mean, I'm as concerned for this forest<eos>
+<bos>and the environment as anybody.<eos>
+<bos>It's their methods I can't condone.<eos>
+<bos>Do you think they'd go<eol>so far as to kill a man?<eos>
+<bos>Well, there's 30 men up there<eol>unaccounted for,<eos>
+<bos>each with survival experience.<eos>
+<bos>Something happened to them.<eos>
+<bos>Sorry I'm late.<eos>
+<bos>I was down talking to Bob Perkins' wife.<eos>
+<bos>He's one of our missing loggers.<eos>
+<bos>Hey, Larry.<eos>
+<bos>Steve Humphreys, Head of Security<eos>
+<bos>for Schiff-Immergut Lumber.<eol>Mulder. Scully.<eos>
+<bos>Well, we've got a four-hour<eol>drive ahead of us--<eos>
+<bos>plenty of time to get to know each other.<eos>
+<bos>I get the impression<eos>
+<bos>we've walked into the middle of a war<eos>
+<bos>that's already started?<eos>
+<bos>Why do these men<eos>
+<bos>work so far up in the wilderness?<eos>
+<bos>That's where the trees are.<eos>
+<bos>You're kidding, right?<eos>
+<bos>No. Environmentalists<eol>have pretty much made sure<eos>
+<bos>that all the land you<eol>see here is untouchable.<eos>
+<bos>The work is to take our timber<eol>where we can get it.<eos>
+<bos>Even then, we plant saplings<eol>for every tree we take.<eos>
+<bos>So why do the ecoterrorists target you?<eos>
+<bos>See, these tree huggers<eol>come from the same kind of boys<eos>
+<bos>that had gone up to Canada<eol>during the Vietnam War.<eos>
+<bos>They're cowardly,<eol>and so are their tactics.<eos>
+<bos>Damn it.<eos>
+<bos>Homemade tire spike.<eos>
+<bos>Clear through the sidewall.<eos>
+<bos>It's unfixable.<eos>
+<bos>You got a spare, don't you?<eos>
+<bos>Right tire's history too.<eos>
+<bos>Monkey wrenchers call it a caltrop.<eos>
+<bos>The roads back here<eol>are littered with them.<eos>
+<bos>Indiscriminate terrorism.<eos>
+<bos>Can you imagine somebody<eol>putting these down<eos>
+<bos>or spiking the roads of Washington, DC?<eos>
+<bos>I'd like to see how much<eol>sympathy they'd get then.<eos>
+<bos>So how are we going<eol>to get up to the camp?<eos>
+<bos>We're going to have to hike.<eos>
+<bos>Anybody here?<eos>
+<bos>Someone forgot to clean their plate.<eos>
+<bos>Looks like they left in a hurry too.<eos>
+<bos>They forgot to pack.<eos>
+<bos>Find anything?<eos>
+<bos>Party favors.<eos>
+<bos>Vehicles have all been monkey wrenched.<eos>
+<bos>Power generator's busted.<eos>
+<bos>Somebody really turned<eol>this place upside down.<eos>
+<bos>Whoever did it didn't want<eol>the fact broadcast, either.<eos>
+<bos>Radiators are all full of rice.<eos>
+<bos>Looks like sugar or sand<eol>in all the crankcases.<eos>
+<bos>They really did a number here.<eos>
+<bos>Well, the sun's going down<eol>in an hour and a half.<eos>
+<bos>Better take a look around<eol>before it gets dark.<eos>
+<bos>I'll see if I can get<eol>that generator working.<eos>
+<bos>You were right about one thing.<eos>
+<bos>What's that?<eos>
+<bos>Definitely wasn't Bigfoot.<eos>
+<bos>Look at that.<eos>
+<bos>What is it?<eos>
+<bos>It looks like a hive.<eos>
+<bos>Maybe a cocoon of some kind.<eos>
+<bos>Made by what?<eos>
+<bos>I don't know.<eos>
+<bos>I've never seen anything like it.<eos>
+<bos>Got it.<eos>
+<bos>Can you cut it down?<eos>
+<bos>Yeah, I think so.<eos>
+<bos>You all right, Scully?<eos>
+<bos>Oh, my...<eos>
+<bos>Kind of feels, uh...<eos>
+<bos>it feels desiccated, hard and dry,<eos>
+<bos>almost preserved.<eos>
+<bos>Like it's been embalmed.<eos>
+<bos>No, more like all the fluids<eol>have been bled from its body.<eos>
+<bos>Almost like it's been cured.<eos>
+<bos>I think...<eos>
+<bos>it's a male.<eos>
+<bos>Barely.<eos>
+<bos>I'd say it's some kind of spider's nest<eos>
+<bos>or insect cocoon.<eos>
+<bos>What kind of insect<eol>could have gotten a man<eos>
+<bos>all the way up into that tree?<eos>
+<bos>Itsy-bitsy spider.<eos>
+<bos>Don't move.<eos>
+<bos>Who are you?<eos>
+<bos>Doug Spinney.<eos>
+<bos>I ought to shoot you where you stand.<eos>
+<bos>Might as well shoot yourself too.<eos>
+<bos>You're in a hell of a spot<eol>to be testing me.<eos>
+<bos>What happened to my men?<eos>
+<bos>What men?<eos>
+<bos>The men who were working this camp.<eos>
+<bos>I don't know what happened to them.<eos>
+<bos>Probably the same thing will happen to us<eos>
+<bos>when the sun goes down.<eos>
+<bos>What are you doing?<eos>
+<bos>This animal's Doug Spinney.<eos>
+<bos>He's the man responsible<eol>for all the monkey wrenching.<eos>
+<bos>If we stand around here talking,<eos>
+<bos>there will be nothing left to say.<eos>
+<bos>I'd start thinking about how to<eol>get that generator started.<eos>
+<bos>Darkness is our enemy.<eos>
+<bos>What's he talking about?<eos>
+<bos>Someone want to give me a hand?<eos>
+<bos>Now he's giving orders?<eos>
+<bos>I'm the one who fixed the damn thing.<eos>
+<bos>Hey, it's all right.<eos>
+<bos>Why did you say<eol>that darkness was our enemy?<eos>
+<bos>That's when they come.<eos>
+<bos>When who comes?<eos>
+<bos>I don't know what it is.<eos>
+<bos>They come from the sky,<eos>
+<bos>take a man right off his feet<eol>and devour him alive.<eos>
+<bos>I saw it happen.<eos>
+<bos>Happen to who?<eos>
+<bos>I need to eat.<eos>
+<bos>I haven't eaten in three days.<eos>
+<bos>What kind of BS story is that, huh?<eos>
+<bos>You believe that?<eos>
+<bos>We found something in the forest.<eos>
+<bos>What?<eos>
+<bos>A man caught in some kind<eos>
+<bos>of insect cocoon.<eos>
+<bos>What happened here?<eos>
+<bos>We camped two valleys over, four of us.<eos>
+<bos>Three now.<eos>
+<bos>More rats in the woodpile.<eos>
+<bos>Our truck has a dead battery,<eos>
+<bos>so we drew straws to see<eol>who would make the hike<eos>
+<bos>over here to steal one from the loggers.<eos>
+<bos>Why not just hike out?<eos>
+<bos>It's over a day's hike.<eos>
+<bos>No way we wanted to be caught<eol>out in the forest after dark,<eos>
+<bos>not after what happened to Teague.<eos>
+<bos>That's the man that you said<eol>was devoured alive?<eos>
+<bos>Yeah.<eos>
+<bos>What are you guys doing out here?<eos>
+<bos>Camping.<eos>
+<bos>Yeah, right-- the kind of camping<eos>
+<bos>you do is a Federal offense.<eos>
+<bos>Just-just hold off a second, okay?<eos>
+<bos>No, he's right.<eos>
+<bos>This man is an admitted felon.<eos>
+<bos>He could be placed under arrest.<eos>
+<bos>What about your offense, my friend, huh?<eos>
+<bos>What about your offense<eol>against nature you perpetrate?<eos>
+<bos>We operate completely within the law.<eos>
+<bos>We pay for the right to take those trees.<eos>
+<bos>Oh, yeah? Well, I got news for you--<eos>
+<bos>your logging crew is taking trees<eos>
+<bos>that nobody has a right to.<eos>
+<bos>Trees that are marked and protected<eos>
+<bos>so don't talk to me<eol>about breaking the law...<eos>
+<bos>sir.<eos>
+<bos>They've been taking marked trees?<eos>
+<bos>Yes, sir, marked in orange.<eos>
+<bos>Old growth trees?<eos>
+<bos>You know anything about that, Steve?<eos>
+<bos>No.<eos>
+<bos>You going to take<eol>this man's word over mine?<eos>
+<bos>You don't want to go out in the night.<eos>
+<bos>Take my word on that.<eos>
+<bos>It's out there.<eos>
+<bos>What, if I go out that door,<eos>
+<bos>something's going<eol>to attack me, eat me alive<eos>
+<bos>and spin me in its web?<eos>
+<bos>Yes.<eos>
+<bos>But it's too polite<eol>to come in here and get me?<eos>
+<bos>For some reason, it's, uh, it's<eol>afraid of the light.<eos>
+<bos>It's afraid of the light.<eos>
+<bos>There may be something<eol>to what he's saying, Steve.<eos>
+<bos>You know what I think?<eos>
+<bos>I think this man<eol>is a liar and a murderer,<eos>
+<bos>and just clever enough<eol>to make up a story like that<eos>
+<bos>even to whip up that cocoon<eol>just to save a few trees<eos>
+<bos>and I'm going to prove I'm right.<eos>
+<bos>This is ridiculous.<eos>
+<bos>Where is it, Spinney?<eos>
+<bos>I thought it was going to come<eos>
+<bos>and, uh, devour me.<eos>
+<bos>Hey! Here I am!<eos>
+<bos>Oh, come out, come out, wherever you are.<eos>
+<bos>Aw, don't be shy.<eos>
+<bos>Come on!<eos>
+<bos>Huh?<eos>
+<bos>Just like I told you.<eos>
+<bos>There's nothing out here<eol>but a bunch of trees--<eos>
+<bos>trees that this man values<eol>more than human life.<eos>
+<bos>I'm going to see him<eol>tried on murder charges.<eos>
+<bos>What do you think?<eos>
+<bos>I think I'm going to suggest<eos>
+<bos>that we sleep with the lights on.<eos>
+<bos>You see this Douglas fir?<eos>
+<bos>It's been standing here since before time<eos>
+<bos>and your men cut it down.<eos>
+<bos>Who marks these trees?<eos>
+<bos>Federal Forest Service.<eos>
+<bos>You're only supposed to cut trees<eos>
+<bos>marked with a blue "X."<eos>
+<bos>This tree must be hundreds of years old.<eos>
+<bos>At least.<eos>
+<bos>Must get a lot of lumber<eol>from a big tree like this.<eos>
+<bos>Thousands of board feet--<eol>hell of a lot easier<eos>
+<bos>than taking a lot<eol>of smaller, younger trees.<eos>
+<bos>Well, let me remind you<eos>
+<bos>that monkey wrenchers like Spinney here<eos>
+<bos>are not above marking trees<eos>
+<bos>with their own paint.<eos>
+<bos>This tree's 500 years old<eol>if it's a day, Steve.<eos>
+<bos>Look at this.<eos>
+<bos>What would this represent?<eos>
+<bos>I don't know.<eos>
+<bos>I've never seen a ring like that before.<eos>
+<bos>Those center rings<eol>are the older rings, right?<eos>
+<bos>Yeah. Every ring represents<eol>a season of growth.<eos>
+<bos>And you see these?<eos>
+<bos>These are 500, 600 years old.<eos>
+<bos>They're a recorded history<eol>of rainfall and climate.<eos>
+<bos>This one... I don't know.<eos>
+<bos>I should take a core sample.<eos>
+<bos>Are we finished with this nature walk?<eos>
+<bos>I want an answer to what<eol>happened to those loggers.<eos>
+<bos>That's what we're<eol>trying to determine, sir.<eos>
+<bos>Looking at a tree stump?<eos>
+<bos>Don't you think you should be<eol>interrogating this man?<eos>
+<bos>I don't think he did it.<eos>
+<bos>Well, I think he did and<eol>I want him arrested.<eos>
+<bos>Well, he's not going anywhere.<eos>
+<bos>No, not with a gun on him.<eos>
+<bos>But what happens if you're poking around,<eos>
+<bos>his three buddies show up<eos>
+<bos>and do to you what they probably did<eos>
+<bos>to those two Federal<eol>forest officials, huh?<eos>
+<bos>Larry?<eos>
+<bos>I just want to take a core<eol>sample of this tree, Steve.<eos>
+<bos>Hey, I got families down there<eos>
+<bos>who want some answers about<eol>loved ones, and so do you--<eos>
+<bos>answers that aren't gonna<eol>be found in that tree.<eos>
+<bos>The only crime here to investigate<eos>
+<bos>is the death of that tree.<eos>
+<bos>Yeah, well, we'll see about that.<eos>
+<bos>Steve, where are you going?<eos>
+<bos>I'm hiking down to your truck<eos>
+<bos>and get some people up here<eos>
+<bos>who will take action.<eos>
+<bos>Steve!<eos>
+<bos>Oh, let him go.<eos>
+<bos>Let him find out for himself.<eos>
+<bos>This is odd.<eos>
+<bos>This yellow ring's got<eol>something living in it,<eos>
+<bos>some kind of...<eos>
+<bos>tiny bug.<eos>
+<bos>It doesn't make sense.<eos>
+<bos>Why not?<eos>
+<bos>Well, parasites attack<eol>a tree in a variety of ways,<eos>
+<bos>but they always attack the living parts:<eos>
+<bos>the leaves, the roots,<eol>the new growth rings.<eos>
+<bos>Even if they're borers of some kind,<eos>
+<bos>they wouldn't be working<eol>so deep in the tree.<eos>
+<bos>Maybe the wood in this ring is different.<eos>
+<bos>They seem to be feeding on it.<eos>
+<bos>Can you identify them?<eos>
+<bos>It's a wood mite of some kind.<eos>
+<bos>I mean, it's nothing<eol>I've ever seen before.<eos>
+<bos>Could they have been living in that tree<eos>
+<bos>for hundreds of years?<eos>
+<bos>I don't see how.<eos>
+<bos>These inner rings<eol>are essentially dead wood.<eos>
+<bos>The tree's vascular system<eos>
+<bos>is limited to the outer few rings.<eos>
+<bos>They need water to survive.<eos>
+<bos>They appear to be hatching<eol>out of the porous wood.<eos>
+<bos>Maybe when you drew out this core<eos>
+<bos>you tapped into a larger nest.<eos>
+<bos>Can they build a cocoon?<eos>
+<bos>Right after that tree was<eol>cut down is when Teague died.<eos>
+<bos>It's about the same time that<eol>the loggers disappeared too.<eos>
+<bos>You think mites killed the men?<eos>
+<bos>Maybe they been lying there<eol>dormant for hundreds of years.<eos>
+<bos>Maybe they woke up hungry.<eos>
+<bos>Damn it!<eos>
+<bos>All right, you monkey wrenchers,<eos>
+<bos>come on out now.<eos>
+<bos>I know what you're up to!<eos>
+<bos>Humphreys should have been back by now.<eos>
+<bos>These bugs aren't moving anymore.<eos>
+<bos>They're either dead, or they're asleep.<eos>
+<bos>It's the light.<eos>
+<bos>They don't like the light.<eos>
+<bos>That's weird.<eos>
+<bos>I mean, usually, bugs<eol>are attracted to light.<eos>
+<bos>These obviously<eol>are not your ordinary bugs,<eos>
+<bos>to say the least.<eos>
+<bos>What do you know about insects, Scully?<eos>
+<bos>Uh, just what I learned<eol>in my biology courses.<eos>
+<bos>That they're the foundation<eol>of our ecosystem.<eos>
+<bos>That there are lots of them,<eol>something like<eos>
+<bos>200 million per person on this planet.<eos>
+<bos>And they've been around<eol>a long time, right?<eos>
+<bos>Yeah, something like 600 million years--<eos>
+<bos>even before the dinosaurs. Why?<eos>
+<bos>And this tree is what,<eol>500, 600, 700 years old?<eos>
+<bos>Yeah.<eos>
+<bos>And these rings represent<eol>a history of climatic changes,<eos>
+<bos>which means that, in this year or season<eos>
+<bos>in the life of the tree, there was<eos>
+<bos>some kind of strange event that produced<eos>
+<bos>an abnormal ring.<eos>
+<bos>Well, like what, exactly?<eos>
+<bos>A volcanic eruption.<eos>
+<bos>This whole chain of mountains<eos>
+<bos>running from Washington to Oregon<eos>
+<bos>is still extremely active.<eos>
+<bos>Remember Mount Saint Helens?<eos>
+<bos>Yeah, but how does that explain the bugs?<eos>
+<bos>Well, after Mount Saint Helens erupted,<eos>
+<bos>there was a large amount<eol>of radiation that was unleashed<eos>
+<bos>from inside the earth.<eos>
+<bos>Strange things started to grow.<eos>
+<bos>There's actually this lake<eos>
+<bos>where they've discovered a kind of amoeba<eos>
+<bos>that can literally suck<eol>a man's brains out.<eos>
+<bos>Oh, a brain-sucking amoeba.<eos>
+<bos>No, it's true-- in Spirit Lake--<eol>and there's documented cases<eos>
+<bos>of swimmers being infected.<eos>
+<bos>But an amoeba is<eos>
+<bos>a single-celled organism.<eos>
+<bos>It can be mutated.<eos>
+<bos>An insect is a complex animal.<eos>
+<bos>A-A mutation would take<eos>
+<bos>years and years to evolve.<eos>
+<bos>Well, then, maybe what we're dealing with<eos>
+<bos>isn't a mutation at all.<eos>
+<bos>What if it's some kind<eol>of extinct insect larvae<eos>
+<bos>in that ring,<eos>
+<bos>deposited during a period<eol>of volcanic activity,<eos>
+<bos>brought up through the<eol>tree's root system?<eos>
+<bos>Ancient insect eggs--<eos>
+<bos>thousands, maybe millions of years old,<eos>
+<bos>lying dormant until...<eol>Until those loggers cut down<eos>
+<bos>that tree.<eos>
+<bos>That would be rather<eol>poetic justice, don't you think?<eos>
+<bos>Unleashing the very thing<eol>that would end up killing them<eos>
+<bos>and your friend Humphreys?<eos>
+<bos>And who knows?<eos>
+<bos>Maybe us.<eos>
+<bos>Sweet dreams.<eos>
+<bos>Humphreys might have<eol>just hiked out of here.<eos>
+<bos>We don't know that he didn't.<eos>
+<bos>Maybe we're letting ourselves<eol>get carried away<eos>
+<bos>with this bug story.<eos>
+<bos>Yeah, maybe.<eos>
+<bos>Going somewhere?<eos>
+<bos>Looks to me like you're planning<eol>on cutting out of here.<eos>
+<bos>I got to save my friends.<eos>
+<bos>They only had enough gas<eos>
+<bos>to keep their generator<eol>running 15, 20 hours max.<eos>
+<bos>They're going to die if<eol>I don't get back there.<eos>
+<bos>So, why you sneaking around?<eos>
+<bos>The freddy.<eos>
+<bos>Forest Service guy wouldn't go for it.<eos>
+<bos>He'd never trust me.<eos>
+<bos>He's got no reason to.<eos>
+<bos>Neither do I.<eos>
+<bos>Look, I can save us all, man.<eos>
+<bos>We've got a jeep over there--<eol>it's just two valleys over.<eos>
+<bos>All it needs is a battery.<eos>
+<bos>Now, I could get there, I could<eol>be back here in the morning.<eos>
+<bos>We can all drive out tomorrow.<eos>
+<bos>You got to trust me, man.<eos>
+<bos>Radio's back up.<eos>
+<bos>It's working?<eos>
+<bos>I'm not getting any reception,<eos>
+<bos>so the receiver could be trashed.<eos>
+<bos>What about transmissions?<eos>
+<bos>Can you send a message?<eos>
+<bos>I could try.<eos>
+<bos>This is a call for help.<eos>
+<bos>Is there anyone at this frequency?<eos>
+<bos>This is Special Agent Mulder of the FBI.<eos>
+<bos>We have an emergency and a<eol>possible quarantine situation.<eos>
+<bos>Our position is...<eos>
+<bos>What happened to the generator?<eos>
+<bos>I turned it off.<eos>
+<bos>Well, turn it back on.<eol>I got the radio working.<eos>
+<bos>What happened to the gas can?<eos>
+<bos>Spinney took it.<eos>
+<bos>He took it?<eos>
+<bos>You mean, he's gone?<eos>
+<bos>He left earlier this morning.<eol>He took a battery and some gas.<eos>
+<bos>He's gonna come back<eos>
+<bos>for us in the morning.<eos>
+<bos>What, did he give you his<eol>personal guarantee on that?<eos>
+<bos>He gave me his word, yeah.<eos>
+<bos>You stop to think that the man<eol>who gave you his word<eos>
+<bos>has made an art out of sabotage<eol>and defying authority<eos>
+<bos>and is probably the same man<eos>
+<bos>who put that, tha-that bullet<eol>through my windshield?<eos>
+<bos>Well, what would you have done?<eos>
+<bos>At least now we've got one chance<eos>
+<bos>of getting out of here alive,<eos>
+<bos>which is one more chance<eol>than we had before.<eos>
+<bos>Or one less.<eos>
+<bos>What do you mean?<eos>
+<bos>Your partner let Spinney leave<eol>with the last of the gas.<eos>
+<bos>This generator's got about a<eol>quarter tank left, maybe less.<eos>
+<bos>What about the gas in the trucks?<eos>
+<bos>There is no more gas. The other tanks<eos>
+<bos>have all been ruptured<eol>or filled with sugar.<eos>
+<bos>By the same man who we are now trusting<eos>
+<bos>to keep his word and come back for us.<eos>
+<bos>Well, then, we got to get back<eol>on the radio.<eos>
+<bos>We got to send out a Mayday.<eos>
+<bos>Every drop of fuel we waste is<eos>
+<bos>fuel that's going to keep<eol>this gennie powered tonight.<eos>
+<bos>I don't want to be waiting around,<eos>
+<bos>hoping somebody heard that transmission<eos>
+<bos>when this thing quits running<eol>about 2:00 in the morning.<eos>
+<bos>Do you?<eos>
+<bos>Mulder... Look, it's done.<eos>
+<bos>I shouldn't have let him go.<eos>
+<bos>Let's just move past it, okay?<eos>
+<bos>Fine.<eos>
+<bos>What do you suggest?<eos>
+<bos>I don't know.<eos>
+<bos>We'll think of something.<eos>
+<bos>Look, I think we both<eol>have a pretty good idea<eos>
+<bos>of what happened to those loggers<eos>
+<bos>and what happened to the group in 1934.<eos>
+<bos>They only found one cocoon.<eos>
+<bos>It's a very big forest.<eos>
+<bos>Look, Scully, what would you have done?<eos>
+<bos>You mean, would I have made<eol>a decision by myself<eos>
+<bos>that would have affected the whole group?<eos>
+<bos>Oh, will you cut the sanctimonious crap?<eos>
+<bos>Well, what do you want me to say?<eos>
+<bos>Let's face it, Mulder,<eol>we might die up here.<eos>
+<bos>If we're lucky, they'll find<eol>our bodies spun up in a tree<eos>
+<bos>or they may not find us at all!<eos>
+<bos>You're right... and we're<eol>wasting time arguing about it.<eos>
+<bos>What are you going to do?<eos>
+<bos>Button this place up.<eos>
+<bos>If we got to spend the night in here,<eos>
+<bos>we got to do everything we can<eos>
+<bos>to make sure the bugs stay out there.<eos>
+<bos>I'd be careful with that.<eos>
+<bos>It's the only bulb that works.<eos>
+<bos>I can see them.<eos>
+<bos>You guys, look at this.<eos>
+<bos>Look. They're coming through<eol>the wall down where it's dark.<eos>
+<bos>You see them?<eos>
+<bos>They're on me!<eos>
+<bos>It's all right, Scully.<eos>
+<bos>Scully...<eos>
+<bos>Get them off me! Stop.<eos>
+<bos>Scully, stand still.<eol>Whoa, watch it, watch it!<eos>
+<bos>Get them off me! Stand still!<eos>
+<bos>Stop it, stop it!<eos>
+<bos>Can you see them?!<eos>
+<bos>Mulder, get them off me!<eos>
+<bos>They're not just on you.<eos>
+<bos>They're everywhere. I think that's what<eos>
+<bos>that greasy residue is over everything.<eos>
+<bos>I thought we were supposed<eol>to be safe in the light.<eos>
+<bos>We are!<eos>
+<bos>I think the light keeps<eol>them from swarming.<eos>
+<bos>We'll be safe as long<eol>as we stay in the light.<eos>
+<bos>How you feeling?<eos>
+<bos>I'm okay.<eos>
+<bos>They're oxidizing enzymes<eos>
+<bos>just like fireflies.<eos>
+<bos>Maybe that's why they cocoon their prey--<eos>
+<bos>so that they can oxidize the proteins<eos>
+<bos>taken from the fluids in the body.<eos>
+<bos>And what if the generator goes?<eos>
+<bos>Are they all going to swarm in here<eos>
+<bos>and drain the life out of us?<eos>
+<bos>We got an hour and a half till sunrise.<eos>
+<bos>And then what?<eos>
+<bos>It's over a day's hike out of here.<eos>
+<bos>We won't make it on foot by nightfall.<eos>
+<bos>Well, maybe somebody heard<eol>our radio transmission.<eos>
+<bos>Help could be on the way.<eos>
+<bos>You sent that call hours ago.<eos>
+<bos>I mean, help would have been here by now.<eos>
+<bos>Well, I'm not going<eol>to give up on Spinney.<eos>
+<bos>He gave me his word<eol>he'd come back to get us.<eos>
+<bos>And if he doesn't?<eos>
+<bos>We'll think of something.<eos>
+<bos>You got a patch kit or an extra tube<eos>
+<bos>in your truck? Yeah.<eos>
+<bos>Maybe we can patch this or at<eol>least get it to hold some air.<eos>
+<bos>With the spare in your truck,<eol>maybe we can limp<eos>
+<bos>down the mountain.<eos>
+<bos>If not, at least we can get on the radio<eos>
+<bos>and warn them what's out there.<eos>
+<bos>See it?<eos>
+<bos>Yeah.<eos>
+<bos>Listen.<eos>
+<bos>You hear that?<eos>
+<bos>It's a car.<eos>
+<bos>No, it's a jeep.<eos>
+<bos>We got to move.<eos>
+<bos>Let's go! Let's go!<eos>
+<bos>Wait, what about the<eol>body-- Humphreys' body?<eos>
+<bos>Leave it. I've radioed for help.<eos>
+<bos>What happened to your friends?<eos>
+<bos>They didn't make it.<eos>
+<bos>We're not gonna make it<eol>either unless we haul ass.<eos>
+<bos>Let's go. Come on.<eos>
+<bos>Damn it!<eos>
+<bos>I don't believe it.<eos>
+<bos>When you talk about<eol>shooting yourself in the foot.<eos>
+<bos>Get out of there!<eos>
+<bos>Get back in the car!<eos>
+<bos>We have an emergency<eol>evacuation situation.<eos>
+<bos>Requesting quarantine facility<eos>
+<bos>for two, possibly three victims<eos>
+<bos>with undiagnosed infection or exposure<eos>
+<bos>to unknown biological vectors.<eos>
+<bos>Repeat, that's an emergency<eol>evacuation situation.<eos>
+<bos>Two, possibly three victims...<eos>
+<bos>Attention, all personnel.<eos>
+<bos>High-level bio clearance<eol>required on the third floor.<eos>
+<bos>How are you feeling?<eos>
+<bos>Better.<eos>
+<bos>How did the tests come back?<eos>
+<bos>Your respiratory charts were good.<eos>
+<bos>We were concerned about the extent<eos>
+<bos>of damage due to inhalation.<eos>
+<bos>There were large concentrations<eos>
+<bos>of a chemical we determined<eol>was luciferin.<eos>
+<bos>Which is what?<eos>
+<bos>The same enzyme we find in fireflies<eos>
+<bos>and other bioluminescent insects.<eos>
+<bos>Our entomologists<eol>are still trying to determine<eos>
+<bos>the specific epithet<eos>
+<bos>of the insects you encountered.<eos>
+<bos>Scully?<eos>
+<bos>How's she doing?<eos>
+<bos>She's still not<eol>out of the woods, so to speak.<eos>
+<bos>She lost a lot of fluids.<eos>
+<bos>Two or three more hours<eol>of exposure, she might not<eos>
+<bos>have made it.<eos>
+<bos>I told her it was going<eol>to be a nice trip to the forest.<eos>
+<bos>How you going to contain it<eol>to the forest?<eos>
+<bos>What if the swarm migrates?<eos>
+<bos>The government has initiated<eol>eradication procedures.<eos>
+<bos>They're quite certain that,<eol>by using a combination<eos>
+<bos>of controlled burns and pesticides,<eos>
+<bos>they will be successful.<eos>
+<bos>And if they're not?<eos>
+<bos>That is not an option, Mr. Mulder.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

@@ -1,0 +1,450 @@
+<bos>- Hey. You sure I can't help?<eol>- Absolutely not.<eos>
+<bos>- All set.<eol>- Oh, Martha, you make this look so easy.<eos>
+<bos>It's exactly the way<eol>I always dreamt that Easter should be.<eos>
+<bos>- Mommy, look!<eol>- Oh, good for you, Michelle.<eos>
+<bos>What you've done is really fabulous. The<eol>kids are gonna remember this forever.<eos>
+<bos>I hope there are<eol>some things they won't remember.<eos>
+<bos>Jenny, hi. It's good to see you.<eos>
+<bos>Hey, Ellen. Martha.<eos>
+<bos>She's shaken up, Howard.<eos>
+<bos>It took me two hours to put her to bed.<eos>
+<bos>All I'm saying is...<eos>
+<bos>No, I didn't see any bird.<eos>
+<bos>But whatever it was, it scared her<eol>and she wants to be with her daddy.<eos>
+<bos>That's all I'm saying.<eos>
+<bos>Well, can't you come home one day early?<eos>
+<bos>All right, fine.<eos>
+<bos>I love you too.<eos>
+<bos>- Anything? - No. She'll come.<eos>
+<bos>It's a matter of time.<eos>
+<bos>Well, I hope you realize<eol>there's no evidence whatsoever...<eos>
+<bos>that this mystery woman<eol>of yours has even committed a crime.<eos>
+<bos>Though her wardrobe comes close.<eos>
+<bos>Ah. Six prostitutes<eol>were seen with her at Dirty Dames,<eos>
+<bos>never to be seen again.<eos>
+<bos>Not only might she be a female<eol>serial killer, rare in and of itself,<eos>
+<bos>but twice police raided<eol>that club to arrest her.<eos>
+<bos>And twice they came up empty-handed.<eos>
+<bos>She's on tape goin' in, the exits<eol>are covered. She's nowhere to be found.<eos>
+<bos>What happens to her?<eol>She disappeared? Turn invisible?<eos>
+<bos>Well, I hope we catch her<eol>so she can tell us...<eos>
+<bos>before I have to spend<eol>another night here.<eos>
+<bos>This round-the-clock exposure<eol>to the seamy underbelly.<eos>
+<bos>It's a job, Scully.<eol>Vigilance in the face of privation.<eos>
+<bos>The sheer will that it takes<eol>to sit in this crappy room...<eos>
+<bos>spying on the dregs of society<eol>until our suspect surfaces.<eos>
+<bos>There is something ennobling in that.<eos>
+<bos>Mulder.<eos>
+<bos>Now?<eos>
+<bos>All right. I gotta go.<eos>
+<bos>Mulder?<eos>
+<bos>- You wanted to see me, sir?<eol>- Yeah, sit down.<eos>
+<bos>Two weeks ago, a woman named<eol>Martha Crittendon...<eos>
+<bos>disappeared from her home<eol>in Bethany, Vermont.<eos>
+<bos>Local police haven't<eol>turned up any sign of her.<eos>
+<bos>I'm hoping you may be able to.<eos>
+<bos>- I'm already on a case.<eol>- You're on a stakeout.<eos>
+<bos>I'm confident Agent Scully<eol>can continue in your absence.<eos>
+<bos>Why? What did I do?<eos>
+<bos>There may be aspects to this that...<eos>
+<bos>speak to your strengths<eol>as an investigator.<eos>
+<bos>Specifically?<eos>
+<bos>Ravens.<eos>
+<bos>What do you know about 'em...<eos>
+<bos>their mythological<eol>or paranormal significance?<eos>
+<bos>Well, the, uh...<eos>
+<bos>the raven is considered<eol>a very powerful symbol...<eos>
+<bos>in certain Norse, Celtic<eol>and Native-American cultures.<eos>
+<bos>Mostly a negative one.<eos>
+<bos>And then, of course,<eol>there's Poe's Raven...<eos>
+<bos>and Nevermore and all that stuff.<eos>
+<bos>Martha Crittendon's<eol>seven-year-old daughter...<eos>
+<bos>claimed she was attacked by a raven<eol>earlier the day her mother disappeared.<eos>
+<bos>No, really, what did I do?<eos>
+<bos>It's the only lead<eol>that hasn't been explored.<eos>
+<bos>I wanna know if it has<eol>any bearing on the case.<eos>
+<bos>I'm also assuming that the fact<eol>that Martha Crittendon's father...<eos>
+<bos>is a federal judge also has<eol>a little bearing on this case?<eos>
+<bos>It's been made clear to me that<eol>locating her is my top priority.<eos>
+<bos>I'm making it yours as well.<eos>
+<bos>- Agent Mulder? - Yeah.<eos>
+<bos>Phil Adderly. Welcome to Bethany.<eol>I appreciate the help.<eos>
+<bos>Sure. I don't know<eol>how much help I'm gonna be.<eos>
+<bos>I know you had a lot of good<eol>investigators on the case.<eos>
+<bos>So tell me about Martha Crittendon.<eos>
+<bos>Well, she and my wife Ellen,<eol>they're best friends.<eos>
+<bos>Martha's much admired here.<eos>
+<bos>She's devoted to her family,<eol>active in the community.<eos>
+<bos>I mean, needless to say,<eol>the whole town is very concerned.<eos>
+<bos>There's no ransom note,<eol>no prints or blood evidence.<eos>
+<bos>It checks out.<eos>
+<bos>Howard didn't have<eol>anything to do with this.<eos>
+<bos>What do you know about a raven?<eos>
+<bos>Yeah, yeah. Michelle, their...<eos>
+<bos>their little girl<eol>was saying something about that.<eos>
+<bos>Got me.<eos>
+<bos>Poor kid.<eos>
+<bos>- You wanna talk to her? - Not necessary.<eos>
+<bos>You sure, uh, Martha's<eol>last name isn't Stewart?<eos>
+<bos>Tell me about it. Last year this place<eol>made the cover of New England Home.<eos>
+<bos>How many talons<eol>would you say a raven had?<eos>
+<bos>Never mind.<eos>
+<bos>You know what this is?<eol>Do you know what was hanging here?<eos>
+<bos>It was a mirror. It was found broken.<eos>
+<bos>- You had no other signs of struggle?<eol>- Not a one.<eos>
+<bos>- Does that mean somethin' to you?<eos>
+<bos>Howard, this is Agent Mulder<eol>with the F.B.I.<eos>
+<bos>Sir. I hope we can help.<eos>
+<bos>I appreciate your coming.<eos>
+<bos>I'm wondering now... if this isn't<eol>just a waste of your time.<eos>
+<bos>How so?<eos>
+<bos>With all the police coming and going,<eos>
+<bos>this place is a wreck.<eos>
+<bos>I was straightening up<eol>and I... found something.<eos>
+<bos>Uh, birth control pills.<eos>
+<bos>I think Martha was having an affair.<eos>
+<bos>After Michelle, we decided<eol>not to have more children.<eos>
+<bos>I had a vasectomy.<eos>
+<bos>They're in Martha's name.<eol>She ordered them off the Internet.<eos>
+<bos>Because I guess small towns talk.<eos>
+<bos>Of course, then I started<eol>looking all around and I...<eos>
+<bos>found this in the pocket<eol>of her favorite coat.<eos>
+<bos>I don't know what this goes to...<eos>
+<bos>or what it means, if anything.<eos>
+<bos>But the pills...<eos>
+<bos>Do you have any idea<eol>who your wife may have been seeing?<eos>
+<bos>Whoever he is,<eos>
+<bos>Martha may be with him.<eos>
+<bos>It explains why we haven't found her.<eos>
+<bos>She doesn't wanna be found.<eos>
+<bos>Cute kid.<eos>
+<bos>Oh, Jenny, you scared me.<eos>
+<bos>- You do those up yourself? - Uh, yeah.<eos>
+<bos>I know Martha and you were good friends.<eol>You must be pretty upset.<eos>
+<bos>Of course. I'm sure we all are.<eos>
+<bos>Maybe you'd like some to put up<eol>on your side of town.<eos>
+<bos>My side of town?<eos>
+<bos>You and Martha are two peas in a pod.<eos>
+<bos>Jenny, I don't think<eol>I'm better than anyone.<eos>
+<bos>You and me got more<eol>in common than you know.<eos>
+<bos>Yeah, right.<eos>
+<bos>Right. Thanks.<eos>
+<bos>Whoever Martha was seeing, the two of<eol>them covered their tracks pretty good.<eos>
+<bos>Phone records don't show anything. You<eol>think this person took her, harmed her?<eos>
+<bos>I wouldn't rule it out, but I doubt it.<eol>According to your Audubon book,<eos>
+<bos>a raven has four talons.<eos>
+<bos>That matches the scratches<eol>we found on Martha Crittendon's mantle.<eos>
+<bos>You're not saying a raven's the reason<eol>Martha's gone missing?<eos>
+<bos>No, no, not a raven itself.<eos>
+<bos>But in folklore, ravens<eol>are companions to evil...<eos>
+<bos>evil spirits, witches,<eol>warlocks, that kind of thing.<eos>
+<bos>but this whole bird thing?<eos>
+<bos>And keep in mind, you're basing this<eol>on the word of a seven-year-old girl.<eos>
+<bos>Well, there was also a broken mirror<eol>in Martha's house.<eos>
+<bos>Mirrors are considered<eol>items of enchantment.<eos>
+<bos>A broken one... means something.<eos>
+<bos>I'm not exactly sure what it is,<eol>but... it means something.<eos>
+<bos>Oh.<eos>
+<bos>- Hey, sweet girl. - There's Papa.<eos>
+<bos>Agent Mulder, this is my<eol>daughter Katie and my wife Ellen.<eos>
+<bos>There's no arguments. We're so grateful<eol>that you're here to find Martha.<eos>
+<bos>It's the least we can do.<eos>
+<bos>Okay.<eos>
+<bos>I should really get the bureau<eol>to reimburse you for room and board.<eos>
+<bos>Bill works so much that supper is<eol>usually the only time we see each other.<eos>
+<bos>- And I like to make it special.<eos>
+<bos>Excuse me. Sorry.<eos>
+<bos>Thanks.<eos>
+<bos>- Mulder.<eol>- Mulder, please tell me I can go home.<eos>
+<bos>Hey, Scully. How's the stakeout?<eos>
+<bos>Well, the furnace broke<eol>and I can just about see my breath.<eos>
+<bos>Ouch. Sorry to hear that.<eos>
+<bos>Eeew.<eos>
+<bos>But as of yet, no mystery woman.<eos>
+<bos>Well, she'll come.<eol>You know, it's just a matter of time.<eos>
+<bos>She'll show up. I'm sure of that.<eos>
+<bos>Not before I die of malnutrition.<eos>
+<bos>Scully, tough it out. Whatever doesn't<eol>kill you, makes you stronger, right?<eos>
+<bos>- No, no. No capers. Thank you.<eol>- I'm sorry. What?<eos>
+<bos>I said, "What a crazy caper." I'll talk<eol>to you later. And keep warm. Bye.<eos>
+<bos>Did I hear you say something<eol>about stakeout? What's the case?<eos>
+<bos>Sweetie, this is family time.<eos>
+<bos>- Cheers. - Cheers.<eos>
+<bos>What's the matter, sweetheart?<eos>
+<bos>I thought that was your favorite.<eos>
+<bos>It tastes different when Mommy makes it.<eos>
+<bos>Yeah.<eos>
+<bos>I know.<eos>
+<bos>How 'bout we go get hamburgers?<eos>
+<bos>Would you like that instead?<eos>
+<bos>It's back.<eos>
+<bos>What do you make of these claw marks?<eos>
+<bos>Well, one time I saw the victim of<eol>a bear attack look something like that.<eos>
+<bos>Only bears don't plant<eol>their kill in the rose garden.<eos>
+<bos>I was gonna say.<eos>
+<bos>The body's been around here for a while.<eol>Probably since she went missing.<eos>
+<bos>What about your ravens?<eos>
+<bos>Howard said something about ravens.<eos>
+<bos>Yeah. Feedin' on her. See?<eos>
+<bos>You okay?<eos>
+<bos>I'm not arrestin' Howard.<eol>I don't care how it looks.<eos>
+<bos>The poor guy's suffered enough already.<eos>
+<bos>Oh, my God.<eos>
+<bos>- Martha, no.<eol>- Ellen, honey, I am so sorry.<eos>
+<bos>It can't be.<eos>
+<bos>It's okay. It's okay.<eos>
+<bos>The thing that did that to her,<eos>
+<bos>I think I saw it today.<eos>
+<bos>I saw its reflection.<eos>
+<bos>It had a face out of a nightmare.<eol>These long claws, the kind that could...<eos>
+<bos>The window shattered. I don't know how.<eol>And when I turned around, it was gone.<eos>
+<bos>But then when I saw Martha's face...<eos>
+<bos>Honey, you've been through a lot.<eos>
+<bos>You don't believe me.<eos>
+<bos>I do.<eos>
+<bos>You said the car window shattered<eol>after you saw the reflection.<eos>
+<bos>And there's a broken mirror<eol>in Martha's house.<eos>
+<bos>I don't think that's a coincidence.<eos>
+<bos>- But what could it mean?<eol>- Mirrors are considered doorways.<eos>
+<bos>In the Victorian era, they built<eol>mirrored rooms called "psychomantiums,"<eos>
+<bos>where they thought they could summon<eol>forth spirits from the spirit world.<eos>
+<bos>Denizens from the spirit world<eol>were brought into this world.<eos>
+<bos>"Denizens of the spirit world?"<eos>
+<bos>You asked about the raven.<eol>The raven is a carrion bird...<eos>
+<bos>attracted to death and decay.<eos>
+<bos>What if... this entity that you saw...<eos>
+<bos>is somehow a personification of that?<eos>
+<bos>What if this creature was brought forth<eol>in order to attack Martha?<eos>
+<bos>Then the question becomes<eol>who summoned it forth.<eos>
+<bos>Ellen, do you know if Martha<eol>had any enemies?<eos>
+<bos>Can you think of anyone at all<eol>who would have wished her harm?<eos>
+<bos>I sure as hell didn't<eol>have anything to do with it.<eos>
+<bos>We understand there was no love lost<eol>between you and Martha Crittendon.<eos>
+<bos>And where do you understand that from?<eos>
+<bos>- Mrs. Sheriff, right?<eol>- It's not exactly a town secret.<eos>
+<bos>Right. Like there aren't<eol>enough of those already.<eos>
+<bos>Queen Martha and her perfect<eol>little Easter egg hunts.<eos>
+<bos>She's so above the rest of us.<eos>
+<bos>Except I heard she was<eol>steppin' out on her husband,<eos>
+<bos>knockin'boots with who knows who.<eos>
+<bos>I'm not happy she's dead and all.<eol>But you need to look into that.<eos>
+<bos>Well, let's stay on the subject of you...<eol>on your police record, for instance.<eos>
+<bos>You don't suffer people<eol>that don't give you respect.<eos>
+<bos>I'm thinking of that hair<eol>salon owner you assaulted.<eos>
+<bos>That was forever ago.<eol>And I paid for that.<eos>
+<bos>And I had nothing to do with Martha.<eos>
+<bos>Where were you the night she disappeared?<eos>
+<bos>At home, all night.<eos>
+<bos>I gotta get back to work.<eos>
+<bos>I don't know about you,<eol>but I believe her.<eos>
+<bos>She didn't do it.<eol>I just don't get that vibe.<eos>
+<bos>Fair enough. But why did<eol>she lie about her alibi?<eos>
+<bos>I got that vibe pretty clear.<eos>
+<bos>- Excuse me.<eos>
+<bos>I'll be in the car.<eos>
+<bos>Mulder.<eos>
+<bos>Mulder, when you find me dead,<eos>
+<bos>my desicated corpse propped up...<eos>
+<bos>staring lifelessly<eol>through the telescope...<eos>
+<bos>at drunken frat boys peeing<eol>and vomiting into the gutter,<eos>
+<bos>just know that my last thoughts<eol>were of you...<eos>
+<bos>and how I'd like to kill you.<eos>
+<bos>I'm sorry. Who is this?<eos>
+<bos>It's a freak show, Mulder.<eos>
+<bos>It's a nonstop parade<eol>of every single lowlife imaginable.<eos>
+<bos>The view may not be too different here.<eol>It's dressed up nicer,<eos>
+<bos>but underneath the surface<eol>it's the same seamy underbelly.<eos>
+<bos>It's not the same. Trust me.<eos>
+<bos>- And I could use your help.<eol>- You talking about a reprieve for me?<eos>
+<bos>Well, there's a murder victim I'd like<eol>you to autopsy. What do you think?<eos>
+<bos>Scully, you still there? Hello?<eos>
+<bos>- That van is back. - What'd you say?<eos>
+<bos>- Nothing, Mulder.<eol>I'll talk to you later, okay?<eos>
+<bos>Katie...<eos>
+<bos>Get away from her!<eos>
+<bos>- It's okay, hon. Come on.<eos>
+<bos>Be quiet now. Shh.<eos>
+<bos>Hush. Be quiet.<eos>
+<bos>Oh, God. Ellen?<eos>
+<bos>Ellen, what happened?<eos>
+<bos>Are you feeling a little better, Ellen?<eos>
+<bos>Can you... just talk to me<eol>a little bit about what happened?<eos>
+<bos>It came back.<eos>
+<bos>It came back?<eol>The... The creature you saw?<eos>
+<bos>It was here, Phil. It chased me.<eos>
+<bos>It's all right, honey.<eos>
+<bos>Please don't encourage this.<eol>This is not what she needs.<eos>
+<bos>- I believe she saw something.<eol>- And I believe she didn't.<eos>
+<bos>Her best friend just died,<eol>for God's sake.<eos>
+<bos>These imaginings of hers<eol>are brought on by stress.<eos>
+<bos>- What about the two broken mirrors?<eol>- What about them?<eos>
+<bos>And in this case,<eol>I'm thinking Ellen broke 'em herself.<eos>
+<bos>What?<eos>
+<bos>- What would this be doing here?<eol>- I don't know.<eos>
+<bos>Ellen, do you recognize this key?<eos>
+<bos>Oh, I was... sweeping the floor...<eos>
+<bos>and it got caught up in the sweeper.<eos>
+<bos>I never saw it before today.<eos>
+<bos>You found it before you were attacked?<eos>
+<bos>Right before.<eos>
+<bos>Right before I saw the raven.<eos>
+<bos>Let me see if my department can run this<eol>down and find out what lock it goes to.<eos>
+<bos>Hey, I can't do this anymore.<eos>
+<bos>- Can't, huh? - No.<eos>
+<bos>- We gotta stop. - Well, that's too bad.<eos>
+<bos>- Hey, good morning.<eol>- Good morning, Ellen.<eos>
+<bos>Wow.<eos>
+<bos>- Have you seen my shirt?<eol>- Oh, I'm sorry.<eos>
+<bos>- I left it... - It's over here.<eos>
+<bos>Oh, Ellen, you didn't<eol>have to go to the trouble.<eos>
+<bos>No, it's no trouble.<eol>Actually, it helps me.<eos>
+<bos>Whenever my life's a mess,<eol>I just do some housework.<eos>
+<bos>Gives me the illusion I'm in control.<eos>
+<bos>- Well, maybe I should try that sometime.<eol>- Have a seat.<eos>
+<bos>Thanks.<eos>
+<bos>Yikes. Wow.<eos>
+<bos>It's just Phil's breakfast times two.<eos>
+<bos>Well, Phil is living large.<eol>Where is he this morning?<eos>
+<bos>Uh, probably out on a call.<eos>
+<bos>He'll be back. You... You just dig in.<eos>
+<bos>- Whoa. Ow. - Sorry.<eos>
+<bos>- Do you need milk? - Mm-mm. I'm fine.<eos>
+<bos>I get the feeling you're not<eol>used to anyone taking care of you.<eos>
+<bos>Well, that has a...<eol>a vaguely pathetic ring to it.<eos>
+<bos>No, I just meant<eol>I didn't notice a wedding band.<eos>
+<bos>- Oh. - Do you have a significant other?<eos>
+<bos>Um, not in the widely<eol>understood definition of that term.<eos>
+<bos>Oh. Well, the right woman<eol>will come along and change all that.<eos>
+<bos>Don't miss out<eol>on home and family, Mr. Mulder.<eos>
+<bos>With all the terrible things<eol>you must see in your work...<eos>
+<bos>Well, it could be a refuge for you.<eos>
+<bos>- Hi, honey. - Sorry I'm late. Paperwork.<eos>
+<bos>- Good morning, Agent Mulder.<eol>- Good morning.<eos>
+<bos>I'm gonna go check on Katie.<eos>
+<bos>You sleep well?<eos>
+<bos>I only woke up once, when you went out.<eos>
+<bos>Well, I'll try to be quieter next time.<eos>
+<bos>We've got a deputy out.<eol>We're shorthanded.<eos>
+<bos>I had to take some calls.<eos>
+<bos>- All night? - Yeah. We were busy.<eos>
+<bos>I spoke to the coroner this morning.<eos>
+<bos>The autopsy shows Martha Crittendon<eol>was four weeks pregnant when she died,<eos>
+<bos>despite her birth control pills.<eos>
+<bos>Probably didn't even know it.<eol>Any idea who the father might be?<eos>
+<bos>I mean, Howard's vasectomy<eol>pretty much puts him out of the running.<eos>
+<bos>Any inkling who it might be?<eos>
+<bos>Just say what's on your mind, Agent.<eos>
+<bos>You have a piece of evidence<eol>in your possession that I'd like back.<eos>
+<bos>The skeleton key. Number six.<eos>
+<bos>You wanna tell me what this unlocks?<eos>
+<bos>Once I find out, we'll talk again.<eos>
+<bos>I'm gonna hit the shower.<eos>
+<bos>I know, Brett, sweetie, I'm sorry.<eos>
+<bos>No, I'm gonna be home real soon.<eos>
+<bos>Mommy had to work a double shift.<eos>
+<bos>I know. I'm gonna come home<eol>and make you breakfast.<eos>
+<bos>No, no, no, don't eat<eol>a lot of cookies. No.<eos>
+<bos>Only two. I...<eos>
+<bos>Yes, oatmeal cookies<eol>have oatmeal in them.<eos>
+<bos>Okay. All right, three.<eos>
+<bos>I love you.<eos>
+<bos>Bye.<eos>
+<bos>Sheriff, you know that talk<eol>I said we should have?<eos>
+<bos>I left her sleeping.<eos>
+<bos>So, you were having an affair<eol>with both Jenny and Martha Crittendon?<eos>
+<bos>I cared about both of them.<eos>
+<bos>They knew about each other?<eos>
+<bos>But I'm assuming Ellen doesn't?<eos>
+<bos>No.<eos>
+<bos>But even if she did,<eol>she'd find a way to rationalize it.<eos>
+<bos>I'm not defending myself,<eos>
+<bos>but... two years ago I wanted a divorce.<eos>
+<bos>Ellen won't hear it.<eos>
+<bos>She got pregnant with Katie<eol>and locked me up good.<eos>
+<bos>Well, I figure you got bigger problems<eol>facing you right now.<eos>
+<bos>I didn't do this. I swear to you.<eos>
+<bos>Anyway, what about<eol>the broken mirrors and the raven?<eos>
+<bos>You said that it was an entity that<eol>did this. Don't you still believe that?<eos>
+<bos>I said it was an entity<eol>summoned by somebody else.<eos>
+<bos>Whether or not they even knew about it,<eol>is that possible?<eos>
+<bos>Can I be the reason for all this...<eos>
+<bos>and not even know about it?<eos>
+<bos>Hi. You've reached the Adderly's...<eol>Phil, Ellen and Katie.<eos>
+<bos>- Please leave a message.<eos>
+<bos>Ellen, this is Phil.<eol>I was really hopin' you'd be home.<eos>
+<bos>Look, I'm in a bit of a situation here...<eos>
+<bos>and there's things we need to talk about.<eos>
+<bos>But Agent Mulder's on his way<eol>over there to explain it all to you.<eos>
+<bos>So, if you get this message,<eol>you just wait for him, okay? Thanks.<eos>
+<bos>I think this sleepy<eol>little girl needs a nap.<eos>
+<bos>I do.<eos>
+<bos>I love you.<eos>
+<bos>Go to sleep now. Okay, baby?<eos>
+<bos>Ellen?<eos>
+<bos>Ellen?<eos>
+<bos>Mulder.<eos>
+<bos>- Mulder, I am free. - You're free?<eos>
+<bos>Mm-hmm. I'm gonna go home,<eol>take a shower for,<eos>
+<bos>I don't know, eight or nine hours,<eos>
+<bos>burn the clothes that I'm wearing<eol>and then sleep until late spring.<eos>
+<bos>- You solved the X-File. - Yes.<eos>
+<bos>Except it's not an X-File, Mulder.<eos>
+<bos>What are you saying? You didn't catch<eol>our blond mystery serial killer?<eos>
+<bos>Oh, no, we caught her.<eos>
+<bos>But, uh, she isn't a serial killer.<eos>
+<bos>Nor is she a blond.<eos>
+<bos>And she isn't even a she.<eos>
+<bos>What are you talking about?<eos>
+<bos>What I'm talking about is these six<eol>missing prostitutes aren't dead, Mulder.<eos>
+<bos>They are alive and well<eol>in a halfway house...<eos>
+<bos>that was set up by this mystery blond...<eos>
+<bos>who happens to go by the name<eol>of Mark Scott Eggbert.<eos>
+<bos>And Mr. Eggbert wishes<eol>to acquaint lost souls...<eos>
+<bos>with the teachings of Christ.<eos>
+<bos>And that's his hook, I guess.<eos>
+<bos>He dresses up like a fellow prostitute...<eos>
+<bos>to make the girls feel at ease.<eos>
+<bos>But this vanishing act<eol>is no more paranormal...<eos>
+<bos>than a change of wardrobe, Mulder.<eos>
+<bos>He goes into a place like a woman<eol>and comes out as a man.<eos>
+<bos>- Right under... - Our noses.<eos>
+<bos>Exactly. A wolf in sheep's clothing.<eos>
+<bos>Or I guess in this case,<eol>a sheep in wolf s clothing.<eos>
+<bos>Well, good work, Scully.<eol>I'll call you back later.<eos>
+<bos>Ellen?<eos>
+<bos>- Ellen, it's Agent Mulder.<eol>- Please go away.<eos>
+<bos>Ellen, Jenny Uphouse is dead.<eos>
+<bos>Do you?<eos>
+<bos>Ellen, you went out...<eol>this morning after breakfast.<eos>
+<bos>Where'd you go?<eos>
+<bos>It's not me. It can't be.<eos>
+<bos>I think it is.<eos>
+<bos>Ellen, I think you have a whole<eol>other side that you're afraid to face.<eos>
+<bos>That would explain<eol>all the broken mirrors.<eos>
+<bos>You don't want to see yourself<eol>for what you really are.<eos>
+<bos>Ellen, you have to come out of there.<eos>
+<bos>Then what?<eos>
+<bos>My marriage, my life?<eos>
+<bos>Everything I thought I had...<eos>
+<bos>is nothing.<eos>
+<bos>It's all lies.<eos>
+<bos>I wish you'd never come here.<eos>
+<bos>Ellen, you need to open this door.<eos>
+<bos>You wanna see her?<eos>
+<bos>Does she wanna see me?<eos>
+<bos>The doctors say she's got<eol>some kind of dissociative disorder.<eos>
+<bos>A split personality.<eos>
+<bos>That doesn't explain<eol>what happened, does it?<eos>
+<bos>There's some multiple<eol>personality disorders...<eos>
+<bos>where an alternate personality displays<eol>traits that the host doesn't have,<eos>
+<bos>like nearsightedness<eol>or high blood pressure or even diabetes.<eos>
+<bos>I think in Ellen's case, the... changes<eol>were just a lot more extreme.<eos>
+<bos>Like... Jekyl and Hyde?<eos>
+<bos>She wanted so much<eol>from her life with you.<eos>
+<bos>A perfect life.<eos>
+<bos>I don't know when,<eol>but at some point she did.<eos>
+<bos>Like you said, I think<eol>she had to rationalize that.<eos>
+<bos>And she just bottled up her anger.<eos>
+<bos>Swallowed it, and it<eol>had to come out some way.<eos>
+<bos>I think she did what she did<eol>to protect her family.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

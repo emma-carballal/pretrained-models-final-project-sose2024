@@ -1,0 +1,438 @@
+<bos>Que la testigo se ponga de pie<eol>y jure, por favor.<eos>
+<bos>juro decir la verdad, toda la verdad...<eos>
+<bos>y nada más que la verdad,<eol>con el amparo de Dios.<eos>
+<bos>Quisiera leerles<eol>una declaración preparada.<eos>
+<bos>Puede hacerlo.<eos>
+<bos>" Hace 4 años, dejé la medicina para<eol>convertirme en una agente del FBI...<eos>
+<bos>porque creía en este país...<eos>
+<bos>porque quería defender sus leyes...<eos>
+<bos>castigar a los culpables<eol>y proteger a los inocentes.<eos>
+<bos>Aún creo en este país...<eos>
+<bos>pero hay autoridades poderosas<eol>que no creen en él.<eos>
+<bos>Hombres que no respetan la ley,<eol>que se burlan de ella impunemente.<eos>
+<bos>- Srta. Scully.<eol>- Llegué a la conclusión--"<eos>
+<bos>Agente Scully.<eos>
+<bos>Ésta no es una tribuna improvisada,<eol>Srta. Scully.<eos>
+<bos>Su declaración constará en el acta.<eos>
+<bos>Con todo respeto, Sr. Presidente,<eol>quisiera terminar.<eos>
+<bos>No estamos aquí para eso.<eos>
+<bos>¿Por qué estamos aquí, señor?<eos>
+<bos>Agente Scully, ¿sabe o no sabe<eol>el paradero del agente Mulder?<eos>
+<bos>¿Tiene conocimiento o no de la ubicación<eol>actual del agente Mulder?<eos>
+<bos>Me niego, con todo respeto,<eol>a responder eso.<eos>
+<bos>Srta. Scully, no puede negarse a--<eos>
+<bos>La respuesta podría poner en peligro<eol>al agente Mulder.<eos>
+<bos>Parece que no comprende.<eos>
+<bos>Su respuesta no es opcional.<eol>Ud. es una agente del FBI.<eos>
+<bos>Entonces, terminaré mi declaración.<eos>
+<bos>"Ya no me es posible llevar a cabo<eol>mis deberes como agente del FBI".<eos>
+<bos>¿Ofrece formalmente su renuncia?<eol>¿Eso es lo que quiere decir?<eos>
+<bos>No, señor.<eos>
+<bos>Lo que digo...<eos>
+<bos>es que existe una cultura de anarquía...<eos>
+<bos>que me ha impedido<eol>cumplir con mi trabajo.<eos>
+<bos>Que los blancos de la investigación<eol>de este comité...<eos>
+<bos>deberían ser los hombres<eol>que están sobre la ley...<eos>
+<bos>y cuyas políticas secretas son causa<eol>de los delitos que Uds. investigan.<eos>
+<bos>Si no nos dice lo que sabe<eol>del paradero del agente Mulder...<eos>
+<bos>se le acusará de desacato al Congreso.<eos>
+<bos>¿Agente Scully?<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>Aquí tiene, señor.<eos>
+<bos>- ¿De dónde viene? - DeJapón.<eos>
+<bos>- ¿ Viajó a otro lado?<eol>- A la República de Georgia.<eos>
+<bos>- ¿El propósito de su viaje?<eol>- Asuntos gubernamentales.<eos>
+<bos>Bien. Le pido que vea al oficial<eol>de aduanas. Entre por esas puertas.<eos>
+<bos>¿Para qué?<eol>Tengo visa diplomática de los EE.UU.<eos>
+<bos>Es una revisión al azar. Proceda.<eos>
+<bos>- Tengo un vuelo de enlace.<eol>- Entre por esas puertas.<eos>
+<bos>Por aquí, señor.<eos>
+<bos>No sé de qué se trata.<eol>Tengo visa diplomática.<eos>
+<bos>- No pueden tratarme así.<eol>- ¿Es su único equipaje?<eos>
+<bos>- Sí. - ¿Puede abrirlo?<eos>
+<bos>Señor, no es una opción.<eol>Si no lo abre, lo haré yo.<eos>
+<bos>No tengo la combinación.<eos>
+<bos>¿ Vince?<eos>
+<bos>Desnúdelo y regístrele<eol>todas las cavidades.<eos>
+<bos>Pagarán caro por haberme tratado así.<eos>
+<bos>Señor, ¿podría decirme...<eos>
+<bos>qué tipo de puesto diplomático tiene?<eos>
+<bos>¿ Y qué material transporta<eol>en estos envases?<eos>
+<bos>Eso es-- Están llenos<eol>de materiales tóxicos.<eos>
+<bos>¿ Y la documentación?<eol>¿Por qué no están marcados los envases?<eos>
+<bos>No los abra. Haga lo que haga,<eol>ese material no puede ser expuesto--<eos>
+<bos>¡Escúcheme!<eos>
+<bos>¡Abran esta puerta!<eol>¡Que alguien abra esta puerta!<eos>
+<bos>¡Abran esta puerta!<eol>¡Que alguien me deje salir!<eos>
+<bos>¿Qué diablos es esto?<eos>
+<bos>¡Que alguien me ayude!<eos>
+<bos>¡Ay, Dios mío! ¡La puerta!<eol>¡Por favor, déjenme salir de aquí!<eos>
+<bos>¡Ay, Dios mío! ¡Abran la puerta!<eos>
+<bos>¡Que alguien me deje salir!<eol>¡Déjenme salir!<eos>
+<bos>¡Déjenme salir de aquí! ¡Déjenme salir!<eos>
+<bos>" Flushing, Queens<eol>Ciudad de Nueva York, 3:07 A.M."<eos>
+<bos>No entraremos precipitadamente.<eol>Ten paciencia. Se hará.<eos>
+<bos>¿Por qué estás tan seguro?<eos>
+<bos>En las últimas semanas,<eol>recibí notas de compra de mecha...<eos>
+<bos>gasolina, diesel<eol>y 80 bolsas de nitrato de amonio...<eos>
+<bos>comprados en tres estados<eol>con tres firmas diferentes.<eos>
+<bos>¿Por eso sabes que es aquí? ¿Que es hoy?<eos>
+<bos>Anoche recibí dos más: un recibo de<eol>alquiler de una bodega en este lugar...<eos>
+<bos>y uno de un camión de 2 toneladas;<eol>ambos con la misma firma.<eos>
+<bos>Esto podría ser<eol>como el incidente en Oklahoma.<eos>
+<bos>¿ Y quién crees<eol>que te está filtrando la información?<eos>
+<bos>Se acerca un vehículo.<eos>
+<bos>Ya se van.<eos>
+<bos>Esperen.<eos>
+<bos>¡Vamos! ¡Adentro!<eos>
+<bos>¡Avancen! ¡Quédense cerca de mí!<eos>
+<bos>¡Somos agentes federales!<eol>¡Estamos armados!<eos>
+<bos>¡Todos al suelo! ¡Al suelo!<eos>
+<bos>¡Retrocedan!<eos>
+<bos>¡Suelten las armas! ¡Al suelo!<eos>
+<bos>¡Disparen!<eos>
+<bos>¡Agáchense! ¡Todos abajo!<eos>
+<bos>¡No disparen!<eos>
+<bos>Cubre el lado del conductor.<eos>
+<bos>¡Agente federal! ¡Estoy armado!<eos>
+<bos>¡Salgan del vehículo ahora!<eos>
+<bos>El conductor está muerto.<eos>
+<bos>Conté dos hombres.<eos>
+<bos>Salga del camión.<eos>
+<bos>¡Salga del camión!<eos>
+<bos>Déjeme ver sus manos.<eos>
+<bos>¡Las manos arriba!<eos>
+<bos>Desgraciado.<eos>
+<bos>¡Yo te di aviso de este incidente!<eos>
+<bos>¡Por favor, Krycek!<eos>
+<bos>¿Quién crees que te envió las notas?<eos>
+<bos>Robaron la mayor parte de la mecha<eol>de una obra...<eos>
+<bos>y robaron los explosivos<eol>de una base militar.<eos>
+<bos>La seguridad es poco estricta.<eol>Es de risa.<eos>
+<bos>Casi todo lo demás se compró legalmente.<eos>
+<bos>Dos mil kilos de poder explosivo.<eos>
+<bos>¿Cómo te involucraste con ellos?<eos>
+<bos>Me encontraron en Dakota del Norte.<eos>
+<bos>Me liberaron en una misión de rescate.<eos>
+<bos>Cuando trabajas de incógnito,<eol>debes aprender a vivir con las ratas.<eos>
+<bos>Seguro no te fue difícil adaptarte.<eos>
+<bos>Estos hombres son<eol>revolucionarios lastimosos...<eos>
+<bos>que matarán a sus compañeros<eol>por sus ideologías idiotas.<eos>
+<bos>Mientes, Krycek.<eos>
+<bos>Eres un gusano cobarde<eol>que carece de moralidad.<eos>
+<bos>Yo adoro a este país.<eos>
+<bos>- ¿Qué quieres, Krycek?<eol>- Lo mismo que ustedes.<eos>
+<bos>Encontrar al que quiso matarme.<eos>
+<bos>El responsable de la muerte de tu padre.<eos>
+<bos>- Y de tu hermana.<eol>- ¿ Y quieres que se le juzgue?<eos>
+<bos>A estos hombres no se les puede juzgar.<eos>
+<bos>Están protegidos.<eol>Las leyes de este país...<eos>
+<bos>los protegen mediante el concepto<eol>de la seguridad nacional.<eos>
+<bos>Son impunes.<eos>
+<bos>¿Por qué no le das un tiro<eol>como a aquel hombre?<eos>
+<bos>Estos hombres le temen a una sola cosa:<eos>
+<bos>quedar al descubierto.<eos>
+<bos>Si lo expones...<eos>
+<bos>si denuncias los delitos que cometió...<eos>
+<bos>destruyes la habilidad de destruir<eol>del destructor.<eos>
+<bos>Lo único que destruirá a este hombre<eol>es la verdad.<eos>
+<bos>La verdad. La verdad.<eol>¡No hay ninguna verdad!<eos>
+<bos>Ellos la inventan día con día.<eos>
+<bos>Son los ingenieros del futuro.<eos>
+<bos>Ellos-- Ellos son<eol>los verdaderos revolucionarios.<eos>
+<bos>Y también puedo conseguírtelos.<eos>
+<bos>No podemos ayudarte.<eos>
+<bos>Ésta es sólo una bomba<eol>de la cual tengo conocimiento.<eos>
+<bos>No me preguntaron sobre cuántas más sé.<eos>
+<bos>"Aeropuerto Dulles - Herndon, Virginia"<eol><i>Atención.</i><eos>
+<bos><i>Debido a condiciones</i><eol><i>climatológicas adversas...</i><eos>
+<bos><i>el vuelo 78 de TransCon de Buenos Aires</i><eol><i>ha sido demorado.</i><eos>
+<bos><i>Vean los monitores</i><eol><i>en toda la terminal...</i><eos>
+<bos><i>para conocer</i><eol><i>la nueva hora de llegada.</i><eos>
+<bos>¿En qué vuelo viene?<eos>
+<bos>En un vuelo chárter internacional<eol>que salió de Rusia.<eos>
+<bos>Una aerolínea turca.<eos>
+<bos>Ahí está: Air Lacayo. Llegó a las 6:45.<eos>
+<bos>Eso fue hace 15 minutos. Anda, vamos.<eos>
+<bos>- Aún tiene que pasar por la aduana.<eol>- No.<eos>
+<bos>Traerá una valija diplomática.<eos>
+<bos>Es él.<eos>
+<bos>¿Señor? Somos agentes federales.<eos>
+<bos>No se alarme. Sólo queremos hablarle.<eos>
+<bos>¡Alto! ¡Señor!<eos>
+<bos>Mulder, mira.<eos>
+<bos>¿Ésta es una broma?<eos>
+<bos>- ¿Qué? - Muéstrale.<eos>
+<bos>- ¿Qué es?<eol>- Puedes exponerla para él, Scully.<eos>
+<bos>¿Qué te dieron en la Noche de Brujas,<eol>payaso?<eos>
+<bos>- ¿Quién es?<eol>- Necesito hablar con Ud., señor.<eos>
+<bos>¿Qué quiere?<eos>
+<bos>Que autorice un pase franco.<eos>
+<bos>¿Para quién?<eos>
+<bos>La información que posee<eol>de milicia extremista...<eos>
+<bos>podría salvar<eol>a estadounidenses inocentes.<eos>
+<bos>Aquí estará a salvo.<eos>
+<bos>A salvo relativamente.<eos>
+<bos>Aún no estamos parejos.<eol>Ése es un comienzo.<eos>
+<bos>Deme las llaves.<eos>
+<bos>¡Vamos!<eos>
+<bos>¡No puede dejarme aquí afuera!<eol>¡Moriré congelado!<eos>
+<bos>Piense en cosas cálidas.<eos>
+<bos>"Centro de Vuelos Espaciales Goddard<eol>Greenbelt, Maryland"<eos>
+<bos>" Departamento de Exobiología"<eos>
+<bos>Sé que ya se lo pregunté.<eos>
+<bos>¿No tienen idea de dónde salió esto?<eos>
+<bos>No conocemos su origen.<eos>
+<bos>Pero usted tiene una idea, ¿no?<eos>
+<bos>Esta piedra contiene los llamados<eol>hidrocarburos aromáticos policíclicos...<eos>
+<bos>con las características<eol>de los fragmentos del meteorito...<eos>
+<bos>hallado recientemente en la Antártida.<eos>
+<bos>¿Quiere decir--?<eos>
+<bos>Quiero decir que lo que están viendo<eol>podría provenir de Marte.<eos>
+<bos>Tiene más de 4 mil millones de años.<eos>
+<bos>¿Es valiosa?<eos>
+<bos>Además de agregar pruebas al debate...<eos>
+<bos>sobre restos fosilizados de bacteria<eol>extraterrestre, no vale nada.<eos>
+<bos>¿Esta piedra contiene<eol>esos restos fosilizados, Dr. Sacks?<eos>
+<bos>Pues, eso no lo sabré hasta que logre<eol>tomar una muestra del núcleo.<eos>
+<bos>Espero que me lo permitan.<eos>
+<bos>A todos nos gustaría saber<eol>qué contiene esa piedra.<eos>
+<bos>Gracias.<eos>
+<bos>- Ignoraba que viviera por aquí.<eol>- Acabo de mudarme.<eos>
+<bos>¿ Vive en uno de los pisos superiores?<eol>¿Por la vista?<eos>
+<bos>¿Qué quiere de mí?<eos>
+<bos>Mulder y Scully interceptaron<eol>una valija diplomática...<eos>
+<bos>aquí en Washington anoche.<eos>
+<bos>Causó un problema en círculos<eol>de política internacional.<eos>
+<bos>Un problema grave.<eos>
+<bos>No sé nada de la valija diplomática.<eos>
+<bos>- ¿Nada acerca del asunto? - No.<eos>
+<bos>Lo dudo mucho.<eol>Ud. es el agente que los supervisa.<eos>
+<bos>Como su amigo, Sr. Skinner, le aviso...<eos>
+<bos>que ocultar información<eol>de seguridad nacional...<eos>
+<bos>conduce a penas de traición y sedición<eol>en este país.<eos>
+<bos>Gracias.<eos>
+<bos>Como amigo, me considero bajo aviso.<eos>
+<bos>Necesito esa valija, Sr. Skinner.<eos>
+<bos>Y necesito saber quién les ordenó<eol>interceptarla.<eos>
+<bos>Le avisaré.<eos>
+<bos>Se han suscitado guerras<eol>por asuntos menos graves.<eos>
+<bos>Mucho menos graves.<eos>
+<bos>"Oficina Central del FBI 11:17 A.M."<eos>
+<bos>Sí. Gracias.<eos>
+<bos>- ¿Averiguaste algo?<eol>- No hay nada en Asuntos Exteriores.<eos>
+<bos>Los de Aduana detuvieron<eol>a otro mensajero...<eos>
+<bos>con una visa similar<eol>en Honolulú hace dos noches.<eos>
+<bos>Venía de Georgia<eol>con una muestra de tierra tóxica.<eos>
+<bos>- ¿Tóxica? - Sí.<eos>
+<bos>El contenido de la piedra<eol>que interceptamos...<eos>
+<bos>va más allá de la vida extraterrestre...<eos>
+<bos>y de la conspiración<eol>para ocultar que existe.<eos>
+<bos>Mulder, la piedra quizá contenga fósiles<eol>de bacteria extraterrestre...<eos>
+<bos>e incluso eso se presta a debate.<eos>
+<bos>¿Por qué intentar meterla en los EE.UU.?<eos>
+<bos>Alex Krycek nos ha dado una pieza<eol>fundamental de una intriga mayor.<eos>
+<bos>Lo que nos dio, Mulder, fue una piedra.<eos>
+<bos>Alex Krycek es un mentiroso<eol>y un homicida.<eos>
+<bos>Quiere desenmascarar a los mismos<eol>que nosotros, a cualquier precio.<eos>
+<bos>Me preocupo por ti, Mulder.<eos>
+<bos>Por el precio que pagarías.<eol>Y hasta dónde puedo apoyarte.<eos>
+<bos>-<i>¿Sí?</i> - Mulder, ¿dónde está?<eos>
+<bos>Estoy con Scully,<eol>nos dirigimos a Goddard.<eos>
+<bos>Sugiero que se den vuelta<eol>y vuelvan a casa.<eos>
+<bos>No sé qué le diré a la policía.<eos>
+<bos><i>¿Qué le dirá sobre qué?</i><eos>
+<bos>Están en mi apartamento con un cadáver.<eos>
+<bos>Quieren hablar con todos los inquilinos.<eos>
+<bos>Detén el auto aquí.<eos>
+<bos>¿Qué haces?<eos>
+<bos>Tomaré un taxi.<eos>
+<bos>Averigua lo que puedas sobre la piedra.<eos>
+<bos>Llámame en cuanto lo hagas.<eos>
+<bos>- No estaba en casa. - ¿En qué piso vive?<eos>
+<bos>En el 17 mo. Soy Walter Skinner.<eos>
+<bos>Soy director adjunto del FBI.<eos>
+<bos>Ah. Mil disculpas.<eos>
+<bos>Mi teniente me informó mal:<eos>
+<bos>que hay un hombre colgado de su balcón.<eos>
+<bos>Saldremos de aquí<eol>como si nada hubiera pasado.<eos>
+<bos>Si alguien nos habla, tú no dirás nada.<eos>
+<bos>No hay problema.<eos>
+<bos>Tú me metiste aquí.<eol>Quiero ver cómo me sacas.<eos>
+<bos>¡Idiota!<eos>
+<bos>Te tengo noticias.<eos>
+<bos>Cuando sepan<eol>quién es el muerto allá abajo...<eos>
+<bos>sabrán de qué apartamento lo lanzaron.<eos>
+<bos>- ¿Quién es? - El sujeto de la valija.<eos>
+<bos>- Vamos. - Yo digo que sigamos la valija.<eos>
+<bos>Mulder, soy yo. Presta atención.<eos>
+<bos>Lo que sea que contenga esta piedra,<eol>es letal.<eos>
+<bos>-<i>¿Qué sucede?</i><eol>- El Dr. Sacks está--<eos>
+<bos>No sé, Mulder. Yo nunca había visto esto.<eos>
+<bos>No sé si está vivo o muerto.<eos>
+<bos><i>Averígualo.</i><eol><i>Necesito una dirección en Nueva York.</i><eos>
+<bos>Consíguela a través del FBI.<eos>
+<bos>"Zona Noroeste de la Ciudad<eol>de Nueva York, 12:36 A.M."<eos>
+<bos>- ¿Quién es? - Fox Mulder.<eos>
+<bos>- ¿Qué hace aquí? - Necesito su ayuda.<eos>
+<bos>- ¿Cómo supo dónde vivía?<eol>- La base de datos del FBI.<eos>
+<bos>Disculpe. Es una cuestión urgente.<eos>
+<bos>Una valija diplomática<eol>llegó a los EE.UU. de Rusia.<eos>
+<bos>Dos hombres están muertos.<eol>Necesito saber por qué.<eos>
+<bos>¿Cuál era su destino?<eos>
+<bos>¿ Y la dirección del envío?<eos>
+<bos>Gracias.<eos>
+<bos>¿Agente Mulder?<eos>
+<bos>La valija diplomática<eol>viajó en una ruta Apex...<eos>
+<bos>a la provincia rusa de Krasnoyarsk.<eos>
+<bos>¿Krasnoyarsk?<eos>
+<bos>El puerto de entrada<eol>fue la ciudad de Nordvik.<eos>
+<bos>Está al norte de Tunguska.<eos>
+<bos>- ¿Tunguska? - Sí.<eos>
+<bos>- ¿Qué busca? - Mi teléfono celular.<eos>
+<bos>Reservaré un lugar en un vuelo<eol>a Krasnoyarsk, Rusia.<eos>
+<bos>- Puedo ayudarlo, agente Mulder.<eol>- ¿A encontrar mi celular?<eos>
+<bos>Con documentación falsa.<eol>Pasaporte y visa diplomáticos.<eos>
+<bos>¿Por qué?<eos>
+<bos>- ¿Por qué me ayuda? - Porque puedo.<eos>
+<bos>Porque somos varios de nosotros<eol>los que creemos en usted.<eos>
+<bos>Creemos en su búsqueda de la verdad.<eos>
+<bos>- ¿Cuánto tiempo tardará?<eol>- ¿Cuánto tiempo tiene?<eos>
+<bos>- ¿Dónde estuviste?<eol>- Organizando mi viaje.<eos>
+<bos>- ¿Adónde irás? - A seguir la valija.<eos>
+<bos>¿No me dirás nada?<eos>
+<bos>Exacto.<eos>
+<bos>Éstos son trajes de nivel cuatro.<eol>Idénticos al que él trae puesto.<eos>
+<bos>La contaminación es imposible<eol>sin una rotura...<eos>
+<bos>o una pérdida de presión.<eos>
+<bos>Lo que le haya pasado,<eol>no fue porque algo penetró el traje.<eos>
+<bos>¿Qué cree que haya sucedido?<eos>
+<bos>No lo sabremos hasta que entremos<eol>y lo veamos de cerca.<eos>
+<bos>Mire. Hay una capa de algo que lo cubre.<eos>
+<bos>Parece que la cuchilla lo salpicó...<eos>
+<bos>cuando cortaba la piedra.<eos>
+<bos>¡Ay, Dios mío! Este hombre está vivo.<eos>
+<bos>No puede ser. Digo, no respira.<eos>
+<bos>No, creo que está vivo.<eos>
+<bos>Creo que está en coma<eol>o sufre de rigidez somática.<eos>
+<bos>- ¿Por qué? - No sé.<eos>
+<bos>No sé, pero debemos sacarlo de aquí.<eos>
+<bos>"Aeropuerto InternacionalJ FK<eol>Ciudad de Nueva York"<eos>
+<bos>- No irás a--<eol>- Dejaré la ventanilla abierta.<eos>
+<bos>Si no vuelvo en 7 días,<eol>le diré a Scully que te traiga agua.<eos>
+<bos>¡Mulder, no me vas a dejar aquí!<eos>
+<bos>¡Desgraciado, regresa!<eos>
+<bos>- ¿Cómo me llamaste? - ¿Qué?<eos>
+<bos>Me insultaste.<eos>
+<bos>¿Hablas ruso, Krycek?<eos>
+<bos>Mis padres inmigraron en la Guerra Fría.<eol>¿Qué te importa?<eos>
+<bos>Recorrió un camino largo.<eos>
+<bos>Sería útil que tuviera teléfono.<eos>
+<bos>Me mudé aquí porque no hay teléfonos.<eos>
+<bos>- ¿Qué sucede?<eol>- Nuestro mensajero está muerto.<eos>
+<bos>Sí, me enteré.<eol>Lo lanzaron por una ventana.<eos>
+<bos>- ¿Esto nos dejará al descubierto?<eol>- Claro que no.<eos>
+<bos>Nuestra negativa necesaria<eol>y plausible está intacta.<eos>
+<bos>Entonces, ¿qué le preocupa?<eos>
+<bos>Anoche, la oficina aeroportuaria<eol>de la CIA...<eos>
+<bos>registró a un hombre en sus computadoras<eol>con documentos de la ONU...<eos>
+<bos>en un vuelo a Krasnoyarsk, Rusia.<eos>
+<bos>¿Quién era?<eos>
+<bos>Aún no hemos podido determinar eso<eol>con certeza...<eos>
+<bos>pero parece un hombre que responde<eol>a la descripción de...Fox Mulder.<eos>
+<bos>Tonto. Usted es un tonto inepto.<eos>
+<bos>Esto debe rectificarse.<eol>Esto debe resolverse.<eos>
+<bos>Esto debe rectificarse.<eol>Esto debe resolverse.<eos>
+<bos>Pues, claro que puede hacerse.<eol>Conoce mi capacidad en una crisis.<eos>
+<bos>No creo que se dé cuenta<eol>de lo que está en juego...<eos>
+<bos>ni el nivel al que se debe llegar.<eos>
+<bos>¡Se necesitará más<eol>que una buena puntería!<eos>
+<bos>"Auto de Comparecencia"<eos>
+<bos>¿El senador Sorenson quiere vernos?<eos>
+<bos>Eso es un auto de comparecencia,<eol>agente Scully.<eos>
+<bos>- Pero, ¿para qué?<eol>- No sé, sólo puedo hacer conjeturas.<eos>
+<bos>Pero el que me mencionen<eol>junto con Ud. y Mulder...<eos>
+<bos>me hace creer que me involucraron<eol>en algo muy grave.<eos>
+<bos>- ¿Cuán grave es, Scully?<eol>- Es difícil saberlo.<eos>
+<bos>¿Dónde?<eos>
+<bos>"Tunguska, Bosque Siberiano - Rusia"<eos>
+<bos>- Dice que está a 5 km hacia allá.<eol>- Vamos.<eos>
+<bos>En verdad no me vas a decir nada,<eol>¿o me equivoco?<eos>
+<bos>¿Qué hacemos aquí?<eos>
+<bos>El 30 de junio de 1908...<eos>
+<bos>la tribu tunguska<eol>y comerciantes de pieles...<eos>
+<bos>miraron el cielo siberiano del sudeste<eol>y vieron caer una bola de fuego.<eos>
+<bos>Al penetrar la atmósfera,<eol>creó explosiones...<eos>
+<bos>que se consideran<eol>el mayor evento cósmico...<eos>
+<bos>en la historia de la civilización:<eos>
+<bos>dos mil veces la fuerza<eol>de la bomba que cayó en Hiroshima.<eos>
+<bos>¿Qué fue?<eos>
+<bos>Se especula que fue<eol>un pedazo de un cometa...<eos>
+<bos>o de un asteroide,<eol>o incluso un pedazo de antimateria.<eos>
+<bos>La explosión rasuró árboles<eol>en un patrón radial de 2000 kilómetros.<eos>
+<bos>No se han encontrado<eol>pruebas definitivas...<eos>
+<bos>para explicar satisfactoriamente<eol>lo que fue.<eos>
+<bos>Creo que alguien encontró las pruebas...<eos>
+<bos>y la explicación es algo<eol>que nadie nunca imaginó.<eos>
+<bos>¿Qué hacen?<eos>
+<bos>Parece un campamento minero.<eos>
+<bos>Dudo que sean mineros.<eos>
+<bos>¡Corre!<eos>
+<bos>No hablo ruso.<eos>
+<bos>Entonces, nadie le ha dicho.<eos>
+<bos>¿Dicho qué?<eos>
+<bos>Que lo trajeron aquí a morir.<eol>Que deseará estar muerto.<eos>
+<bos>No me trajo nadie.<eos>
+<bos>Vine porque busco algo.<eos>
+<bos>Lo único que encontrará aquí<eol>será muerte y sufrimiento.<eos>
+<bos>- ¿Qué es este lugar? - ¿Este lugar?<eos>
+<bos>Es un gulag. Un lugar donde<eol>los culpables rigen a los inocentes.<eos>
+<bos>Tenemos que salir de aquí.<eos>
+<bos>Nos torturarán.<eos>
+<bos>¿Cómo sabes?<eos>
+<bos>Me interrogaron...<eos>
+<bos>e intentaron que confesara.<eos>
+<bos>- ¿Confesar qué? - Que soy un espía.<eos>
+<bos>¿Qué les dijiste?<eos>
+<bos>Que somos estadounidenses estúpidos<eol>y nos perdimos en el bosque.<eos>
+<bos>Mulder, vas a necesitarme en este lugar.<eos>
+<bos>No vuelvas a tocarme.<eos>
+<bos>Gracias por haber venido.<eos>
+<bos>Es difícil rechazar una invitación<eol>de un senador.<eos>
+<bos>Por favor, siéntense.<eos>
+<bos>¿Conocen las penas por...<eos>
+<bos>impedir el debido procedimiento legal?<eos>
+<bos>¿Es una pregunta retórica, señor?<eos>
+<bos>¿Saben por qué se les pidió<eol>que se presentaran?<eos>
+<bos>Nos lo imaginamos.<eos>
+<bos>Hemos investigado la muerte que ocurrió<eol>afuera de su apartamento, Sr. Skinner.<eos>
+<bos>- Ha generado preguntas inquietantes.<eol>- ¿Como cuáles?<eos>
+<bos>Como ésta: ¿Qué hacía ese hombre<eol>en su balcón antes de caer y morir?<eos>
+<bos>Cayó de su balcón,<eol>¿no es verdad, Sr. Skinner?<eos>
+<bos>Dar testimonio falso es un delito grave.<eos>
+<bos>Especialmente para un agente del FBI.<eos>
+<bos>Presentaremos un informe<eol>sobre el asunto...<eos>
+<bos>cuando comprendamos<eol>lo que estamos investigando.<eos>
+<bos>Y...<eos>
+<bos>el agente...Mulder.<eos>
+<bos>¿Pueden explicarme por qué rechazó<eol>mi invitación y decidió no venir?<eos>
+<bos>El agente Mulder<eol>conduce una investigación...<eos>
+<bos>en busca de respuestas<eol>a lo que Ud. pregunta.<eos>
+<bos>¿ Y dónde está buscando estas respuestas?<eos>
+<bos>¿Agente Scully?<eos>
+<bos>- ¿Qué le dijiste?<eol>- Que quiero ver a su supervisor.<eos>
+<bos>Ese hombre no es amigo suyo.<eos>
+<bos>Le habla de manera diferente<eol>a los guardias.<eos>
+<bos>Usa un lenguaje formal,<eol>como si fuera su igual.<eos>
+<bos>- Él lo engaña. - ¿Quién es usted?<eos>
+<bos>Un prisionero, como usted.<eos>
+<bos>- Pero no cometí ningún delito.<eol>- ¿ Y por qué está aquí?<eos>
+<bos>Estoy aquí para trabajar, como los demás.<eos>
+<bos>Y como ellos...<eos>
+<bos>moriré en un experimento...<eos>
+<bos>cuando ya no les sea útil.<eos>
+<bos>¿Qué tipo de experimento?<eos>
+<bos>"CONTI NUARÁ"<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

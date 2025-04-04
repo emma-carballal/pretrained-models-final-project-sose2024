@@ -1,0 +1,433 @@
+<bos>Now I lay me down to sleep,<eos>
+<bos>I pray the Lord my soul to keep.<eos>
+<bos>If I die before I wake,<eos>
+<bos>I pray the Lord my soul to take.<eos>
+<bos>God bless Mommy, God bless Daddy,<eos>
+<bos>and Grandma and Grandpa LaPierre,<eos>
+<bos>and Grandma and Grandpa Jason, and...<eos>
+<bos>Okay, okay, Amber Lynn. Bedtime. Come on.<eos>
+<bos>You grab Mike, okay? Hop in.<eos>
+<bos>Let's get you cozy, cozy, toasty, toasty.<eos>
+<bos>Inside. Snug as a bug.<eos>
+<bos>- Night-night, Lynnie.<eol>- Night-night, Daddy.<eos>
+<bos>- Night, Mommy. - Night, love.<eos>
+<bos>Bed lights out, Amber Lynn.<eos>
+<bos>Good girl. That's a good girl.<eos>
+<bos>Stop right there!<eos>
+<bos>- Weapon on the floor. - This is great.<eos>
+<bos>Where's this trial I'm being put through?<eos>
+<bos>Is this a test of my love for you?<eos>
+<bos>Billie?<eos>
+<bos>- They are the ones that want me<eol>to kill myself.<eos>
+<bos>Aah!<eos>
+<bos>Oh, sweet angel.<eos>
+<bos>Billie! Amber Lynn!<eos>
+<bos>Oh, God!<eos>
+<bos>Amber Lynn LaPierre, that's right.<eos>
+<bos>A federal investigation is underway.<eos>
+<bos>The kidnapping in Sacramento, California.<eos>
+<bos>- Why are you here, Agent Mulder?<eol>- I want this case.<eos>
+<bos>I'm fairly certain I've got more<eol>than enough competent agents in here.<eos>
+<bos>- Ooh, I can see that.<eol>- This is a kidnapping, Agent Mulder.<eos>
+<bos>A little girl snatched from her bedroom.<eol>Basic, missionary-style F.B.I. work.<eos>
+<bos>- It's not an X-File.<eol>- I'm aware of the facts.<eos>
+<bos>That's what I'm talking about,<eol>ruling out other possibilities.<eos>
+<bos>I can't just give you the case.<eos>
+<bos>I have to follow protocol.<eos>
+<bos>Behavioral gets first crack,<eol>then the people down at N.C.N.E.C.<eos>
+<bos>Two, three, four hours.<eos>
+<bos>This case is gonna be a circus.<eol>Every starstruck attorney in America...<eos>
+<bos>is gonna want to represent<eol>these people for free.<eos>
+<bos>You've got till noon. Mulder...<eos>
+<bos>the agents in my office...<eol>they have a pool going.<eos>
+<bos>They think she's dead.<eos>
+<bos>Don't bet on it.<eos>
+<bos>Sir, can you tell us about...<eos>
+<bos>Excuse me. Have they found the girl?<eos>
+<bos>Are there any new developments<eol>in the case? Is she dead?<eos>
+<bos>Are the parents suspects in<eol>the disappearance of their daughter?<eos>
+<bos>Sorry, no press allowed inside.<eos>
+<bos>Special Agent Fox Mulder, F.B.I.<eos>
+<bos>Uh, Harry Bring. How can I help you?<eos>
+<bos>Mr. Bring, your card says<eol>"real estate law and conveyances."<eos>
+<bos>Have you ever handled a murder case?<eos>
+<bos>- This isn't a murder case.<eol>- Well, it might as well be...<eos>
+<bos>once the facts about Amber Lynn's<eol>disappearance get out.<eos>
+<bos>My clients are not murderers,<eol>and-and I resent any such accusation.<eos>
+<bos>You know, if you really want to help<eol>your clients, get them a real lawyer.<eos>
+<bos>It's okay, Harry.<eos>
+<bos>- Billie and I got nothin' to hide.<eos>
+<bos>Mr. And Mrs. LaPierre,<eol>my name is Fox Mulder.<eos>
+<bos>I'm a special agent with the F.B.I.<eos>
+<bos>I have a lot of experience with crimes<eol>like the one that took place here.<eos>
+<bos>I know you've made<eol>a statement to the police,<eos>
+<bos>but I'd like to ask you<eol>some questions about that.<eos>
+<bos>I want to ask you<eol>about the note you found.<eos>
+<bos>Where did you find it?<eos>
+<bos>- In my daughter's bedroom. - When?<eos>
+<bos>When I went to check on her.<eos>
+<bos>- Do you know what time that was?<eol>- 9:30, I think.<eos>
+<bos>It was right about then.<eos>
+<bos>- I was watching TV in here.<eol>- What were you watching?<eos>
+<bos>I never heard of it before. It was good.<eos>
+<bos>What about you, Mrs. LaPierre?<eos>
+<bos>- I was in bed already.<eol>- Were you asleep?<eos>
+<bos>Half.<eos>
+<bos>Is that Amber Lynn's bedroom<eol>that I saw down the hallway there?<eos>
+<bos>Yes.<eos>
+<bos>Do you always lock your doors at night,<eol>even if you're home?<eos>
+<bos>Yes.<eos>
+<bos>You know most of your neighbors,<eol>I bet, up and down the street.<eos>
+<bos>- You're on good terms with them?<eol>- Most of them, yes.<eos>
+<bos>Can you think of anyone who<eol>might've wanted to hurt Amber Lynn?<eos>
+<bos>That's enough questions.<eol>They've been very helpful,<eos>
+<bos>but I think you can see that these folks<eol>have nothing whatsoever to hide.<eos>
+<bos>Mr. And Mrs. LaPierre,<eol>I want you to understand something,<eos>
+<bos>because it's gonna get<eol>very confusing from here on in.<eos>
+<bos>But whatever else<eol>the F.B.I. says or does,<eos>
+<bos>they're gonna try their damnedest<eol>to find your little girl.<eos>
+<bos>- Okay. - Thank you.<eos>
+<bos>Agent Mulder?<eos>
+<bos>Do you think they will... find her?<eos>
+<bos>Oh, I hope so.<eos>
+<bos>Yeah. I really do.<eos>
+<bos>It's open.<eos>
+<bos>Mulder?<eos>
+<bos>Come on in.<eos>
+<bos>- What are you doing? - Thinkin'.<eos>
+<bos>- About? - Amber Lynn LaPierre.<eos>
+<bos>- Mind if I turn on a light?<eol>- Yeah. I do.<eos>
+<bos>Skinner is royally pissed.<eos>
+<bos>- At you. - I'm sure he is.<eos>
+<bos>He expected a report at noon.<eos>
+<bos>He waited. And now he sent me<eol>to find you to get it.<eos>
+<bos>- I don't have a report.<eol>- They had to move on the case.<eos>
+<bos>The media got wind of the police<eol>findings. They're gonna broadcast them.<eos>
+<bos>The parents are being held<eol>for further questioning.<eos>
+<bos>- They're not guilty, Scully.<eol>- The facts would say otherwise.<eos>
+<bos>There's no sign of a break-in.<eos>
+<bos>Both of the parents were at home<eol>at the time the girl disappeared.<eos>
+<bos>They lied about where<eol>they found the note.<eos>
+<bos>- Why?<eol>- That's what I've been thinkin' about.<eos>
+<bos>She's not dead, Scully.<eos>
+<bos>- Mulder. -  Fox, it's me.<eos>
+<bos>- Mom? Hi. - I'm watching the news.<eos>
+<bos>That little girl in California.<eol>You're out there, aren't you?<eos>
+<bos>Yes.<eos>
+<bos>- I am. Are you okay, Mom?<eol>- When are you coming back here?<eos>
+<bos>Well, I'm not sure.<eol>You know, I don't know.<eos>
+<bos>- Call when you get back, Fox.<eol>- Okay, I will.<eos>
+<bos>Um...<eos>
+<bos>You take care, Mom, okay?<eos>
+<bos>From the note, we can<eol>and have determined several facts.<eos>
+<bos>There is a threat of physical violence,<eol>but no demand for money or ransom.<eos>
+<bos>The note is short and written<eol>on a torn piece of paper,<eos>
+<bos>suggesting haste<eol>and little or no planning.<eos>
+<bos>The paper's the type used by dry<eol>cleaners to protect laundered garments.<eos>
+<bos>The torn piece that<eol>the note was found on...<eos>
+<bos>matches exactly a piece that was found<eol>in the garbage at the LaPierre home.<eos>
+<bos>The ink matches a felt-tip pen<eol>that was also found in the garbage.<eos>
+<bos>One set of prints were found on it...<eol>Billie LaPierre's prints.<eos>
+<bos>- Is it her handwriting?<eol>That's gonna be difficult to prove,<eos>
+<bos>due to the felt-tip pen<eol>and the quality of the paper,<eos>
+<bos>which tends to cause bleeding,<eol>makes the handwriting indistinct.<eos>
+<bos>It also looks like there's been<eol>an attempt to disguise the writing.<eos>
+<bos>By using samples of<eol>Mrs. LaPierre's handwriting,<eos>
+<bos>we see dominant letter forms...<eol>the "S" in "strangle,"<eos>
+<bos>"stray dog, " here in "Santa Claus. "<eos>
+<bos>Matches up with the "S"'s in "dollars"...<eos>
+<bos>"seven"and "cents. "<eos>
+<bos>- Enough to make a connection.<eol>- But not an indictment.<eos>
+<bos>Do you have information you'd like<eol>to share with us, Agent Mulder?<eos>
+<bos>Bud LaPierre says he'd<eol>been watching television...<eos>
+<bos>and had gotten up to go to bed<eol>when he found Amber Lynn missing.<eos>
+<bos>But according to the police report,<eos>
+<bos>the TVset was still on when<eol>the first officers arrived on the scene.<eos>
+<bos>By his own account, both mother<eol>and father put Amber Lynn to bed...<eos>
+<bos>But no one saw a stranger on a Friday...<eos>
+<bos>at a fairly early hour<eol>enter into a locked and lighted home...<eos>
+<bos>and remove this little girl undetected.<eos>
+<bos>- Husband's lying for his wife.<eol>- I don't think so.<eos>
+<bos>Why?<eos>
+<bos>Because that doesn't explain<eol>what happened to this little girl.<eos>
+<bos>What are you doing, Mulder?<eos>
+<bos>There's something in that abduction note<eol>that I've seen before.<eos>
+<bos>That's not what I mean.<eos>
+<bos>You're personalizing this case.<eol>You're identifying with your sister.<eos>
+<bos>My sister was taken by aliens.<eol>Did I say anything about aliens?<eos>
+<bos>What did I do?<eol>I provided a logical counterpoint.<eos>
+<bos>Pocatello, Idaho, 1987.<eos>
+<bos>Look familiar?<eos>
+<bos>Kathy Lee, visitors are here.<eos>
+<bos>- Can you let them in, please?<eos>
+<bos>Hi, Ms. Tencate. My name is<eol>Agent Mulder. This is Agent Scully.<eos>
+<bos>Can we have a seat?<eos>
+<bos>It's not the Ritz.<eos>
+<bos>Um... we just have a few questions.<eos>
+<bos>We've reviewed the facts of your case.<eol>The facts seem to speak for themselves.<eos>
+<bos>Your six-year-old son Dean<eol>was taken from his bed while he slept.<eos>
+<bos>A note was found threatening his life,<eol>later determined to be written by you.<eos>
+<bos>You plead innocent at trial,<eol>but you were convicted...<eos>
+<bos>and sentenced to 12 years, even though<eol>your son's body was never found.<eos>
+<bos>- Yes, that's right.<eol>- Your story is that, uh,<eos>
+<bos>on the night your son disappeared,<eol>you had a vision of him dead.<eos>
+<bos>You thought it was your mind<eol>playing tricks on you,<eos>
+<bos>but when you got up to check on him,<eol>he was missing from his bed.<eos>
+<bos>- Is that accurate? - Yes.<eos>
+<bos>Now, three years ago,<eol>after seven years of incarceration,<eos>
+<bos>you changed your story and confessed<eol>to the murder of your son...<eos>
+<bos>in a fit of insanity, a psychotic break.<eos>
+<bos>- Yes, that's right. - Why did you do it?<eos>
+<bos>I don't know. I was full of rage.<eos>
+<bos>I have a... copy of the note<eol>that you wrote.<eos>
+<bos>Do you mind if I show it to you?<eos>
+<bos>Now, there's a phrase<eol>down here at the bottom.<eos>
+<bos>"No one shoots at Santa Claus."<eos>
+<bos>Can you explain what that means to me?<eos>
+<bos>Uh... It means that, uh,<eos>
+<bos>when someone promises you something,<eol>a gift, like Santa Claus,<eos>
+<bos>that no one would do anything<eol>for fear of not getting the gift.<eos>
+<bos>A little girl disappeared<eol>from her bed three days ago.<eos>
+<bos>This is the note that was<eol>left at that scene.<eos>
+<bos>Can you take a look at that<eol>and tell me what it says at the bottom?<eos>
+<bos>Same thing.<eos>
+<bos>Neither note makes a specific demand.<eos>
+<bos>In both cases, there is no evidence<eol>of foul play or break-in.<eos>
+<bos>And, as in your son's case,<eol>there is no body to be found.<eos>
+<bos>- I told them where the body was.<eol>- Yes, you did.<eos>
+<bos>- I think you can. - I can't!<eos>
+<bos>You can't explain it<eol>because you didn't do anything.<eos>
+<bos>You didn't kill your son,<eol>and you didn't bury him.<eos>
+<bos>You're not guilty of anything other<eol>than a lie, just like these people.<eos>
+<bos>The only reason you changed your story<eol>was to get outta here.<eos>
+<bos>Because you knew the parole board<eol>might buy the story...<eos>
+<bos>of a psychotic break<eol>and of your terrible remorse.<eos>
+<bos>These people...<eos>
+<bos>they need someone to tell them it's okay,<eos>
+<bos>someone to corroborate their story.<eos>
+<bos>- I'm not that person.<eol>- They need your help.<eos>
+<bos>That was utterly irresponsible, Mulder.<eos>
+<bos>It was out of line and it was<eol>without any basis in reality.<eos>
+<bos>I can't explain it, Mulder,<eol>but you're doing exactly what I said.<eos>
+<bos>- You're personalizing this case.<eol>- No. I'm gonna solve this case.<eos>
+<bos>- I am gonna solve it. - How?<eos>
+<bos>I'm gonna find those kids.<eos>
+<bos>What if they're dead, Mulder?<eos>
+<bos>Don't go looking for something<eol>you don't wanna find.<eos>
+<bos>Guard? Guard, please,<eol>can you get them back?<eos>
+<bos>Guard? I need to talk.<eos>
+<bos>This is Fox Mulder. Leave a message.<eol>I'll try to get back to you.<eos>
+<bos>Fox, it's your mother.<eos>
+<bos>There are so many emotions in me,<eol>I wouldn't know where to start.<eos>
+<bos>So much that I've left unsaid<eol>for reasons I hope...<eos>
+<bos>one day you'll understand.<eos>
+<bos>This is highly unusual.<eol>I wanna know what you're doing here.<eos>
+<bos>Something I want your clients to see.<eos>
+<bos>I wanna know what it is first.<eos>
+<bos>I believe you share a secret.<eos>
+<bos>I'm, uh...<eos>
+<bos>I'm doing this because I feel<eol>that it's the right thing to do,<eos>
+<bos>and because I know what<eol>you're going through.<eos>
+<bos>I wouldn't want to happen<eol>to you what happened to me.<eos>
+<bos>I just want to tell you<eol>that your little girl is okay.<eos>
+<bos>And I know you're afraid<eol>of the truth, because I...<eos>
+<bos>I saw things that I was afraid of too.<eos>
+<bos>And I can't explain all of it,<eol>except to say...<eos>
+<bos>that I don't remember...<eos>
+<bos>ever... thinking those words that<eol>I wrote, let alone writing them.<eos>
+<bos>It was like they wrote<eol>themselves using my hand.<eos>
+<bos>But what I know...<eos>
+<bos>for sure, because I feel it in my heart,<eos>
+<bos>is that my son is safe and protected...<eos>
+<bos>and in a better place.<eos>
+<bos>Rumors and suspicions aside,<eos>
+<bos>the parents of Amber Lynn LaPierre...<eos>
+<bos>were released today for lack<eol>of evidence against them,<eos>
+<bos>and after giving a new statement to the<eol>Sacramento police, which insiders say...<eos>
+<bos>has authorities still baffled and<eol>confused, recounting a detailed story...<eos>
+<bos>that claims supernatural forces were at<eol>work when their daughter was abducted.<eos>
+<bos>The LaPierres, seen here returning<eol>to their home, declined comment.<eos>
+<bos>Federal investigation<eol>of the case will continue,<eos>
+<bos>but will no longer focus on<eol>the LaPierres as primary suspects.<eos>
+<bos>We, uh, we will intensify<eol>our search for Amber Lynn,<eos>
+<bos>and we remain hopeful<eol>of her eventual safe return.<eos>
+<bos>"Intensify our search" where?<eol>The Twilight Zone?<eos>
+<bos>- I have a corroborating witness.<eol>- In state prison.<eos>
+<bos>There's a material connection<eol>between these two women.<eos>
+<bos>The only connection,<eol>Agent Mulder, is you.<eos>
+<bos>I've got people busting<eol>their butts on this thing,<eos>
+<bos>putting together hard evidence,<eol>real evidence,<eos>
+<bos>while you're out gathering Grimm's<eol>Fairy Tales from convicted murderers.<eos>
+<bos>I deal in the real world, Agent Mulder.<eos>
+<bos>You begged onto this case<eol>as part of the solution.<eos>
+<bos>All you've done is hand our<eol>only suspects the Twinkie defense.<eos>
+<bos>- Sir. - What? What is it, Agent Scully?<eos>
+<bos>- I need to have a word with Agent Mulder.<eol>- It can wait.<eos>
+<bos>- No, it can't, sir.<eol>- What is it, Scully?<eos>
+<bos>Mulder, your mom's dead.<eos>
+<bos>- Mulder? - In here.<eos>
+<bos>- What is it? - Diazapan.<eos>
+<bos>She used them to sleep.<eos>
+<bos>- Was there a note? - No.<eos>
+<bos>She called when I was in California.<eol>She wanted to talk,<eos>
+<bos>but, uh, I never called her back.<eos>
+<bos>Oh, Mulder...<eos>
+<bos>I didn't... Why would she do this?<eos>
+<bos>It just doesn't make any sense.<eos>
+<bos>- We never truly know why.<eol>- No. She wouldn't kill herself.<eos>
+<bos>Why are these pictures gone?<eos>
+<bos>There were photos here.<eol>There were photos of my sister and I.<eos>
+<bos>This is all she had left of us,<eol>and they're missing. Why...<eos>
+<bos>She saw me on the news. She wanted to<eol>talk about the missing girl, Amber Lynn.<eos>
+<bos>She wanted to tell me<eol>something about her.<eos>
+<bos>Maybe she couldn't<eol>tell me over the phone,<eos>
+<bos>'cause she was afraid that they would<eol>do something like this to her.<eos>
+<bos>- Who? - Whoever took my sister.<eos>
+<bos>Look at this place.<eol>I mean, it's like it's all staged.<eos>
+<bos>The pills, the oven, the tape.<eol>It's like a bad movie script.<eos>
+<bos>They would've come here,<eol>and they would've threatened her.<eos>
+<bos>She would be upset. They would have<eol>to sedate her. I would look for a, uh...<eos>
+<bos>a needle-puncture mark or something else<eol>in her system besides these pills.<eos>
+<bos>No, Mulder.<eol>Please don't ask me to do this.<eos>
+<bos>- Scully, who else can I ask?<eol>- An autopsy, Mulder?<eos>
+<bos>It's one thing on a stranger, but you're<eol>my friend and she's your mother.<eos>
+<bos>I know. But if you don't do it,<eol>I might never know the truth.<eos>
+<bos>You've seen things.<eos>
+<bos>I need to understand them.<eos>
+<bos>Something's happened to you?<eos>
+<bos>My mother's dead.<eos>
+<bos>You know why.<eos>
+<bos>Look, I can help you.<eol>I can talk to the parole board for you.<eos>
+<bos>But right now, I need you to help me.<eos>
+<bos>- I don't understand what you want.<eol>- I'm not here by accident.<eos>
+<bos>My sister was taken away from me...<eos>
+<bos>when she was eight years old,<eol>like your son was taken away from you.<eos>
+<bos>- Where's your sister now?<eol>- I don't know.<eos>
+<bos>- Your mother knew, didn't she?<eol>- Why do you ask that?<eos>
+<bos>- She was trying to tell you.<eol>- Tell me what?<eos>
+<bos>- She'd seen them. - Who?<eos>
+<bos>The walk-ins.<eos>
+<bos>Old souls looking for new homes.<eos>
+<bos>Your sister's among them.<eos>
+<bos>- You can see them? - Yes.<eos>
+<bos>But sometimes it's very difficult<eol>because they live in the starlight.<eos>
+<bos>- Is my sister dead? - They took her...<eos>
+<bos>to protect her soul from the great harm<eol>it would've suffered in her life,<eos>
+<bos>just like they did my little boy.<eos>
+<bos>Where do they take them?<eos>
+<bos>Your boy?<eos>
+<bos>- This little girl, Amber Lynn LaPierre?<eol>- I don't know.<eos>
+<bos>But they're okay.<eos>
+<bos>I'm sure your sister's there too.<eos>
+<bos>Come on! I want to see Santa!<eos>
+<bos>Yes!<eos>
+<bos>- That one's fat. - That's not Rudolph!<eos>
+<bos>- This one is dead! He's dead.<eol>- He's not! He's not!<eos>
+<bos>Rudolph the red-nosed reindeer<eos>
+<bos>Had a very shiny nose Like a lightbulb<eos>
+<bos>- You can't sing it! - Yes, I could!<eos>
+<bos>- No, you can't! - I could!<eos>
+<bos>Hey, buddy.<eos>
+<bos>- We're gonna see Santa! - Santa!<eos>
+<bos>Fox, it's your mother.<eos>
+<bos>There are so many emotions in me,<eol>I wouldn't know where to start.<eos>
+<bos>So much that I've left<eol>unsaid for reasons...<eos>
+<bos>I hope one day you'll understand.<eos>
+<bos>There are so many emotions in me,<eol>I wouldn't know where to start.<eos>
+<bos>So much that I've left<eol>unsaid for reasons...<eos>
+<bos>I hope one day you'll understand.<eos>
+<bos>I'm glad you're here.<eos>
+<bos>My mother was trying<eol>to tell me something.<eos>
+<bos>- Think I've figured it out.<eos>
+<bos>Something about my sister that<eol>she was never able to tell me.<eos>
+<bos>So much that I've left<eol>unsaid for reasons...<eos>
+<bos>I hope one day you'll understand.<eos>
+<bos>She knew what I'd find with<eol>this case out in California.<eos>
+<bos>- How could she know that?<eol>- Child disappearing without a trace,<eos>
+<bos>without evidence,<eol>in defiance of all logical explanation?<eos>
+<bos>She knew because of what's driven me,<eol>what I've always believed.<eos>
+<bos>Mulder...<eos>
+<bos>Scully, these...<eol>these parents who have lost...<eos>
+<bos>who've lost their children,<eol>they've had visions...<eos>
+<bos>of their sons and daughters...<eos>
+<bos>in scenarios that never happened, but...<eos>
+<bos>which they describe in notes that<eol>came through as automatic writing,<eos>
+<bos>My mother must've written<eol>a note like that herself...<eos>
+<bos>describing the scenario of my...<eos>
+<bos>sister's disappearance,<eol>of her abduction by aliens.<eos>
+<bos>Don't you see, Scully? It never happened.<eos>
+<bos>All these visions that<eol>I've had have just been...<eos>
+<bos>they've been to help me cope,<eol>to help me deal with the loss, but...<eos>
+<bos>I've been looking for my sister<eol>in the wrong place.<eos>
+<bos>That's... what my mother<eol>was trying to tell me.<eos>
+<bos>That's what she was<eol>trying to warn me about.<eos>
+<bos>That's why they killed her.<eos>
+<bos>Your mother killed herself, Mulder.<eos>
+<bos>I conducted the autopsy.<eos>
+<bos>She was dying of an incurable disease...<eos>
+<bos>an untreatable and horribly disfiguring<eol>disease called Paget's carcinoma.<eos>
+<bos>She knew it. There were doctors' records.<eos>
+<bos>She didn't wanna live.<eos>
+<bos>She was trying to tell me something!<eos>
+<bos>She was...<eos>
+<bos>She was trying to tell you to stop...<eos>
+<bos>to stop looking for your sister.<eos>
+<bos>She was just trying<eol>to take away your pain.<eos>
+<bos>- Hi. - Hi.<eos>
+<bos>- How's he doing?<eol>- It's been a hard night for him.<eos>
+<bos>Billie LaPierre's asking for him.<eol>She's got something to say.<eos>
+<bos>- She'll only talk to Mulder.<eol>- It's not a good...<eos>
+<bos>What is it?<eos>
+<bos>This case has heated up.<eol>I've booked two flights for us.<eos>
+<bos>Then you better book three.<eos>
+<bos>Honey, wake up.<eos>
+<bos>- He's here. - Hm?<eos>
+<bos>Come in, Agent Mulder.<eos>
+<bos>It's okay. She's here to help.<eos>
+<bos>What happened here, Billie?<eos>
+<bos>I saw my daughter right in this room...<eos>
+<bos>standing right there.<eos>
+<bos>I swear to God,<eol>she was right over there...<eos>
+<bos>in the pajamas her grandma gave her...<eos>
+<bos>saying something to me.<eos>
+<bos>- What was she saying? - I don't know.<eos>
+<bos>Her lips were moving,<eol>but I couldn't hear.<eos>
+<bos>I thought...<eos>
+<bos>I thought she was saying "74."<eos>
+<bos>74? The number 74?<eol>Does that mean anything to you?<eos>
+<bos>74 mean anything to you, Mr. LaPierre?<eos>
+<bos>Let's go home.<eos>
+<bos>Mulder, we just got here.<eos>
+<bos>We're not gonna...<eol>find these people's daughter alive.<eos>
+<bos>- How do you know that?<eol>- What we're hearing, it's...<eos>
+<bos>the delusional talk of people<eol>that don't want to accept the truth.<eos>
+<bos>But you can't see a ghost<eol>and still hope to find her alive.<eos>
+<bos>Both things can't be true.<eos>
+<bos>If this little girl's spirit<eol>really did appear to her mother,<eos>
+<bos>then there's probably<eol>only one explanation.<eos>
+<bos>You think their daughter's dead.<eos>
+<bos>- Well, what about the handwritten note?<eol>- I don't know what that means.<eos>
+<bos>I don't know what is the truth<eol>and what isn't anymore.<eos>
+<bos>I'm way too close to this case<eol>to make any kind of sound judgment.<eos>
+<bos>In fact, I would like to ask for you<eol>to let me off this case, please,<eos>
+<bos>and I'd like to take some time off.<eos>
+<bos>What is it?<eos>
+<bos>- Santa Claus. - What?<eos>
+<bos>Stop. Turn around.<eos>
+<bos>Some of these tapes go back to the '60s.<eos>
+<bos>I think I know what<eol>we're gonna find here.<eos>
+<bos>It's what my mother was<eol>afraid of... my sister.<eos>
+<bos>It's Amber Lynn LaPierre.<eos>
+<bos>This tape is dated two days<eol>before her disappearance.<eos>
+<bos>Hey!<eos>
+<bos>- Stop!<eos>
+<bos>Keep your hands up!<eos>
+<bos>- What's your name? - Ed Truelove.<eos>
+<bos>You're under arrest.<eol>You have the right to remain silent.<eos>
+<bos>If you give up the right<eol>to remain silent, anything you say...<eos>
+<bos>can and will be used<eol>against you in a court of law.<eos>
+<bos>You have the right<eol>to speak with an attorney...<eos>
+<bos>and to have your attorney<eol>present during questioning.<eos>
+<bos>If you so desire and cannot afford one...<eos>
+<bos>Scully.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

@@ -1,0 +1,372 @@
+<bos>¡Fuera!<eos>
+<bos>¡Ay, maldita sea!<eos>
+<bos>Me acaba de picar una abeja.<eos>
+<bos>Vaya, caramba...<eos>
+<bos>si no son todos Uds. algo increíble.<eos>
+<bos>¿Su mamá nunca los confunde?<eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>"TODO MUERE"<eos>
+<bos>"Camino Bond Mill - Maryland Rural"<eos>
+<bos>He venido a costa de un gran riesgo.<eol>No tengo intención de lastimarlo.<eos>
+<bos>- Mulder, él sabe sobre tu hermana.<eol>- ¿Cómo sé que es real?<eos>
+<bos>Puedo explicarle todo.<eos>
+<bos>Primero quiero que venga<eol>a un lugar conmigo.<eos>
+<bos>Quiero que venga conmigo<eol>a ver a mi madre.<eos>
+<bos>No te interpongas, Scully.<eol>Él no quiere lastimarte a ti.<eos>
+<bos>No puedes usar tu revólver.<eos>
+<bos>¡Deténgase ahí mismo, señor!<eos>
+<bos>Vamos.<eos>
+<bos>¡Mulder!<eos>
+<bos>Scully, trae el auto.<eos>
+<bos>Por aquí.<eos>
+<bos>Maldición.<eos>
+<bos>Por aquí.<eos>
+<bos>Jeremiah!<eos>
+<bos>Jeremiah, deténgase!<eos>
+<bos>¿Qué está haciendo?<eos>
+<bos>Vendrán más detrás de él.<eos>
+<bos>- No puede irse de aquí. - ¡Me matarán!<eos>
+<bos>Necesito su ayuda.<eos>
+<bos>Mi madre se está muriendo.<eos>
+<bos>¿Adónde van?<eos>
+<bos>No sé.<eos>
+<bos>Necesito saber.<eos>
+<bos>Por favor, no sé.<eos>
+<bos>Ellos sabrán dónde encontrarnos.<eos>
+<bos>- Nos estarán esperando. - ¿Quiénes?<eos>
+<bos>Sus hombres del gobierno. Estarán<eol>esperando en el hospital con su madre.<eos>
+<bos>¿Qué pueden hacer?<eol>Estamos trabajando en plena luz.<eos>
+<bos>No pueden detenernos sin exponerse,<eol>sin consecuencia.<eos>
+<bos>Ud. tiene que entender algo.<eol>Yo debo perecer.<eos>
+<bos>No importa cuáles sean las consecuencias<eol>para ese fin...<eos>
+<bos>son incalculables para la preservación<eol>del plan más vasto.<eos>
+<bos>¿El plan más vasto?<eos>
+<bos>Se refiere a la colonización.<eos>
+<bos>Hegemonía, Sr. Mulder.<eol>Un nuevo origen de especies.<eos>
+<bos>- No entiendo. - Puedo mostrarle.<eos>
+<bos>Mi madre se está muriendo.<eos>
+<bos>Necesito llevarlo<eol>para que la vea ahora mismo.<eos>
+<bos>¿ Y si ellos nos están esperando...<eos>
+<bos>dispuestos a matarme y enfrentar<eol>las consecuencias de sus acciones...<eos>
+<bos>y presentarse ante su sistema<eol>de justicia ineficaz?<eos>
+<bos>Yo estaré muerto,<eol>no podré salvar a su madre.<eos>
+<bos>El trabajo continuará.<eol>El plan continuará para ser ejecutado.<eos>
+<bos>- O Ud. puede detenerlo.<eol>- ¿Cómo puedo detenerlo yo?<eos>
+<bos>Puedo llevarlo a un lugar,<eol>mostrarle el trabajo que se realiza...<eos>
+<bos>- donde Ud. podrá ver--<eol>- ¡No, no hay tiempo!<eos>
+<bos>Donde Ud. puede ver a su hermana.<eos>
+<bos>No viene.<eos>
+<bos>Se lo dije.<eos>
+<bos>- ¿Dónde está entonces? - No lo sé.<eos>
+<bos>Sin duda sospechó<eol>que estaríamos aquí esperando.<eos>
+<bos>A menos que haya habido<eol>una fuga de seguridad.<eos>
+<bos>¿Quién?<eos>
+<bos>Han llegado a mi poder unas fotos...<eos>
+<bos>de su visita a la casa de verano<eol>de la Sra. Mulder.<eos>
+<bos>¿Estaba al tanto de que<eol>le tomaban fotografías?<eos>
+<bos>¿Quién?<eos>
+<bos>Creo que eso se puede determinar<eol>plantando información simplemente.<eos>
+<bos>Para ver adónde fluye esa información.<eos>
+<bos>¿Qué información?<eos>
+<bos>Que la vida de la Sra. Mulder<eol>está en peligro...<eos>
+<bos>que, sin protección...<eos>
+<bos>podría llegar a un fin antinatural.<eos>
+<bos><i>Scully, soy yo.</i><eos>
+<bos>- ¿Dónde estás?<eol>- <i>Exactamente donde me dejaste.</i><eos>
+<bos>- Estoy sentada en mi auto.<eol>-<i>¿Por qué?</i><eos>
+<bos>Porque no contestabas tu teléfono<eol>y no sabía qué otra cosa hacer.<eos>
+<bos>¿Estás bien, Scully?<eos>
+<bos>Estoy bien.<eos>
+<bos>Escúchame. Habrá gente buscándome.<eos>
+<bos>Van a pensar que pueden llegar a mí<eol>a través de ti.<eos>
+<bos><i>No, espera. Escucha un segundo, Scully.</i><eol><i>Necesito que me hagas un favor.</i><eos>
+<bos><i>Tuve que robar un auto</i><eol><i>de un aeropuerto en Alberta.</i><eos>
+<bos><i>Habrá un registro de que pasé</i><eol><i>por la aduana canadiense...</i><eos>
+<bos><i>y necesito que cubras mis rastros.</i><eos>
+<bos>También necesito que sepas<eol>que estoy bien, Scully.<eos>
+<bos><i>Estoy bien.</i><eos>
+<bos><i>¿De acuerdo?</i><eos>
+<bos>- Mulder, él va tras de ti.<eol>-<i>¿Quién?</i><eos>
+<bos>El hombre que dejaste por muerto.<eol>Está vivo.<eos>
+<bos>Se acabó el combustible.<eos>
+<bos>¿Cuánto falta desde aquí?<eos>
+<bos>Unos 30 kilómetros.<eos>
+<bos>Quizás la mitad de eso, a pie...<eos>
+<bos>a través de esas colinas.<eos>
+<bos>En marcha.<eos>
+<bos>¿Señor?<eos>
+<bos>Agente Scully.<eos>
+<bos>Oí que me estaba buscando.<eos>
+<bos>Ha habido cierta inquietud<eol>acerca de Ud. y el agente Mulder.<eos>
+<bos>Estamos bien, señor.<eos>
+<bos>Hemos estado buscando<eol>a este hombre,Jeremiah Smith.<eos>
+<bos>- ¿Lo encontraron? - No.<eos>
+<bos>Recibí un memo suyo diciendo<eol>que hay confusión sobre este hombre...<eos>
+<bos>que la Administración de Seguro Social<eol>tiene cinco hombres con este nombre...<eos>
+<bos>que trabajan<eol>en diversas oficinas del país...<eos>
+<bos>con identificaciones<eol>con una foto idéntica.<eos>
+<bos>Investigamos a estos hombres.<eos>
+<bos>Los cinco no se presentaron<eol>estos últimos tres días.<eos>
+<bos>¿Podrían Ud. o el agente Mulder<eol>informarme cuáles son sus sospechas?<eos>
+<bos>Me temo que no hemos formulado<eol>exactamente ninguna sospecha clara, Sr.<eos>
+<bos>Pues nosotros sí, agente Scully.<eos>
+<bos>¿Señor?<eos>
+<bos>Logramos descargar<eol>los datos del disco rígido...<eos>
+<bos>de las estaciones de trabajo de<eol>cada uno de los 5 hombres desaparecidos.<eos>
+<bos>En cada caso, encontramos una enorme<eol>cantidad de archivos y datos...<eos>
+<bos>que no se pueden identificar...<eos>
+<bos>que no corresponden con la contabilidad<eol>o documentos de cobranzas...<eos>
+<bos>realizados como negocios normales<eol>del departamento.<eos>
+<bos>Los datos estaban encerrados<eol>en archivos con santo y seña.<eos>
+<bos>¿Cuánto hay ahí?<eos>
+<bos>Suficiente para llenar siete discos<eol>rígidos de 10 gigabytes.<eos>
+<bos>Unos mil millones de registros.<eos>
+<bos>Parece ser algún tipo de contabilidad<eol>o registro personal.<eos>
+<bos>¿Podría ser algún tipo de criptograma?<eos>
+<bos>Si lo es, no puedo descifrarlo.<eos>
+<bos>Me gustaría tener una copia<eol>de una porción. Tal vez pueda deducirlo.<eos>
+<bos>¿En serio?<eos>
+<bos>Tal vez. Me gustaría<eol>enseñárselo a alguien.<eos>
+<bos>¿El agente Mulder?<eos>
+<bos>Creo, señor, que esto está más<eol>dentro de mi campo de pericia.<eos>
+<bos>¿Qué le pasó a este hombre?<eos>
+<bos>Yo no tocaría el cuerpo, Sr. Mulder.<eos>
+<bos>Hay una orden de trabajo aquí.<eos>
+<bos>Es para ayer.<eos>
+<bos>Sólo estuvo aquí poco más de 24 horas.<eos>
+<bos>Ud. sabe qué lo mató, ¿verdad?<eos>
+<bos>No falta mucho.<eos>
+<bos>Está mirando el futuro, Sr. Mulder.<eos>
+<bos>¿Qué es?<eos>
+<bos>Un arbusto floreciente.<eos>
+<bos>Pero su epíteto específico no se halla<eol>en ninguno de sus gráficos de taxonomía.<eos>
+<bos>¿Para qué se lo cultiva?<eos>
+<bos>Polen.<eos>
+<bos>¿Qué es esto?<eos>
+<bos>- ¿Qué está pasando aquí?<eol>- ¿Qué le dije, Sr. Mulder?<eos>
+<bos>Se ve idéntica a mi hermana.<eos>
+<bos>Pero eso no es posible.<eos>
+<bos>Tiene la misma edad<eol>que el día que se la llevaron.<eos>
+<bos>¡Samantha!<eos>
+<bos>Samantha, soy yo.<eos>
+<bos>Soy yo, Fox, tu hermano.<eos>
+<bos>¿Te acuerdas de mí?<eos>
+<bos>- ¿Qué le pasa?<eol>- No tiene ningún lenguaje.<eos>
+<bos>¿Qué quiere decir?<eos>
+<bos>Ella es un zángano, Sr. Mulder.<eol>Una obrera.<eos>
+<bos>¿De qué habla?<eos>
+<bos>Hay más cosas que debe ver<eol>para poder entender.<eos>
+<bos>- ¿Cómo llegaron aquí?<eol>- Están estacionados aquí.<eos>
+<bos>Son parte de una fuerza<eol>de trabajo agraria.<eos>
+<bos>- ¿Quién los cuida? - Se cuidan solos.<eos>
+<bos>Los padres son innecesarios,<eol>una división de energía superflua.<eos>
+<bos>Son clones.<eos>
+<bos>Ovotipos en serie.<eos>
+<bos>¿Ha visto suficiente, Sr. Mulder?<eos>
+<bos>No podemos quedarnos aquí mucho más.<eos>
+<bos>Iré a ver si puedo encontrar combustible.<eos>
+<bos>Abra la puerta, agente Scully.<eos>
+<bos>¿Cómo sabía que yo estaba aquí?<eos>
+<bos>Trato de localizar al agente Mulder.<eol>Vi cuando Ud. entraba al edificio.<eos>
+<bos>- ¿Dónde está? - No sé.<eos>
+<bos>Tengo información para él,<eol>un asunto que le concierne muchísimo.<eos>
+<bos>- ¿Cómo le concierne?<eol>- Tiene que ver con su madre.<eos>
+<bos>¿Le pasó algo?<eos>
+<bos>- No, todavía no. - ¿Está en peligro?<eos>
+<bos>Prefiero hablar<eol>con el agente Mulder directamente.<eos>
+<bos>Simplemente diré<eol>que ella no está protegida.<eos>
+<bos>¿De quién?<eos>
+<bos>¿De quién?<eos>
+<bos>Si quiere involucrarse...<eos>
+<bos>convendría que le diera<eol>esta información a su compañero.<eos>
+<bos>No hasta que Ud. me dé<eol>información primero.<eos>
+<bos>Éstos son datos tomados<eol>de registros del Seguro Social.<eos>
+<bos>Está siguiendo la dirección equivocada.<eos>
+<bos>Todos comienzan con las letras " P.E.V.".<eos>
+<bos>Sí sabe qué son. Confirme o niegue.<eos>
+<bos>" Programa de Erradicación de Viruela".<eos>
+<bos>Viruela.<eos>
+<bos>No abra puertas que no esté preparada<eol>a atravesar, agente Scully.<eos>
+<bos>¿ Y qué significa eso?<eos>
+<bos>Déjelo en paz.<eos>
+<bos>Proteja a la madre.<eos>
+<bos>¿Qué hace?<eos>
+<bos>- Ella vendrá con nosotros.<eol>- No puede hacer esto.<eos>
+<bos>- Ella no es su hermana.<eol>- ¿Quién es entonces?<eos>
+<bos>Tiene Ud. aquí una oportunidad<eol>de entender algo tanto más grande...<eos>
+<bos>de inferirlo, de exponerlo.<eos>
+<bos>Bien, entonces explíquemelo.<eol>¡Explíquemelo ahora!<eos>
+<bos>- Abejas. - Es un colmenar.<eos>
+<bos>- ¿A ese hombre lo mataron abejas? - Sí.<eos>
+<bos>No es una buena idea<eol>ocultarse aquí dentro.<eos>
+<bos>- Ud. no tiene inmunidad contra ellas.<eol>- ¿ Usted sí?<eos>
+<bos>Que alguien me lleve. No veo nada.<eos>
+<bos>¿Es ése el único camino para salir?<eos>
+<bos>Entramos a nuestra propia trampa.<eos>
+<bos>Vamos.<eos>
+<bos>"Oficina Central del FBI<eol>Washington, D.C."<eos>
+<bos>- ¿Está ocupado, agente Pendrell?<eol>- No, sólo estaba--<eos>
+<bos>Bien, porque creo que he avanzado algo<eol>con estos datos.<eos>
+<bos>¿Puede poner los archivos en pantalla?<eos>
+<bos>Yo no llegué a ninguna parte.<eos>
+<bos>" P.E.V.--<eol>Programa de Erradicación de Viruela".<eos>
+<bos>Viruela. ¿Cómo dedujo eso?<eos>
+<bos>Tuve suerte. Pero la clave está<eol>en la primera hilera de letras.<eos>
+<bos>Hileras de 24 letras.<eol>Treinta variaciones diferentes.<eos>
+<bos>"20 letras" para un científico significa<eol>código de secuencia de aminoácidos.<eos>
+<bos>- Y es lo que esto resultó ser.<eol>- ¿Código de secuencia proteica, de qué?<eos>
+<bos>Virus de la viruela...<eos>
+<bos>el virus usado para inocular<eol>a los humanos contra la viruela.<eos>
+<bos>Bien. Correcto. Esta gente mantiene<eol>registros de inoculaciones de viruela.<eos>
+<bos>- ¿Por qué? - No he resuelto eso todavía.<eos>
+<bos>Pero la gran pregunta es<eol>esta segunda hilera alfanumérica.<eos>
+<bos>Quince dígitos.<eos>
+<bos>La verifiqué. Cada una es diferente.<eol>Un número infinito de variaciones.<eos>
+<bos>Un inventario.<eos>
+<bos>¿De qué?<eos>
+<bos>De nosotros.<eos>
+<bos>Con todo respeto, agente Scully...<eos>
+<bos>parece algo del Telescopio Hubble.<eos>
+<bos>De hecho, es una imagen creada por<eol>lo que se llama un microscopio confocal.<eos>
+<bos>Están mirando una imagen tridimensional<eol>de la ubicación de una proteína.<eos>
+<bos>En este caso, proteína estructural<eol>de la viruela número 6.<eos>
+<bos>Es uno de los agentes etiológicos<eol>usados en la vacuna de la viruela.<eos>
+<bos>- ¿De dónde vino? - De mí.<eos>
+<bos>Hicieron una biopsia de mi cicatriz<eol>de la vacuna en el brazo.<eos>
+<bos>A través de un proceso llamado<eol>coloración inmunohistoquímica...<eos>
+<bos>y con la adición de un anticuerpo<eol>para el virus de viruela seis...<eos>
+<bos>logré obtener esta imagen<eol>de la ubicación de una proteína.<eos>
+<bos>Un patrón de proteína aislado<eol>no fortuito.<eos>
+<bos>No soy un científico y no creo<eol>que mucha gente en esta sala--<eos>
+<bos>Lo que estoy diciendo es que creo<eol>que esta proteína es un rótulo...<eos>
+<bos>una especie de marcador genético<eol>que se me aplicó...<eos>
+<bos>cuando me inocularon contra la viruela<eol>de niña.<eos>
+<bos>¿Por qué usted?<eos>
+<bos>No sólo yo. Todos nosotros.<eos>
+<bos>Muy posiblemente todos los inoculados<eol>en los últimos 50 años.<eos>
+<bos>Francamente, esto suena como algo que<eol>podríamos esperar del agente Mulder.<eos>
+<bos>Tuve mis dudas...<eos>
+<bos>y aún no estoy segura.<eos>
+<bos>Pero realicé el mismo procedimiento<eol>en el agente Pendrell.<eos>
+<bos>La ubicación de la proteína de su<eol>biopsia debería ser idéntica a la mía...<eos>
+<bos>pero es levemente diferente...<eos>
+<bos>lo cual podría corresponder<eol>a los registros alfanuméricos...<eos>
+<bos>reunidos por los hombres<eol>en la Administración del Seguro Social.<eos>
+<bos>¿Entonces lo que Ud. está diciendo,<eol>agente Scully...<eos>
+<bos>es que nos están catalogando,<eol>etiquetando e inventariando?<eos>
+<bos>¿Quiénes?<eos>
+<bos>No lo sé...<eos>
+<bos>pero tendría que ser<eol>una agencia gubernamental.<eos>
+<bos>- ¿ Y con qué propósito?<eol>- Tampoco sé eso.<eos>
+<bos>El único hombre que podría darnos<eol>esa información es Jeremiah Smith.<eos>
+<bos>Agente Scully,<eol>¿podemos conversar un momento?<eos>
+<bos>A solas.<eos>
+<bos>¿Se da cuenta de lo que<eol>está insinuando ahí adentro?<eos>
+<bos>Está reuniendo a esta gente en la mitad<eol>del día de trabajo para sugerir--<eos>
+<bos>Soy una científica, señor.<eos>
+<bos>Lo que estoy fomentando ahí<eol>es evidencia reductora.<eos>
+<bos>Es la razón por la que me asignaron<eol>a los Expedientes X para empezar, ¿no?<eos>
+<bos>¿Para poner el trabajo del agente Mulder<eol>bajo la luz de la ciencia?<eos>
+<bos>Discúlpeme.<eos>
+<bos>¿Dónde estás en este momento?<eos>
+<bos>Estoy en la oficina de Skinner.<eol>¿Dónde estás tú?<eos>
+<bos>En Canadá, pero tomaré un avión pronto.<eol>Necesito que me encuentres al llegar.<eos>
+<bos>Dime dónde.<eos>
+<bos>- En el hospital donde está mi madre.<eol>- <i>Mulder, no creo</i>--<eos>
+<bos>Su vida depende de que mi grupo y yo<eol>lleguemos ahí a salvo.<eos>
+<bos><i>¿Quiénes?</i><eos>
+<bos><i>Jeremiah Smith y alguien más.</i><eos>
+<bos>Voy a necesitar protección, Scully.<eos>
+<bos>Créeme, Mulder, la tendrás.<eos>
+<bos><i>¿Qué quieres decir?</i><eos>
+<bos>Hay mucha gente que quiere hablar<eol>con Jeremiah Smith.<eos>
+<bos>- Tendrán su oportunidad.<eol>- <i>Estaremos ahí.</i><eos>
+<bos>Por favor, no puede matarlo.<eol>No puede morir.<eos>
+<bos>Debe morir.<eos>
+<bos>Esa niña es mi hermana.<eos>
+<bos>Él te muestras piezas,<eol>pero no te dice nada del todo...<eos>
+<bos>porque es inconsecuente...<eos>
+<bos>un traidor al proyecto.<eos>
+<bos>Mátame a mí. Deja que ellos se vayan.<eos>
+<bos>- ¿Cambiarías tu vida por la de él?<eol>- Por la de mi madre.<eos>
+<bos>Todo muere.<eos>
+<bos>Hace 5 horas que estamos aquí<eol>de brazos cruzados, agente Scully.<eos>
+<bos>Algo está mal. Algo ocurrió.<eos>
+<bos>¿No tiene manera de comunicarse con él?<eos>
+<bos>Están comprometiendo seriamente nuestra<eol>capacidad para tratar a los pacientes.<eos>
+<bos>Ay, Dios mío. Mulder.<eos>
+<bos>No puedo.<eos>
+<bos>No hay nada.<eos>
+<bos>Estás-- No.<eol>" Personal Autorizado Únicamente"<eos>
+<bos>Estás helado. Está en--<eol>Estás en estado de shock, Mulder.<eos>
+<bos>¿Qué ocurrió?<eos>
+<bos>Ella nunca sabrá.<eos>
+<bos>Ella nunca sabrá.<eos>
+<bos>Yo podría haberla salvado, Scully.<eos>
+<bos>Mientras esté tendida aquí,<eol>no puedes perder las esperanzas.<eos>
+<bos>No me importa lo que digan los médicos.<eos>
+<bos>Tuve una oportunidad...<eos>
+<bos>y dejé que se me escapara de las manos.<eos>
+<bos>No sabes eso, Mulder.<eos>
+<bos>No puedes culparte<eol>por lo que sólo era una esperanza.<eos>
+<bos>Él me llevó a un lugar con campos verdes.<eos>
+<bos>Vi a mi hermana.<eos>
+<bos>Ella era una niñita.<eos>
+<bos>He visto demasiadas cosas para no creer.<eos>
+<bos>Yo también he visto cosas.<eos>
+<bos>Pero ahora hay que encontrar respuestas.<eos>
+<bos>Tenemos la esperanza<eol>de que hay un lugar por donde empezar.<eos>
+<bos>Eso es lo que yo creo.<eos>
+<bos>Pones tanta fe en tu ciencia, Scully,<eol>pero...<eos>
+<bos>para las cosas que yo vi, la ciencia<eol>no brinda un lugar donde empezar.<eos>
+<bos>Nada ocurre en contradicción<eol>a la naturaleza...<eos>
+<bos>sólo en contradicción<eol>a lo que sabemos de ella.<eos>
+<bos>Ése es un lugar donde empezar.<eos>
+<bos>Ahí es donde está la esperanza.<eos>
+<bos>Siento que llegué tan cerca.<eos>
+<bos>Yo también lo siento.<eos>
+<bos>Lo sé.<eos>
+<bos>¿Cómo?<eos>
+<bos>Me lo advirtió...<eos>
+<bos><i>un hombre que ambos conocemos...</i><eos>
+<bos><i>y que creo que sabe la verdad...</i><eos>
+<bos><i>y nos puede guiar</i><eol><i>a un lugar donde empezar.</i><eos>
+<bos>" RESG"<eos>
+<bos>" Edificio de las Naciones Unidas<eol>Ciudad de Nueva York - Un Mes Después"<eos>
+<bos>" Representante Especial<eol>del Secretario General"<eos>
+<bos>Me llamo Marita Covarrubias.<eos>
+<bos>Soy la asistente<eol>del representante especial.<eos>
+<bos>¿Pudo él revisar el material<eol>que le envié?<eos>
+<bos>- Sí. - ¿ Y me recibirá?<eos>
+<bos>Me temo que lo llamaron<eol>para algo importante.<eos>
+<bos>¿Puedo preguntar quién lo envió aquí?<eos>
+<bos>Un amigo.<eos>
+<bos>Estuve averiguando con cada uno de los<eol>representantes especiales todo el mes...<eos>
+<bos>sobre los terrenos para cultivo<eol>en Canadá.<eos>
+<bos>He tratado de obtener algunas respuestas<eol>y sólo llegué a callejones sin salida.<eos>
+<bos>Puedo decirle que esa granja<eol>ha sido abandonada.<eos>
+<bos>Los cultivos que Ud. describió<eol>fueron muriendo...<eos>
+<bos>pero se lo identificó como ginseng.<eos>
+<bos>No se halló ninguna evidencia<eol>de colmenares o cría de abejas.<eos>
+<bos>Sé que ésta no es la respuesta<eol>que Ud. quería.<eos>
+<bos>Yo--<eos>
+<bos>¿Puedo preguntarle por qué es esto<eol>tan importante para Ud.?<eos>
+<bos>He sufrido algunas pérdidas<eol>muy personales recientemente...<eos>
+<bos>y...<eos>
+<bos>tenía la esperanza...<eos>
+<bos>que--<eos>
+<bos>No todo muere, Sr. Mulder.<eos>
+<bos>Necesito saber por qué razón<eol>se debe hacer esto.<eos>
+<bos>Para que el trabajo pueda continuar.<eos>
+<bos>Para que el proyecto<eol>pueda proceder sin demora...<eos>
+<bos>quitando un obstáculo innecesario.<eos>
+<bos>¿Qué obstáculo?<eos>
+<bos>El agente Mulder, en realidad.<eos>
+<bos>Si su madre muriera, él--<eos>
+<bos>¿Él, qué?<eos>
+<bos>Verá...<eos>
+<bos>el enemigo más feroz es el hombre<eol>que no tiene nada que perder.<eos>
+<bos>Y Ud. sabe lo importante que es<eol>el agente Mulder para la ecuación.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

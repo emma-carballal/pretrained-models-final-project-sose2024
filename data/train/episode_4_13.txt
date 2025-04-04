@@ -1,0 +1,691 @@
+<bos>They put the time of death<eol>between eight and twelve hours ago.<eos>
+<bos>No visible cause, no sign of battery<eol>or sexual assault. All we have is this.<eos>
+<bos>Can we turn her over?<eos>
+<bos>- Karen Swenson.<eol>- Is that a positive I.D.?<eos>
+<bos>She went to school with my son.<eos>
+<bos>Would that be the class of '89 Detective?<eos>
+<bos>It's happening again, isn't it?<eos>
+<bos>Agent Dana Scully.<eos>
+<bos>Man: Come in.<eos>
+<bos>Agent Scully, thank you for coming<eol>on such short notice. Please.<eos>
+<bos>- You've been with us just over two years.<eol>- Yes, sir.<eos>
+<bos>You went to medical school,<eol>but you chose not to practice.<eos>
+<bos>How'd you come to work for the F.B.I.?<eos>
+<bos>Well, sir, I was recruited<eol>out of medical school.<eos>
+<bos>My parents still think<eol>it was an act of rebellion<eos>
+<bos>But l saw the FBl as a place<eol>where l could distinguish myself.<eos>
+<bos>Are you familiar<eol>with an agent named <font color="#00FF00">Fox Mulder</font>?<eos>
+<bos>Yes, I am.<eos>
+<bos>- How so? - By reputation.<eos>
+<bos>He's an Oxford-educated psychologist<eos>
+<bos>who wrote a monograph on<eol>serial killers and the occult<eos>
+<bos>that helped catch Monty Propps in 1988.<eos>
+<bos>Generally thought of as the best analyst<eol>in the violent crime section.<eos>
+<bos>He had a nickname at the academy:<eos>
+<bos><font color="#9e9e9e">Spooky</font> Mulder.<eos>
+<bos>Well I'll also tell you is that Agent Mulder<eol>has developed a consuming devotion<eos>
+<bos>to an unassigned project<eol>outside the Bureau mainstream.<eos>
+<bos>Are you familiar with the so-called<eol><font color="#00FF00">X-Files</font>?<eos>
+<bos>I believe they have to do<eol>with unexplained phenomena.<eos>
+<bos>More or less.<eos>
+<bos>The reason you're here is we want you<eol>to assist Mulder on these <font color="#00FF00">X-Files</font>.<eos>
+<bos>You will write field reports on<eol>your activities<eos>
+<bos>along with your observations<eol>on the validity of the work.<eos>
+<bos>Am I to understand that you want me<eol>to debunk; the <font color="#00FF00">X-Files</font> project?<eos>
+<bos>We trust you'll make<eol>the proper scientific analysis.<eos>
+<bos>You'll want to contact Agent Mulder shortly.<eol>We look forward to seeing your reports.<eos>
+<bos>Sorry, nobody down here<eol>but the F.B.I.'s most unwanted.<eos>
+<bos>Agent Mulder.<eos>
+<bos>I'm Dana Scully.<eos>
+<bos>I've been assigned to work with you.<eos>
+<bos>Isn't it nice to be so highly regarded?<eos>
+<bos>Who did you tick off<eos>
+<bos>to get stuck with this detail?<eos>
+<bos>Actually, I'm looking forward<eol>to working with you.<eos>
+<bos>I was under the impression<eol>that you were sent to spy on me.<eos>
+<bos>If you have any doubt<eol>about my qualifications...<eos>
+<bos>You're a medical doctor.<eos>
+<bos>You teach at the academy.<eos>
+<bos>You did your<eol>undergraduate degree in physics.<eos>
+<bos>"Einstein's Twin Paradox:<eol>A New lnterpretation."<eos>
+<bos>Dana Scully's senior thesis.<eos>
+<bos>Now that's a credential,<eol>rewriting Einstein.<eos>
+<bos>Did you bother to read it?<eos>
+<bos>I did. I liked it.<eos>
+<bos>In most of my work<eos>
+<bos>the laws of physics<eos>
+<bos>rarely seem to apply.<eos>
+<bos>Maybe l can get<eol>your medical opinion on this.<eos>
+<bos>Oregon female, age 21 .<eos>
+<bos>No explainable cause of death.<eos>
+<bos>Autopsy shows nothing. Zip.<eos>
+<bos>There are, however,<eol>these two distinct marks<eos>
+<bos>on her lower back.<eos>
+<bos>Dr. Scully, can you I.D. these marks?<eos>
+<bos>Needle punctures, maybe.<eos>
+<bos>An animal bite, electrocution.<eos>
+<bos>How's your chemistry?<eos>
+<bos>This is the substance found<eol>in the surrounding tissue.<eos>
+<bos>It's organic.<eos>
+<bos>I don't know.<eos>
+<bos>Is it some kind of synthetic protein?<eos>
+<bos>Beats me.<eos>
+<bos>I've never seen it, either<eos>
+<bos>but here it is again<eos>
+<bos>in South Dakota, and again in Texas.<eos>
+<bos>Do you have a theory?<eos>
+<bos>I have plenty of theories<eos>
+<bos>but maybe what you can explain to me<eos>
+<bos>is why it's Bureau policy<eos>
+<bos>to label these cases as<eol>"unexplained phenomena"<eos>
+<bos>and ignore them.<eos>
+<bos>Do you believe in the existence<eol>of extraterrestrials?<eos>
+<bos>Logically, I would have to say no.<eos>
+<bos>Given the distances needed<eos>
+<bos>to travel from<eos>
+<bos>the far reaches of space<eos>
+<bos>the energy requirements would exceed<eos>
+<bos>a spacecraft's capabilities.<eos>
+<bos>Conventional wisdom. This Oregon female--<eos>
+<bos>she's the fourth person<eol>in her graduating class<eos>
+<bos>to die under mysterious circumstances.<eos>
+<bos>When convention and science<eos>
+<bos>offer us no answers<eos>
+<bos>might we not finally turn<eol>to the fantastic<eos>
+<bos>as a plausibility?<eos>
+<bos>The girl obviously died of something.<eos>
+<bos>If it was natural causes, it's plausible<eos>
+<bos>there was something missed<eol>in the postmortem.<eos>
+<bos>If she was murdered<eos>
+<bos>it's plausible there was<eol>a sloppy investigation.<eos>
+<bos>What I find fantastic is any notion<eos>
+<bos>that there are answers<eol>beyond the realm of science.<eos>
+<bos>The answers are there.<eos>
+<bos>You have to know where to look.<eos>
+<bos>That's why they put the "I" in F.B.I.<eos>
+<bos>See you tomorrow morning,<eol>Scully, bright and early.<eos>
+<bos>We leave for the very plausible<eol>state of Oregon<eos>
+<bos>at 8:00 a.m.<eos>
+<bos>Pilot: l'd like to ask all passengers<eol>to fasten their seat belts<eos>
+<bos>as we're about to make our descent...<eos>
+<bos>This must be the place.<eos>
+<bos>You didn't mention yesterday<eol>this case has already been investigated.<eos>
+<bos>Yeah, the F.B.I. got involved<eol>after the first three deaths<eos>
+<bos>when local authorities<eol>failed to turn up any evidence.<eos>
+<bos>Our boys came out here, spent a week<eol>enjoyed the local salmon,<eos>
+<bos>which, with a little lemon twist, is just<eol>to die for. If you pardon the expression.<eos>
+<bos>Without explanation<eol>they were called back in,<eos>
+<bos>the case was reclassified and buried in the<eol><font color="#00FF00">X-Files</font> until l dug it up last week.<eos>
+<bos>And you found something they didn't?<eos>
+<bos>The autopsy reports of the first three victims<eol>show no unidentified marks or tissue samples<eos>
+<bos>but those reports were signed<eol>by a different medical examiner<eos>
+<bos>than the latest victim.<eos>
+<bos>That's pretty good, Scully.<eos>
+<bos>Better than you expected,<eol>or better than you hoped?<eos>
+<bos>Well, I'll let you know<eol>when we get past the easy part.<eos>
+<bos>Is the medical examiner a suspect?<eos>
+<bos>We won't know that  until<eol>we do some grave digging.<eos>
+<bos>I've arranged to exhume one of the other victims<eol>to see if we can get a tissue sample<eos>
+<bos>to match the girl's.<eos>
+<bos>- You're not squeamish, are you?<eol>- I don't know. I've never had the pleasure.<eos>
+<bos>What's going on?<eos>
+<bos>- What the hell was that about?<eol>- Oh, you know ... Probably nothing.<eos>
+<bos>Mr Mulder,<eol>John Truitt, County Coroner's Office.<eos>
+<bos>Yeah, hi. This is Agent Scully.<eol>How soon can we get started?<eos>
+<bos>- We're ready to go. - Oh, great!<eos>
+<bos>Were you able to arrange<eol>for an examination facility?<eos>
+<bos>- We got something for ya.<eol>- Excuse me! Excuse me.<eos>
+<bos>No.<eos>
+<bos>Please.<eos>
+<bos>Please stay in the car.<eos>
+<bos>I just don't know who you people think you are.<eos>
+<bos>You think you can come up here<eos>
+<bos>and do whatever you damn well please,<eol>don't ya?<eos>
+<bos>I'm sorry. You are..?<eos>
+<bos>I'm Doctor jay Nemman,<eol>I'm County Medical Examiner.<eos>
+<bos>Surely you must have been informed<eol>of our intentios to come up he....<eos>
+<bos>No. No, we've been away.<eos>
+<bos>Well, that answers a question we had:<eos>
+<bos>why you hadn't done the recent autopsy<eol>on Karen Swenson.<eos>
+<bos>You're aware of the tissue sample<eos>
+<bos>that was taken from the girls body.<eos>
+<bos>What, what is the insinuation here?<eos>
+<bos>Are you saying that I missed something<eol>in those others kids' exams?<eos>
+<bos>We're not insinuating anything, sir.<eos>
+<bos>Wait a minute!<eos>
+<bos>Well, I think you are.<eos>
+<bos>If you're making an accusation<eos>
+<bos>then you'd better have<eol>something to back it up.<eos>
+<bos>Daddy, please, let's just go home.<eos>
+<bos>Let's go home, please!<eos>
+<bos>Guy obviously needed a longer vacation.<eos>
+<bos>Ray Soames was the third victim.<eos>
+<bos>After graduating high school<eos>
+<bos>he spent time in a state mental hospital.<eos>
+<bos>treated for post-adolescent<eol>schizophrenia.<eos>
+<bos>Soames confessed<eol>to the first two murders.<eos>
+<bos>He pleaded to be locked up<eos>
+<bos>but he couldn't produce any evidence<eos>
+<bos>that he committed the crimes.<eos>
+<bos>Did you happend read the cause of death?<eos>
+<bos>Exposure. His body was found in the woods<eos>
+<bos>after escaping the hospital.<eos>
+<bos>Missing for only seven hours in July.<eos>
+<bos>How does a 20-year-old die of exposure<eos>
+<bos>on a warm, summer night in Oregon?<eos>
+<bos>This isn't official procedure.<eos>
+<bos>Really?<eos>
+<bos>It's probably a safe bet<eol>Ray Soames never made<eos>
+<bos>the varsity basketball team.<eos>
+<bos>Seal this up right now.<eos>
+<bos>Nobody sees or touches this. Nobody.<eos>
+<bos>This is amazing, Scully.<eos>
+<bos>Do you know what this could mean?<eos>
+<bos>It's almost too big to even comprehend.<eos>
+<bos>The subject is 1.56 centimeters in length<eos>
+<bos>weighing 52 pounds in extremis.<eos>
+<bos>Corpse is in advanced stages of decay<eos>
+<bos>and desiccation.<eos>
+<bos>Distinguishing features<eol>include large ocular cavities<eos>
+<bos>oblique cranium--<eol>indicates subject is not human.<eos>
+<bos>Could you point that flash away from me?<eos>
+<bos>If it's not human, what is it?<eos>
+<bos>It's mammalian.<eos>
+<bos>My guest is, It's a chimpanzee or<eol>something from the ape family<eos>
+<bos>possibly an orangutan.<eos>
+<bos>Buried in the city cemetery<eol>in Ray Soame's grave?<eos>
+<bos>Try telling that to the good townsfolk<eos>
+<bos>or to Ray Soame's family.<eos>
+<bos>I want tissue samples and<eol>X rays, blood typing, toxicology<eos>
+<bos>and a full genetic work-up.<eos>
+<bos>What we can't do here, we'll order to go.<eos>
+<bos>You don't honestly believe<eol>this is some kind of an extraterrestrial?<eos>
+<bos>This is somebody's sick joke.<eos>
+<bos>Is there any reason we can't<eol>do those X rays right now?<eos>
+<bos>I'm not crazy, Scully.<eos>
+<bos>I have the same doubts you do.<eos>
+<bos>confirms homologous,<eol>but possibly mutated,<eos>
+<bos>mammalian physiology.<eos>
+<bos>However, does not account<eol>for small, unidentified object<eos>
+<bos>found in subject's nasal cavity.<eos>
+<bos>A grey, metallic implant forming...<eos>
+<bos>Who is it?<eos>
+<bos>Steven Spielberg.<eos>
+<bos>I'm going for a run.<eos>
+<bos>Want to come?<eos>
+<bos>Pass.<eos>
+<bos>Figure out what that little thing is?<eos>
+<bos>No. And I'm not<eos>
+<bos>losing any sleep over it.<eos>
+<bos>Good night.<eos>
+<bos>Ray Soames was a patient of mine.<eos>
+<bos>I oversaw his treatment for over a year<eos>
+<bos>for clinical schizophrenia.<eos>
+<bos>Ray had an inability to grasp reality.<eos>
+<bos>he seemed to suffer from some<eol>kind of post-traumatic stress.<eos>
+<bos>Is that something you've seen before?<eos>
+<bos>I've treated similar cases.<eos>
+<bos>Were any of those Ray Soames' classmates?<eos>
+<bos>Yes.<eos>
+<bos>We're trying to find<eol>a connection in these deaths.<eos>
+<bos>Did you treat any<eol>of these kids with hypnosis?<eos>
+<bos>No. l did not.<eos>
+<bos>Are you treating any of these kids now?<eos>
+<bos>Currently?<eos>
+<bos>Yes, I'm treating<eol>Billy Miles and Peggy O'Dell.<eos>
+<bos>They're here at this hospital?<eos>
+<bos>Going on four years now.<eos>
+<bos>Would it be possible to talk to them?<eos>
+<bos>Well, you might find it difficult.<eos>
+<bos>Certainly in Billy Miles' case.<eos>
+<bos>Billy's experiencing<eol>what we call a waking coma.<eos>
+<bos>Functionally, his brain waves are flat.<eos>
+<bos>How did it happen?<eos>
+<bos>He and Peggy were involved<eol>in an automobile accident.<eos>
+<bos>Doctor: Peggy?<eos>
+<bos>We have some visitors.<eos>
+<bos>Would you talk with them?<eos>
+<bos>Billy wants me to read now.<eos>
+<bos>Does he like it when you read to him?<eos>
+<bos>Yes.<eos>
+<bos>Billy needs me close.<eos>
+<bos>Doctor<eos>
+<bos>l'm wondering if we can do<eol>a cursory medical exam<eos>
+<bos>on Peggy?<eos>
+<bos>Peggy, what are you doing?<eos>
+<bos>Doctor: No one will hurt you.<eos>
+<bos>Doctor: Get an orderly!<eos>
+<bos>Get an orderly!<eol>Nobody's going to hurt you.<eos>
+<bos>Stop it!<eos>
+<bos>It's all right.<eos>
+<bos>Nurse: Honey, you're going to be fine.<eos>
+<bos>Calm down.<eos>
+<bos>You know that you will be all right.<eos>
+<bos>Billy said he was sorry<eos>
+<bos>he didn't get to say good-bye.<eos>
+<bos>How did you know she<eol>would have the marks?<eos>
+<bos>I don't know. Lucky guess?<eos>
+<bos>Damn it, Mulder, cut the crap.<eos>
+<bos>What is going on here?<eos>
+<bos>What do you know about those marks?<eos>
+<bos>I don't think you're ready<eol>for what I think.<eos>
+<bos>I'm here to solve this case.<eos>
+<bos>I want the truth.<eos>
+<bos>I think those kids have been abducted.<eos>
+<bos>By who?<eos>
+<bos>By what.<eos>
+<bos>You don't really believe that.<eos>
+<bos>Do you have a better explanation?<eos>
+<bos>I'll buy that girl is suffering<eos>
+<bos>some kind of pronounced psychosis.<eos>
+<bos>Whether it's organic<eol>or the result of those marks<eos>
+<bos>I can't say<eos>
+<bos>but to say that they've been riding<eol>around in fying saucers--<eos>
+<bos>there is nothing to support that.<eos>
+<bos>Nothing scientific, you mean.<eos>
+<bos>There has got to be an explanation.<eos>
+<bos>You've got four victims--<eos>
+<bos>all of them died in or near the woods.<eos>
+<bos>They found Karen Swenson's body<eol>in the forest in her pajamas<eos>
+<bos>ten miles from her house.<eos>
+<bos>How did she get there?<eos>
+<bos>What were those kids doing<eol>out there in the forest?<eos>
+<bos>Mulder?<eos>
+<bos>Mulder, is that you?<eos>
+<bos>Mulder?<eos>
+<bos>Special Agent Dana Scully,<eol>F.B.I. Drop your weapon.<eos>
+<bos>I'm with the County Sheriffs Department.<eos>
+<bos>You're trespassing<eol>on private property here.<eos>
+<bos>We are conducting<eos>
+<bos>an investigation.<eos>
+<bos>Get in your car and leave<eos>
+<bos>or I'll have to arrest you.<eos>
+<bos>I don't care who you are.<eos>
+<bos>This is a crime scene.<eos>
+<bos>Did you hear what I said?<eos>
+<bos>You are on private property<eol>without legal permission.<eos>
+<bos>Now, I'm only going to say it<eol>one more time.<eos>
+<bos>Get in your car and leave!<eos>
+<bos>What's he doing out here all by himself?<eos>
+<bos>Maybe it has something to do with this.<eos>
+<bos>What do you think it is?<eos>
+<bos>I don't know.<eos>
+<bos>Is it a campfire?<eos>
+<bos>It was all over the ground.<eos>
+<bos>I think something's going on out here.<eos>
+<bos>Some kind<eos>
+<bos>of a sacrifice, maybe.<eos>
+<bos>What if these kids are involved<eos>
+<bos>in some kind of a cult<eos>
+<bos>and that man knows something about it?<eos>
+<bos>I want to come back here.<eos>
+<bos>You okay, Mulder?<eos>
+<bos>Yeah. I'm just, uh...<eos>
+<bos>What are you looking for?<eos>
+<bos>What happened?<eos>
+<bos>We lost power.<eos>
+<bos>Brakes, steering, everything.<eos>
+<bos>We lost nine minutes.<eos>
+<bos>Whoo!<eos>
+<bos>We lost what?<eos>
+<bos>Nine minutes!<eos>
+<bos>I looked at my watch<eol>just before the flash<eos>
+<bos>and it was 9:03.<eos>
+<bos>It just turned 9:13.<eos>
+<bos>Look.<eos>
+<bos>Look!<eos>
+<bos>Oh, yes!<eos>
+<bos>Abductees.<eos>
+<bos>People that have made U.F.O. sightings.<eos>
+<bos>They've reported unexplained time loss.<eos>
+<bos>Come on.<eos>
+<bos>Gone!<eos>
+<bos>just like that.<eos>
+<bos>No, wait a minute.<eos>
+<bos>You're saying that...<eol>that time disappeared.<eos>
+<bos>Time can't just disappear.<eos>
+<bos>It's a universal invariant.<eos>
+<bos>Not in this zip code.<eos>
+<bos>Great.<eos>
+<bos>Hi.<eos>
+<bos>I want you to look at something.<eos>
+<bos>Come on in.<eos>
+<bos>What are they?<eos>
+<bos>Mulder, what are they?!<eos>
+<bos>Mosquito bites.<eos>
+<bos>Are you sure?<eos>
+<bos>Yeah. l got eaten up<eol>a lot myself out there.<eos>
+<bos>You okay?<eos>
+<bos>Yes.<eos>
+<bos>You're shaking.<eos>
+<bos>I need to sit down.<eos>
+<bos>Take your time.<eos>
+<bos>I was 12 when it happened.<eos>
+<bos>My sister was eight.<eos>
+<bos>She just disappeared<eol>out of her bed one night.<eos>
+<bos>just gone. Vanished.<eos>
+<bos>No note, no phone calls,<eol>no evidence of anything.<eos>
+<bos>You never found her.<eos>
+<bos>It tore the family apart.<eos>
+<bos>No one would talk about it.<eos>
+<bos>There were no facts to confront<eos>
+<bos>nothing to offer any hope.<eos>
+<bos>What did you do?<eos>
+<bos>Eventually, I went off<eol>to school in England.<eos>
+<bos>I came back, got recruited by the Bureau.<eos>
+<bos>Seems I had a natural aptitude<eos>
+<bos>for applying behavioral<eol>models to criminal cases.<eos>
+<bos>My success allowed me a certain freedom<eos>
+<bos>to pursue my own interests<eos>
+<bos>and that's when I came across<eol>the <font color="#00FF00">X-Files</font>.<eos>
+<bos>By accident?<eos>
+<bos>At first, it looked<eos>
+<bos>like a garbage dump<eos>
+<bos>for U.F.O. sightings,<eol>alien abduction reports.<eos>
+<bos>The kind of stuff that most people<eol>laugh at as being ridiculous.<eos>
+<bos>But I was fascinated.<eos>
+<bos>I read all the cases I could<eol>get my hands on. Hundreds of them.<eos>
+<bos>I read everything I could<eol>about paranormal phenomenon<eos>
+<bos>about the occult and...<eos>
+<bos>What?<eos>
+<bos>There's classified government information<eos>
+<bos>I've been trying to access<eos>
+<bos>but someone has been blocking<eol>my attempts to get at it.<eos>
+<bos>Who? I don't understand.<eos>
+<bos>Someone at a higher level of power.<eos>
+<bos>The only reason<eos>
+<bos>I've been allowed to continue<eol>is because I've made<eos>
+<bos>connections in Congress.<eos>
+<bos>They're afraid of what?<eos>
+<bos>That you'll leak this information?<eos>
+<bos>You're part of that agenda,<eol>you know that.<eos>
+<bos>I'm not a part of any agenda.<eos>
+<bos>You've got to trust me.<eos>
+<bos>I'm here just like you-- to solve this.<eos>
+<bos>I'm telling you this, Scully,<eol>because you need to know<eos>
+<bos>because of what you've seen.<eos>
+<bos>In my research I've worked<eol>very closely with a man<eos>
+<bos>named Dr. Heinz Werber.<eos>
+<bos>He's taken me through deep hypnosis.<eos>
+<bos>I've been able to go<eol>into my own repressed memories<eos>
+<bos>to the night my sister disappeared.<eos>
+<bos>I can recall a bright light outside<eos>
+<bos>and a presence in the room.<eos>
+<bos>I was paralyzed<eos>
+<bos>unable to respond<eol>to my sister's calls for help.<eos>
+<bos>Listen to me, Scully.<eos>
+<bos>This thing exists.<eos>
+<bos>How do you know?<eos>
+<bos>The government knows about it<eos>
+<bos>and I got to know<eol>what they're protecting.<eos>
+<bos>Nothing else matters to me<eos>
+<bos>and this is as close<eol>as I've ever gotten to it.<eos>
+<bos>Hello?<eos>
+<bos>What?<eos>
+<bos>Who is this?<eos>
+<bos>Who is th..?<eos>
+<bos>That was some woman<eos>
+<bos>and she said Peggy O'Dell was dead.<eos>
+<bos>The girl in the wheelchair?<eos>
+<bos>Man: Yeah, I'll bring it<eol>over in a minute.<eos>
+<bos>What happened?<eos>
+<bos>She ran right out in front of me.<eos>
+<bos>Who are you?<eos>
+<bos>She was running?<eos>
+<bos>On foot?<eos>
+<bos>Well, that's just...<eos>
+<bos>Let's go. Let's go.<eos>
+<bos>Someone trashed the lab<eol>and stole the body.<eos>
+<bos>We're going back to the motel.<eos>
+<bos>What?! They stole the corpse?<eos>
+<bos>F.B.I.<eos>
+<bos>There goes my computer.<eos>
+<bos>Damn it! The X rays and pictures!<eos>
+<bos>Man: l need a couple of men out here.<eos>
+<bos>We'll need a light safety curtain.<eos>
+<bos>My name is Theresa Nemman.<eos>
+<bos>You've got to protect me.<eos>
+<bos>Come with us.<eos>
+<bos>This is the way it happens.<eos>
+<bos>I don't know how I get out there.<eos>
+<bos>I'll just find myself out in the woods.<eos>
+<bos>How long has it been happening?<eos>
+<bos>Ever since the summer we graduated.<eos>
+<bos>It's happened to my friends too.<eos>
+<bos>That's why I need you to protect me.<eos>
+<bos>I'm scared I might die<eos>
+<bos>like the others.<eos>
+<bos>Like... Peggy did tonight.<eos>
+<bos>Your father's the medical examiner.<eos>
+<bos>You were the one<eos>
+<bos>on the phone.<eos>
+<bos>You told me<eos>
+<bos>Peggy O'Dell had been killed.<eos>
+<bos>Theresa, your father knows<eol>about this, doesn't he?<eos>
+<bos>About what happens?<eos>
+<bos>Yes.<eos>
+<bos>But he said never to tell<eos>
+<bos>anyone about any of it.<eos>
+<bos>Why?<eos>
+<bos>He wants to protect me.<eos>
+<bos>He thinks he can protect me,<eol>but l don't think he can.<eos>
+<bos>Do you have the marks, Theresa?<eos>
+<bos>Yes.<eos>
+<bos>I'm going to die, aren't I?<eos>
+<bos>I'm going to be next.<eos>
+<bos>No, you're not going to die.<eos>
+<bos>Oh, God.<eos>
+<bos>Let's go home, Theresa.<eos>
+<bos>Theresa, come on.<eos>
+<bos>Come on, honey.<eos>
+<bos>I don't think she wants to leave.<eos>
+<bos>I don't care what you think.<eos>
+<bos>She's a sick girl.<eos>
+<bos>Your father wants to take you home.<eos>
+<bos>He'll get you cleaned up.<eos>
+<bos>Going to take you<eol>where you'll be safe, Theresa.<eos>
+<bos>Detective Miles and I won't<eol>let anything happen to you.<eos>
+<bos>You're Billy Miles' father?<eos>
+<bos>That's right,<eol>and you stay away from that boy.<eos>
+<bos>You got to love this place.<eos>
+<bos>Every day is like Halloween.<eos>
+<bos>They know, Mulder.<eos>
+<bos>They know who's responsible<eol>for the murders.<eos>
+<bos>They know something.<eos>
+<bos>Dr. Nemman's been hiding medical evidence<eos>
+<bos>from the beginning.<eos>
+<bos>He lied on the autopsy reports.<eos>
+<bos>Now we find out about the detective.<eos>
+<bos>Who would have reason<eol>to trash the lab and our rooms?<eos>
+<bos>Why would they destroy evidence?<eos>
+<bos>What would they want with that corpse?<eos>
+<bos>I don't know.<eos>
+<bos>Makes you wonder what's in<eol>those other two graves.<eos>
+<bos>They're both empty.<eos>
+<bos>What is going on here?<eos>
+<bos>I think I know who did it.<eos>
+<bos>I think I know who killed Karen Swenson.<eos>
+<bos>Who?<eos>
+<bos>The detective?<eos>
+<bos>The detective's son.<eos>
+<bos>Billy Miles.<eos>
+<bos>The boy in the hospital?<eos>
+<bos>The vegetable?<eos>
+<bos>Billy Miles?<eos>
+<bos>A boy in a coma for the last four years<eos>
+<bos>dug up these graves?<eos>
+<bos>Peggy O'Dell was bound to a wheelchair<eos>
+<bos>but ran in front of that truck.<eos>
+<bos>I'm not making this up.<eos>
+<bos>It fits the profile of alien abduction.<eos>
+<bos>This fits a profile?<eos>
+<bos>Peggy O'Dell was killed at 9:00.<eos>
+<bos>That's right around the time<eol>we lost nine minutes.<eos>
+<bos>Something happened in that nine minutes.<eos>
+<bos>Time as we know it stopped<eos>
+<bos>and something took control over it.<eos>
+<bos>You think I'm crazy.<eos>
+<bos>What?<eos>
+<bos>Peggy O'Dell's watch stopped<eol>a couple of minutes after nine.<eos>
+<bos>I made a note of it when I saw the body.<eos>
+<bos>The kids come to the forest<eol>because the forest controls them<eos>
+<bos>and the marks are from some kind oftests<eos>
+<bos>that's being done on them<eos>
+<bos>and that maybe causes<eol>some kind of genetic mutation<eos>
+<bos>which would explain<eol>the body that we dug up.<eos>
+<bos>And the force summoned<eol>Theresa Nemman's body<eos>
+<bos>into the woods tonight.<eos>
+<bos>Yes, but it was Billy Miles<eol>who took her there.<eos>
+<bos>Summoned by some alien impulse.<eos>
+<bos>That's it.<eos>
+<bos>Come on.<eos>
+<bos>Let's get out ofhere.<eos>
+<bos>Where are we going?<eos>
+<bos>To pay a visit to Billy Miles.<eos>
+<bos>Nurse: Now, we could stand here<eol>until the Second Coming<eos>
+<bos>waiting for Billy to get out of this bed.<eos>
+<bos>It ain't going to happen.<eos>
+<bos>He blinks and I know about it.<eos>
+<bos>I guess you changed<eol>his bedpan last night.<eos>
+<bos>Nobody else here's going to do it.<eos>
+<bos>You noticed nothing unusual?<eos>
+<bos>Do you remember what<eol>you were doing last night<eos>
+<bos>around 9:00?<eos>
+<bos>Probably watching TV.<eos>
+<bos>Yeah.<eos>
+<bos>Do you remember what you were watching?<eos>
+<bos>Um, let's see...<eos>
+<bos>You know, I don't really<eol>remember what I watched.<eos>
+<bos>Miss...<eos>
+<bos>What is she looking for?<eos>
+<bos>Mulder, take a look at this.<eos>
+<bos>You know who was taking care<eol>of Peggy O'Dell last night?<eos>
+<bos>Not me.<eos>
+<bos>It's not my ward,<eol>not my aisle of the produce section.<eos>
+<bos>I do have a job of my own to do.<eos>
+<bos>What is she doing now?<eos>
+<bos>Thank you for your time, ma'am.<eos>
+<bos>Okay.<eos>
+<bos>Good day.<eos>
+<bos>That kid may have killed Peggy O'Dell.<eos>
+<bos>I don't believe this.<eos>
+<bos>It's crazy.<eos>
+<bos>He was in the woods.<eos>
+<bos>You're sure?<eos>
+<bos>This is the same stuff<eol>I took a handful of<eos>
+<bos>in the forest.<eos>
+<bos>Maybe we should run a lab test...<eos>
+<bos>We lost the original sample in the fire.<eos>
+<bos>I want you to understand<eol>what it is you're saying.<eos>
+<bos>You said it yourself!.<eos>
+<bos>Yeah, but you have to write it down<eos>
+<bos>in your report.<eos>
+<bos>You're right.<eos>
+<bos>We'll take another sample from the forest<eos>
+<bos>and run a comparison<eol>before we do anything.<eos>
+<bos>The detective's here.<eos>
+<bos>What do you think?<eos>
+<bos>You wouldn't listen to me.<eos>
+<bos>I told you to stay out of this.<eos>
+<bos>Hold it. Hold it right there!<eos>
+<bos>You got no business out here.<eos>
+<bos>There were screams.<eos>
+<bos>Down on the ground.<eos>
+<bos>Now!<eos>
+<bos>You know it's Billy.<eos>
+<bos>You've known it all along.<eos>
+<bos>I said down on the ground.<eos>
+<bos>How long are you going to let it happen?<eos>
+<bos>He's going to kill her.<eos>
+<bos>Billy!<eos>
+<bos>No!<eos>
+<bos>Let her go.<eos>
+<bos>Leave her alone.<eos>
+<bos>Dad?<eos>
+<bos>Billy.<eos>
+<bos>Oh, God.<eos>
+<bos>Scully.<eos>
+<bos>Scully!<eos>
+<bos>Mulder, what happened?<eos>
+<bos>There was a light.<eos>
+<bos>It was incredible.<eos>
+<bos>If you can hear me,<eol>raise your right hand.<eos>
+<bos>Tell me about the light, Billy.<eos>
+<bos>When did you first see the light?<eos>
+<bos>In the forest.<eos>
+<bos>We were all in the forest having a party.<eos>
+<bos>All my friends.<eos>
+<bos>We were celebrating.<eos>
+<bos>What were you celebrating?<eos>
+<bos>Graduation.<eos>
+<bos>And then the light came.<eos>
+<bos>It took me away to the testing place.<eos>
+<bos>They would tell me to gather the others<eos>
+<bos>so that they could do tests.<eos>
+<bos>They put something in my head.<eos>
+<bos>Here.<eos>
+<bos>Billy: I would wait for their orders.<eos>
+<bos>Man: Billy, who gave the orders?<eos>
+<bos>Billy: The light.<eol>They said it would be okay.<eos>
+<bos>No one would know.<eol>But the test didn't work.<eos>
+<bos>They wanted everything destroyed.<eos>
+<bos>They said they were leaving.<eos>
+<bos>I'm afraid.<eos>
+<bos>I'm afraid they're coming back.<eos>
+<bos>Don't be afraid, Billy.<eos>
+<bos>What we've just witnessed<eos>
+<bos>what we've read in your field reports<eos>
+<bos>the scientific basis and credibility<eos>
+<bos>just seem wholly insupportable.<eos>
+<bos>You're aware of that?<eos>
+<bos>Yes, sir.<eos>
+<bos>My reports are personal and subjective.<eos>
+<bos>I haven't gone so far as to draw<eol>any conclusion about what l've seen.<eos>
+<bos>Or haven't seen, as seems to be the case.<eos>
+<bos>This, uh... time loss<eos>
+<bos>you did or did not experience it?<eos>
+<bos>I can't substantiate it, no.<eos>
+<bos>What exactly can you substantiate?<eos>
+<bos>I see no evidence<eos>
+<bos>that justifies these investigations.<eos>
+<bos>There were, of course, crimes committed.<eos>
+<bos>Yes, but how do you prosecute<eol>a case like this?<eos>
+<bos>With testimony given under hypnosis<eos>
+<bos>from a boy who claims he was given orders<eos>
+<bos>from some alien force<eos>
+<bos>through an implant<eos>
+<bos>in his nose.<eos>
+<bos>You have no physical evidence.<eos>
+<bos>This is the object<eos>
+<bos>described by Billy Miles<eos>
+<bos>as a communication device.<eos>
+<bos>I removed it<eos>
+<bos>from the exhumed body.<eos>
+<bos>I kept it in my pocket.<eos>
+<bos>It was the only evidence<eol>not destroyed in the fire.<eos>
+<bos>I ran a lab test on it.<eos>
+<bos>The material could not be identified.<eos>
+<bos>Agent Mulder-- what are his thoughts?<eos>
+<bos>Agent Mulder believes we are not alone.<eos>
+<bos>Thank you, Agent Scully.<eos>
+<bos>That will be all.<eos>
+<bos>Hello.<eos>
+<bos>Mulder: Scully, it's me.<eol>I haven't been able to sleep.<eos>
+<bos>I talked to the D.A.'s Office<eol>in Raymond County, Oregon.<eos>
+<bos>There's no case file on Billy Miles.<eos>
+<bos>The paperwork we filed is gone.<eos>
+<bos>We need to talk, Scully.<eos>
+<bos>Y-Yes.<eos>
+<bos>Tomorrow.<eos>
+<bos>Subtitles by:<eol><font color="#FFFF00">FUNK</font> <font color="#FF8040">Sky</font><font color="#FF8000">Walker</font><eos>
+<bos><font color="#01579b">OtakuNoNika</font> <font color="#FF8040">MioshiParadise</font><eos>
+<bos>Hello there. This is meant to sync with this files:<eol>https://kat.cr/the-x-files-s01-s09-webrip-x264-fum-ettv-t10890916.html<eos>
+<bos>They have: Colors, HI and my love for The X-Files.<eos>
+<bos>I hope you like it and share with friends.<eos>
+<bos>_______________________________________________________<eos>
+<bos>Hola. Esto está dirigido a sincronizar con estos archivos:<eol>https://kat.cr/the-x-files-s01-s09-webrip-x264-fum-ettv-t10890916.html<eos>
+<bos>Tienen: Colores, Titulos para Sordos y mi amor por Los Expedientes Secretos X<eos>
+<bos>Si deseas pasarlo al español por favor no le quites los Títulos para Sordos.<eos>
+<bos>Espero que lo disfrutes y compartas con tus amigos.<eos>
+<bos>FUNK SkyWalker<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

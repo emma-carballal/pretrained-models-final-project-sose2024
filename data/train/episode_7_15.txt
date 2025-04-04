@@ -1,0 +1,438 @@
+<bos>Three.<eos>
+<bos>Give me two.<eos>
+<bos>Two.<eos>
+<bos>Can I have five cards, please?<eos>
+<bos>Five? What, are you serious?<eos>
+<bos>Four's the limit. Let's see your ace.<eos>
+<bos>If Mr. Weems wants five,<eos>
+<bos>give him five.<eos>
+<bos>Dealer takes two.<eos>
+<bos>Four.<eos>
+<bos>Nah.<eos>
+<bos>- How much is that?<eol>-  Four grand keeps you in...<eos>
+<bos>you and your five shiny new cards.<eos>
+<bos>There's 4,000.<eos>
+<bos>And four more.<eos>
+<bos>Let's make this interesting.<eos>
+<bos>I'm raising you 15 large.<eos>
+<bos>I wouldn't do that. This is all I need.<eos>
+<bos>You're gonna need Depends...<eol>after you see this hand.<eos>
+<bos>Now we show each other our cards?<eos>
+<bos>Four kings.<eos>
+<bos>That's a straight flush, right?<eos>
+<bos>Beginner's luck.<eos>
+<bos>No, no. Not so fast.<eos>
+<bos>We expect a chance to win<eol>some of our money back.<eos>
+<bos>Guys, there's over<eol>a hundred thousand dollars here.<eos>
+<bos>You're damn right there's over<eol>a hundred thousand dollars there.<eos>
+<bos>A hundred thousand's all I need.<eos>
+<bos>Sorry.<eos>
+<bos>I had fun, though.<eos>
+<bos>Where can I cash out?<eos>
+<bos>Guys, I think we're going up<eol>instead of down.<eos>
+<bos>Guys?<eos>
+<bos>Guys, this is not what<eol>I meant by "cashing out." Hey!<eos>
+<bos>Hey!<eos>
+<bos>-  Hello?<eos>
+<bos>Mulder, it's me. What now?<eos>
+<bos>- Are you in Chicago?<eol>- Yes, I'm in Chicago.<eos>
+<bos>I'm on the northeast corner of Seventh<eol>and Hunter just like you asked.<eos>
+<bos>Only you're not here. So where are you?<eos>
+<bos>Oh, around.<eos>
+<bos>- Yeah? - Hey, nice outfit.<eos>
+<bos>Hey.<eos>
+<bos>What's down there?<eos>
+<bos>Before you check out down there,<eol>check out up there.<eos>
+<bos>The top two floors are leased<eol>to oneJimmy Catrona,<eos>
+<bos>- Whose name you might be familiar with.<eol>- Organized crime.<eos>
+<bos>Gambling, extortion, murder.<eos>
+<bos>They witnessed a man being thrown<eol>from Catrona's roof at 10:40 p.m.<eos>
+<bos>This man fell 30 floors,<eol>plus the distance down this shaft...<eos>
+<bos>because these doors just happened to be<eol>open, straight through, nothing but net.<eos>
+<bos>- Ouch.<eol>- I'm guessing that's what he said...<eos>
+<bos>after he got up, climbed out of here<eol>and scampered off into the night.<eos>
+<bos>He got away. The agents gave chase,<eol>but no clear description.<eos>
+<bos>- Was this basement thoroughly searched?<eol>- No.<eos>
+<bos>Technically, falling 300 feet<eol>and surviving isn't a crime.<eos>
+<bos>And your theory is?<eos>
+<bos>What if this man had some kind<eol>of special capability...<eos>
+<bos>some kind of genetic<eol>predisposition towards...<eos>
+<bos>rapid healing or tissue regeneration?<eos>
+<bos>So basically, what we if<eol>were looking for Wile E. Coyote?<eos>
+<bos>You're saying that he's invulnerable.<eos>
+<bos>- Right? - Yeah.<eos>
+<bos>Then he walked away with a broken rib.<eos>
+<bos>- What's your point?<eol>- My point is that if there's...<eos>
+<bos>a wind gust or a sudden updraft,<eos>
+<bos>and plus if he landed<eol>in exactly the right way...<eos>
+<bos>I mean, I don't know.<eol>Maybe he just got lucky.<eos>
+<bos>What if he got really, really lucky?<eos>
+<bos>That's your big scientific<eol>explanation, Scully?<eos>
+<bos>I mean, how many thousands<eol>of variables would have to convene...<eos>
+<bos>No. Thousands.<eos>
+<bos>- Mulder? - Yeah?<eos>
+<bos>Look at this.<eos>
+<bos>If this cart were on the platform when<eol>he hit, that would explain the wheels.<eos>
+<bos>And what if this whole thing<eol>had just enough give to save his life?<eos>
+<bos>- We'd have to find him to ask.<eol>- Yeah, we'd have to find him.<eos>
+<bos>Looks like maybe we found<eol>part of him already.<eos>
+<bos>I think you're taking<eol>a flier here, Mulder.<eos>
+<bos>Maybe he can't see his way to the door.<eos>
+<bos>Come on, Scully. I'm feeling lucky.<eos>
+<bos>Can you help me? It's an emergency.<eos>
+<bos>- Ma'am, we're not plumbers.<eol>- I didn't say you were.<eos>
+<bos>I just want the damn water<eol>turned off so I can go to work.<eos>
+<bos>You gotta be stronger than me, right?<eol>Valve's under the sink.<eos>
+<bos>Your building super Henry Weems,<eol>he isn't around?<eos>
+<bos>Mr. Dependable? Might as well wait<eol>forJimmy Hoffa to show up.<eos>
+<bos>You're turning it the wrong way.<eos>
+<bos>- Hey, Richie, sweetheart, back in bed.<eol>- But, Mom...<eos>
+<bos>Butts are for sitting,<eol>and I want yours back in bed.<eos>
+<bos>He's right. Clockwise.<eos>
+<bos>I know that.<eos>
+<bos>Clockwise.<eos>
+<bos>You okay, Mulder?<eos>
+<bos>Yeah, it's all right.<eol>My ass broke the fall.<eos>
+<bos>Guess who I found.<eos>
+<bos>Henry Weems, I presume?<eos>
+<bos>Next time leave the plumbing<eol>to a professional.<eos>
+<bos>Oh, uh...<eos>
+<bos>Oh, uh, you wanna try<eol>this on for size, Cinderella?<eos>
+<bos>Mr. Weems, why were you hiding<eol>in a vacant apartment?<eos>
+<bos>Not hiding. Avoiding.<eos>
+<bos>- Avoiding whom? - You people.<eos>
+<bos>Now that you found me,<eol>let's just get it over with.<eos>
+<bos>No way am I testifying<eol>againstJimmy Catrona.<eos>
+<bos>Last night, Catrona had you thrown<eol>off the roof of 1107 Hunter Avenue.<eos>
+<bos>- Is that correct?<eol>- You didn't hear it from me.<eos>
+<bos>I'm not letting you people move me<eol>to Muncie, Indiana to milk cows.<eos>
+<bos>More to the point,<eol>you survived a 300-foot fall,<eos>
+<bos>- Essentially unharmed.<eos>
+<bos>I don't know.<eol>Maybe the wind was just right.<eos>
+<bos>And I landed on<eol>a bunch of towels. No biggie.<eos>
+<bos>- You got lucky? - Yeah, I guess.<eos>
+<bos>Except you should look at my bruise.<eos>
+<bos>Plus, I didn't get to keep<eol>my poker winnings.<eos>
+<bos>So, that's what you were doing there<eol>last night, playing poker?<eos>
+<bos>Catrona thought I was cheating. I wasn't.<eos>
+<bos>But like I said,<eol>you didn't hear it from me.<eos>
+<bos>Must've been a high-stakes game,<eol>I imagine. Did you win a lot of money?<eos>
+<bos>I don't know.<eos>
+<bos>A little.<eos>
+<bos>What is that? Did you make it?<eos>
+<bos>Uh-huh.<eos>
+<bos>- It's sort of a hobby. - Mm-hmm.<eos>
+<bos>Mind if I...<eos>
+<bos>- Ah. That's craftsmanship. - Wow.<eos>
+<bos>- What does it mean?<eol>- What do you mean what does it mean?<eos>
+<bos>- What's... - It doesn't mean anything.<eos>
+<bos>I just sort of... I don't know.<eos>
+<bos>It's cause and effect.<eos>
+<bos>- So, are... are we done here?<eol>-  Mr. Weems?<eos>
+<bos>Can I ask you to reconsider<eol>testifying against Catrona?<eos>
+<bos>- Nope. No way, Jose.<eol>- It would be in your best interest.<eos>
+<bos>He's tried to kill you once,<eol>and he will undoubtedly do it again.<eos>
+<bos>- Yeah, we can protect you.<eol>- I'll take my chances.<eos>
+<bos>So, here's the plan as I see it.<eos>
+<bos>We inform the Chicago<eol>field office about Weems,<eos>
+<bos>leaving it to them<eol>to secure his testimony.<eos>
+<bos>You change your clothes,<eos>
+<bos>we fly back to D.C. by sunset<eol>and all is right with the world.<eos>
+<bos>Come on, Scully. Are you gonna dump this<eol>case just as it's getting interesting?<eos>
+<bos>Interesting, Mulder, was when<eol>we were looking for Wile E. Coyote.<eos>
+<bos>Come on, Mulder. This guy just<eol>got lucky. There's no X-File here.<eos>
+<bos>Maybe his luck is the X-File.<eos>
+<bos>Stairs.<eos>
+<bos>Oh.<eos>
+<bos>Car keys. Must have lost 'em when I fell.<eos>
+<bos>So, you get many of these?<eos>
+<bos>Okay.<eos>
+<bos>So, uh, they searched<eol>the entire building,<eos>
+<bos>and there's no sign of Henry Weems.<eos>
+<bos>I'm guessing that he's on the run.<eos>
+<bos>Our dead man's name is Angelo Bellini,<eol>a.k.a., Angie the Animal.<eos>
+<bos>He's an enforcer for the Catrona family.<eos>
+<bos>And I don't think his visit was friendly.<eos>
+<bos>You think that Weems<eol>could have killed him in self-defense?<eos>
+<bos>A skinny guy with no depth perception<eol>against a man nicknamed the Animal?<eos>
+<bos>I don't think so. You and I both<eol>know Weems didn't kill anybody.<eos>
+<bos>Besides, we were gone for two minutes.<eol>This guy doesn't have a scratch on him.<eos>
+<bos>I'm thinking it was a heart attack.<eos>
+<bos>What the hell happened here, Mulder?<eos>
+<bos>Cause and effect.<eos>
+<bos>- Meaning? - Okay, so watch.<eos>
+<bos>So Bellini kicks down the door.<eos>
+<bos>Poised to kill Weems, right? But just<eol>as he's about to pull the trigger,<eos>
+<bos>a noise startles him.<eos>
+<bos>The buzzer when I buzzed<eol>to be let back in the apartment.<eos>
+<bos>So when he does pull the trigger,<eol>his aim is off.<eos>
+<bos>Right? And he hits the lamp...<eos>
+<bos>which falls over and knocks over<eol>the ironing board.<eos>
+<bos>So as the bullet ricochets,<eol>Weems dives over the sofa.<eos>
+<bos>Now when Bellini goes for him,<eol>he trips over the ironing board,<eos>
+<bos>bounces off the chair,<eol>flips end-over-end...<eos>
+<bos>and his shoelace gets caught<eol>in the fan... Q.E.D.<eos>
+<bos>Cause and effect.<eos>
+<bos>Seemingly unrelated and<eol>unconnected events and occurrences...<eos>
+<bos>that appear unrelated<eol>and random beforehand,<eos>
+<bos>but which seem to chain-react<eol>in Henry Weems' favor.<eos>
+<bos>He won big at poker,<eos>
+<bos>he survived getting thrown off<eol>a skyscraper, and now this.<eos>
+<bos>- Hang on a second. - Okay.<eos>
+<bos>Hey, your name's Richie, right?<eos>
+<bos>- Yeah. - I'm Dana.<eos>
+<bos>I'm sure that's what your mom would want.<eos>
+<bos>So, I'm guessing you're a sports fan.<eos>
+<bos>Which one's your favorite?<eos>
+<bos>Well, it used to be basketball,<eos>
+<bos>but now the Bulls suck,<eol>so I think maybe baseball.<eos>
+<bos>I like baseball too.<eos>
+<bos>Did Henry make this for you?<eos>
+<bos>- That's pretty neat. - Yeah.<eos>
+<bos>He made it for me<eol>when I was in the hospital.<eos>
+<bos>He said it's 'cause<eol>everything happens for a reason.<eos>
+<bos>Only just sometimes<eol>it's hard for us to see.<eos>
+<bos>You went to the hospital<eol>because of your liver?<eos>
+<bos>It doesn't work so good.<eos>
+<bos>- Police looking for Henry? - Yeah.<eos>
+<bos>They just wanna talk to him.<eos>
+<bos>Do you have any idea<eol>where he might have gone?<eos>
+<bos>Mm-mm.<eos>
+<bos>Since I got sick,<eol>he hardly ever goes out.<eos>
+<bos>- The boy give you any leads?<eol>- He knows nothing.<eos>
+<bos>- Mulder, as to your theory, - Mm-hmm?<eos>
+<bos>why would the world's<eol>most supernaturally lucky man...<eos>
+<bos>work as a building superintendent?<eos>
+<bos>I mean, why doesn't he just run down<eol>to the Illinois State Lottery,<eos>
+<bos>enter and, you know,<eol>he'd win automatically?<eos>
+<bos>How you feelin', pal?<eos>
+<bos>I'm okay.<eos>
+<bos>The police are lookin' for you, though.<eos>
+<bos>How come?<eos>
+<bos>Uh, you know.<eos>
+<bos>You do folks a favor,<eol>wire their joint for free cable...<eos>
+<bos>Don't worry about it.<eos>
+<bos>You gonna be okay<eol>by yourself for a while?<eos>
+<bos>Where you goin'?<eos>
+<bos>Somethin' I gotta do<eol>I've been puttin' off.<eos>
+<bos>You get some rest.<eos>
+<bos>That's it? You've got nothing else?<eos>
+<bos>Okay, thank you.<eos>
+<bos>Henry Weems has no police record,<eol>I assume.<eos>
+<bos>He has no record of any kind, Mulder.<eos>
+<bos>He doesn't earn enough<eol>in a year to file tax returns.<eos>
+<bos>He has no savings account,<eol>no checking account, no insurance.<eos>
+<bos>I mean, it's like he's intentionally<eol>stayed off the radar.<eos>
+<bos>He's retired from the world.<eos>
+<bos>Ever since December 1989.<eos>
+<bos>That's when a commuter jet<eol>crashed into Lake Michigan...<eos>
+<bos>carrying 21 passengers.<eos>
+<bos>- There was one survivor. - Henry.<eos>
+<bos>Yeah. That's how he lost his eye.<eos>
+<bos>Snowy night, Christmas rush.<eol>He'd been bumped from three flights...<eos>
+<bos>before they finally found a seat<eol>for him on that fateful plane.<eos>
+<bos>- Guess what seat number. - Thirteen?<eos>
+<bos>- Of flight seven.<eol>- More good luck you're saying?<eos>
+<bos>Call it good or bad, but maybe<eol>that's where it all started.<eos>
+<bos>What if a brand-new Henry Weems<eol>was plucked from the wreckage...<eos>
+<bos>one whose fortunes had been<eol>irrevocably permanently changed?<eos>
+<bos>Before 1989, Henry held down a job<eol>for nine years at a train yard.<eos>
+<bos>He severed ties with all his friends<eol>and moved out to Melrose Park.<eos>
+<bos>Mulder, there are millions of reasons<eol>for that, including survivor's guilt.<eos>
+<bos>What doesn't track for me is why<eol>Henry Weems would drop off the map...<eos>
+<bos>just because he suddenly<eol>became incredibly lucky.<eos>
+<bos>What doesn't track for me is why<eol>he's resurfaced after all these years.<eos>
+<bos>Why he suddenly decided<eol>to use his luck in this way.<eos>
+<bos>Hey, what's the, uh, lottery up to?<eos>
+<bos>- Twenty-eight million.<eol>- I don't need that much.<eos>
+<bos>You don't need that much?<eol>How much do you need, uh, Rockefeller?<eos>
+<bos>More like a hundred grand.<eos>
+<bos>Here goes. One dollar.<eos>
+<bos>These suck.<eos>
+<bos>More on this morning's<eol>Melrose Park shooting.<eos>
+<bos>Let's go live to the scene<eol>with Megan MacLean.<eos>
+<bos>Police have confirmed that a<eol>Melrose Park building superintendent...<eos>
+<bos>is wanted for questioning<eol>in a case some sources term...<eos>
+<bos>an unusually vicious gangland slaying.<eos>
+<bos>You did it! You won a hundred grand!<eos>
+<bos>- Where do I collect the money?<eol>- Man, they'll mail it to ya.<eos>
+<bos>Eighty-two hundred dollars<eol>a month for twelve months. Yeah!<eos>
+<bos>That's too long.<eos>
+<bos>No, please, I wouldn't do that.<eos>
+<bos>Oh, baby! Oh, sweet baby!<eos>
+<bos>Anything in the trash can<eol>is the store's property.<eos>
+<bos>- Yeah, right. In your face!<eol>- Please, no, just throw it away.<eos>
+<bos>Something bad is gonna happen.<eos>
+<bos>So long, suckers.<eos>
+<bos>I did it! I won! I won the lottery!<eos>
+<bos>A hundred grand, fools! A hundred grand!<eos>
+<bos>On three. One, two, three.<eos>
+<bos>So, let me get this straight.<eos>
+<bos>And once you and he ascertained that<eol>the accident victim was still alive,<eos>
+<bos>this man fled on foot?<eos>
+<bos>- Mm-hmm. - Okay.<eos>
+<bos>After which, the man<eol>who was hit by the truck...<eos>
+<bos>handed you the lottery card and said...<eos>
+<bos>"Maurice, I want you to have this."<eos>
+<bos>Mm-hmm.<eos>
+<bos>Thank you, Mr. Albert.<eol>I think that will be all.<eos>
+<bos>Thank you.<eos>
+<bos>Maybe that's part of the package.<eol>You can't have one without the other.<eos>
+<bos>So, Mulder, Henry Weems<eol>came here to buy a lottery ticket.<eos>
+<bos>Why?<eos>
+<bos>Actually, that's exactly what you said...<eos>
+<bos>about an hour after you said it.<eos>
+<bos>Well, he's not in his place<eol>and he's not with Richie.<eos>
+<bos>You think he hid in there?<eos>
+<bos>He doesn't hide. He avoids.<eos>
+<bos>Well, pretty damn well, I'd say.<eos>
+<bos>That thing must go<eol>all over the building, Mulder.<eos>
+<bos>I'll start with the roof<eol>if you wanna start with the basement.<eos>
+<bos>Hey! Hey!<eos>
+<bos>Watch the rough stuff.<eos>
+<bos>Oh? You and I are gonna have a talk.<eos>
+<bos>Oh, crap. Not again.<eos>
+<bos>Let's get him up to O.R. Coming through.<eos>
+<bos>Excuse us.<eos>
+<bos>Does it hurt?<eos>
+<bos>Stings a bit.<eos>
+<bos>But I'll live.<eos>
+<bos>Come over here, Henry.<eol>I wanna try something.<eos>
+<bos>- What's that about? - I haven't a clue.<eos>
+<bos>Nine of clubs. You go.<eos>
+<bos>- What for? - I think you know.<eos>
+<bos>Oh, you win.<eos>
+<bos>Double or nothing.<eos>
+<bos>Ooo-hoo! Tough to beat.<eos>
+<bos>- You win again!<eol>- Mulder, what does that prove?<eos>
+<bos>I think it proves if we played<eol>this 10,000 times in a row,<eos>
+<bos>he would win 10,000 times in a row.<eos>
+<bos>He's incapable of losing.<eos>
+<bos>How does it feel to be<eol>the luckiest man in the universe, Henry?<eos>
+<bos>It's a nightmare. You have no idea.<eos>
+<bos>No, I do.<eos>
+<bos>'Cause when you get lucky...<eol>really, really lucky...<eos>
+<bos>people around you<eol>tend to suffer, is that right?<eos>
+<bos>I think it's a balance thing.<eos>
+<bos>Something good happens to me,<eos>
+<bos>then everybody else has to<eol>take it in the keister.<eos>
+<bos>So you stayed close to home mostly,<eol>kept a low profile.<eos>
+<bos>But recently you've been venturing out<eol>further. You played poker with mobsters.<eos>
+<bos>I figured they could stand the trimming.<eos>
+<bos>Bunch of goombah jerks.<eol>They got issues, man.<eos>
+<bos>You don't mind so much<eol>if a few criminals get hurt,<eos>
+<bos>but then you went<eol>and you played the lottery.<eos>
+<bos>- I don't...<eol>- I knew I shouldn't have done that.<eos>
+<bos>- I needed the money. - For what?<eos>
+<bos>For Richie, right?<eos>
+<bos>It's the complications<eol>from his hepatitis.<eos>
+<bos>He's on every donor list they got, but...<eos>
+<bos>he's got a rare blood type...<eol>"B" negative.<eos>
+<bos>And he's... C.N. something.<eos>
+<bos>C.M.V. negative... Cytomegalovirus.<eos>
+<bos>There's no way they're<eol>gonna find a donor in time.<eos>
+<bos>There's a treatment program in England.<eos>
+<bos>Hundred grand gets him in.<eos>
+<bos>It's experimental, but...<eol>it's the best chance he's got now.<eos>
+<bos>- Am I under arrest? - No.<eos>
+<bos>However, you will need protection<eol>from Catrona and his men.<eos>
+<bos>I'd say they need protection from me.<eos>
+<bos>I'm sorry, Mulder.<eol>That was utterly irresponsible.<eos>
+<bos>You're supposed to be talking him<eol>into protective custody, not out of it.<eos>
+<bos>I'd agree with you if I thought<eol>his life was in danger.<eos>
+<bos>As it is, he's doing a betterjob on<eol>Catrona's organization than the F.B.I.<eos>
+<bos>I'm wondering if we shouldn't<eol>make him an honorary agent.<eos>
+<bos>Mulder, you're putting<eol>an astounding amount of faith...<eos>
+<bos>in coincidence and luck.<eos>
+<bos>Essentially, you're betting<eol>a man's life on it.<eos>
+<bos>And even if you believe<eol>in so-called lucky streaks,<eos>
+<bos>you have to know they all eventually end.<eos>
+<bos>Luckiest man in the world?<eos>
+<bos>Well, Mulder, I just beat him.<eos>
+<bos>- Mulder? - Come on, Scully.<eos>
+<bos>Henry!<eos>
+<bos>- You're supposed to be resting.<eol>- I am resting.<eos>
+<bos>Playing on the floor doesn't count.<eos>
+<bos>Don't you ever get tired of this thing?<eos>
+<bos>Henry said it's educational.<eos>
+<bos>Yeah, well, I don't want you believing<eol>everything that Henry says.<eos>
+<bos>Did you know the police<eol>are looking for him?<eos>
+<bos>- Henry said it's no big deal.<eol>- When did you see...<eos>
+<bos>Mom, what's wrong?<eos>
+<bos>How's he doin'?<eos>
+<bos>He's got a bruised rib and a black eye.<eos>
+<bos>It certainly could have been worse.<eol>And don't tell me he just got lucky.<eos>
+<bos>Far from it.<eos>
+<bos>Maybe what you said<eol>about streaks is right.<eos>
+<bos>Looks like his has<eol>just about run its course.<eos>
+<bos>I don't mean to make light<eol>of his misfortune,<eos>
+<bos>but it may have knocked<eol>some sense into his head.<eos>
+<bos>He's agreed to testify against Catrona.<eos>
+<bos>They're filing a federal warrant<eol>this afternoon.<eos>
+<bos>He was. I don't know what it is.<eos>
+<bos>Maybe he has some special ability.<eos>
+<bos>He's impervious or something.<eos>
+<bos>Anyway, we can't get to him.<eol>They got cops all over the hospital.<eos>
+<bos>Who says we have to get to him?<eos>
+<bos>I want the toy Henry made me, Mom.<eos>
+<bos>Can you please go get it?<eos>
+<bos>Uh, sure, honey.<eos>
+<bos>I will meet you at the hospital, okay?<eos>
+<bos>- Did you find her? - No.<eos>
+<bos>You know Catrona took her.<eol>He did it to keep me from testifying.<eos>
+<bos>- We'll get one, though. - When?<eos>
+<bos>Tomorrow? Next week?<eos>
+<bos>Could someone sit with him at least?<eos>
+<bos>Hold up, Henry. What if<eol>what I said before wasn't true?<eos>
+<bos>That your luck hasn't changed? Maybe<eol>all this is happening for a reason.<eos>
+<bos>So you're saying that Maggie<eol>getting taken is a good thing?<eos>
+<bos>No, I'm saying that what looks like it<eol>might be bad luck may not be bad luck.<eos>
+<bos>That we can't tell yet.<eol>We're not in that position.<eos>
+<bos>We can't see the forest for the trees.<eos>
+<bos>How is he?<eos>
+<bos>Not good. If we don't find a donor<eol>in the next few hours...<eos>
+<bos>Scully, what if everybody that becomes<eol>involved in Henry Weems' life...<eos>
+<bos>somehow becomes an integral part<eol>of his luck, including you and I?<eos>
+<bos>Mulder, you're speaking<eol>as if we're all trapped...<eos>
+<bos>in one of those contraptions<eol>that he built.<eos>
+<bos>- What are you doing?<eol>- Looking for Maggie Lupone.<eos>
+<bos>Luck is the overreaching force<eol>in this investigation.<eos>
+<bos>I say we roll with it.<eos>
+<bos>- Yeah. Let's call that a dry run.<eol>- Yeah.<eos>
+<bos>Look who came calling.<eos>
+<bos>I wanted to tell you personally<eol>that there's no hard feelings.<eos>
+<bos>I'm not testifying against you.<eos>
+<bos>Just let Maggie Lupone go.<eos>
+<bos>Maggie?<eos>
+<bos>I don't know anybody named Maggie.<eos>
+<bos>You know anybody named Maggie?<eos>
+<bos>Fellas, don't jerk me around.<eos>
+<bos>Jerk you around?<eos>
+<bos>You tried to cheat me<eol>out of a hundred large,<eos>
+<bos>you kill Angie,<eol>you put Sal in the hospital.<eos>
+<bos>I'm jerkin' you around?<eos>
+<bos>I apologize for my choice of words.<eos>
+<bos>Please, just let her go.<eos>
+<bos>Her kid's really sick.<eos>
+<bos>I don't care what happens to me.<eos>
+<bos>You'll care.<eos>
+<bos>By the time I'm finished,<eos>
+<bos>you'll definitely care.<eos>
+<bos>Henry?<eos>
+<bos>Richie, how is he?<eos>
+<bos>Not that one.<eos>
+<bos>Use the small one.<eos>
+<bos>Hey!<eos>
+<bos>Henry?<eos>
+<bos>Don't you hurt him, you son of a bitch!<eos>
+<bos>Shut her up!<eos>
+<bos>Henry!<eos>
+<bos>Oh!<eos>
+<bos>Check downstairs!<eos>
+<bos>What are the odds<eol>for Catrona being a perfect match?<eos>
+<bos>- A thousand to one? A million to one?<eol>- Maybe higher.<eos>
+<bos>Maybe everything<eol>does happen for a reason.<eos>
+<bos>Whether we see it or not.<eos>
+<bos>Maybe your luck is changing.<eos>
+<bos>Maybe.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

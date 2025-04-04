@@ -1,0 +1,664 @@
+<bos>We got a fire offcounty road D-7<eos>
+<bos>two miles west of<eol>the Canyon Ridge intersection.<eos>
+<bos>Suggest we dispatch fire crews. Over.<eos>
+<bos>(static)<eos>
+<bos>This is DeputyWright.<eos>
+<bos>Doyou copy?<eos>
+<bos>Son ofa...<eos>
+<bos>Sir?<eos>
+<bos>Sorry to disturbyou, sir<eos>
+<bos>but we've picked up<eol>an unidentified bogey.<eos>
+<bos>l thinkyou should see<eol>the replay foryourself.<eos>
+<bos>lt tripped the fence at 231 7<eos>
+<bos>offConnecticut's coast.<eos>
+<bos>lnitial trajectory, north by northwest.<eos>
+<bos>then it went crazy.<eos>
+<bos>Any other aircraft in the area?<eos>
+<bos>No known aircraft can maneuver like this.<eos>
+<bos>Well, whatever it was<eos>
+<bos>dropped offthe screen at 241 8, sir.<eos>
+<bos>Hit ground west of Lake Michigan<eos>
+<bos>outside Townsend, Wisconsin.<eos>
+<bos>The tracking prediction team<eos>
+<bos>calculated impact at over 800<eos>
+<bos>miles per hour.<eos>
+<bos>l've instructed Chief Koretz<eos>
+<bos>to start her report...<eos>
+<bos>Negative.<eos>
+<bos>She tracked a meteor.<eos>
+<bos>lt's aberrant movement<eos>
+<bos>was due to instrument malfunction.<eos>
+<bos>But, sir...<eos>
+<bos>Your report will refect these facts.<eos>
+<bos>ls that clear?<eos>
+<bos>Yes, sir.<eos>
+<bos>Good.<eos>
+<bos>Code lndigo-Delta-Echo-Niner.<eos>
+<bos>l have a confirmed fallen angel<eol>in sector 87.<eos>
+<bos>Mobilize Operation Falcon immediately.<eos>
+<bos>Wright: Hello?<eos>
+<bos>(screaming)<eos>
+<bos>Reporter: Theywill have no comment<eos>
+<bos>until the government<eol>investigation now underway<eos>
+<bos>is completed.<eos>
+<bos>Government officials remain vague<eos>
+<bos>about the toxic cargo that has<eol>caused the immediate evacuation<eos>
+<bos>ofTownsend, Wisconsin's,<eol>1 2,000 residents.<eos>
+<bos>Speculation here has centered on<eos>
+<bos>a shipment oftoxic waste.<eos>
+<bos>by an electronic fence<eol>that reaches 1 5,000 miles<eos>
+<bos>into space.<eos>
+<bos>We use it to track and monitor<eos>
+<bos>the 7,087 man-made objects<eol>that orbit the earth.<eos>
+<bos>Last night at 231 7<eol>that fence was breached.<eos>
+<bos>This morning at 01 00<eos>
+<bos>Operation Falcon went into effect<eos>
+<bos>led by Colonel Calvin Henderson<eos>
+<bos>the Air Force's reclamations expert.<eos>
+<bos>Reclamations?<eos>
+<bos>During the Cold War, hisjob<eos>
+<bos>was to prevent technologies<eol>from downed U.S. aircraft<eos>
+<bos>from getting into Soviet hands.<eos>
+<bos>He's part ofa crash retrieval unit.<eos>
+<bos>Mm-hmm.<eos>
+<bos>Quick response.<eos>
+<bos>l'd sayyou have 24 hours<eos>
+<bos>before the entire area is sanitized.<eos>
+<bos>After that, it would be<eol>like nothing ever happened.<eos>
+<bos>Man: Alright, get the trucks rolling.<eos>
+<bos>Man: Keep 'emgoing!<eos>
+<bos>(chattering)<eos>
+<bos>(soldiers chattering)<eos>
+<bos>(helicopter whirring)<eos>
+<bos>Thankyou, sir.<eos>
+<bos>Thankyou.<eos>
+<bos>Get 'er rolling. Let's go! Let's go!<eos>
+<bos>Soldier: Alright, clear the road!<eos>
+<bos>You're late, lieutenant.<eos>
+<bos>lt will be dark in a halfhour.<eos>
+<bos>We had a fat, sir.<eos>
+<bos>There's a briefing at 2200 hours.<eos>
+<bos>Go to headquarters for live rounds.<eos>
+<bos>Live rounds, sir?<eos>
+<bos>You got a problem with that?<eos>
+<bos>We were told this was a drill.<eos>
+<bos>They told you wrong.<eos>
+<bos>Sir.<eos>
+<bos>Okay, everyone out!<eos>
+<bos>Come on, people, light a fire!<eos>
+<bos>(indistinctchattering)<eos>
+<bos>Man: Uh, roger,<eol>this is Charley-Delta-SevenSquad.<eos>
+<bos>We're continuing thesearch,<eol>butat this time, it'snegative.<eos>
+<bos>(men yelling)<eos>
+<bos>(whooshing noises)<eos>
+<bos>(shutter clicking)<eos>
+<bos>(shutter clicking rapidly)<eos>
+<bos>Youjust made the worst mistake<eos>
+<bos>ofyour life, Agent Mulder.<eos>
+<bos>l thinkyou knocked out a filling.<eos>
+<bos>You'll pay the price<eos>
+<bos>for putting my men at risk.<eos>
+<bos>Since when does taking pictures<eol>put lives at risk?<eos>
+<bos>You violated a U.S. Government quarantine<eos>
+<bos>and that's a federal crime.<eos>
+<bos>A quarantine?<eos>
+<bos>That's whatyou call this?<eos>
+<bos>We're trying to contain<eol>an ecological disaster.<eos>
+<bos>That's a lot offirepower<eol>to protect Mother Nature.<eos>
+<bos>l have my orders<eos>
+<bos>and the license to execute them<eol>as l see fit.<eos>
+<bos>l suggest you forget whatyou saw<eos>
+<bos>orwhatyou thinkyou saw<eos>
+<bos>foryour own well-being.<eos>
+<bos>You've got a downed craft<eol>in those woods, sir<eos>
+<bos>and troops carrying live rounds.<eos>
+<bos>We both know what's out there!<eos>
+<bos>Areyou MUFON or KUFOS?<eos>
+<bos>Doyou mind ifl sit down?<eos>
+<bos>Let me guess.<eos>
+<bos>You're wh that new group, CSlCOP, right?<eos>
+<bos>Say no more. You're a cautious man.<eos>
+<bos>Trust no one-- verywise.<eos>
+<bos>Afterwhat happened toJ.F.K.,<eol>l understand completely.<eos>
+<bos>Let me introduce myself.<eos>
+<bos>My name is Max Fenig.<eos>
+<bos>l'm with the National<eol>lnvestigative Committee<eos>
+<bos>ofAerial Phenomenon-- NlCAP.<eos>
+<bos>Pleased... pleased<eol>to makeyour acquaintance.<eos>
+<bos>l wish we could shake on it, you know.<eos>
+<bos>Firm grip, look right in the eye--<eos>
+<bos>you learn a lot about a guy that way.<eos>
+<bos>Can l, um..?<eos>
+<bos>Can l askyou a question?<eos>
+<bos>Go ahead.<eos>
+<bos>Did you see anything?<eos>
+<bos>Did you get close?<eos>
+<bos>Me, l saw nothing.<eos>
+<bos>l didn't see anything!<eos>
+<bos>Nada, zip.<eos>
+<bos>A hundred yards past the roadblock<eos>
+<bos>they nailed me.<eos>
+<bos>l have no idea how they did it.<eos>
+<bos>l'm telling you<eos>
+<bos>it's like the Roswell cover-up<eol>all over again.<eos>
+<bos>What makes you so sure<eol>there's something out there?<eos>
+<bos>Same thing that makes you so sure?<eos>
+<bos>l didn't order room service.<eos>
+<bos>This isn't funny, Mulder.<eos>
+<bos>Did you meet Max?<eos>
+<bos>Who?<eos>
+<bos>Max from NlCAP.<eos>
+<bos>Oh. They must have released him.<eos>
+<bos>Another intrepid soul<eol>in search ofa close encounter.<eos>
+<bos>ls that what this is about?<eos>
+<bos>What else?<eos>
+<bos>Try explaining that<eol>to Section Chief McGrath.<eos>
+<bos>He's ordering a full inquiry<eos>
+<bos>with a recommendation...<eos>
+<bos>Mulder, he wants to shut down the X-Files<eos>
+<bos>and he wants you out ofthe Bureau.<eos>
+<bos>What else is new?<eos>
+<bos>l don't understand you, Mulder--<eos>
+<bos>whyyou're always defying protocol<eos>
+<bos>ignoringjurisdiction.<eos>
+<bos>Because l know what l saw, Scully.<eos>
+<bos>There weren't train tracks<eol>anywhere near that site.<eos>
+<bos>So how could it have been<eol>a derailed container?<eos>
+<bos>Because it wasn't.<eos>
+<bos>Whatyou saw was not a toxic spill.<eos>
+<bos>But it wasn't a U.F.O., either.<eos>
+<bos>Okay, l'm all ears. what was it?<eos>
+<bos>lt was a downed Libyanjet<eol>with a nuclearwarhead.<eos>
+<bos>(chuckling)<eos>
+<bos>Over U.S. airspace?<eos>
+<bos>They've been picking up radiation<eos>
+<bos>indicating that the plutonium casing<eos>
+<bos>may have cracked.<eos>
+<bos>So to avoid mass panic...<eos>
+<bos>You really believe that story?<eos>
+<bos>That story happens to be<eol>highly classified.<eos>
+<bos>A highly classified lie.<eos>
+<bos>(helicopterwhirring)<eos>
+<bos>They're searching for someone, Scully.<eos>
+<bos>Probably the pilot.<eos>
+<bos>You think they'd roll out<eol>all this material<eos>
+<bos>for one Libyan fighterjock?<eos>
+<bos>Besides, no human pilot<eol>walked away from that wreckage.<eos>
+<bos>Well, maybe he ejected.<eos>
+<bos>Maybe.<eos>
+<bos>Scully: You can't be serious.<eos>
+<bos>As long as we're here<eol>in Townsend, why not?<eos>
+<bos>The hearing is tomorrow morning.<eos>
+<bos>That gives us 24 hours to investigate.<eos>
+<bos>My assignment is to bring you back--<eos>
+<bos>not to helpyou dig yourselfin deeper.<eos>
+<bos>The LastDetail starring Dana Scully.<eos>
+<bos>(phone offthe hook)<eos>
+<bos>What's going on?<eos>
+<bos>Looks like housekeeping<eol>hasn't been hereyet.<eos>
+<bos>Who would..?<eos>
+<bos>(banging)<eos>
+<bos>Shh.<eos>
+<bos>(banging)<eos>
+<bos>Max?<eos>
+<bos>Getyour hands up!<eos>
+<bos>Whoa, don't shoot! Don't shoot!<eos>
+<bos>Max?<eos>
+<bos>Ahem.<eos>
+<bos>My apologies.<eos>
+<bos>Forgive me.<eos>
+<bos>l'm a curious man.<eos>
+<bos>l had to know.<eos>
+<bos>Know what?<eos>
+<bos>lfit was reallyyou.<eos>
+<bos>You don't know me.<eos>
+<bos>Wejust met last night.<eos>
+<bos>We at NlCAP have been<eol>following your career closely<eos>
+<bos>sinceyour involvement with X-Files.<eos>
+<bos>Following my career? How?<eos>
+<bos>The Freedom oflnformation Act.<eos>
+<bos>Your travel expenses<eos>
+<bos>are a matter ofpublic record.<eos>
+<bos>So this must be<eol>the enigmatic Agent Scully.<eos>
+<bos>How did you recognize me?<eos>
+<bos>l sawyour picture<eol>in a trade publication once<eos>
+<bos>and l read your article in Omni<eol>about the Gulf Breeze Sightings.<eos>
+<bos>l published that under a pseudonym.<eos>
+<bos>M.F. Luder. l know.<eos>
+<bos>lt's an anagram for F. Mulder.<eos>
+<bos>You really didn't think<eol>that would fool us, did you?<eos>
+<bos>l didn't think anybody<eol>was paying attention.<eos>
+<bos>Somebody is always<eol>paying attention, Mr. Mulder.<eos>
+<bos>Amazing.<eos>
+<bos>Amazing? Hardly.<eos>
+<bos>You want to see something amazing<eos>
+<bos>come with me.<eos>
+<bos>Enigmatic Dr. Scully.<eos>
+<bos>This is my, uh...<eos>
+<bos>Right this way.<eos>
+<bos>Excuse the mess.<eos>
+<bos>Okay.<eos>
+<bos>Where's those, uh...<eos>
+<bos>Let me turn this off.<eos>
+<bos>Theywere right here.<eos>
+<bos>Oh, here they are.<eos>
+<bos>The latest crop circle photos<eol>from Project Argus. Huh?<eos>
+<bos>Your opinion-- fact or fraud?<eos>
+<bos>Mulder: Fraud.<eos>
+<bos>or a systematic reaction<eol>by the plant tissue<eos>
+<bos>to being lodged in one position.<eos>
+<bos>Max: You've read the literature.<eos>
+<bos>Mulder: l try to keep up.<eos>
+<bos>You said you had something to show us.<eos>
+<bos>Oh, yeah. The Wolfs Ear 2000.<eos>
+<bos>Ever hear ofthis?<eos>
+<bos>Yeah. Wolfindustries supplies the C.l.A.<eos>
+<bos>with all ofits surveillance equipment.<eos>
+<bos>State-of-the-art search and intercept--<eos>
+<bos>up to 1 00 channels per second.<eos>
+<bos>l'm jacked into local<eol>fire and police departments<eos>
+<bos>cellular phone pathways<eos>
+<bos>and when the weather's right<eos>
+<bos>air traffic control<eol>from Whitmarsh air force base.<eos>
+<bos>What haveyou got, Max?<eos>
+<bos>Mobile unit broadcast in scan mode<eos>
+<bos>Townsend Sheriffs Department<eol>two nights ago.<eos>
+<bos>We got a fire offcounty road D-7<eos>
+<bos>two miles west<eos>
+<bos>ofthe Canyon Ridge intersection.<eos>
+<bos>Suggest we dispatch fire crews. Over.<eos>
+<bos>This is DeputyWright.<eos>
+<bos>Doyou copy?<eos>
+<bos>And then this, 35 minutes later<eos>
+<bos>presumably from the fire crew.<eos>
+<bos>Reception got wiggy for some reason.<eos>
+<bos>This is Unit 53.<eos>
+<bos>Man down. Request medevac.<eos>
+<bos>l said request medevac.<eos>
+<bos>You're breaking up. Barely... bad...<eos>
+<bos>Very bad. Wait a second.<eos>
+<bos>What the hell?<eos>
+<bos>Charlie, we got a situation here.<eos>
+<bos>We put up a tight net.<eos>
+<bos>Yes, sir, every inch<eol>ofground is being covered<eos>
+<bos>dug up, squeezed, and sifted.<eos>
+<bos>No, sir. lt will not get away.<eos>
+<bos>Not this time.<eos>
+<bos>Mrs. Wright?<eos>
+<bos>Hi. l'm Fox Mulder.<eos>
+<bos>This is Dana Scully.<eos>
+<bos>We're from the F.B.l.<eos>
+<bos>We'd like to askyou aboutyour husband.<eos>
+<bos>He's dead.<eos>
+<bos>What else is there to know?<eos>
+<bos>l'm sorry aboutyour husband.<eos>
+<bos>Oh, please.<eos>
+<bos>Mrs. Wright, we want to helpyou.<eos>
+<bos>Then leave me alone.<eos>
+<bos>Let us helpyou.<eos>
+<bos>l don't know anything.<eos>
+<bos>Don'tyou understand?<eos>
+<bos>Theywon't even release the body<eos>
+<bos>so l can give him a proper burial, okay?<eos>
+<bos>The government can't do that.<eos>
+<bos>l'm sure ifwe appealed...<eos>
+<bos>No! You can't.<eos>
+<bos>You're entitled to the truth.<eos>
+<bos>l can't afford the truth.<eos>
+<bos>They said ifl spoke to anyone<eos>
+<bos>theywould withhold my husband's pension<eos>
+<bos>and l have a child to take care of.<eos>
+<bos>(static screeching)<eos>
+<bos>Picking up extremely high<eol>frequency signal--<eos>
+<bos>200,000 megahertz.<eos>
+<bos>Sir, target<eos>
+<bos>on the northeast side.<eos>
+<bos>foot speed--<eos>
+<bos>seven miles per hour, sir.<eos>
+<bos>Beta team...<eos>
+<bos>Copy.<eos>
+<bos>Target entering your section<eol>from the southwest.<eos>
+<bos>Search and destroy.<eos>
+<bos>Repeat-- search and destroy.<eos>
+<bos>Yes, sir.<eos>
+<bos>jackson?<eos>
+<bos>Nothing.<eos>
+<bos>Must have been an animal.<eos>
+<bos>l'm sorry, but unless you have a subpoena<eos>
+<bos>l can't discuss patient information.<eos>
+<bos>Does that meanJason Wright<eol>was your patient?<eos>
+<bos>lt means l have nothing more to say.<eos>
+<bos>What about to his wife and child, Doctor?<eos>
+<bos>Would you have anything to say to them?<eos>
+<bos>Because whoever got toyou<eol>also got to her.<eos>
+<bos>They must have made<eol>some pretty big threats.<eos>
+<bos>What did they hold overyour head--<eos>
+<bos>your medical license, the l.R.S.?<eos>
+<bos>l hate fascists.<eos>
+<bos>Excuse me?<eos>
+<bos>The men who came in here--<eos>
+<bos>The way they pushed us all around.<eos>
+<bos>Dr. Oppenheim, tell us about the deputy.<eos>
+<bos>You saw him that night<eos>
+<bos>didn'tyou?<eos>
+<bos>Yes.<eos>
+<bos>And three others from a fire crew.<eos>
+<bos>Theywere all D.O.A. with<eol>fifth- and sixth-degree burns<eos>
+<bos>over 90% oftheir bodies.<eos>
+<bos>But theyweren't like<eol>any burns l've ever seen.<eos>
+<bos>They took the bodies away<eos>
+<bos>before we could perform any pathology.<eos>
+<bos>Did you note any cadaveric<eol>heat rigor or stiffening?<eos>
+<bos>Quite a bit offexion in the limbs.<eos>
+<bos>How doyou know so much about it?<eos>
+<bos>l did my residency in forensic medicine.<eos>
+<bos>ln your opinion<eos>
+<bos>could those burns have been<eol>caused by ionizing radiation?<eos>
+<bos>Well, l hadn't thought.<eos>
+<bos>l suppose it's possible<eos>
+<bos>ifthe exposure was sufficiently intense.<eos>
+<bos>Let's say those men died<eol>from radiation exposure.<eos>
+<bos>Couldn't it have been<eol>from the cracked core<eos>
+<bos>ofa nuclearwarhead?<eos>
+<bos>l've read about these kinds ofburns.<eos>
+<bos>So have l-- in Hiroshima at ground zero.<eos>
+<bos>l'm talking about<eol>close encounter mortalities.<eos>
+<bos>l have a stack ofX-Files<eol>reporting the same results.<eos>
+<bos>l don't claim to know all the answers<eos>
+<bos>but ifwe don't make the O.P.R. inquest<eos>
+<bos>by tomorrow morning<eos>
+<bos>there may not be any more X-Files.<eos>
+<bos>(moaning)<eos>
+<bos>(moaning)<eos>
+<bos>Start an l.V. here, stat.<eos>
+<bos>Mulder: Tell us what happened.<eos>
+<bos>Whatever happened<eol>has nothing to do with you.<eos>
+<bos>Wrong, Colonel.<eos>
+<bos>We want the same thing,<eol>onlyyou want it dead.<eos>
+<bos>Can'tyou see that chasing it down<eos>
+<bos>leaves it no choice but to defend itself?<eos>
+<bos>How many more have to die before<eol>you rethinkyour approach?<eos>
+<bos>Listen to me<eos>
+<bos>'cause l'm not wasting<eol>another breath on this.<eos>
+<bos>lfyou and your partner<eos>
+<bos>aren't out ofhere in 30 seconds...<eos>
+<bos>Agent Scully stays here.<eos>
+<bos>We're undermanned,<eol>she's a doctor-- she stays.<eos>
+<bos>lfthat's okay.<eos>
+<bos>Ofcourse.<eos>
+<bos>lfyou don't mind<eos>
+<bos>youjust take care ofmy men<eos>
+<bos>and let me do mywork.<eos>
+<bos>Outside this emergency room<eol>you can do whateveryou want<eos>
+<bos>but in here l call the shots--<eos>
+<bos>assuming, ofcourse<eos>
+<bos>you want me to take care ofyour men.<eos>
+<bos>Get this man<eos>
+<bos>out ofmy sight.<eos>
+<bos>Where do l scrub up?<eos>
+<bos>Max.<eos>
+<bos>Hey, Max.<eos>
+<bos>Max.<eos>
+<bos>Hey... Max.<eos>
+<bos>Who are... who areyou?<eos>
+<bos>Max, it's me, Fox Mulder.<eos>
+<bos>You okay?<eos>
+<bos>What areyou doing here?<eos>
+<bos>You were having some kind ofseizure.<eos>
+<bos>Seizure?<eos>
+<bos>That's impossible.<eos>
+<bos>You were lying on the foor<eol>unconscious, convulsing.<eos>
+<bos>That's odd.<eos>
+<bos>l haven't had an episode in seven years--<eos>
+<bos>not since l went on medication.<eos>
+<bos>Let's getyou to the hospital.<eos>
+<bos>No.<eos>
+<bos>l mean, l mean it's not necessary.<eos>
+<bos>You sure?<eos>
+<bos>Yeah. l lived with epilepsy all my life.<eos>
+<bos>l'm not in any danger.<eos>
+<bos>Yeah, it started in South Dakota<eos>
+<bos>when l was ten.<eos>
+<bos>The doctor said l must<eol>have incurred a head injury.<eos>
+<bos>l don't remember ever hitting my head.<eos>
+<bos>You have no memory ofyour seizures?<eos>
+<bos>As a kid l used to wake up<eol>in strange places<eos>
+<bos>with no idea where l was<eol>or how l got there.<eos>
+<bos>(sighs)<eos>
+<bos>Sorry. l...<eos>
+<bos>l got to, l got to go to sleep.<eos>
+<bos>All right.<eos>
+<bos>(sighing)<eos>
+<bos>Rough night, huh?<eos>
+<bos>lt was terrible.<eos>
+<bos>We lost all but two<eos>
+<bos>and they're still in critical condition<eos>
+<bos>on theirway to the burn unit<eos>
+<bos>atJohns Hopkins.<eos>
+<bos>So what doyou think, Scully?<eos>
+<bos>What's going on out there?<eos>
+<bos>l don't know, and under<eol>other circumstances<eos>
+<bos>l would like to find out<eos>
+<bos>but we have a plane to catch<eol>injust over an hour.<eos>
+<bos>l wantyou to take<eol>a look at something first.<eos>
+<bos>What?<eos>
+<bos>Max.<eos>
+<bos>There's an unusual incision<eol>behind his left ear.<eos>
+<bos>l've seen this incision twice before.<eos>
+<bos>Two women-- a thousand miles apart<eos>
+<bos>no way ofknowing each other, no relation.<eos>
+<bos>both claim to have been<eol>abducted by aliens.<eos>
+<bos>areyou saying Max Fenig is an abductee?<eos>
+<bos>Mulder<eos>
+<bos>the man is taking<eol>powerful antipsychotic drugs.<eos>
+<bos>l saw them in his R.V.<eos>
+<bos>They're for his epilepsy.<eos>
+<bos>Dilantin is an anti-convulsant<eos>
+<bos>but Mellaril is used exclusively<eol>to treat schizophrenia.<eos>
+<bos>More than likely, Max is delusional.<eos>
+<bos>You don't seem to understand, Scully.<eos>
+<bos>Max doesn't believe<eol>he was abducted by aliens.<eos>
+<bos>l believe he was.<eos>
+<bos>Now, could you at least<eol>take a look at the scar<eos>
+<bos>and give meyour medical opinion?<eos>
+<bos>Okay.<eos>
+<bos>You pack.<eos>
+<bos>l'll take a look at Max<eol>on the way to the airport.<eos>
+<bos>Sir, l have fash traffic at 24-1 8.<eos>
+<bos>Repeated calls for l.D. go unanswered<eos>
+<bos>and it's not in the orbital<eol>or sub-orbital inventory.<eos>
+<bos>24-1 8-- isn't that where..?<eos>
+<bos>Same exact spot, sir<eos>
+<bos>though l am reading a much larger craft.<eos>
+<bos>Meteor, Ms. Koretz.<eos>
+<bos>A much larger meteor, sir.<eos>
+<bos>Hold on a second.<eos>
+<bos>We have a confirm.<eos>
+<bos>Whitmarsh Air Force Base is tracking.<eos>
+<bos>Where is it?<eos>
+<bos>Well, sir, the meteor<eol>seems to be hovering<eos>
+<bos>over a small town in eastern Wisconsin.<eos>
+<bos>Come on, Mulder, let's get this overwith.<eos>
+<bos>Hey, Max.<eos>
+<bos>Max.<eos>
+<bos>Max?<eos>
+<bos>Hey, Max.<eos>
+<bos>Max?<eos>
+<bos>Mulder, look at this.<eos>
+<bos>Mulder: What is that? Blood?<eos>
+<bos>Man:Falcon Patrol<eol>reporting unidentifiedtrespass.<eos>
+<bos>Mulder!<eos>
+<bos>Come on.<eos>
+<bos>Where doyou think you're going?<eos>
+<bos>lfwe go to the airport now,<eol>we might make the plane<eos>
+<bos>which would giveyou halfa chance<eos>
+<bos>ofdefending yourself.<eos>
+<bos>Think about it.<eos>
+<bos>Max is a gypsy, nomad, right?<eos>
+<bos>Yes. So what?<eos>
+<bos>He intercepted Wright's last call<eos>
+<bos>to his dispatcher<eos>
+<bos>which means he was here<eol>in Townsend, Wisconsin<eos>
+<bos>the night ofthe crash.<eos>
+<bos>Ofall the places he could<eol>have been, he was here.<eos>
+<bos>lf Max was abducted<eos>
+<bos>that would go a long way<eos>
+<bos>to explaining his obsessions.<eos>
+<bos>lfwe figure that out, you<eol>can be sure Henderson has.<eos>
+<bos>Doyou have the keys?<eos>
+<bos>(panting)<eos>
+<bos>Don't do this.<eos>
+<bos>Sir, we've apprehended<eol>the target, a civilian.<eos>
+<bos>Negative, Falcon patrol.<eos>
+<bos>Take him with extreme caution.<eos>
+<bos>They're dead.<eos>
+<bos>(Max groaning)<eos>
+<bos>Max: lt hurts. Stop.<eos>
+<bos>Why? Why? Why?<eos>
+<bos>lt hurts.<eos>
+<bos>Max?<eos>
+<bos>lt hurts.<eos>
+<bos>Stop. lt hurts.<eos>
+<bos>lt hurts. lt hurts.<eos>
+<bos>lt's all right.<eos>
+<bos>Stop it!<eos>
+<bos>...lt hurts.<eos>
+<bos>No, no, it's me they...<eos>
+<bos>They're coming for me.<eos>
+<bos>No, l know that...<eos>
+<bos>that's why they're here.<eos>
+<bos>They're coming for me.<eos>
+<bos>(helicopterwhirring)<eos>
+<bos>lt hurts.<eos>
+<bos>(moaning)<eos>
+<bos>Alpha team, secure the roof.<eos>
+<bos>Hold it right there!<eos>
+<bos>Putyour hands up and come with us!<eos>
+<bos>Alpha team, ready on the roof.<eos>
+<bos>Roger, Alpha. Delta team, report.<eos>
+<bos>Delta team in position, sir.<eos>
+<bos>What areyou doing?<eos>
+<bos>You have a very sick man in there.<eos>
+<bos>We're not in the hospital now,<eol>Dr. Scully.<eos>
+<bos>Omega team, report.<eos>
+<bos>He's a delusional schizophrenic.<eos>
+<bos>Keep her clear.<eos>
+<bos>Sir, this is Alpha team leader.<eos>
+<bos>l'm picking up three forms<eol>inside the structure.<eos>
+<bos>That's affirmative.<eos>
+<bos>Two are proximate<eos>
+<bos>the third approaching from 40 meters.<eos>
+<bos>All teams prepare for go in 30 seconds.<eos>
+<bos>Come on. Come on, Max.<eos>
+<bos>Why... stop. Why...<eos>
+<bos>l'm here to helpyou.<eos>
+<bos>l'm scared.<eos>
+<bos>l know.<eos>
+<bos>Don't let them take me.<eos>
+<bos>Mulder: l won't let them takeyou.<eos>
+<bos>Come on, Max.<eos>
+<bos>Come with me.<eos>
+<bos>No!<eos>
+<bos>Max!<eos>
+<bos>Max!<eos>
+<bos>Max!<eos>
+<bos>Max!<eos>
+<bos>Sir, this is Alpha team leader.<eos>
+<bos>Except for our men<eos>
+<bos>l'm only picking up one figure inside.<eos>
+<bos>l do not copy that.<eos>
+<bos>We indicate only one figure<eos>
+<bos>inside the building.<eos>
+<bos>What?<eos>
+<bos>Soldier: Blow the door!<eos>
+<bos>Take him!<eos>
+<bos>(soldiers chattering)<eos>
+<bos>That's your unit, sir.<eos>
+<bos>Where is he?<eos>
+<bos>He's gone. They got to him first.<eos>
+<bos>They beat us, Colonel.<eos>
+<bos>Arrest him.<eos>
+<bos>And keep looking.<eos>
+<bos>Agent Scully<eos>
+<bos>to the best ofyour knowledge,<eol>was Agent Mulder ever assigned<eos>
+<bos>to investigate matters<eol>related to the evacuation<eos>
+<bos>ofTownsend, Wisconsin?<eos>
+<bos>No, sir.<eos>
+<bos>At any time<eos>
+<bos>wereyou aware ofhis submitting a Form 302<eos>
+<bos>requesting said assignment<eol>or travel expenses?<eos>
+<bos>No, sir.<eos>
+<bos>While in Wisconsin<eos>
+<bos>did Agent Mulder drive a blue Ford Taurus<eos>
+<bos>registered to<eol>the State Car rental agency?<eos>
+<bos>Yes, sir.<eos>
+<bos>Thankyou, Agent Scully.<eos>
+<bos>Sir, request permission<eol>to make a statement.<eos>
+<bos>Request denied.<eos>
+<bos>Sir, it's unfair tojudge Mulder<eol>by the same criteria...<eos>
+<bos>You're dismissed.<eos>
+<bos>But, sir...<eos>
+<bos>That will be all.<eos>
+<bos>You hear that noise, Scully?<eos>
+<bos>Hammer and nails.<eos>
+<bos>They're building a gallows<eol>in the town square.<eos>
+<bos>Don't worry.<eos>
+<bos>lt was only a matter oftime.<eos>
+<bos>l'm surprised l lasted this long.<eos>
+<bos>Good luck.<eos>
+<bos>l'll break a leg.<eos>
+<bos>McGrath: ...as well as<eol>insubordination and misconduct.<eos>
+<bos>How doyou respond to<eol>these allegations, Agent Mulder?<eos>
+<bos>Over a dozen men lost their lives<eos>
+<bos>and you want me to respond<eol>to issues ofprotocol?<eos>
+<bos>You failed to obtain proper<eol>authorization foryour actions.<eos>
+<bos>l knew it wouldn't be forthcoming.<eos>
+<bos>You also violated a Federal quarant...<eos>
+<bos>A cover-up was underway...<eos>
+<bos>Exposing yourself and possibly others<eos>
+<bos>to toxic contamination!<eos>
+<bos>Oh, toxic contamination.<eol>Are we back in that?<eos>
+<bos>You read my report.<eos>
+<bos>Explain Max Fenig's disappearance.<eos>
+<bos>Your report is not the subject<eol>ofthis inquiry.<eos>
+<bos>X rays taken while Mr. Fenig<eol>was institutionalized<eos>
+<bos>showed an object<eol>lodged in his cerebellum.<eos>
+<bos>That is irrelevant, Agent Mulder.<eos>
+<bos>The man was abducted.<eos>
+<bos>Everybody in this room knows it.<eos>
+<bos>Colonel Henderson's<eol>written testimony states<eos>
+<bos>that Fenig's body<eol>was found two hours later<eos>
+<bos>in a cargo container.<eos>
+<bos>Then what can l say?<eos>
+<bos>How can l disprove lies that are stamped<eos>
+<bos>with an official seal?<eos>
+<bos>That will be all, Mr. Mulder.<eos>
+<bos>(sighing)<eos>
+<bos>You can deny all the things l've seen<eos>
+<bos>all the things l've discovered,<eol>but not for much longer<eos>
+<bos>'cause too many know<eol>what's happening out there<eos>
+<bos>and no one, no government agency<eos>
+<bos>hasjurisdiction over the truth.<eos>
+<bos>Why did you countermand our decision?<eos>
+<bos>Mulder's conduct was in clearviolation<eos>
+<bos>not only of Bureau procedures,<eol>but of Federal Law.<eos>
+<bos>Yes.<eos>
+<bos>l don't understand.<eos>
+<bos>The committee's case was airtight.<eos>
+<bos>You've ruined the last best chance we had<eos>
+<bos>to get rid ofhim.<eos>
+<bos>l appreciate your frustration<eos>
+<bos>butyou and l both know<eol>that Mulder's work--<eos>
+<bos>his, uh... singular passion--<eos>
+<bos>poses a most unique dilemma<eos>
+<bos>but his occasional insubordination<eos>
+<bos>is in the end far less dangerous.<eos>
+<bos>With respect, sir--<eos>
+<bos>less dangerous than what?<eos>
+<bos>Than having him exposed<eol>to the wrong people--<eos>
+<bos>what he knows...<eos>
+<bos>what he thinks he knows.<eos>
+<bos>(sighing)<eos>
+<bos>Always keepyour friends<eol>close, Mr. McGrath<eos>
+<bos>but keepyour enemies closer.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

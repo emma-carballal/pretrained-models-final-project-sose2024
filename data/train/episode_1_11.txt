@@ -1,0 +1,616 @@
+<bos>ï»¿1 Base this is patrol six<eos>
+<bos>Negative on object.<eol>Are your bearings correct?<eos>
+<bos>It was there a second ago.<eos>
+<bos>YOU'RE UNDER ATTACK!!<eos>
+<bos>I'M LOCKED IN!<eos>
+<bos>IT'S A HIT! I GOT HIM!<eos>
+<bos>Oh, man.<eos>
+<bos>This is Southern Crescent<eol>to Red Crescent.<eos>
+<bos>We've got a downed plane<eol>at camp perimeter.<eos>
+<bos>Southern Crescent, this is Red Crescent.<eos>
+<bos>That's a negative. We have<eol>nothing in the sky at this time.<eos>
+<bos>Well, we got something down here.<eos>
+<bos>Advise medevac unit to be on standby.<eos>
+<bos>We're going to check it out.<eos>
+<bos>Roger.<eos>
+<bos>Medevac 1, Medevac 1,<eol>this is Red Crescent...<eos>
+<bos>...downed aircraft in their area. Over.<eos>
+<bos>From Opryland, it's The Grand Ole Opry<eos>
+<bos>on WSM Radio 650,<eos>
+<bos>brought to you<eol>by Goody's Headache Powder.<eos>
+<bos>When the night's been too long<eol>and the party's been<eos>
+<bos>too hearty, Goody's Headache Powder<eos>
+<bos>will straighten you right out,<eos>
+<bos>and you have my word on that.<eos>
+<bos>Goody...<eos>
+<bos>It was, it was cigar-shaped,<eos>
+<bos>red and green lights, fast as hell.<eos>
+<bos>I seen three of 'em<eol>flying over Chester County.<eos>
+<bos>Right, right,<eos>
+<bos>six troopers were chasing 'em down 22.<eos>
+<bos>Whoa, I see one now.<eos>
+<bos>It's over the water tower.<eos>
+<bos>I see it, too.<eos>
+<bos>Red and green lights just like you said.<eos>
+<bos>From the trucker's description,<eol>the shape he fired upon<eos>
+<bos>could conceivably have been<eol>a mountain lion's.<eos>
+<bos>Conceivably.<eos>
+<bos>The National Weather<eol>Service last night reported<eos>
+<bos>atmospheric conditions<eol>in this area which were possibly<eos>
+<bos>conducive to lightning.<eos>
+<bos>Possibly.<eos>
+<bos>It is feasible that the truck<eos>
+<bos>was struck by lightning,<eos>
+<bos>creating the electrical failure.<eos>
+<bos>It's feasible.<eos>
+<bos>And you know there's a marsh over there.<eos>
+<bos>Those lights the driver saw<eos>
+<bos>may... have been swamp gas.<eos>
+<bos>Swamp gas?<eos>
+<bos>It's a natural phenomenon<eos>
+<bos>in which phosphine and methane<eos>
+<bos>rising from decaying organic matter<eos>
+<bos>ignite, creating globes of blue flame.<eos>
+<bos>Happens to me when I eat Dodger Dogs.<eos>
+<bos>How can a dozen witnesses,<eol>including a squad<eos>
+<bos>of police vehicles in three counties,<eos>
+<bos>become hysterical over swamp gas?<eos>
+<bos>I've investigated<eol>multiple sightings before.<eos>
+<bos>Chesapeake Bay, the Okoboji Lakes,<eos>
+<bos>Area 51 in Nevada.<eos>
+<bos>None had this much supporting evidence.<eos>
+<bos>Anecdotal data, exhaust residue,<eos>
+<bos>radiation levels five times the norm.<eos>
+<bos>Mulder, none of that<eol>evidence is conclusive.<eos>
+<bos>The only question for me is,<eos>
+<bos>why was the truck driver singled out?<eos>
+<bos>Isn't it more plausible<eol>that an exhausted truck driver<eos>
+<bos>became swept up in the hysteria<eol>and fired upon hallucinations?<eos>
+<bos>I mean, after all,<eos>
+<bos>the road can play tricks on you.<eos>
+<bos>Yeah, it can play tricks on you.<eos>
+<bos>But not like this.<eos>
+<bos>I started these stopwatches<eol>at the same time.<eos>
+<bos>I don't know why they're holding me.<eos>
+<bos>This "firing a weapon<eol>on a county road" charge<eos>
+<bos>is a lot of horse manure.<eos>
+<bos>I'm a vet and I know how to handle a gun.<eos>
+<bos>Mr. Ranheim, I'd appreciate it<eos>
+<bos>if you could elaborate<eos>
+<bos>on the report you filed last night<eos>
+<bos>regarding your encounter.<eos>
+<bos>It was round...<eos>
+<bos>...like a saucer.<eos>
+<bos>And green and orange lights.<eos>
+<bos>Last night you said<eol>it was cigar-shaped and black.<eos>
+<bos>I didn't ask for this to happen.<eos>
+<bos>All I want is to deliver my shipment<eos>
+<bos>of auto parts and forget...<eos>
+<bos>Pardon me for asking,<eos>
+<bos>but how long have you had that cough?<eos>
+<bos>Why?<eos>
+<bos>I'm just concerned.<eos>
+<bos>You said you were a veteran.<eos>
+<bos>What's that got to do with this?<eos>
+<bos>The cough, the fever, the rash.<eos>
+<bos>Those are all symptoms<eol>of Gulf War Syndrome.<eos>
+<bos>I was never in the Gulf War.<eos>
+<bos>Okay. So, how long have you<eol>not been yourself?<eos>
+<bos>Since the thing last night.<eos>
+<bos>Mr. Ranheim, I'm Police Chief Rivers.<eos>
+<bos>Please forgive the misunderstanding.<eos>
+<bos>Your truck's been squared away.<eos>
+<bos>You may go.<eos>
+<bos>I'd like to examine the truck.<eos>
+<bos>That won't be necessary.<eos>
+<bos>This man has had<eol>an alleged close encounter.<eos>
+<bos>The truck undoubtedly contains<eol>important trace evidence.<eos>
+<bos>Sir, if I may...<eos>
+<bos>You've gotten all you're<eol>going to get out of this county.<eos>
+<bos>We will no longer cooperate<eol>in your investigation.<eos>
+<bos>Why?<eos>
+<bos>Just... go away.<eos>
+<bos>Not... not here.<eos>
+<bos>It's obvious someone got<eol>to the police chief.<eos>
+<bos>Ranheim was hiding something.<eos>
+<bos>Ranheim was sick.<eos>
+<bos>He only became sick last night.<eos>
+<bos>Excuse me, could I use your pen?<eos>
+<bos>Mm-hmm.<eos>
+<bos>What are you suggesting,<eos>
+<bos>that Gulf War Syndrome is caused by UFOs?<eos>
+<bos>UFOs are frequently witnessed<eos>
+<bos>by soldiers during wartime.<eos>
+<bos>Thanks.<eos>
+<bos>Here you go. Oh, thank you.<eos>
+<bos>Mulder, the only UFOs<eol>that soldiers are likely to see<eos>
+<bos>are secret military aircraft.<eos>
+<bos>Well, what if that's<eol>what made the soldiers<eos>
+<bos>in Iraq sick-- the exhaust or fuel<eos>
+<bos>of a classified aircraft or its weapon?<eos>
+<bos>Well, there is a base in Little Rock.<eos>
+<bos>You think that's what the air<eol>force was flying that night?<eos>
+<bos>They'd deny it, but it could<eol>possibly explain how Ranheim<eos>
+<bos>developed his symptoms.<eos>
+<bos>Possibly.<eos>
+<bos>I want to talk to some people<eos>
+<bos>when we get back to Washington.<eos>
+<bos>Mulder, the military isn't going<eos>
+<bos>to talk about classified info.<eos>
+<bos>No, these guys are like<eos>
+<bos>an extreme government watchdog group.<eos>
+<bos>They publish a magazine<eol>called The Lone Gunman.<eos>
+<bos>Some of their information is first-rate--<eos>
+<bos>covert actions, classified weapons.<eos>
+<bos>Some of their ideas are downright spooky.<eos>
+<bos>Check it out, Mulder, I had breakfast<eos>
+<bos>with the guy who shot John F. Kennedy.<eos>
+<bos>Is that so?<eos>
+<bos>Old dude now, but yeah.<eos>
+<bos>Says he was dressed as a<eol>cop on the grassy knoll.<eos>
+<bos>And, Mulder, listen to this.<eos>
+<bos>Vladimir Zhirinovsky,<eos>
+<bos>the leader of the Russian<eol>Social Democrats--<eos>
+<bos>he's being put into power<eos>
+<bos>by the most heinous and<eol>evil force of the 20th century.<eos>
+<bos>Barney?<eos>
+<bos>The CIA.<eos>
+<bos>Hmm.<eos>
+<bos>Is this your skeptical partner?<eos>
+<bos>She's hot.<eos>
+<bos>You don't believe that the CIA,<eos>
+<bos>threatened by a loss of power and funding<eos>
+<bos>because of the collapse of the Cold War,<eos>
+<bos>wouldn't dream of having<eol>the old enemy back?<eos>
+<bos>I think you give the government<eol>too much credit.<eos>
+<bos>I mean, the, the government<eos>
+<bos>can't control the<eol>deficit or manage crime.<eos>
+<bos>Lone Gunman. What makes you think<eos>
+<bos>they can plan and execute<eol>such an elaborate conspiracy?<eos>
+<bos>She is hot.<eos>
+<bos>Settle down, Frohike.<eos>
+<bos>We're not talking about<eol>a bunch of idiots up on the Hill<eos>
+<bos>trying to bone the Capitol pages.<eos>
+<bos>We're talking about a dark network--<eos>
+<bos>a government within a government<eol>controlling our every move.<eos>
+<bos>How can they do that? How?<eos>
+<bos>I'll show you how.<eos>
+<bos>You got a $20 bill?<eos>
+<bos>Hmm.<eos>
+<bos>I'll check.<eos>
+<bos>That's just one method.<eos>
+<bos>They use this magnetic strip<eol>to track you.<eos>
+<bos>Whenever you go through a<eol>metal detector at an airport,<eos>
+<bos>they know exactly<eol>how much you're carrying<eos>
+<bos>it is a federal crime to deface money.<eos>
+<bos>on the inside? Other countries<eol>put that strip on the outside.<eos>
+<bos>What are they hiding?<eol>O-O-O-Okay, all right.<eos>
+<bos>What do you know<eol>about the Gulf War Syndrome?<eos>
+<bos>Agent Orange of the '90s.<eos>
+<bos>Artillery shells coated<eol>with depleted uranium.<eos>
+<bos>Have you heard of any classified planes<eos>
+<bos>being flown during the Persian Gulf War?<eos>
+<bos>Why would you need to expose<eol>a secret plane to an air force<eos>
+<bos>that runs to Iran<eol>whenever you take to the air?<eos>
+<bos>What about UFO activity<eol>during that period?<eos>
+<bos>Yeah.<eos>
+<bos>UFOs caused the Gulf War Syndrome.<eos>
+<bos>That's a good one.<eos>
+<bos>That's why we like you, Mulder.<eos>
+<bos>Your ideas are weirder than ours.<eos>
+<bos>Those were the most paranoid<eol>people I have ever met.<eos>
+<bos>I don't know how you could think<eos>
+<bos>that what they say<eol>is even remotely plausible.<eos>
+<bos>I think it's remotely plausible<eos>
+<bos>that someone might think you're hot.<eos>
+<bos>Did you see the way<eol>they answered the telephone?<eos>
+<bos>They probably think that every<eol>call they get is monitored<eos>
+<bos>and they're followed everywhere they go.<eos>
+<bos>It's a form of self-delusion.<eos>
+<bos>It makes them think<eol>that what they're doing<eos>
+<bos>is important enough<eol>that somebody would...<eos>
+<bos>What's the matter?<eos>
+<bos>Hello.<eos>
+<bos>Pitchers and catchers report<eos>
+<bos>for spring training this week.<eos>
+<bos>Yeah, what are we doing here?<eos>
+<bos>Missed your calling, did you, Mr. Mulder?<eos>
+<bos>Yeah, maybe this year we can catch a game<eos>
+<bos>at Camden Yards.<eos>
+<bos>Of course we wouldn't be<eol>able to sit together.<eos>
+<bos>That's too bad.<eos>
+<bos>Something tells me<eol>you'd have the connections<eos>
+<bos>to get great seats.<eos>
+<bos>Yeah, any park in the country.<eos>
+<bos>It's just a tourist.<eos>
+<bos>In our line<eos>
+<bos>nothing is just what it seems.<eos>
+<bos>What am I onto?<eos>
+<bos>We go down to investigate<eol>a truck driver's encounter<eos>
+<bos>with a UFO, and the next thing,<eos>
+<bos>we're discovering electronic<eol>surveillance equipment.<eos>
+<bos>Who's listening to us?<eos>
+<bos>Why won't you tell me?<eos>
+<bos>What am I onto?<eos>
+<bos>A dangerous path.<eos>
+<bos>The truck is bogus and so is<eol>the truck driver Ranheim.<eos>
+<bos>First I checked his manifest.<eos>
+<bos>It listed a truck carrying<eol>108 cartons of auto parts,<eos>
+<bos>weighing 3,100 pounds.<eos>
+<bos>Then I checked with three<eol>weigh stations along his route,<eos>
+<bos>and they have it listed at 5,100 pounds.<eos>
+<bos>There's something in that truck,<eol>Mulder, and it's not auto parts,<eos>
+<bos>and of course nobody ever reported him.<eos>
+<bos>Furthermore, Ranheim lied to us<eol>about being in the Gulf War.<eos>
+<bos>His real name is Frank Druce--<eos>
+<bos>and I worked hard to get this one.<eos>
+<bos>He was Special Operations Black Beret<eos>
+<bos>in Mosul, Northern Iraq.<eos>
+<bos>Also, he didn't get sick<eos>
+<bos>from the encounter the other night.<eos>
+<bos>He's been to the V.A. hospital<eol>for treatments three times<eos>
+<bos>in the past year.<eos>
+<bos>We had it.<eos>
+<bos>We had it and we let it go.<eos>
+<bos>Four days ago an Iraqi Air Force pilot<eos>
+<bos>shot down an unidentified flying object.<eos>
+<bos>The wreckage and possibly the occupants<eos>
+<bos>were recovered by the army.<eos>
+<bos>Ranheim the truck driver<eol>would be a perfect escort<eos>
+<bos>for the wreckage and/or bodies<eos>
+<bos>out of Iraq to a laboratory<eol>in the United States.<eos>
+<bos>That would explain why the truck weighs<eos>
+<bos>so much more than listed.<eos>
+<bos>The military has, in the past,<eos>
+<bos>transported dangerous materials<eol>and weapons<eos>
+<bos>in unmarked trucks across the country.<eos>
+<bos>I'm beginning to sound like those guys<eos>
+<bos>over at The Lone Gunman, right?<eos>
+<bos>Where did you obtain this information?<eos>
+<bos>Let's just say it's a source<eol>with a deep background.<eos>
+<bos>I want to know all about him.<eos>
+<bos>All I know is that<eol>he's guided us away from harm.<eos>
+<bos>How do you know that?<eos>
+<bos>We work for the Federal Bureau<eol>of Investigation<eos>
+<bos>and we're being bugged.<eos>
+<bos>What does that tell you?<eos>
+<bos>That tells me that not everything is<eos>
+<bos>as it appears to be.<eos>
+<bos>Exactly, and for all we know,<eos>
+<bos>this deep background is<eol>the one responsible for the bug.<eos>
+<bos>He's never lied to me.<eos>
+<bos>I won't break that confidence.<eos>
+<bos>I trust him.<eos>
+<bos>Mulder, you're the only one I trust.<eos>
+<bos>Then, you're going to have to trust me.<eos>
+<bos>Did you find out where the truck is now?<eos>
+<bos>Generally.<eos>
+<bos>It's heading west, towards Colorado.<eos>
+<bos>Okay, we've got to try to intercept it<eos>
+<bos>and see what's on board.<eos>
+<bos>I'm going to go pick up a few things.<eos>
+<bos>I'll meet you back at your place<eos>
+<bos>in an hour, okay?<eos>
+<bos>I cut the main breaker.<eos>
+<bos>You risked exposure coming here.<eos>
+<bos>What I have here is too important.<eos>
+<bos>The photograph in that envelope<eos>
+<bos>was taken by an officer<eol>at Fort Benning, Georgia.<eos>
+<bos>17 UFOs were spotted in one hour.<eos>
+<bos>Is that where the Iraqi<eol>wreckage is being held?<eos>
+<bos>Are UFOs monitoring the area?<eos>
+<bos>Nice place you have here.<eos>
+<bos>Wait. Wait.<eos>
+<bos>I-I just wanted<eos>
+<bos>to take this opportunity to thank you.<eos>
+<bos>You've helped my work so much<eos>
+<bos>and you've never asked<eol>for anything in return,<eos>
+<bos>and, and I know you've put yourself<eos>
+<bos>at great risk to do so.<eos>
+<bos>This is the best photographic<eol>evidence I have ever seen.<eos>
+<bos>When I first saw the Gulf Breeze photos,<eos>
+<bos>I knew they were a hoax,<eos>
+<bos>but this, this is the quality of evidence<eos>
+<bos>the government has amassed for decades<eos>
+<bos>at the highest classified levels.<eos>
+<bos>That business with the truck<eos>
+<bos>was just a decoy to keep<eol>anyone looking closely<eos>
+<bos>away from Fort Benning,<eos>
+<bos>where they are keeping<eol>the remains of the Iraqi UFO.<eos>
+<bos>We've got to leave for Georgia<eol>immediately, Scully, come on.<eos>
+<bos>Mulder, this photograph is a fake.<eos>
+<bos>What?<eos>
+<bos>Look.<eos>
+<bos>This soldier's shadow<eol>is allegedly created<eos>
+<bos>by the lights from the UFO,<eos>
+<bos>but it falls in a direction<eos>
+<bos>contradictory to the craft's position.<eos>
+<bos>There could be an off-camera<eos>
+<bos>light source creating that shadow.<eos>
+<bos>Now, look closely at the<eol>color of the light<eos>
+<bos>reflected in the windshield.<eos>
+<bos>Now, that reflection should be<eos>
+<bos>from the red lights of the UFO,<eos>
+<bos>but it doesn't match the<eol>color of the ship's lights.<eos>
+<bos>There's probably a degree of tint<eos>
+<bos>in the windshield, or the<eol>gradation could be attributed<eos>
+<bos>to atmospheric conditions.<eos>
+<bos>Mulder, we should have it analyzed.<eos>
+<bos>Why don't you just admit it, Scully?<eos>
+<bos>You're determined not to believe him.<eos>
+<bos>Well, maybe you're too determined<eos>
+<bos>to believe him.<eos>
+<bos>I am determined to follow a lead<eos>
+<bos>that may result in the<eol>proof of the existence<eos>
+<bos>of extraterrestrial biological entities.<eos>
+<bos>I need to go.<eos>
+<bos>Mulder, listen to me. No.<eos>
+<bos>Please, will you just hear me?<eos>
+<bos>I have never met anyone<eos>
+<bos>so passionate and dedicated<eol>to a belief as you.<eos>
+<bos>It's so intense<eol>that sometimes it's blinding.<eos>
+<bos>But there are others<eos>
+<bos>who are watching you,<eol>who know what I know,<eos>
+<bos>and whereas I can respect<eol>and admire your passion,<eos>
+<bos>they will use it against you.<eos>
+<bos>Mulder, the truth is out there,<eol>but so are lies.<eos>
+<bos>Thank you.<eos>
+<bos>I had the photo analyzed<eol>by the Bureau's computers.<eos>
+<bos>Initially it appears to be legitimate.<eos>
+<bos>The film grain matches<eol>in pattern and density,<eos>
+<bos>color levels, shading.<eos>
+<bos>Then I noticed this.<eos>
+<bos>It's the moon, half full.<eos>
+<bos>I had the reflection in this window<eos>
+<bos>enlarged by 25.<eos>
+<bos>There's the moon again,<eos>
+<bos>a quarter full,<eos>
+<bos>not to mention the fact that the window<eos>
+<bos>couldn't even catch the moon's reflection<eos>
+<bos>from that angle.<eos>
+<bos>You were right, Scully, it's a fake.<eos>
+<bos>He tried to deceive us.<eos>
+<bos>Now we're alone on this.<eos>
+<bos>There's no one we can trust.<eos>
+<bos>They went to a lot of trouble<eos>
+<bos>to put us on the wrong track.<eos>
+<bos>There's something here<eos>
+<bos>that no one's supposed to find.<eos>
+<bos>Why didn't you leave for Fort Benning?<eos>
+<bos>The photograph was a fake.<eos>
+<bos>Well, at least you're<eol>not insulting me further<eos>
+<bos>by feigning appalled surprise.<eos>
+<bos>On the contrary, I think<eol>a compliment is in order.<eos>
+<bos>That photo was prepared by our very best.<eos>
+<bos>I thought you were my ally. Oh, I am.<eos>
+<bos>Yeah, imagine if Eisenhower told<eol>the rest of the Allies<eos>
+<bos>that D-day would take place in Belgium.<eos>
+<bos>Mr. Mulder, I place my life<eos>
+<bos>in great jeopardy every time we speak.<eos>
+<bos>I've been a participant in some<eol>of the most insidious lies<eos>
+<bos>and witness to deeds that<eol>no crazed man could imagine.<eos>
+<bos>I spent years watching you<eos>
+<bos>from my, uh, lofty position<eos>
+<bos>to know that you were<eol>the one I could trust.<eos>
+<bos>Then, why did you lie to me?<eos>
+<bos>I needed to divert you.<eos>
+<bos>You and Scully are<eol>excellent investigators,<eos>
+<bos>and your motives are just.<eos>
+<bos>However, there still exist some secrets<eos>
+<bos>which should remain secret--<eol>truths that people<eos>
+<bos>are just not ready to know.<eos>
+<bos>Who are you to decide that for me?<eos>
+<bos>The world's reaction to such knowledge<eos>
+<bos>would be far too dangerous.<eos>
+<bos>Dangerous. You mean<eol>in the sense of outrage,<eos>
+<bos>like the reaction to the<eol>Kennedy assassination or M.I.A.s<eos>
+<bos>or radiation experiments on<eol>terminal patients, Watergate,<eos>
+<bos>Iran-Contra, Roswell,<eol>the Tuskegee experiments.<eos>
+<bos>Where will it end?<eos>
+<bos>Oh, I guess it won't end as long as...<eos>
+<bos>men like you decide what is truth.<eos>
+<bos>That transcript you gave<eol>me of the Iraqi pilot--<eos>
+<bos>that was the truth, wasn't it?<eos>
+<bos>Yeah.<eos>
+<bos>Why did you even bother to show it to me?<eos>
+<bos>Well, I was aware that you were<eol>onto the truck,<eos>
+<bos>so I knew that, down the road,<eol>I would have to steer you away,<eos>
+<bos>that I would have to lie to you,<eol>and a lie, Mr. Mulder,<eos>
+<bos>is most convincingly hidden<eol>between two truths.<eos>
+<bos>Mulder.<eos>
+<bos>If a shark stops swimming, it will die.<eos>
+<bos>Don't stop swimming.<eos>
+<bos>I'm not responsible<eol>for the electronic surveillance,<eos>
+<bos>but I do know they can still hear you.<eos>
+<bos>Mulder.<eos>
+<bos>Are you home?<eos>
+<bos>I've been thinking about<eol>this whole situation, you know,<eos>
+<bos>and I think you're right.<eos>
+<bos>I think they won this one, I<eol>think we should just move on.<eos>
+<bos>I think this time you're right, Mulder.<eos>
+<bos>All right, stick with him.<eos>
+<bos>Hey!<eos>
+<bos>There you are, Ms. Scully,<eos>
+<bos>your round-trip ticket to Chicago.<eos>
+<bos>Here's your credit card.<eos>
+<bos>And the plane departs at Gate 35.<eos>
+<bos>I'd also like a one-way ticket<eol>to Los Angeles<eos>
+<bos>with a stop in Las Vegas, and<eol>for that I'll be paying cash.<eos>
+<bos>Called every weigh station and<eol>bureau office west of Colorado.<eos>
+<bos>Tied up an airphone for three hours.<eos>
+<bos>I don't speak Japanese,<eol>but I think some businessman<eos>
+<bos>told me to stick a piece of<eol>sushi where the sun don't shine.<eos>
+<bos>My ear's numb from being<eol>on hold for so many hours.<eos>
+<bos>At least we can be sure<eol>they didn't trace our call.<eos>
+<bos>I couldn't find the truck.<eos>
+<bos>Did you have any luck?<eos>
+<bos>Yep, it's heading northwest on I-90.<eos>
+<bos>We have to get<eol>a couple tickets to Seattle.<eos>
+<bos>Yeah, think about it.<eos>
+<bos>This truck drove across America.<eos>
+<bos>People it passed on the<eol>road probably thought<eos>
+<bos>it was hauling auto parts or furniture,<eos>
+<bos>you know, livestock, whatever.<eos>
+<bos>Nobody would have suspected<eos>
+<bos>it was hauling a craft<eol>from another world.<eos>
+<bos>Here we go.<eos>
+<bos>Mulder, we've been following<eol>this truck for hours.<eos>
+<bos>Maybe he knows we're following him<eos>
+<bos>and he's taking an evasive route.<eos>
+<bos>Well, if that were the case...<eos>
+<bos>You all right?<eos>
+<bos>Yeah.<eos>
+<bos>Come on.<eos>
+<bos>Ranheim!<eos>
+<bos>Ranheim?<eos>
+<bos>Scully.<eos>
+<bos>Oh, my God.<eos>
+<bos>It was an extraterrestrial<eol>biological entity... alive.<eos>
+<bos>Where did it go?<eos>
+<bos>I think we were just witness<eol>to a rescue mission.<eos>
+<bos>God, Mulder, I can't stop shaking.<eos>
+<bos>What just happened--<eol>does it fit the profile?<eos>
+<bos>Are you asking if it was real?<eos>
+<bos>Did we just have a close encounter?<eos>
+<bos>No, it was another hoax.<eos>
+<bos>But how could anyone generate such force?<eos>
+<bos>Whatever they used, we<eol>probably haven't heard of it.<eos>
+<bos>Sound weapons, stealth helicopters<eos>
+<bos>with an ultrahigh- intensity light.<eos>
+<bos>It doesn't matter.<eos>
+<bos>There's no evidence that this was a UFO.<eos>
+<bos>So they created this elaborate show<eos>
+<bos>just to deflect us again?<eos>
+<bos>I mean, wouldn't it have<eol>been easier for them just...<eos>
+<bos>Just to kill us.<eos>
+<bos>Yeah, I've wondered that myself.<eos>
+<bos>Maybe they're using me against myself<eos>
+<bos>like you said before.<eos>
+<bos>That I want so badly to<eol>believe, that I'd just accept<eos>
+<bos>the obvious conclusions and walk away.<eos>
+<bos>Well, now we have nothing to go on.<eos>
+<bos>No one to turn to.<eos>
+<bos>There's still one player in<eol>all this who hasn't lied to us,<eos>
+<bos>but it's not quite someone<eol>we can turn to.<eos>
+<bos>Levering and Priest Rapids,<eos>
+<bos>east bank of the Columbia River.<eos>
+<bos>Did you send out a field investigator?<eos>
+<bos>And you can substantiate the sighting?<eos>
+<bos>Okay, Nick, thanks a lot.<eos>
+<bos>I've contacted several organizations<eos>
+<bos>that have hotlines for UFO reports--<eos>
+<bos>Center for UFO Studies in Chicago,<eos>
+<bos>MUFON, NICAP--<eos>
+<bos>none of them have ever reported<eol>a week of such activity.<eos>
+<bos>It began in Tennessee<eos>
+<bos>where Ranheim was encountered.<eos>
+<bos>The sightings are following<eos>
+<bos>the path of the truck.<eos>
+<bos>And after last night's hoax...<eos>
+<bos>look at this.<eos>
+<bos>Seven sightings in Mattawa,<eos>
+<bos>Washington-- that's 100 miles away.<eos>
+<bos>Aliens?<eos>
+<bos>Looks like they want<eol>their colleague back.<eos>
+<bos>We've driven full circle<eol>through Mattawa twice.<eos>
+<bos>There's nothing here.<eos>
+<bos>What's over there?<eos>
+<bos>We have been waiting.<eos>
+<bos>Welcome to our home.<eos>
+<bos>We are willing to go with you.<eos>
+<bos>Ahh-doo-nay-vah-so-barahgahs.<eos>
+<bos>That's an intergalactic space greeting.<eos>
+<bos>It means "Hello, space brothers."<eos>
+<bos>Hello.<eos>
+<bos>What's going on here?<eos>
+<bos>A UFO party.<eos>
+<bos>You've seen UFOs?<eos>
+<bos>Last two nights. They're drawn<eol>to our electric power.<eos>
+<bos>They hover over the<eol>power plant down there.<eos>
+<bos>Everyone, they are here.<eos>
+<bos>This is it.<eos>
+<bos>There's Ranheim.<eos>
+<bos>This place has got to have<eol>the highest level of security.<eos>
+<bos>It's just the kind of<eol>challenge they're looking for.<eos>
+<bos>Who?<eos>
+<bos>Lone Gunman.<eos>
+<bos>It's Mulder. Turn the tape recorder off.<eos>
+<bos>Okay, it's off.<eos>
+<bos>Turn it off! It's off already.<eos>
+<bos>How would you like to<eol>have on your front page<eos>
+<bos>the first substantiated photo<eos>
+<bos>of an extraterrestrial biological entity?<eos>
+<bos>No way. An E.B.E.?<eos>
+<bos>What do we have to do?<eos>
+<bos>Just hack me some identification numbers.<eos>
+<bos>Braidwood and Stefoff.<eos>
+<bos>Personal identification number?<eos>
+<bos>7-5-9-3.<eos>
+<bos>5-3-1-1.<eos>
+<bos>Open the trunk, please.<eos>
+<bos>Park in lot four.<eos>
+<bos>Thanks.<eos>
+<bos>Hey, wait!<eos>
+<bos>Display these at all times.<eos>
+<bos>Proceed.<eos>
+<bos>Langly said he couldn't<eol>gain access to Level 6,<eos>
+<bos>so that's where we...<eos>
+<bos>We have to go back, we have<eol>to get through that door.<eos>
+<bos>We're going to look suspicious<eol>going back.<eos>
+<bos>We have to find other access,<eol>then, come on.<eos>
+<bos>Mulder, they're not going to let us.<eos>
+<bos>You folks come with me, please.<eos>
+<bos>Yeah, we're lost, we're just<eol>looking for-- we're trying to...<eos>
+<bos>Just proceed down the hallway.<eos>
+<bos>Yeah, if you could just help us...<eos>
+<bos>Mulder, stop.<eos>
+<bos>We're agents with the Federal<eol>Bureau of Investigation.<eos>
+<bos>I'm reaching for my I.D.<eos>
+<bos>We're here conducting<eos>
+<bos>an investigation.<eos>
+<bos>Proceed down the hallway, please.<eos>
+<bos>This is Level 2 to Level 6.<eos>
+<bos>I have a male and a female who<eol>have identified themselves...<eos>
+<bos>Mulder! Stop!<eos>
+<bos>Hold it!<eos>
+<bos>He's in the stairs! Go, go, go!<eos>
+<bos>Come on, guys.<eos>
+<bos>Stay on top of him.<eos>
+<bos>Halt!<eos>
+<bos>I said hold it!<eos>
+<bos>Halt!<eos>
+<bos>Let him go.<eos>
+<bos>Let him go.<eos>
+<bos>You've done well.<eos>
+<bos>You're dismissed.<eos>
+<bos>I know how badly,<eos>
+<bos>how... very badly you want<eol>to look through that window,<eos>
+<bos>but it would be pointless.<eos>
+<bos>It's dead.<eos>
+<bos>After the Roswell incident in 1947,<eos>
+<bos>even at the brink of the Cold War,<eos>
+<bos>there was an ultrasecret conference<eos>
+<bos>attended by the United States,<eos>
+<bos>the Soviet Union, the People's<eol>Republic of China, Britain,<eos>
+<bos>both Germanies, France,<eos>
+<bos>and it was agreed that, should<eos>
+<bos>any extraterrestrial biological<eol>entity survive a crash,<eos>
+<bos>the country that held that being<eol>would be responsible<eos>
+<bos>for its extermination.<eos>
+<bos>I, um... have the distinction<eol>of being one of three men<eos>
+<bos>to have exterminated such a creature.<eos>
+<bos>I was with the CIA in Vietnam.<eos>
+<bos>A UFO was sighted<eol>for five nights over Hanoi.<eos>
+<bos>The marines shot it down<eol>and brought it to us.<eos>
+<bos>Maybe... it didn't know what a gun was<eos>
+<bos>or perhaps they don't show emotion...<eos>
+<bos>but that... innocent and blank expression<eos>
+<bos>as I pulled the trigger has haunted me...<eos>
+<bos>until I found you.<eos>
+<bos>That's why I come to you, Mr. Mulder,<eos>
+<bos>and will continue to come to you<eol>to atone for what I've done,<eos>
+<bos>and maybe sometime,<eos>
+<bos>through you, the truth will be known.<eos>
+<bos>You're awfully quiet, Mr. Mulder.<eos>
+<bos>I'm wondering which lie to believe.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

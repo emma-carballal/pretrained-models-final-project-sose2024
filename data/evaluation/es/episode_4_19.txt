@@ -1,0 +1,499 @@
+<bos>¡Den la vuelta hacia la costa!<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>¡Al suelo!<eos>
+<bos>Abajo. Quédense abajo.<eos>
+<bos>Tienes que seguir respirando. ¿Me oyes?<eos>
+<bos>¡Rápido! ¡Se está escapando!<eos>
+<bos>Regresaré enseguida.<eos>
+<bos>¡Atrás!<eos>
+<bos>Necesito médicos de emergencia aquí<eol>ahora mismo.<eos>
+<bos>Auto 39 requiere EME.<eos>
+<bos>¡Vamos, déjenla pasar!<eos>
+<bos>Ayuden a mover esa mesa. Déjenle espacio.<eos>
+<bos>Los paramédicos están en camino.<eos>
+<bos>Irás al hospital.<eos>
+<bos>Te vas a poner bien.<eos>
+<bos>Todavía no hemos celebrado<eol>mi cumpleaños. No te vas a librar.<eos>
+<bos>- Amigos, por favor.<eol>- Déjenlos pasar, por favor.<eos>
+<bos>Tiene perforado el pulmón derecho<eol>y necesitan entubarlo ahora mismo.<eos>
+<bos>Es un agente del FBI...<eos>
+<bos>y no va a morir.<eos>
+<bos>Siéntese.<eos>
+<bos>Lo lamento.<eos>
+<bos>- ¿Cómo lo supieron?<eol>- ¿Qué le dijo a su novia?<eos>
+<bos>¿Le dijo que estaba en Washington?<eos>
+<bos>Entonces es alguien de adentro.<eos>
+<bos>Tres. Levántenlo.<eos>
+<bos>- ¿Quién le disparó a Pendrell?<eol>- No lo sé.<eos>
+<bos>Recibí una llamada acerca de<eol>la transferencia de un testigo federal.<eos>
+<bos>Ése es el sargento Louis Frish.<eol>Él era el blanco.<eos>
+<bos>Se supone que un agente federal estaría<eol>aquí para ponerlo bajo protección.<eos>
+<bos>- Esa orden fue revocada. - ¿Por quién?<eos>
+<bos>Louis Frish será puesto<eol>bajo arresto militar.<eos>
+<bos>¿Arresto militar?<eos>
+<bos>Por sospecha de asesinato y proveer<eol>falsa información en una investigación.<eos>
+<bos>Tiene testimonio perjudicial<eol>para los militares.<eos>
+<bos>Su vida está en peligro.<eol>No irá a ninguna parte.<eos>
+<bos>La orden de arresto de este hombre<eol>vino delJefe del Estado Mayor...<eos>
+<bos>quién también extendió una recomendación<eol>contra el agente Mulder.<eos>
+<bos>¿Por qué?<eos>
+<bos>El agente Mulder también está<eol>bajo arresto militar...<eos>
+<bos>con cargos de interferir<eol>con una investigación militar...<eos>
+<bos>del accidente de una aerolínea comercial.<eos>
+<bos>Señor, las fuerzas armadas son<eol>responsables por la caída de ese avión.<eos>
+<bos>Lo han admitido.<eos>
+<bos>Pero la historia del sargento Frish<eol>no es la que ellos cuentan.<eos>
+<bos>¿Cuál es su historia?<eos>
+<bos>Tengo la responsabilidad de la seguridad<eol>de los agentes bajo mi mando.<eos>
+<bos>No voy a poner en peligro<eol>la vida de otro agente...<eos>
+<bos>sólo para mantenerla en acción.<eos>
+<bos>Estoy bien.<eos>
+<bos>Sugiero que se asegure cuando vaya<eol>al hospital con el agente Pendrell.<eos>
+<bos>"Instalación de Reserva Von Drehle<eol>de la Fuerza Aérea"<eos>
+<bos>- Vine a hablar contigo.<eol>- ¿Acerca de qué?<eos>
+<bos>¿El viejo malentendido?<eos>
+<bos>Según los militares,<eol>no hubo un malentendido.<eos>
+<bos>¿De repente asumen la responsabilidad<eol>por el choque del vuelo 549?<eos>
+<bos>No tuvieron opción, no a la luz<eol>de los hechos que se han revelado.<eos>
+<bos>¿Los hechos? ¿Sabes cuál es su historia?<eos>
+<bos>Que la torre de control le dio mal<eol>las coordenadas al piloto del caza...<eos>
+<bos>causando el choque<eol>con el vuelo 549 sobre espacio militar.<eos>
+<bos>Me permitieron escuchar las grabaciones.<eos>
+<bos>Si puedes creer que las coordenadas<eol>que le dio Frish al piloto del caza...<eos>
+<bos>fueron las del curso exacto<eol>en el que iba el vuelo 549...<eos>
+<bos>eso indicaría que Frish<eol>y su compañero de control...<eos>
+<bos>no vieron el vuelo 549 en el aire<eol>hasta que fue demasiado tarde.<eos>
+<bos>Así que dicen que la torre de control<eol>los puso en curso de colisión.<eos>
+<bos>Sí, y que sólo había dos aviones<eol>en la pantalla del radar.<eos>
+<bos>Al saberse culpable, el compañero<eol>de Frish se dio un tiro en la cabeza.<eos>
+<bos>Según la Fuerza Aérea,<eol>Frish mintió para salvarse.<eos>
+<bos>Cuando se enteró de que su compañero<eol>se había suicidado...<eos>
+<bos>vino a nosotros,<eol>culpando a los militares.<eos>
+<bos>Por eso lo persiguieron,<eol>para entregarlo a la justicia.<eos>
+<bos>Y convenientemente,<eol>culparon a un hombre muerto.<eos>
+<bos>Sí.<eos>
+<bos>Ese segundo avión--<eos>
+<bos>¿dicen que era un caza?<eos>
+<bos>Era un Águila F-15, según<eol>un representante de la Fuerza Aérea.<eos>
+<bos>¿ Y tú crees esa historia?<eos>
+<bos>No sé qué creer.<eos>
+<bos>¿Crees que me pesqué esto<eol>de un Águila F-15?<eos>
+<bos>Parecen quemaduras de radiación.<eos>
+<bos>- ¿Dónde te ocurrió eso?<eol>- En la segunda zona del siniestro...<eos>
+<bos>bajo 25 metros de agua<eol>en el fondo del lago Sacandaga.<eos>
+<bos>¿Lo encontraste?<eos>
+<bos>Seguí un rastro de burbujas<eol>hasta los restos...<eos>
+<bos>y no se parecían a nada<eol>que haya despegado de la base aérea.<eos>
+<bos>¿Qué era?<eos>
+<bos>Lo que chocó con el vuelo 549<eol>fue un OVNI...<eos>
+<bos>tirado abajo por los militares<eol>y llevándose de paso al avión.<eos>
+<bos>Excepto que no se puede probar.<eos>
+<bos>¿Por qué no?<eos>
+<bos>Porque no han podido encontrar<eol>ninguna evidencia física...<eos>
+<bos>de que el vuelo 549<eol>estuviera involucrado en la colisión.<eos>
+<bos>- ¿Según quién? - Mike Millar del IIC...<eos>
+<bos>el hombre que dirige<eol>la investigación del choque.<eos>
+<bos>- ¿Cómo sabes que no está mintiendo?<eol>- No lo sé.<eos>
+<bos>Parece ser el único que quiere saber<eol>qué fue lo que hizo caer el avión...<eos>
+<bos>y que vino a mí con una información<eol>que no tenía por qué compartir.<eos>
+<bos>¿Información?<eos>
+<bos>Encontró a Sharon Graffia aturdida<eol>en ese lugar cuando nos fuimos...<eos>
+<bos>después de haber visto luces<eol>sobre el área.<eos>
+<bos>-La hermana de Max Fennig.<eol>-Ésa es otra cosa.<eos>
+<bos>- No es la hermana de Max Fennig.<eol>- ¿Entonces quién es?<eos>
+<bos>Una ingeniera de aeronáutica desempleada<eol>que ha estado en hospitales mentales.<eos>
+<bos>Ahí fue donde conoció a Max.<eos>
+<bos>- ¿Por qué mintió? - No lo sé.<eos>
+<bos>Sólo sé que ese avión<eol>parece estar matando gente...<eos>
+<bos>aun estando en tierra.<eos>
+<bos>Mulder, el agente Pendrell está muerto.<eos>
+<bos>- ¿Cómo? - Le dispararon...<eos>
+<bos>en un atentado contra el sargento Frish<eol>en Washington.<eos>
+<bos>Él salvó su vida, Mulder,<eol>y quizás la mía.<eos>
+<bos>Scully.<eos>
+<bos>¿Por qué está muriendo esta gente?<eos>
+<bos>¿Es por la verdad o por las mentiras?<eos>
+<bos>Tiene que ser por la verdad.<eos>
+<bos>Y les debemos a ellos asegurarnos de eso.<eos>
+<bos>" Barnes Corners, Nueva York"<eos>
+<bos>Disculpe, ¿el Sr. Max Fennig?<eos>
+<bos>- Es por ahí. - Gracias.<eos>
+<bos>¿Recuerdas este lugar?<eos>
+<bos>Recuerdo haberme sorprendido<eol>de lo que algunos llaman hogar.<eos>
+<bos>Tienes que admitir que el hombre<eol>tenía sentido del estilo.<eos>
+<bos>Sólo Max Fennig y tú podrían apreciar<eol>vivir de esta manera.<eos>
+<bos>Creo que Uds. eran espíritus afines,<eol>en una profunda y extraña forma.<eos>
+<bos>¿Qué quieres decir?<eos>
+<bos>Hombres con vidas espartanas, simples<eol>en la creación de la comodidad...<eos>
+<bos>sólo para dar cabida<eol>a la complejidad de sus pasiones.<eos>
+<bos>Ah, frijoles con salchicha.<eos>
+<bos>¿Qué es exactamente lo que<eol>estamos buscando aquí, Mulder?<eos>
+<bos>Algo que explique<eol>que estaba haciendo Max en ese avión...<eos>
+<bos>qué iba a mostrarme o decirme.<eos>
+<bos>¿Qué te hace pensar que iba a verte a ti?<eos>
+<bos>Max es la clave de todo esto.<eol>" Fox Mulder, Agente Especial"<eos>
+<bos>Sabía que ese avión corría peligro<eol>aun antes de entrar en espacio militar.<eos>
+<bos>¿Cómo podía saber eso...<eos>
+<bos>y por qué valía la pena<eol>correr ese riesgo?<eos>
+<bos><i>Soy Max.</i> <i>Pero, claro...</i><eos>
+<bos><i>ésta es, obviamente, mi historia...</i><eos>
+<bos><i>ya que la estoy contando yo.</i><eos>
+<bos><i>Como sea...</i><eos>
+<bos><i>para aquellos que ya me conocen,</i><eol><i>esto será historia antigua.</i><eos>
+<bos><i>Pero para el resto de ustedes,</i><eol><i>esto es</i>--<eos>
+<bos><i>Bueno, ¿qué puedo decir?</i><eol><i>La historia de mi vida.</i><eos>
+<bos><i>En realidad, lo único que siempre quise,</i><eol><i>era que me dejaran tranquilo.</i><eos>
+<bos><i>¿No es lo que queremos todos?</i><eos>
+<bos><i>Pero tuve la mala suerte</i><eol><i>de ser secuestrado por alienígenas.</i><eos>
+<bos><i>Ahora,jamás estoy tranquilo.</i><eos>
+<bos><i>Cada minuto,</i><eol><i>cuando menos lo espero</i>--<eos>
+<bos><i>Yla peor parte de esto es</i><eol><i>que nadie me cree.</i><eos>
+<bos><i>Casi nadie.</i><eos>
+<bos><i>Así que dediqué mi vida a conseguir</i><eol><i>pruebas para los incrédulos...</i><eos>
+<bos><i>pruebas de que hay entidades</i><eol><i>biológicas extraterrestres...</i><eos>
+<bos><i>ahora mismo,</i><eol><i>mientras hablamos...</i><eos>
+<bos><i>visitando nuestro planeta</i><eol><i>en naves alienígenas...</i><eos>
+<bos><i>con planes inquietantes, conocidos</i><eol><i>únicamente por miembros del gobierno...</i><eos>
+<bos><i>el FBI</i><eol><i>y ciertos miembros de alto rango...</i><eos>
+<bos><i>de la comunidad militar industrial...</i><eos>
+<bos><i>quienes han recuperado</i><eol><i>algunas de esas naves.</i><eos>
+<bos><i>Jamás lo admitirán públicamente,</i><eol><i>por supuesto.</i><eos>
+<bos><i>Tampoco admitirían haber salvado</i><eol><i>algo de la tecnología alienígena...</i><eos>
+<bos><i>y que la están usando</i><eol><i>en aplicaciones militares.</i><eos>
+<bos><i>No, eso no sería "americano".</i><eos>
+<bos><i>No lo admitirán hasta que alguien...</i><eos>
+<bos><i>los confronte con pruebas</i><eol><i>irrefutables e innegables.</i><eos>
+<bos><i>Alguien como yo.</i><eos>
+<bos><i>Yprobablemente deba mencionar</i><eol><i>que hago esto...</i><eos>
+<bos><i>arriesgando mi propia salud</i><eol><i>y bienestar.</i><eos>
+<bos><i>Pero, bueno, cuando cada día</i><eol><i>es sólo un día más...</i><eos>
+<bos><i>en el que serás raptado por un montón</i><eol><i>de pequeños tipos grises del espacio...</i><eos>
+<bos><i>¿por qué van a preocuparte</i><eol><i>algunos espectros de la CIA?</i><eos>
+<bos>Lo encontramos.<eos>
+<bos>Damas y caballeros...<eos>
+<bos>la recuperación e identificación<eol>de las víctimas del vuelo 549...<eos>
+<bos>va en un 76 por ciento...<eos>
+<bos>más de lo anticipado, considerando<eol>la destrucción que hemos vimos.<eos>
+<bos>Ya hemos invertido un total<eol>de casi 3.000 horas...<eos>
+<bos>en esta primera ronda<eol>de la investigación.<eos>
+<bos>Desearía poder decirles, amigos, que<eol>hemos descubierto algo más concreto...<eos>
+<bos>pero la evidencia...<eos>
+<bos>no apoya nada más concluyente...<eos>
+<bos>que la afirmación de la Fuerza Aérea...<eos>
+<bos>de que la causa de este desastre<eol>fue una colisión aérea...<eos>
+<bos>o un error catastrófico.<eos>
+<bos>Les voy a pedir a todos<eol>que acaben sus informes esta noche...<eos>
+<bos>y luego quiero que se vayan<eol>a sus hogares con sus familias.<eos>
+<bos>Han hecho un trabajo bueno y concienzudo.<eos>
+<bos>Estarán en contacto conmigo o<eol>con alguien de NTSB para otros detalles.<eos>
+<bos>Sólo quería agradecerles<eol>a todos personalmente.<eos>
+<bos>Gracias.<eos>
+<bos>Me preguntaba qué había ocurrido<eol>con Uds. Hice una llamada.<eos>
+<bos>¿Hay algo que quería decirnos?<eos>
+<bos>No, sólo quería estar en contacto...<eos>
+<bos>y agradecerles por su ayuda en señalar<eol>los hechos de la participación militar.<eos>
+<bos>Creo que los hechos aún son materia<eol>de especulación, Sr. Millar...<eos>
+<bos>y oyendo lo que acaba de decir,<eol>parece que Ud. también lo cree.<eos>
+<bos>La declaración pública de los militares<eol>de su culpa en la colisión...<eos>
+<bos>y sus acciones para fomentar esa<eol>declaración, han despertado sospechas.<eos>
+<bos>¿Sospechas? ¿De qué?<eos>
+<bos>De que la historia que están fomentando<eol>los militares...<eos>
+<bos>es una conveniente deflexión<eol>y una pantalla.<eos>
+<bos>- ¿De qué?<eol>- El agente Scully y yo acordamos...<eos>
+<bos>en algunos de los motivos,<eol>pero no exactamente en los hechos.<eos>
+<bos>- ¿Tiene algún hechos que yo carezca?<eol>- No.<eos>
+<bos>Pero tengo una historia,<eol>si está dispuesto a oírla.<eos>
+<bos>Puede decirme que son tonterías,<eol>como lo ha hecho la agente Scully...<eos>
+<bos>pero creo que es tan creíble como<eol>cualquier historia que se oye por ahí.<eos>
+<bos>Al menos, es la única que no puede<eol>ser refutada por los hechos.<eos>
+<bos>De acuerdo.<eos>
+<bos>Un hombre sabía qué fue<eol>lo que tiró abajo este avión.<eos>
+<bos>Lo sabía antes de subirse al avión,<eol>pero se subió de todos modos.<eos>
+<bos>Se sentó en este asiento, 13-F.<eos>
+<bos>Su nombre era Max Fennig.<eos>
+<bos>Hay varias posibilidades<eol>para las sospechas de Max...<eos>
+<bos><i>pero creo que lo siguieron durante</i><eol><i>un tiempo antes de abordar el vuelo 549.</i><eos>
+<bos><i>Creo que lo siguió hasta el avión...</i><eos>
+<bos><i>alguien que quería lo que Max</i><eol><i>llevaba con él a bordo.</i><eos>
+<bos><i>El objeto que fiinalmente</i><eol><i>tiró abajo el avión...</i><eos>
+<bos><i>cuya causa hasta ahora</i><eol><i>Ud. no ha encontrado.</i><eos>
+<bos>¿Qué era ese objeto?<eos>
+<bos>Pruebas físicas de la existencia<eol>de vida extraterrestre inteligente.<eos>
+<bos><i>La persona que siguió a Max</i><eol><i>debió haber estado dispuesto a matar...</i><eos>
+<bos><i>para conseguir ese objeto...</i><eos>
+<bos><i>cuyo valor es mayor</i><eol><i>que el de una vida humana...</i><eos>
+<bos><i>mayor que la vida de las 134 personas</i><eol><i>que iban en ese avión.</i><eos>
+<bos><i>Nunca sabremos si llegaron</i><eol><i>a ejecutar ese plan...</i><eos>
+<bos><i>porque una segunda nave</i><eol><i>interceptó al vuelo 549...</i><eos>
+<bos><i>una nave que no apareció en el radar</i><eol><i>militar, ni en ningún otro.</i><eos>
+<bos>¿Qué demonios es esto?<eos>
+<bos><i>Max Fennig supo inmediatamente</i><eol><i>qué nave era ésa...</i><eos>
+<bos><i>y que no completaría el vuelo</i><eol><i>como lo tenía programado.</i><eos>
+<bos><i>Max tuvo que haber reconocido todos</i><eol><i>los signos de una clásica abducción:</i><eos>
+<bos><i>la nave tomando control del avión</i><eol><i>y todos sus sistemas...</i><eos>
+<bos><i>preparando todo para llevarse a Max.</i><eos>
+<bos>Pero algo sucedió.<eos>
+<bos>Algo salió terriblemente mal.<eol>Algo inimaginable.<eos>
+<bos>Bien.<eos>
+<bos>Una tercera nave,<eol>probablemente un Águila F-15...<eos>
+<bos>recibió las coordenadas del vuelo 549.<eos>
+<bos>Dirección uno-cero-cero y 2-9 mil pies.<eos>
+<bos><i>Los controladores de vuelo vieron al</i><eol><i>caza entrar al espacio aéreo del 549...</i><eos>
+<bos><i>sin saber lo que habían provocado...</i><eos>
+<bos><i>sin saber que había una tercera nave</i><eol><i>que no aparecía en su pantalla...</i><eos>
+<bos><i>sin saber que durante 9 minutos</i><eol><i>el tiempo se detendría en el vuelo 549.</i><eos>
+<bos>Tenemos algo.<eos>
+<bos>Nos están interceptando.<eos>
+<bos>¡Dios! ¡Dios mío! ¡Socorro! ¡Socorro!<eos>
+<bos>¿Está diciendo que al hombre sentado en<eol>13-F lo secuestraron en pleno vuelo...<eos>
+<bos>sin ninguna despresurización<eol>en la cabina...<eos>
+<bos>y sin ningún efecto en el avión?<eos>
+<bos>De no haber sido por factores<eol>imprevistos, creo que Max Fennig...<eos>
+<bos>habría sido secuestrado<eol>y devuelto al vuelo 549...<eos>
+<bos>sin ninguna pérdida de vida<eol>y sin rastros.<eos>
+<bos>Entonces, ¿qué pasó?<eos>
+<bos><i>El vuelo 549 y el OVNI que tenía</i><eol><i>el control, fueron interceptados...</i><eos>
+<bos><i>por un caza militar al que</i><eol><i>se le habían dado órdenes específicas:</i><eos>
+<bos><i>derribar al OVNI.</i><eos>
+<bos><i>Los 9 minutos perdidos</i><eol><i>a bordo del vuelo 549...</i><eos>
+<bos><i>9 minutos que hubieran sido borrados</i><eol><i>de la memoria de los 134 pasajeros...</i><eos>
+<bos><i>resultarían ser</i><eol><i>los últimos minutos de sus vidas.</i><eos>
+<bos>¡Vamos a caer!<eos>
+<bos>Está diciendo, en efecto,<eol>que el vuelo 549...<eos>
+<bos>estaba bajo el control de una especie<eol>de rayo de arrastre de un OVNI.<eos>
+<bos>Ése es un término de Hollywood, pero sí.<eos>
+<bos>Y la Fuerza Aérea derribó al OVNI...<eos>
+<bos>provocando que el vuelo 549 perdiera<eol>el control cuando el rayo se apagó.<eos>
+<bos>Sí.<eos>
+<bos>De donde yo vengo,<eol>diríamos que ése es un cuento colosal.<eos>
+<bos>Aunque fuera verdad...<eos>
+<bos>ni Ud. ni yo podríamos, en un millón<eol>de años, venderle eso a Washington.<eos>
+<bos>No sin el objeto que Max Fennig<eol>llevaba consigo.<eos>
+<bos>Mire, yo tuve la misma reacción<eol>que Ud. a la historia...<eos>
+<bos>pero hay un área lógica<eol>que aún no se ha explicado...<eos>
+<bos>y es que los asientos y la puerta...<eos>
+<bos>muestran señales de radiactividad.<eos>
+<bos>¿No encontró nada en los restos?<eol>¿Alguna fuente de emisión?<eos>
+<bos>Sí, encontré algo.<eos>
+<bos>Creo que deberían verlo.<eos>
+<bos>Cuando Ud. encontró los primeros<eol>rastros, hice que mi equipo viera...<eos>
+<bos>si podían ligar la radiactividad<eol>a una causa.<eos>
+<bos>No encontraron ninguna otra evidencia...<eos>
+<bos>excepto esto.<eos>
+<bos>¿Esto es todo?<eos>
+<bos>Es lo único que había.<eos>
+<bos>Tendré que hacer mi informe final.<eol>Puedo incluir esto, si lo desea.<eos>
+<bos>Pero no como un factor casual.<eos>
+<bos>Es una buena historia.<eos>
+<bos>Tal vez podría venderla al cine.<eos>
+<bos>No sé qué otra cosa esperas que haga.<eos>
+<bos>Sí, lo sé.<eos>
+<bos>Es una buena historia, pero es una casa<eol>de naipes sobre una base temblorosa.<eos>
+<bos>Tal vez nunca sepamos qué era<eol>lo que llevaba Max consigo.<eos>
+<bos>Y quizás nunca sepamos<eol>quién mató al agente Pendrell.<eos>
+<bos>Y si no lo averiguamos,<eol>¿qué significó su muerte, o su vida?<eos>
+<bos>Max será recordado como...<eos>
+<bos>un lastimoso vendedor de cuentos<eol>o un loco en un video casero.<eos>
+<bos>- ¿Por dónde podríamos empezar?<eol>- ¿Qué tal Sharon Graffia?<eos>
+<bos>Es una persona perturbada, Mulder.<eol>Ni siquiera es quien dice ser.<eos>
+<bos>Pero conocía a Max lo suficiente para<eol>que él le escribiera cientos de cartas.<eos>
+<bos>Lo suficiente para que él la llamara<eol>para decirle que iba a morir.<eos>
+<bos>¿Tú sabes dónde está?<eos>
+<bos>En una institución mental.<eos>
+<bos>Iría contigo,<eol>pero temo que me encerrarían.<eos>
+<bos>Yo también.<eos>
+<bos>¿Es usted amigo de Max?<eos>
+<bos>No, mi nombre es Mulder.<eol>Estoy con el FBI.<eos>
+<bos>- Está bromeando, ¿verdad?<eol>- No. ¿Por qué?<eos>
+<bos>Yo manejo el parque.<eos>
+<bos>Sé que Max tiene amigos raros.<eos>
+<bos>Pero no creí que el FBI mandara hombres<eol>porque alguien destruye un tráiler.<eos>
+<bos>- ¿Alguna idea de quién hizo esto? - No.<eos>
+<bos>¿Está Max en problemas?<eos>
+<bos>No, Max murió en un accidente<eol>de aviación hace unos días.<eos>
+<bos>Dios. Lamento oír eso.<eos>
+<bos>¿Le mencionó algo de por qué se iría<eol>o adónde iría?<eos>
+<bos>Pero él desaparecía a veces.<eos>
+<bos>Contaba historias. ¿Está seguro<eol>de que no es eso lo que le pasó?<eos>
+<bos>Sí, estoy seguro.<eos>
+<bos>¿Tiene idea de quién<eol>se va a hacer cargo de sus cosas...<eos>
+<bos>o adónde debo enviar su correspondencia?<eos>
+<bos>- ¿Tiene correspondencia?<eol>- Sí, un puñado de cartas.<eos>
+<bos>- Iré a traerlas, si lo desea.<eol>- Por favor.<eos>
+<bos>Aquí tiene.<eos>
+<bos>- Realmente siento pena por Max.<eol>- Yo también.<eos>
+<bos>"Centro de Salud Mental<eol>del Noreste de Georgetown"<eos>
+<bos>- ¿Sharon? - Hola.<eos>
+<bos>¿Cómo se siente?<eos>
+<bos>¿Está lista para contestar<eol>algunas preguntas?<eos>
+<bos>No soy la hermana de Max.<eos>
+<bos>Lo sé.<eos>
+<bos>No estamos muy seguros<eol>de por qué nos mintió, Sharon...<eos>
+<bos>o sobre qué otras cosas nos ha mentido.<eos>
+<bos>Ya no importa.<eos>
+<bos>Sí, importa.<eos>
+<bos>Si Ud. sabe algo,<eol>si sabe cualquier cosa...<eos>
+<bos>acerca de lo que Max iba a hacer<eol>o qué era lo que llevaba en el avión...<eos>
+<bos>- podría significar mucho. - ¿Para quién?<eos>
+<bos>Para Max.<eos>
+<bos>- No puedo. - ¿Por qué?<eos>
+<bos>Porque podría meterme<eol>en un gran, gran problema.<eos>
+<bos>Max tenía esas mismas ampollas.<eos>
+<bos>Los dos fueron expuestos a algo.<eol>¿Qué fue?<eos>
+<bos>- Algo que robé. - ¿A quién?<eos>
+<bos>Max estaba tratando de encontrar algo<eol>que probara sus secuestros.<eos>
+<bos>Ud. trabajaba como ingeniera<eol>de sistemas aeronáuticos.<eos>
+<bos>Le robó algo a su empleador,<eol>¿verdad, Sharon?<eos>
+<bos>Algo radiactivo.<eos>
+<bos>Sólo porque creía en Max.<eos>
+<bos>¿Qué era?<eos>
+<bos>Max dijo que era tecnología alienígena.<eol>Eran tres partes entrelazadas.<eos>
+<bos>La dividimos en secciones.<eol>Yo tenía una parte.<eos>
+<bos>Max llevaba otra en ese vuelo.<eos>
+<bos>Pero nos las quitaron.<eos>
+<bos>Había una tercera parte.<eol>¿Qué sucedió con ella?<eos>
+<bos>Dejé una bolsa aquí.<eos>
+<bos>- ¿Grande o pequeña?<eol>- Una bolsa corta, larga.<eos>
+<bos>No me acuerdo. Pequeña, creo.<eol>"Aeropuerto de Syracuse Hancock"<eos>
+<bos>¿Es ésta?<eos>
+<bos>Soy un oficial federal. Necesito salir<eol>por la entrada de seguridad.<eos>
+<bos>Por aquí.<eos>
+<bos>"Área Restringida<eol>Solamente Personal Autorizado"<eos>
+<bos>Mulder, soy yo. ¿Dónde estás?<eos>
+<bos>En el aeropuerto de Syracuse.<eol>Lo que Max llevaba, lo tengo yo ahora.<eos>
+<bos>- ¿Cómo lo encontraste? - ¿Suerte?<eos>
+<bos>Lo que llevas fue robado<eol>de un contratista militar...<eos>
+<bos>Aeroespacio Cummins.<eos>
+<bos>- ¿Qué es? - No lo sé.<eos>
+<bos>Bueno, lo sabrás en un minuto.<eos>
+<bos>Es extremadamente importante<eol>que no lo saques de su recipiente.<eos>
+<bos>¿Qué dijiste? No te oigo bien.<eos>
+<bos>-<i>¿Oíste lo que dije?</i><eol>- Te voy a decir cómo es.<eos>
+<bos>No, no, Mulder, escúchame. No lo toques.<eos>
+<bos>Sea lo que sea, es altamente radiactivo.<eos>
+<bos>Espera un segundo.<eos>
+<bos>Parece una pequeña superestructura...<eos>
+<bos>con tres piezas circulares adentro.<eos>
+<bos>Es difícil verlo con los rayos X. Espera.<eos>
+<bos>Creo que esto es un caso de espionaje<eol>industrial de alta tecnología.<eos>
+<bos>Hay más gente tratando de conseguir<eol>esto que al nuevo muñeco Elmo.<eos>
+<bos>- Estoy entrando al avión.<eol>- ¿Qué número de vuelo?<eos>
+<bos>Creo que es el 501 .<eos>
+<bos>Sí. Voy a necesitar<eol>quien me lleve cuando llegue ahí.<eos>
+<bos>No creo que haya problema, Mulder.<eos>
+<bos>Gracias.<eos>
+<bos>Disculpe.<eos>
+<bos>- Tiene espacio aquí. ¿Le importaría?<eol>- No, adelante.<eos>
+<bos>- No quise molestarlo. - Está bien.<eos>
+<bos>¿ Viaja solo?<eos>
+<bos>¿ Vive en Washington?<eos>
+<bos>Tengo un arma apuntándole<eol>en este momento.<eos>
+<bos>Estoy seguro de que a esta distancia<eol>no le daría sólo en la pierna.<eos>
+<bos>Si levanta los brazos del asiento,<eol>voy a probar esa teoría.<eos>
+<bos>¿ Y si falla?<eos>
+<bos>No fallaré.<eos>
+<bos>¿Sabe lo que sucede cuando un avión se<eol>despresuriza súbitamente a 10000 metros?<eos>
+<bos>Después de que la cabina se llena de<eol>neblina, todos los objetos ligeros...<eos>
+<bos>incluyendo su arma,<eol>salen volando hacia la perforación.<eos>
+<bos>¿ Y la linda señorita<eol>trae el maní tostado?<eos>
+<bos>Suponiendo que el piloto<eol>pueda mantener el control del avión...<eos>
+<bos>me pondré el paracaídas ligero que<eol>acabo de poner en el compartimiento...<eos>
+<bos>y saldré por la puerta de emergencia...<eos>
+<bos>con la bolsa que trae usted ahí.<eos>
+<bos>¿ Y si el piloto no puede controlar<eol>el avión? Morirá Ud. también.<eos>
+<bos>Un hombre, si es un hombre, sabe que<eol>debe estar dispuesto a sacrificarse...<eos>
+<bos>por algo mayor que él mismo.<eos>
+<bos>Estoy seguro de que todos los pasajeros<eol>apreciarán morir por su noble causa.<eos>
+<bos>Mire por la ventanilla, agente Mulder.<eol>¿ Ve las luces?<eos>
+<bos>Imagínese si una de esas luces<eol>se apagara.<eos>
+<bos>Apenas lo notaría, ¿no?<eos>
+<bos>Una docena...<eos>
+<bos>dos docenas de luces extinguidas.<eos>
+<bos>¿ Vale la pena sacrificar el futuro...<eos>
+<bos>las vidas de millones...<eos>
+<bos>para mantener encendidas<eol>unas cuantas luces?<eos>
+<bos>¿Qué es esto?<eos>
+<bos>Propiedad robada.<eos>
+<bos>Es una fuente<eol>de energía alienígena, ¿verdad?<eos>
+<bos>¿Qué es? ¿Fusión fría,<eol>energía de unidad sobrante?<eos>
+<bos>¿Qué podría valer tanto para matar<eol>a los pasajeros del vuelo 549?<eos>
+<bos>La causa de esa colisión<eol>se determinó como un error humano.<eos>
+<bos>Lo veré pagar por ese error.<eos>
+<bos>Junto con su empleador y el gobierno<eol>que financia esos contratos.<eos>
+<bos>Quiero que se levante muy despacio<eol>y que camine hacia la cola del avión.<eos>
+<bos>Iremos al baño.<eos>
+<bos>Muévase.<eos>
+<bos>-<i>Scully, soy yo.</i><eol>- Mulder, ¿dónde estás?<eos>
+<bos>Parado frente a la puerta del baño<eol>del avión...<eos>
+<bos>donde tengo encerrado<eol>al hombre que mató a Pendrell.<eos>
+<bos>¿Qué?<eos>
+<bos>Parece que me voy a perder la película<eol>y era con Steve Guttenberg.<eos>
+<bos><i>Mulder, ¿tomaste el vuelo</i><eol><i>que dijiste que tomarías?</i><eos>
+<bos><i>Sí. Todo está saliendo según el plan,</i><eol><i>pero de todas formas, alerta a Skinner.</i><eos>
+<bos>No quiero arriesgarme<eol>al bajar a este tipo del avión.<eos>
+<bos>- <i>Ycreo que tú tampoco.</i> - Así es.<eos>
+<bos>- ¿Sí? - Mi reloj acaba de detenerse.<eos>
+<bos><i>¿Qué?</i><eos>
+<bos>- Esperemos que lo logre. - Disculpe.<eos>
+<bos>Soy un agente federal y quiero<eol>que me escuche cuidadosamente.<eos>
+<bos>- El avión va a ser interceptado.<eol>- ¿Interceptado?<eos>
+<bos>Interceptado, detenido y abordado.<eos>
+<bos>Dígale al capitán que inicie<eol>maniobras de evasión inmediatamente.<eos>
+<bos>¡Suelte esa bolsa!<eos>
+<bos>Póngala en el piso.<eos>
+<bos>¡Suelte la bolsa! ¡Suelte la bolsa!<eos>
+<bos>¡Suéltela!<eos>
+<bos>¡Suéltela!<eos>
+<bos>¡Suéltela!<eos>
+<bos>"Aeropuerto Nacional de Washington<eol>Washington, D.C."<eos>
+<bos>¿Dónde está?<eos>
+<bos>- No está aquí. - ¿Qué quieres decir?<eos>
+<bos>Dijiste que lo tenías en este avión.<eol>Tenías la parte robada que traía Max.<eos>
+<bos>- ¿Qué hora es? - 10:56.<eos>
+<bos>¿Quisiera decirme<eol>qué está sucediendo aquí?<eos>
+<bos>No creo que quiera saber la respuesta.<eos>
+<bos>¿Está ese hombre en el avión?<eos>
+<bos>Creo que tomó el vuelo de conexión.<eos>
+<bos><i>Pero nadie se entera jamás.</i><eos>
+<bos><i>Hay científicos en Finlandia que dicen</i><eol><i>haber detectado antigravedad...</i><eos>
+<bos><i>sobre la superficie de un disco</i><eol><i>giratorio superconductor...</i><eos>
+<bos><i>tecnología que está</i><eol><i>20 ó 30 años en el futuro...</i><eos>
+<bos><i>como la energía de unidad sobrante...</i><eos>
+<bos><i>corriente de desplazamiento de</i><eol><i>fusión fría para viajar por el espacio.</i><eos>
+<bos><i>Yo sé, gracias a fuentes internas...</i><eos>
+<bos><i>que esa tecnología,</i><eol><i>de hecho, existe.</i><eos>
+<bos><i>He visto aviones militares</i><eol><i>usarla para fotar sobre mi tráiler.</i><eos>
+<bos><i>¿Por qué lo mantiene en secreto</i><eol><i>el gobierno de Estados Unidos?</i><eos>
+<bos><i>Mi intención es exponer</i><eol><i>esos hechos al público.</i><eos>
+<bos><i>Digo, sólo soy un hombre.</i><eos>
+<bos>Esos videos,<eol>¿le importa si me quedo con ellos?<eos>
+<bos>No, creo que debería considerarse<eol>la única conservadora...<eos>
+<bos>del Archivo y Biblioteca Rodante<eol>de Max Fennig...<eos>
+<bos>y debería conseguir una excepción<eol>de impuestos lo más pronto posible.<eos>
+<bos>Estas cosas podrían valer mucho<eol>algún día.<eos>
+<bos>Quiero agradecerles por ayudarme<eol>y por todo lo que han hecho.<eos>
+<bos>Max lo hubiera querido de esta manera.<eos>
+<bos>Perdió a alguien muy cercano.<eos>
+<bos>También ustedes.<eos>
+<bos>¿Estás pensando en Pendrell?<eos>
+<bos>Me di cuenta de que ni siquiera sé<eol>su nombre de pila.<eos>
+<bos>En realidad, estaba pensando...<eos>
+<bos>en este regalo que me diste<eol>para mi cumpleaños.<eos>
+<bos>Nunca me dijiste por qué me lo diste<eol>o lo que significa.<eos>
+<bos>Pero creo que lo sé.<eos>
+<bos>Creo que reconoces que hay<eol>hombres y mujeres extraordinarios...<eos>
+<bos>y momentos extraordinarios...<eos>
+<bos>cuando la historia avanza, impulsada<eol>desde la espalda de estos individuos...<eos>
+<bos>que lo que puede imaginarse,<eol>puede lograrse...<eos>
+<bos>y que debes atreverte a soñar.<eos>
+<bos>Pero que no hay sustituto para<eol>la perseverancia y el trabajo duro...<eos>
+<bos>y el trabajo en equipo...<eos>
+<bos>porque nadie llega solo.<eos>
+<bos>Y que aunque conmemoramos la grandeza...<eos>
+<bos>de esos eventos y los individuos<eol>que los realizan...<eos>
+<bos>no podemos olvidar el sacrificio...<eos>
+<bos>de aquellos que hacen posible<eol>ese avance y esas realizaciones.<eos>
+<bos>Yo sólo pensé que era un lindo llavero.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

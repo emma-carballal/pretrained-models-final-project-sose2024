@@ -1,0 +1,483 @@
+<bos>Fox.<eos>
+<bos>- ¡Despierta, Fox! - ¿Samantha?<eos>
+<bos>Te oirán.<eos>
+<bos>¡No! ¡Es mi hija!<eos>
+<bos>¡Es mi hijita!<eos>
+<bos>¡Vete!<eos>
+<bos>Tengo miedo, Fox. Tengo miedo.<eos>
+<bos>- <i>Scully.</i> - Mulder, ¿qué hora es?<eos>
+<bos>No lo sé.<eos>
+<bos>Son casi las 5:00 a.m. ¿Ocurre algo?<eos>
+<bos>- Creo que sí. - <i>¿Dónde estás?</i><eos>
+<bos>Creo que estoy<eol>en un motel en Providence, pero--<eos>
+<bos>- ¿Dónde? - <i>Rhode Island.</i><eos>
+<bos>¿Qué haces ahí?<eos>
+<bos>No lo sé. Estoy cubierto de sangre.<eos>
+<bos>- ¿Estás herido, Mulder?<eol>- <i>Creo que no.</i><eos>
+<bos>No creo que sea mi sangre.<eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>" Providence, Rhode Island<eol>12 de abril - 6:15 a.m."<eos>
+<bos>- Sí. - ¿Estás bien?<eos>
+<bos>No consigo entrar en calor.<eos>
+<bos>Estás en estado de shock.<eos>
+<bos>Sécate.<eos>
+<bos>Te traeré una manta.<eos>
+<bos>- ¿Te sientes mal? - No.<eos>
+<bos>¿Tienes náuseas o estás mareado?<eos>
+<bos>No, pero me desperté en el piso<eol>con un dolor de cabeza espantoso.<eos>
+<bos>¿Estabas solo?<eos>
+<bos>Creo que sí.<eos>
+<bos>No lo sé. No recuerdo nada.<eos>
+<bos>Sigue mi dedo.<eos>
+<bos>¿Sabes qué día es hoy?<eos>
+<bos>- No, ¿qué día es? - Domingo.<eos>
+<bos>¿Qué es lo último que recuerdas?<eos>
+<bos>Estaba en mi apartamento.<eol>Hablé contigo por teléfono.<eos>
+<bos>- Eso fue el viernes.<eol>- ¿Llevo aquí desde el viernes?<eos>
+<bos>No lo sé, pero empacaste.<eol>Tienes ropa limpia ahí.<eos>
+<bos>¿Sientes dolor?<eol>¿Recibiste algún golpe en la cabeza?<eos>
+<bos>- ¿Tomaste algo? - No.<eos>
+<bos>- ¿Seguro que no te cortaste? - Sí.<eos>
+<bos>¿ Y tu arma?<eos>
+<bos>No lo sé.<eos>
+<bos>Disparaste dos tiros.<eos>
+<bos>No lo recuerdo.<eos>
+<bos>Tengo que llevarte a un hospital.<eos>
+<bos>Tiene que examinarte un neurólogo.<eos>
+<bos>Has sufrido un problema cerebral grave.<eos>
+<bos>Podría ser una infección viral<eol>o los primeros síntomas de encefalitis.<eos>
+<bos>Si se cometió un crimen,<eol>necesito saber qué ocurrió.<eos>
+<bos>Lo primero que debes hacer<eol>es ponerte bien.<eos>
+<bos>Mulder, escúchame.<eos>
+<bos>Vamos a solucionar esto,<eol>pero primero debemos averiguar la causa.<eos>
+<bos>No puedes tomarte algo así a la ligera.<eos>
+<bos>Si esto es un aneurisma,<eol>podría matarte en cosa de un segundo.<eos>
+<bos>- ¿Son tus llaves? - No.<eos>
+<bos>Te registraste aquí solo<eol>el sábado al mediodía.<eos>
+<bos>El encargado no tiene ninguna llamada<eol>registrada. Ninguna visita.<eos>
+<bos>- Entonces, ¿cómo llegué aquí?<eol>- Manejaste.<eos>
+<bos>Tiene anotada la placa de un auto.<eos>
+<bos>¿Tienes las llaves<eol>que encontraste en tu habitación?<eos>
+<bos>- No es mi auto.<eol>- Hay sangre en el volante.<eos>
+<bos>El auto está registrado<eol>a nombre de David Cassandra.<eos>
+<bos>- La dirección es aquí en Providence.<eol>- ¿Quién es Amy?<eos>
+<bos>Es lo que averiguaré,<eol>pero primero te sacaré de aquí...<eos>
+<bos>porque no tienes por qué estar aquí.<eos>
+<bos>Si disparé a alguien, si mi arma<eol>se usó en un crimen, debo saberlo.<eos>
+<bos>Estás corriendo un gran riesgo.<eol>Estoy segura de esto.<eos>
+<bos>Lo sé, pero el riesgo lo corro yo.<eos>
+<bos>" Residencia de los Cassandra<eol>Providence, Rhode Island"<eos>
+<bos>- ¿Puedo ayudarlo? - ¿Es Ud. Amy?<eos>
+<bos>- No está aquí ahora mismo.<eol>- ¿ Vive aquí David Cassandra?<eos>
+<bos>Aquí viven David y Amy.<eos>
+<bos>- ¿Quién es Ud.? - Soy la ama de llaves.<eos>
+<bos>- ¿Quiénes son Uds.? - Somos del FBI.<eos>
+<bos>¿Por qué tienen las llaves de Amy?<eol>¿Ocurre algo?<eos>
+<bos>Quizá.<eol>¿Cómo podemos hablar con Amy o David?<eos>
+<bos>No están aquí ahora mismo.<eol>No sé dónde están.<eos>
+<bos>Ese cuadro detrás suyo.<eos>
+<bos>¿Podría echarle un vistazo?<eos>
+<bos>Sí.<eos>
+<bos>- ¿Quién pintó esto? - Amy.<eos>
+<bos>- Mulder, ¿qué ocurre?<eol>- Conozco esta casa.<eos>
+<bos>¿Cómo?<eos>
+<bos>No lo sé, la he visto antes.<eos>
+<bos>¿Esta casa tiene algún significado<eol>especial para Amy o David?<eos>
+<bos>Sé que es su tema favorito.<eol>Es la casa en la que se crió.<eos>
+<bos>De hecho, es lo único que pinta.<eos>
+<bos>- He estado en esa casa. - ¿Cuándo?<eos>
+<bos>No lo sé, pero he estado en ella.<eos>
+<bos>¿Sabe algo más sobre esa casa?<eos>
+<bos>- Sé que está en Chepachet.<eol>- ¿Dónde está eso?<eos>
+<bos>A unos 35 kilómetros de aquí,<eol>en la carretera 8.<eos>
+<bos>Mis padres tenían una casa de verano ahí<eol>cuando era pequeño, en Rhode Island.<eos>
+<bos>Si estuviste aquí,<eol>no creo que fuera recientemente.<eos>
+<bos>El lugar parece abandonado<eol>y está cubierto de maleza.<eos>
+<bos>¿Puedes oírme?<eos>
+<bos>Eres un pequeño espía.<eos>
+<bos>Mulder, ¿puedes oírme?<eos>
+<bos>- ¿Qué ocurrió?<eol>- No lo sé, fue repentino.<eos>
+<bos>Caíste al suelo y te agarraste la cabeza<eol>como si sintieras un dolor horrible.<eos>
+<bos>No respondías a nada.<eos>
+<bos>- ¿Recuerdas algo de ello? - No.<eos>
+<bos>- Recuerdo lo que vi.<eol>- ¿Cómo lo que viste?<eos>
+<bos>Tuve un <i>fashback</i> muy vívido<eol>de mi infancia...<eos>
+<bos>excepto que estaba ahí.<eos>
+<bos>¿Recuerdas algo más?<eos>
+<bos>Sólo que era muy real.<eos>
+<bos>El corazón te late muy aprisa.<eos>
+<bos>¿Qué crees que fue?<eos>
+<bos>Fue una especie de ataque,<eol>de alteración fisiológica aguda.<eos>
+<bos>No sé si perdiste el conocimiento...<eos>
+<bos>pero fue sin duda<eol>algún tipo de episodio clónico.<eos>
+<bos>Algo así como una tormenta eléctrica<eol>en el cerebro.<eos>
+<bos>¿Qué lo provocó?<eos>
+<bos>Eso tendrá que decírtelo un especialista.<eos>
+<bos>Ahora mismo me siento muy bien.<eos>
+<bos>Mulder, no estás bien.<eos>
+<bos>Creo que he estado aquí antes.<eos>
+<bos>- ¿En tu infancia? - Quizá.<eos>
+<bos>Creo que hace mucho que aquí<eol>no vive nadie.<eos>
+<bos>Voy a mirar arriba.<eos>
+<bos>Tiene una herida de bala en el corazón.<eos>
+<bos>Deben de ser Amy Cassandra...<eos>
+<bos>y su marido.<eos>
+<bos>Quieren hacerte algunas preguntas.<eol>Les hablé de tu aflicción.<eos>
+<bos>No tienes que hablar con ellos<eol>si no quieres.<eos>
+<bos>¿Sin que esté presente mi abogado?<eos>
+<bos>Mulder, me niego a creer<eol>que tuviste algo que ver con esto.<eos>
+<bos>Tenía la sangre de esa gente<eol>en mi camisa.<eos>
+<bos>Desaparecí durante dos días.<eol>No recuerdo nada de lo que hice.<eos>
+<bos>Mi arma disparó dos tiros.<eos>
+<bos>Tenía las llaves de esta casa,<eol>las llaves de su auto.<eos>
+<bos>¿Las palabras "OrenthalJames Simpson"<eol>significan algo para ti?<eos>
+<bos>- ¿Cómo se siente, agente Mulder?<eol>- Un poco confundido.<eos>
+<bos>Su compañera dice que está sufriendo<eol>algún tipo de ataque...<eos>
+<bos>que sufrió uno aquí mismo en el jardín.<eos>
+<bos>¿Qué lo trajo a esta casa, agente Mulder?<eos>
+<bos>No lo sé.<eos>
+<bos>- Creo que estuve aquí de pequeño.<eol>- ¿Cree?<eos>
+<bos>Mis padres tenían una casa de verano<eol>en Quonochontaug.<eos>
+<bos>Pero, ¿no sabe nada sobre David<eol>o Amy Cassandra, las víctimas?<eos>
+<bos>Ni siquiera recuerdo<eol>haberlos conocido, no.<eos>
+<bos>Así que está diciendo<eol>que la primera vez que los vio...<eos>
+<bos>es cuando entró en esta casa...<eos>
+<bos>usando sus llaves<eol>y los encontró tirados en el piso.<eos>
+<bos>Eso es lo que digo.<eos>
+<bos>Hay muchas huellas dactilares<eol>en esa casa, algunas con sangre.<eos>
+<bos>Vamos a comprobar esas huellas,<eol>agente Mulder.<eos>
+<bos>- ¿Ésa es su explicación? - Por ahora.<eos>
+<bos>¿Quiere venir a la comisaría<eol>para explicarlo en más detalle?<eos>
+<bos>El agente Mulder no irá a ninguna parte<eol>excepto al hospital.<eos>
+<bos>De acuerdo, pero iremos todos juntos.<eos>
+<bos>Agente Mulder,<eol>quiero que venga con nosotros.<eos>
+<bos>Te aconsejo que no digas nada más...<eos>
+<bos>hasta que examine los cuerpos<eol>y vea los informes forenses.<eos>
+<bos>Amy Anne Cassandra, mujer blanca.<eos>
+<bos>Su partida de nacimiento<eol>indica que tiene 62 años de edad.<eos>
+<bos>El sujeto pesa 72 kilos, mide 1 metro 67.<eos>
+<bos>Un examen preliminar indica que la causa<eol>de muerte fue un disparo en el pecho.<eos>
+<bos>Hay quemaduras de pólvora<eol>en el orificio de entrada...<eos>
+<bos>aproximadamente 10 centímetros<eol>debajo de la clavícula...<eos>
+<bos>lo que indica que el disparo<eol>fue efectuado a quemarropa.<eos>
+<bos>El bisel dorsal del omóplato<eol>es visible en el orificio de salida.<eos>
+<bos>El tejido de alrededor está desgarrado.<eos>
+<bos>- No hay más señales de trauma.<eol>- ¿ Vio esto?<eos>
+<bos>Por la costra, parece una herida<eol>por punción superficial preexistente.<eos>
+<bos>¿Le importa?<eos>
+<bos>- ¿Qué está buscando? - No estoy segura.<eos>
+<bos>¿Tiene una lupa?<eos>
+<bos>Gracias.<eos>
+<bos>Quiero asegurarme<eol>de que además de una autopsia...<eos>
+<bos>también realice una craneotomía<eol>y un examen histológico.<eos>
+<bos>- Creo que está claro qué los mató.<eol>- Estoy de acuerdo.<eos>
+<bos>Pero lo que me interesa más ahora mismo<eol>es por qué murieron.<eos>
+<bos>¿Qué es eso?<eos>
+<bos>¿ Ya recuperó la memoria?<eol>¿Quiere cambiar su explicación?<eos>
+<bos>No. ¿Por qué?<eos>
+<bos>Porque tengo pruebas aquí<eol>que contradicen lo que nos contó.<eos>
+<bos>No les he dicho nada realmente.<eos>
+<bos>Nos dijo que no estuvo en esa casa<eol>desde su infancia...<eos>
+<bos>y que no conocía<eol>a Amy o a David Cassandra.<eos>
+<bos>¿ Y me dice que lo que está en esa bolsa<eol>demuestra que soy un mentiroso?<eos>
+<bos>No digo que sea un mentiroso,<eol>agente Mulder.<eos>
+<bos>Me gustaría creer<eol>que este lapsus de memoria fue real...<eos>
+<bos>y que asesinó a esas dos personas<eol>en un ataque ciego de locura.<eos>
+<bos>- ¿Qué hay en la bolsa?<eol>- No es su pistola...<eos>
+<bos>que en nuestro análisis preliminar<eol>parece ser el arma homicida...<eos>
+<bos>a juzgar por las balas<eol>que hallamos en el piso y en la pared...<eos>
+<bos>y el método de ejecución<eol>de disparar a quemarropa.<eos>
+<bos>¿No empieza a recordar algo de todo esto?<eos>
+<bos>- ¿Puedo ver qué hay en la bolsa?<eol>- Adelante.<eos>
+<bos>Hay dos tipos de sangre en esa camisa...<eos>
+<bos>uno es el de Amy Cassandra,<eol>el otro el de David Cassandra.<eos>
+<bos>¿Es su camisa, agente Mulder?<eos>
+<bos>¿Puede explicarme cómo la sangre<eol>de dos personas...<eos>
+<bos>que asegura no conocer<eol>acabó en su camisa?<eos>
+<bos>¿ Y las huellas dactilares en la casa?<eol>¿Eran mis huellas?<eos>
+<bos>No logrará sonsacarme una confesión.<eos>
+<bos>No puedo responder a sus preguntas<eol>porque no recuerdo nada.<eos>
+<bos>Tiene derecho a guardar silencio.<eol>Si renuncia a ese derecho...<eos>
+<bos>cualquier cosa que diga<eol>puede y será usada en contra suya.<eos>
+<bos>Tiene derecho a hablar con un abogado...<eos>
+<bos>y a que un abogado esté presente<eol>durante su interrogatorio.<eos>
+<bos>Si así lo desea<eol>y no puede permitirse un abogado...<eos>
+<bos>le será asignado un abogado de oficio<eol>sin cargo antes del interrogatorio.<eos>
+<bos>¿Ha comprendido cada uno de los derechos<eol>que le he explicado?<eos>
+<bos>Te sacaré de aquí.<eos>
+<bos>Eres médica, no abogada.<eos>
+<bos>- ¿Les diste una confesión?<eol>- No, sólo confesé mi ignorancia.<eos>
+<bos>Detective Curtis...<eos>
+<bos>primero necesito que tenga en cuenta<eol>algunas pruebas...<eos>
+<bos>que ponen en duda la participación<eol>del agente Mulder en este crimen.<eos>
+<bos>- ¿Qué clase de pruebas?<eol>- Pruebas médicas.<eos>
+<bos>El informe toxicológico de Amy Cassandra<eol>indica...<eos>
+<bos>que tenía un anestésico de efectos<eol>rápidos llamado ketamina en su cuerpo.<eos>
+<bos>¿" Ketamina"?<eol>Es una droga veterinaria, ¿no?<eos>
+<bos>Normalmente, pero cuando la ingiere<eol>una persona puede causar alucinaciones.<eos>
+<bos>- ¿ Y qué? - Así que fui al hospital...<eos>
+<bos>para estudiar el análisis de sangre<eol>del agente Mulder...<eos>
+<bos>y tiene rastros de la misma droga<eol>en su organismo.<eos>
+<bos>- ¿Cómo llegó ahí?<eol>- Probablemente fue inyectada.<eos>
+<bos>Amy Cassandra tenía un pequeño moretón<eol>de una inyección en su cadera derecha.<eos>
+<bos>Creo que si te examinamos de nuevo,<eol>encontraremos una inyección igual.<eos>
+<bos>- ¿Administrada por quién? - No lo sé.<eos>
+<bos>Pero la presencia<eol>de una droga tan poderosa...<eos>
+<bos>podría explicar su pérdida de memoria<eol>o los desmayos.<eos>
+<bos>En vista del peso<eol>de todas las demás pruebas...<eos>
+<bos>creo que eso es todo lo que explica.<eos>
+<bos>Scully, no tienes que hacer esto.<eos>
+<bos>Mulder, tienes que ayudarme.<eos>
+<bos>Nada aquí indica<eol>que seas el culpable directo.<eos>
+<bos>A menos que alguien pueda demostrarme<eol>con absoluta certeza...<eos>
+<bos>que tenías en la mano el arma<eol>que mató a esas dos personas...<eos>
+<bos>todo lo demás es<eol>demasiado conveniente y dudoso.<eos>
+<bos>La droga en tu cuerpo<eol>sugiere de por sí otras explicaciones.<eos>
+<bos>¿Que estaba de parranda<eol>con unas personas de la tercera edad?<eos>
+<bos>Está encarcelando a un hombre inocente.<eos>
+<bos>Sí, bueno, así no desaparecerá<eol>durante dos días...<eos>
+<bos>y no hará otra cosa que no recuerde.<eos>
+<bos>¡Un disparo!<eos>
+<bos>Soy médica. ¡Llamen a una ambulancia!<eos>
+<bos>Está muerto.<eos>
+<bos>Necesito hablar<eol>con el detective Curtis ahora mismo.<eos>
+<bos>¿El agente tenía un historial<eol>de depresión o trastornos mentales?<eos>
+<bos>Había sido remitido de sus rondas<eol>a un escritorio hace un año.<eos>
+<bos>Su antiguo compañero<eol>se quejó en varias ocasiones...<eos>
+<bos>de su propensión a ser<eol>extremadamente irritable...<eos>
+<bos>y a confabular la verdad.<eos>
+<bos>¿Qué quiere decir?<eos>
+<bos>Ese tipo se había convertido<eol>en el hazmerreír del departamento.<eos>
+<bos>Uno de esos tipos que cree...<eos>
+<bos>ya sabe, en los extraterrestres<eol>y esas cosas.<eos>
+<bos>¿ Ve estas fotos?<eos>
+<bos>Sí.<eos>
+<bos>- ¿Le dicen algo? - ¿Deberían?<eos>
+<bos>Creo que esto indica<eol>un trastorno mental pronunciado.<eos>
+<bos>El acto compulsivo y repetitivo...<eos>
+<bos>de eliminar su imagen de estas fotos<eol>me lleva a creer...<eos>
+<bos>que no sólo creía estas historias,<eol>estaba traumatizado por ellas.<eos>
+<bos>¿No dijo que esto ayudaría a explicar...<eos>
+<bos>algo sobre el crimen<eol>que cometió su compañero?<eos>
+<bos>¿Qué es eso?<eos>
+<bos>"SECUESTRADA"<eos>
+<bos>Amy Cassandra.<eos>
+<bos>Tanto su agente como Amy Cassandra...<eos>
+<bos>tenían heridas por punción idénticas<eol>encima del lóbulo frontal.<eos>
+<bos>En su autopsia, la perforación<eol>de Amy Cassandra era profunda...<eos>
+<bos>atravesando el cráneo<eol>y llegando hasta la duramáter.<eos>
+<bos>- ¿ Y mi agente tenía la misma herida?<eol>- Sí.<eos>
+<bos>Creo que su agente sabía<eol>lo de Amy Cassandra y de algún modo...<eos>
+<bos>su suicidio está relacionado<eol>con la muerte de ella...<eos>
+<bos>lo que me lleva a creer...<eos>
+<bos>que lo que tenemos aquí<eol>no es un asesinato.<eos>
+<bos>Es otra cosa. Posiblemente,<eol>incluso un pacto de suicidio.<eos>
+<bos>Tendrá que demostrármelo.<eos>
+<bos>¡No, mi hijita no!<eos>
+<bos>¡Guardia!<eos>
+<bos>¡Guardia!<eos>
+<bos>¡Necesito hablar con alguien!<eos>
+<bos>Según el agente penitenciario...<eos>
+<bos>el agente Mulder<eol>no dejó dormir a nadie anoche.<eos>
+<bos>Exige hablar con Ud.<eol>Por fin se calló hace una hora.<eos>
+<bos>¿Dijo sobre qué quería hablar conmigo?<eos>
+<bos>Creo que su compañero<eol>está empezando a recordar.<eos>
+<bos>Necesito hablar con él a solas,<eol>si no le importa.<eos>
+<bos>Oí que no has dormido mucho.<eos>
+<bos>No maté a esa gente.<eos>
+<bos>Lo sé.<eos>
+<bos>Creo que he reunido suficientes pruebas<eol>sobre tu inocencia para sacarte de aquí.<eos>
+<bos>- ¿Qué pruebas? - Los informes forenses.<eos>
+<bos>La camisa que llevabas<eol>tenía sangre de las víctimas...<eos>
+<bos>pero las salpicaduras de sangre<eol>no coinciden con las heridas de bala.<eos>
+<bos>En realidad, el detective Curtis<eol>y su equipo han reunido...<eos>
+<bos>suficientes pruebas contradictorias para<eol>hacer una declaración a la prensa...<eos>
+<bos>afirmando que la muerte de los Cassandra<eol>fue un asesinato y suicidio.<eos>
+<bos>- Pero estuve ahí. - Sí.<eos>
+<bos>Y aún no recuerdo por qué.<eos>
+<bos>Creo que tengo una explicación<eol>para eso también.<eos>
+<bos>Amy Cassandra creía que había sido<eol>secuestrada por alienígenas.<eos>
+<bos>- ¿ Yyo me puse en contacto con ella?<eol>- Sí, al parecer.<eos>
+<bos>Según un artículo que leí sobre Amy...<eos>
+<bos>comenzó un tratamiento psiquiátrico<eol>con el que empezó a recordar su pasado.<eos>
+<bos>El comportamiento repetitivo<eol>que indicaban esos cuadros que vimos...<eos>
+<bos>era el resultado de ese tratamiento.<eos>
+<bos>Pero, ¿por qué mató a su marido<eol>y se suicidó?<eos>
+<bos>No puedo decirlo con seguridad...<eos>
+<bos>pero a juzgar por un caso casi idéntico<eol>de suicidio de un agente de policía...<eos>
+<bos>que recibía el mismo<eol>tratamiento psiquiátrico...<eos>
+<bos>creo que las víctimas estaban sufriendo<eol>el síndrome de Waxman-Geshwin...<eos>
+<bos>cuyos síntomas son estados de trance...<eos>
+<bos>que causan sueños vívidos<eol>sobre el pasado...<eos>
+<bos>sueños que contienen más detalles<eol>de los que recuerda uno conscientemente.<eos>
+<bos>También lo llaman<eol>el síndrome de Dostoievsky...<eos>
+<bos>porque el novelista ruso<eol>también lo sufría.<eos>
+<bos>¿Qué hacía ahí<eol>y por qué no hice nada para detenerlo?<eos>
+<bos>Eso no lo puedo explicar.<eos>
+<bos>He concertado tu comparecencia<eol>ante el juez para dentro de una hora.<eos>
+<bos>Para entonces el detective Curtis y yo<eol>habremos reunido...<eos>
+<bos>suficientes pruebas<eol>para que te dejen en libertad.<eos>
+<bos>Pero aún necesito saber por qué.<eos>
+<bos>Ésta es la oficina del psicólogo<eol>que trató a Amy Cassandra.<eos>
+<bos>- ¿Has estado aquí antes?<eol>- No lo sé, pero ahí está mi auto.<eos>
+<bos>Lleva aquí varios días.<eos>
+<bos>¿Cómo se llamaba ese psicólogo?<eos>
+<bos>- Hola. - ¿Dr. Goldstein?<eos>
+<bos>Me llamo Fox Mulder. ¿Nos conocemos?<eos>
+<bos>Creo que no.<eos>
+<bos>Mi recepcionista dijo que son del FBI.<eos>
+<bos>Sí, estamos investigando<eol>las muertes de Amy y David Cassandra.<eos>
+<bos>Tenemos entendido que Amy<eol>era su paciente.<eos>
+<bos>Sí. Por favor, siéntense.<eos>
+<bos>Me disgustó mucho saber lo de Amy.<eos>
+<bos>Era una mujer trastornada<eol>que atravesaba...<eos>
+<bos>por un período triste<eol>y desafortunado de su vida.<eos>
+<bos>¿Se refiere a su creencia de haber<eol>sido secuestrada por alienígenas?<eos>
+<bos>El término<eol>"secuestrada por alienígenas"...<eos>
+<bos>si bien reconozco que existe<eol>un síndrome asociado...<eos>
+<bos>y una colección extraordinaria<eol>de experiencias compartidas...<eos>
+<bos>para aquellos que creen en el fenómeno,<eol>mi tratamiento de Amy...<eos>
+<bos>era simplemente un método agresivo<eol>para desenterrar recuerdos reprimidos.<eos>
+<bos>¿Cómo que "agresivo"?<eos>
+<bos>Uso un método de terapia que simula...<eos>
+<bos>un impulso eléctrico en el cerebro<eol>usando luz y sonido.<eos>
+<bos>¿ Usó también este tratamiento<eol>con un agente llamado Michael Fazekus?<eos>
+<bos>Sí. ¿Por qué?<eos>
+<bos>El Sr. Fazekus se suicidó<eol>de un disparo en la cabeza anoche.<eos>
+<bos>Dios mío.<eos>
+<bos>¿Es un método aceptado<eol>de tratamiento médico?<eos>
+<bos>Es poco convencional, pero no es invasor.<eos>
+<bos>¿Está familiarizado con el síndrome<eol>de Waxman-Geshwin, Dr. Goldstein?<eos>
+<bos>- Sí.<eol>- ¿Sabía que Amy Cassandra lo sufría?<eos>
+<bos>Waxman-Geshwin, si sabe algo sobre él...<eos>
+<bos>no es necesariamente<eol>una enfermedad destructiva.<eos>
+<bos>De hecho Amy,<eol>después de someterse al tratamiento...<eos>
+<bos>atravesó períodos de gran felicidad<eol>y creatividad.<eos>
+<bos>¿Pero no tenía ni idea...<eos>
+<bos>nada le indicaba<eol>que podría haberse suicidado?<eos>
+<bos>Claro que no.<eos>
+<bos>Llevo ejerciendo más de 40 años.<eos>
+<bos>Tengo una gran reputación ética<eol>y profesional...<eos>
+<bos>si quiere comprobarla.<eos>
+<bos>Eso no será necesario.<eos>
+<bos>Sé lo que hace.<eos>
+<bos>He estado aquí antes.<eol>Conocí al Dr. Goldstein con Amy.<eos>
+<bos>Este hombre miente sobre algo más<eol>que eso, creo que...<eos>
+<bos>les administró la ketamina a Amy y a ti.<eos>
+<bos>Creo que te trató y tus ataques<eol>y desmayos son el resultado de ello.<eos>
+<bos>Creo que tienes razón.<eos>
+<bos>¿Por qué harías eso?<eos>
+<bos>¿Por qué te someterías<eol>a algo tan alocado y peligroso?<eos>
+<bos>¡Mi hijita!<eos>
+<bos>- Estoy bien.<eol>- No aceptaré eso como respuesta.<eos>
+<bos>No debes estar trabajando.<eol>Necesitas estar bajo observación.<eos>
+<bos>Eres un peligro para ti mismo<eol>y un peligro para mí.<eos>
+<bos>- ¿Oíste? - Dame las llaves del auto.<eos>
+<bos>No vas a manejar. No harás nada<eol>hasta que desaparezcan estos síntomas.<eos>
+<bos>No quiero que desaparezcan<eol>estos síntomas.<eos>
+<bos>Sea lo que sea lo que me ocurre,<eol>o el tratamiento que recibí...<eos>
+<bos>me está permitiendo<eol>acceder a mi subconsciente.<eos>
+<bos>La verdad está allá adentro, grabada,<eol>y tengo acceso a ella.<eos>
+<bos>Lo que le ocurrió a mi hermana,<eol>la razón por la que se la llevaron...<eos>
+<bos>ahora empiezo a comprenderlo<eol>y necesito saberlo.<eos>
+<bos>- Ahora dame las llaves del auto.<eol>- ¿Adónde vas?<eos>
+<bos>A casa de mi madre, en Greenwich.<eos>
+<bos>De acuerdo, pero manejaré yo.<eos>
+<bos>- Necesito hablar contigo.<eol>- ¿Qué ocurre? ¿Por qué has venido aquí?<eos>
+<bos>- Me has ocultado algunos secretos.<eol>- ¿Qué le ocurre?<eos>
+<bos>Se ha sometido a un tratamiento.<eos>
+<bos>Cree que le ha ayudado<eol>a recordar algunas cosas.<eos>
+<bos>¿Recordar qué?<eos>
+<bos>Me dijiste que se llevaron a Samantha<eol>porque tenías que elegir.<eos>
+<bos>Pero eso no es lo que ocurrió.<eol>No fue por elección tuya.<eos>
+<bos>¿Qué quieres saber?<eos>
+<bos>Lo que ocurrió<eol>aquella noche en Quonochontaug...<eos>
+<bos>y necesito hablar contigo a solas.<eos>
+<bos>- Tenías una relación con él.<eol>- ¿Con quién?<eos>
+<bos>Ya sabes quién.<eol>El hombre que trabajaba con mi padre.<eos>
+<bos>Vino aquella noche cuando yo tenía<eol>12 años y te obligó a elegir a Samantha.<eos>
+<bos>¡Sí!<eol>Traicionaste a mi padre, a tu marido.<eos>
+<bos>¡Nunca!<eos>
+<bos>¿Cuándo empezó?<eos>
+<bos>¿Cómo te atreves? ¿Cómo te atreves<eol>a venir aquí a acusarme?<eos>
+<bos>¿Quién es mi padre?<eos>
+<bos>¿Qué quieres? ¿Matarlo otra vez?<eos>
+<bos>Sólo contesta la pregunta, mamá.<eol>¡Sólo contesta la pregunta!<eos>
+<bos>¡Soy tu madre y no toleraré<eol>que me hagas más preguntas!<eos>
+<bos>Estás sangrando, Fox.<eos>
+<bos>- ¿Qué me hizo? - Le dije--<eos>
+<bos>Le pedí que me tratara<eol>para recordar mi pasado.<eos>
+<bos>- No hice nada malo.<eol>- Hizo un agujero en mi cabeza.<eos>
+<bos>-Fue una pequeña estimulación eléctrica.<eol>-Desencadenó mi memoria.<eos>
+<bos>Sí, como quería.<eos>
+<bos>Ahora quiero que termine su trabajo.<eos>
+<bos>Hagámoslo.<eos>
+<bos>Quiero recordar.<eos>
+<bos>Eres un espía.<eos>
+<bos>- Eres un espía. - ¡¿Por qué?!<eos>
+<bos>¡Samantha, no!<eos>
+<bos>¿Dr. Charles Goldstein?<eos>
+<bos>Queda arrestado.<eol>Deje sus manos donde están, por favor.<eos>
+<bos>Guarda esos guantes como prueba.<eol>Que alguien le lea sus derechos.<eos>
+<bos>Las manos detrás de la espalda,<eol>por favor.<eos>
+<bos>¿Dónde está?<eos>
+<bos>Mulder.<eos>
+<bos>- ¿ Y Mulder? - No está aquí.<eos>
+<bos>- ¿Se lo preguntó al Dr. Goldstein?<eol>- Goldstein no quiso decírmelo.<eos>
+<bos>- ¡Detengan ese auto! - ¡Alto, Dan!<eos>
+<bos>¡Espera! ¡Espera!<eos>
+<bos>Abra la puerta trasera.<eos>
+<bos>¿Qué le hizo? Mire, sé que regresó aquí.<eos>
+<bos>Es el único lugar al que habría venido.<eos>
+<bos>¿Lo trató?<eos>
+<bos>¡Maldita sea! ¡Conteste!<eos>
+<bos>- Sí. - ¿Dónde está ahora?<eos>
+<bos>No sé adónde fue.<eos>
+<bos>¿Qué fue lo último que le dijo?<eos>
+<bos>Dijo que iba a exorcizar sus demonios.<eos>
+<bos>- ¿Agente Scully? - Sí.<eos>
+<bos>- Frank Imhof. - Hola. ¿Está ahí adentro?<eos>
+<bos>Vi la luz encenderse hace unos minutos.<eol>Tiene que haber alguien adentro.<eos>
+<bos>- Vinimos en cuanto nos llamó.<eol>- De acuerdo.<eos>
+<bos>Ese hombre está armado.<eos>
+<bos>Es un agente federal que necesita<eol>urgentemente cuidados médicos.<eos>
+<bos>No es él mismo. Voy a entrar.<eos>
+<bos>Si escapa de la casa en algún momento,<eol>ordene a sus agentes que no disparen.<eos>
+<bos>Déjame en paz, Scully.<eos>
+<bos>Mulder, soy yo.<eos>
+<bos>Scully, déjame en paz.<eos>
+<bos>Todo empieza a tener sentido.<eos>
+<bos>- Mulder, suelta la pistola.<eol>- No intentes detenerme.<eos>
+<bos>Por favor, Mulder.<eos>
+<bos>¡Despierta, Fox!<eos>
+<bos>¡Es mi hijita!<eos>
+<bos>Tengo miedo, Fox.<eos>
+<bos>¡Vete!<eos>
+<bos>¿ Vas a dispararme?<eos>
+<bos>¿Significa esto tanto para ti?<eos>
+<bos>Escúchame, te han dado<eol>un alucinógeno muy potente.<eos>
+<bos>No sabes si estos recuerdos son tuyos.<eos>
+<bos>Ésta no es la forma<eol>de saber la verdad, Mulder.<eos>
+<bos>Debes confiar en mí.<eos>
+<bos>¡Cállate!<eos>
+<bos>Suelta la pistola.<eos>
+<bos>Olvídalo.<eos>
+<bos>¡Tenemos disparos! ¡Adelante!<eos>
+<bos><i>Absuelto de cualquier acto delictivo...</i><eos>
+<bos><i>en las muertes de Amy</i><eol><i>y David Cassandra...</i><eos>
+<bos><i>el agente Mulder sigue sin recordar...</i><eos>
+<bos><i>los sucesos que precedieron</i><eol><i>sus muertes.</i><eos>
+<bos><i>Sus ataques han decrecido sin síntomas</i><eol><i>de un daño cerebral permanente.</i><eos>
+<bos><i>Pero me preocupa que esta experiencia</i><eol><i>tenga efectos duraderos.</i><eos>
+<bos><i>Mulder se sometió a este tratamiento</i><eol><i>esperando reivindicar su pasado.</i><eos>
+<bos><i>Que recuperando los recuerdos</i><eol><i>que había olvidado...</i><eos>
+<bos><i>por fiin podría comprender</i><eol><i>su rumbo en la vida.</i><eos>
+<bos><i>Pero si ese conocimiento</i><eol><i>permanece elusivo...</i><eos>
+<bos><i>y si sólo sabiendo su pasado</i><eol><i>espera comprender adónde se dirige...</i><eos>
+<bos><i>entonces me temo que el agente Mulder</i><eol><i>podría perder el rumbo...</i><eos>
+<bos><i>y las verdades que busca de su infancia</i><eol><i>le seguirán eludiendo...</i><eos>
+<bos><i>impulsándolo peligrosamente hacia</i><eol><i>adelante en una búsqueda imposible.</i><eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

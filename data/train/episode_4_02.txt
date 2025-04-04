@@ -1,0 +1,425 @@
+<bos>(Growls)<eos>
+<bos>(Dull Pop)<eos>
+<bos>(Slow, Heavy Breathing)<eos>
+<bos>(Snapping And Cracking)<eos>
+<bos>Eugene?<eos>
+<bos>Eugene, it's Dr. Monte.<eos>
+<bos>Eugene, areyou asleep?<eos>
+<bos>- No. - I was on myway out<eos>
+<bos>and I wanted to see howyou were feeling.<eos>
+<bos>Fine.<eos>
+<bos>Good. You nervous about tomorrow?<eos>
+<bos>Don't be.<eos>
+<bos>I knowyou think theywon't letyou out<eos>
+<bos>so I snuck a peek<eol>at the reports ofthe doctors<eos>
+<bos>that will testify atyour review tomorrow<eos>
+<bos>and they concurwith my opinion that<eol>you're ready to be released from here<eos>
+<bos>and rejoin the community.<eos>
+<bos>So...<eos>
+<bos>why don't we get some sleep and relax<eos>
+<bos>and I'll seeyou tomorrow<eol>at the review, okay?<eos>
+<bos>Let'sjust keep our fingers crossed.<eos>
+<bos>Agent Scully.<eos>
+<bos>We have reviewed your reports,<eol>and frankly, we are quite displeased.<eos>
+<bos>Irregular procedure, untenable evidence<eos>
+<bos>inconclusive findings<eol>aggravated byvague opinion.<eos>
+<bos>But, sir, the very nature<eol>ofthe X-files cases<eos>
+<bos>often precludes orthodox investigation.<eos>
+<bos>Areyou suggesting the Bureau adopt<eol>separate standards foryou and Mulder?<eos>
+<bos>No, sir. Ifanything, I'm suggesting<eos>
+<bos>that these cases be reviewed<eol>with... an open mind.<eos>
+<bos>Maybeyour mind has become too open.<eos>
+<bos>On X-files cases investigated by<eol>Agent Mulder and myselfto date<eos>
+<bos>we have a conviction<eol>or case solution of75%.<eos>
+<bos>That's well above<eol>current Bureau standard.<eos>
+<bos>And that is your only saving grace.<eos>
+<bos>May I ask, sir, what moreyou require?<eos>
+<bos>What I require<eos>
+<bos>is increased frequency ofreports<eos>
+<bos>conventional investigation.<eos>
+<bos>In short, Agent Scully,<eol>it is your responsibility<eos>
+<bos>to see that these cases are by the book.<eos>
+<bos>I understand. However...<eos>
+<bos>conventional investigation ofthese cases<eos>
+<bos>may decrease rate ofsuccess.<eos>
+<bos>(Gavel Pounding)<eos>
+<bos>judge: By order ofthe State of Maryland<eos>
+<bos>the Court shall review<eol>the psychological status<eos>
+<bos>of Eugene VictorTooms.<eos>
+<bos>We'll begin with the court-appointed<eol>expert witnesses.<eos>
+<bos>Court calls Dr. Pamela Karetzky.<eos>
+<bos>I performed several<eol>diagnostic procedures on Mr. Tooms<eos>
+<bos>in order to determine any<eol>organic physiological dysfunction--<eos>
+<bos>an electroencephalogram,<eol>chromosomal analysis<eos>
+<bos>a computerized axial tomograph.<eos>
+<bos>All ofthese were negative.<eos>
+<bos>" Mr. Tooms had recently lost hisjob.<eos>
+<bos>"Aggravated by a false arrest<eol>incident with the F.B.I.,<eos>
+<bos>"his assault on Agent Scullywas<eos>
+<bos>'frustration directed<eol>at the wrong person."'<eos>
+<bos>I'm reading from a recent interview<eos>
+<bos>I did with Mr. Tooms<eol>at the Druid Hill Sanitarium.<eos>
+<bos>"Question: lfyou are released<eos>
+<bos>"what is the first thing you would do?<eos>
+<bos>"Answer: I'd like my oldjob back.<eos>
+<bos>"Question: Why?<eos>
+<bos>"Answer: The animal shelter<eos>
+<bos>"made me feel I was helping everyone--<eos>
+<bos>people and animals."<eos>
+<bos>So, you see, what is occurring here<eol>is that Mr. Tooms has learned<eos>
+<bos>to articulate his feelings<eol>and invest his emotional energy<eos>
+<bos>towards creative<eol>and constructive activity...<eos>
+<bos>(No Audio)<eos>
+<bos>...in himself.<eos>
+<bos>It is my opinion that Mr. Tooms<eol>has had a very excellent response<eos>
+<bos>to the months oftreatment and therapy.<eos>
+<bos>I would see no reason<eol>why he would be considered<eos>
+<bos>ofany danger to himselfor society.<eos>
+<bos>Woman: ...is the truth, the<eol>whole truth and nothing but the truth?<eos>
+<bos>I do.<eos>
+<bos>I'm a special agent with the F.B.I.<eos>
+<bos>I worked for threeyears<eol>at the F.B.I.'s behavioral science unit<eos>
+<bos>profiling serial killers.<eos>
+<bos>Your Honor, I know where<eol>he's going with this.<eos>
+<bos>May I remind the Court Mr. Tooms<eol>was placed in psychiatric care<eos>
+<bos>solely for the assault on Agent Scully.<eos>
+<bos>He has never been charged, nor has any<eol>evidence linked him to any other crime.<eos>
+<bos>judge: Proceed... with caution.<eos>
+<bos>Myers: Agent Mulder, I understand<eos>
+<bos>thatyou've developed<eol>a profile on Mr. Tooms.<eos>
+<bos>- Yes, I have. - Please.<eos>
+<bos>These murders span nearly a century.<eos>
+<bos>1 9 homicides-- five occurring<eol>every 30 years since 1 903<eos>
+<bos>all in the Baltimore area.<eos>
+<bos>In each case, the liverwas extracted<eos>
+<bos>and presumably eaten.<eos>
+<bos>A trophywas taken from each victim,<eol>many ofwhich were found<eos>
+<bos>in the living quarters of Eugene Tooms<eol>at 66 Exeter Street.<eos>
+<bos>Records show that a Eugene Tooms<eol>has resided<eos>
+<bos>at that same address since 1 903--<eos>
+<bos>the sameyear a man was murdered<eol>in that building.<eos>
+<bos>The most notable element<eol>connecting these cases<eos>
+<bos>is the undetermined point ofentry.<eos>
+<bos>These fingerprints found<eol>at seven ofthe 1 9 crime scenes<eos>
+<bos>match Eugene VictorTooms.<eos>
+<bos>Agent Mulder, look at his fingers.<eos>
+<bos>- Look at him. 1 00 years old?<eol>- I contend that perhaps<eos>
+<bos>through a genetic mutation<eol>Tooms is capable ofcontorting<eos>
+<bos>and elongating his body<eol>to gain access to victims<eos>
+<bos>so he may extract the livers<eol>which provide him sustenance<eos>
+<bos>for the hibernation period of30 years.<eos>
+<bos>He needs one more victim<eol>to complete this cycle.<eos>
+<bos>A preliminary exam revealed abnormalities<eos>
+<bos>in his stride, muscles, and axial bones.<eos>
+<bos>His attorney blocked further study.<eos>
+<bos>- I askyou to place the safety...<eol>- No further questions.<eos>
+<bos>This is a rare and abnormal human<eol>creature who should not be released.<eos>
+<bos>It's in his genetic makeup.<eos>
+<bos>Would they have taken me more seriously<eol>ifl wore the grey suit?<eos>
+<bos>Mulder, your testimony-- you sounded--<eos>
+<bos>I don't care how it sounded,<eol>as long as it was the truth.<eos>
+<bos>And where wereyou?<eol>Your testimonywas important.<eos>
+<bos>I was called into a meeting<eol>byAssistant Director Skinner.<eos>
+<bos>What did he want?<eos>
+<bos>just wanted to reel me in.<eos>
+<bos>They're ready.<eos>
+<bos>It is the opinion ofthis Court<eos>
+<bos>that Eugene VictorTooms<eos>
+<bos>shall on this day be released<eol>from the Druid Hill Sanitarium.<eos>
+<bos>Court also attaches these conditions:<eos>
+<bos>One, that he remain in counseling<eol>under the care of Dr. Aaron Monte--<eos>
+<bos>that he may retain hisjob at the<eol>Baltimore Regulations Animal Shelter<eos>
+<bos>and last, he take residence<eol>in the house of Mr. and Mrs. Arlan Green<eos>
+<bos>trained in a program to assist<eol>patients released from Druid Hill<eos>
+<bos>in their transition to society.<eos>
+<bos>Mr. Tooms?<eos>
+<bos>Doyou understand<eol>and accept these conditions?<eos>
+<bos>Yes, Your Honor.<eos>
+<bos>Verywell. You're free to go.<eos>
+<bos>I'm not taking my eyes offhim.<eos>
+<bos>He'll kill again first chance he can,<eol>but he won't kill the old couple.<eos>
+<bos>Tooms didn't remain a secret<eol>for 1 00 years by not being careful.<eos>
+<bos>Think ofhim as an animal. He kills<eol>out ofnecessity or self-defense.<eos>
+<bos>Ifhe makes an attempt, I'll be there.<eos>
+<bos>I'll keep surveillance with you.<eos>
+<bos>Ifhe can't be tied to recent evidence<eos>
+<bos>go to the earlier murders<eol>to prove it was him.<eos>
+<bos>That was 30 or 60 years ago.<eos>
+<bos>There's no statute oflimitation<eol>on murder.<eos>
+<bos>That's going to entail<eos>
+<bos>unorthodox methods ofinvestigation.<eos>
+<bos>Ifyou're resistant<eol>becauseyou don't believe<eos>
+<bos>I'll respect that, but ifyou're resistant<eos>
+<bos>because ofbureaucratic pressure,<eol>they've not only reeled you in<eos>
+<bos>they've skinned you.<eos>
+<bos>(Door Opening)<eos>
+<bos>Arlan:<eol>I hopeyou'll be comfortable, Eugene.<eos>
+<bos>The room in the back is small<eos>
+<bos>but I'm sureyou'll be able to squeeze in.<eos>
+<bos>Tooms: I'm sure.<eos>
+<bos>(Growling And Snarling)<eos>
+<bos>Excuse me.<eos>
+<bos>Could you help me find my dog?<eos>
+<bos>He's a Norwegian elkhound.<eos>
+<bos>His name is Heinrich.<eos>
+<bos>I use him to hunt moose.<eos>
+<bos>IfTooms gets away now<eos>
+<bos>then the next time he takes a life<eos>
+<bos>you'll be nearly my age.<eos>
+<bos>Detective Briggs,<eol>you helped us so much before.<eos>
+<bos>Now we have to prove<eol>that Tooms was involved<eos>
+<bos>in the killings<eol>you investigated 30 years ago.<eos>
+<bos>You've lived with this case<eol>halfyour life.<eos>
+<bos>There must be something.<eos>
+<bos>Maybe a connection between the victims.<eos>
+<bos>Now, I know that we've seen<eol>all ofthe evidence<eos>
+<bos>but is there anything, anything at all<eos>
+<bos>amongst the evidence that does not fit?<eos>
+<bos>There was something<eos>
+<bos>that never did sit quite right with me.<eos>
+<bos>All ofthe victims<eol>that I investigated in '63<eos>
+<bos>were found at the crime scene,<eol>liver extracted.<eos>
+<bos>All five.<eos>
+<bos>As were the four most recent murders.<eos>
+<bos>When I was a sheriff<eos>
+<bos>during the Powhatan Mills<eol>killings of 1 933<eos>
+<bos>only four ofthe victims<eol>were found at the crime scene.<eos>
+<bos>However, there was a fifth person<eos>
+<bos>who was missing and never found<eos>
+<bos>but this--<eos>
+<bos>this was discovered<eol>at the Ruxton Chemical Plant<eos>
+<bos>when it was under construction.<eos>
+<bos>But it doesn't belong<eol>to the othervictims.<eos>
+<bos>That doesn't prove it belongs<eol>to a person murdered byTooms.<eos>
+<bos>I'm positive Tooms hid this one victim<eos>
+<bos>because something about the body<eol>could prove he was the killer.<eos>
+<bos>- What makes you positive? - A hunch.<eos>
+<bos>An old-fashioned hunch.<eos>
+<bos>You've got to trust your instincts.<eos>
+<bos>And what does your instinct say<eos>
+<bos>about where Tooms buried the body?<eos>
+<bos>In the cement where<eol>they poured the foundation<eos>
+<bos>ofthe chemical plant.<eos>
+<bos>(MachineryWhirring)<eos>
+<bos>Scully: Ground-penetrating radar.<eos>
+<bos>It bounces signals off<eol>ofobjects or cavities.<eos>
+<bos>Tells you where the body is.<eos>
+<bos>Well, it signals ifsomething<eol>inordinate is present.<eos>
+<bos>An experienced operator<eol>attempts to differentiate<eos>
+<bos>ifthe signal is a body<eol>or a stone or a hole in the ground.<eos>
+<bos>- Differentiate. - Mm-hmm.<eos>
+<bos>You mean he guesses.<eos>
+<bos>Well, it's an educated guess.<eos>
+<bos>Mm-hmm.<eos>
+<bos>How are we doing?<eos>
+<bos>Well, it's really hard to tell.<eos>
+<bos>It's here. Here!<eos>
+<bos>What is it?<eos>
+<bos>It's here! It's right here!<eos>
+<bos>(Deep Breath)<eos>
+<bos>(Jackhammer Hammering)<eos>
+<bos>Agent Scully! Look at this.<eos>
+<bos>(Computer Keyboard Clicking)<eos>
+<bos>Woman: Robotoddler's finally sleeping.<eos>
+<bos>I'm gonna watch TV in bed.<eos>
+<bos>Okay.<eos>
+<bos>(Vehicle Approaching)<eos>
+<bos>(Baby Crying)<eos>
+<bos>I'm coming, honey.<eos>
+<bos>Mommy's right here.<eos>
+<bos>Shh, shh.<eos>
+<bos>Screw it.<eos>
+<bos>(Grunts)<eos>
+<bos>(Knocking)<eos>
+<bos>Christine:<eol>Honey, would you go down and get that?<eos>
+<bos>(Sighs)<eos>
+<bos>F.B.I.<eos>
+<bos>- I suspect an intruder in your house.<eol>- What?<eos>
+<bos>Someone opened mywindow.<eos>
+<bos>I suspect theyear ofdeath<eol>to be in the mid-1 930s.<eos>
+<bos>Anterior surface<eol>ofthe right femurwas green<eos>
+<bos>indicating a long-term exposure to copper<eos>
+<bos>so we concentrated on the area<eos>
+<bos>and we found several pennies.<eos>
+<bos>1 933, '31 , 1 933.<eos>
+<bos>Can you determine cause ofdeath?<eos>
+<bos>My instinct says<eol>that burial in cement is murder.<eos>
+<bos>Uh, no. At the moment<eos>
+<bos>I have found no definite proofofmurder.<eos>
+<bos>There are gnawing marks near the ribs.<eos>
+<bos>However, I suspect that's<eol>the result ofrodent activity<eos>
+<bos>prior to the body<eol>being set in the cement.<eos>
+<bos>We need to see much more ofthe remains<eol>to determine cause ofdeath.<eos>
+<bos>As you know, it's a slow,<eol>but necessary process.<eos>
+<bos>I did try a little something.<eos>
+<bos>It's a little premature<eol>ifwe're going by the book.<eos>
+<bos>Well, we'll keep it offthe record.<eos>
+<bos>Good. Thankyou. The old man, Mr. Briggs,<eos>
+<bos>This is not official<eos>
+<bos>but that skeleton was that person.<eos>
+<bos>It's not enough.<eol>It doesn't tie it to Tooms.<eos>
+<bos>Well, it's a start.<eos>
+<bos>Mulder, it's getting a bit ripe<eol>in here, don'tyou think?<eos>
+<bos>(Sniffs)<eos>
+<bos>(Plastic Wrapper Crinkling)<eos>
+<bos>Pine scented.<eos>
+<bos>(Sniffs)<eos>
+<bos>Whew!<eos>
+<bos>(Sniffs) Better?<eos>
+<bos>Tooms hasn't come out<eol>ofthe house all day.<eos>
+<bos>When it got dark,<eol>I took a walk around the block.<eos>
+<bos>Doyou have that sandwich<eol>I asked you to bring?<eos>
+<bos>It's liverwurst.<eos>
+<bos>Ha-ha.<eos>
+<bos>Mulder, you know that proper surveillance<eos>
+<bos>requires two pairs ofagents-- one pair<eol>relieving the other after 1 2 hours.<eos>
+<bos>Article 30, paragraph 8.7?<eos>
+<bos>This isn't about doing it by the book.<eos>
+<bos>This is aboutyou<eol>not having slept for three days.<eos>
+<bos>You're going to get sloppy<eol>and you're going to get hurt.<eos>
+<bos>A request for other agents<eol>to stake out Tooms would be denied.<eos>
+<bos>Well, then I'll stay here. You go home.<eos>
+<bos>(Sighs)<eos>
+<bos>They're out to put an end<eol>to the X-files, Scully.<eos>
+<bos>I don't know why, but any excuse will do.<eos>
+<bos>I don't really care about my record<eos>
+<bos>butyou'd be in trouble<eol>just sitting in this car<eos>
+<bos>and I'd hate to seeyou carry<eol>an official reprimand<eos>
+<bos>in your career file because ofme.<eos>
+<bos>- Fox. - (Chuckles)<eos>
+<bos>And l... I even made my parents<eol>call me Mulder.<eos>
+<bos>So... Mulder.<eos>
+<bos>Mulder, I wouldn't put myself<eol>on the line for anybody butyou.<eos>
+<bos>Ifthere's an iced tea<eol>in that bag, could be love.<eos>
+<bos>Must be fate, Mulder.<eos>
+<bos>Root beer.<eos>
+<bos>You're delirious.<eol>Go home and get some sleep.<eos>
+<bos>Here. Take my sandwich.<eos>
+<bos>I only had one bite.<eol>You're going to want it later.<eos>
+<bos>And call me ifanything happens,<eol>immediately. I'll be here.<eos>
+<bos>Oh, and 1 1 :30, station 790--<eos>
+<bos>Pete Rose Late Night<eol>Sports Talk radio show.<eos>
+<bos>Wouldn't miss it for the world.<eos>
+<bos>(Car Starts)<eos>
+<bos>It has worked, hasn't it?<eos>
+<bos>You'll be all right now.<eol>I know it's worked!<eos>
+<bos>(Screams)<eos>
+<bos>Yeah, they found him<eol>out cold in the street.<eos>
+<bos>He's been beaten up pretty badly.<eos>
+<bos>Contusions, multiple lacerations.<eos>
+<bos>Shoulder's been pulled right out ofjoint.<eos>
+<bos>Let's get him prepped<eol>for some blood work and X rays.<eos>
+<bos>Orderly: Yes, Doctor.<eos>
+<bos>He's been kicked in thejaw<eos>
+<bos>and it may be fractured.<eos>
+<bos>Look, there's a partial shoe print.<eos>
+<bos>Doyou know who did this toyou?<eos>
+<bos>(Whispering)<eos>
+<bos>We'll be right back, Mr. Tooms.<eos>
+<bos>Says it was an F.B.I. agent named Mulder.<eos>
+<bos>So would you say he's delusional<eol>orjust schizophrenic?<eos>
+<bos>Well, it'sjust a cursory exam,<eol>but there's nothing to indicate that.<eos>
+<bos>(Grunts)<eos>
+<bos>(Knocking)<eos>
+<bos>(Sighs)<eos>
+<bos>- Agent Mulder? - Yeah.<eos>
+<bos>What's going on?<eos>
+<bos>What's this about?<eos>
+<bos>Agent Mulder, getyour things.<eos>
+<bos>You're in some trouble.<eos>
+<bos>These are serious allegations.<eos>
+<bos>The evidence is incriminating.<eos>
+<bos>A good forensic scientist would know<eol>there is not only a shoe print<eos>
+<bos>but also an impact point<eol>ofa foot from inside the shoe.<eos>
+<bos>An analysis ofTooms' injurywould show<eol>that my foot was not inside the shoe.<eos>
+<bos>Areyou suggesting Tooms is framing you?<eos>
+<bos>- Ofcourse.<eol>- Ifyou were engaged in an unauthorized<eos>
+<bos>surveillance ofTooms<eos>
+<bos>how could he gain access<eol>toyour shoe withoutyou seeing him?<eos>
+<bos>Sir? I was engaged<eos>
+<bos>in the unauthorized surveillance as well<eos>
+<bos>and Agent Mulder was orienting me<eos>
+<bos>on the situation at the time<eol>Tooms was admitted into the hospital.<eos>
+<bos>Agent Mulder could not have done it<eol>because he was with me.<eos>
+<bos>Agent Scully, you wouldn't<eol>be lying to me, would you?<eos>
+<bos>Sir, I would expectyou<eos>
+<bos>to place the same trust<eol>in me as I do in you.<eos>
+<bos>Agent Scully, may I have a word<eol>with Agent Mulder, please?<eos>
+<bos>Fox...<eos>
+<bos>you are one ofthe finest,<eol>most unique agents<eos>
+<bos>in the nearly 60-year history<eol>ofthis institution.<eos>
+<bos>I mean, we were talking aboutyou<eol>when you were in the academy.<eos>
+<bos>Now, most ofus feel thatyour talents<eol>are wasted on the X-files<eos>
+<bos>but we respect thatyou're<eol>deeply invested in those areas.<eos>
+<bos>But ifthese cases<eol>are creating such stress<eos>
+<bos>as to cause not onlyyou<eol>to act inappropriately<eos>
+<bos>but those agents close toyou as well<eos>
+<bos>then may I adviseyou<eol>to step away... for a while?<eos>
+<bos>Clearyour head,<eol>take an extended vacation.<eos>
+<bos>That's a good idea.<eos>
+<bos>Thanks foryour concern.<eos>
+<bos>You're forbidden to go near Eugene Tooms.<eos>
+<bos>Mulder...<eos>
+<bos>this was close.<eos>
+<bos>Any closer and a thousand friends at<eol>the capitol won't be able to helpyou.<eos>
+<bos>Scully:<eol>These are Eugene Tooms' dental X rays<eos>
+<bos>obtained from the Druid Hills Sanitarium.<eos>
+<bos>Your sandwich gave me an idea.<eos>
+<bos>Dr. Plith mentioned he found gnawing<eos>
+<bos>on the rib cage<eol>near the location ofthe liver.<eos>
+<bos>Further excavation revealed<eol>more pronounced bite marks--<eos>
+<bos>human teeth marks.<eos>
+<bos>Tooms will nevervoluntarily submit<eol>to a dental cast.<eos>
+<bos>This software can create<eol>an exact three-dimensional model<eos>
+<bos>ofTooms' mouth<eol>from the dental radiograph.<eos>
+<bos>We've also mapped out the bite marks<eos>
+<bos>on the skeleton's rib, there.<eos>
+<bos>They match.<eos>
+<bos>(Knocking)<eos>
+<bos>- Eugene, Dr. Monte. - Hi, Eugene.<eos>
+<bos>I wanted to see how everything was going.<eos>
+<bos>Arlan: Susan and I<eol>are going out for the evening.<eos>
+<bos>Thanks.<eos>
+<bos>Great place. Wonderful place.<eos>
+<bos>How areyou feeling?<eos>
+<bos>Why the newspapers strips, Eugene?<eos>
+<bos>Areyou making some paper-mache?<eos>
+<bos>- Yes. - That's terrific.<eos>
+<bos>Wonderful. I had no idea<eol>you were interested in art.<eos>
+<bos>I like art.<eos>
+<bos>I do too, and I'm very proud ofyou.<eos>
+<bos>You know, art can provide a window<eol>toyour thoughts and your feelings.<eos>
+<bos>What areyou doing, Eugene?<eos>
+<bos>Eugene, areyou all right?<eos>
+<bos>(Dr. Monte Screaming)<eos>
+<bos>That makes five.<eos>
+<bos>Where he's gone for the last 90 years:<eol>66 Exeter Street.<eos>
+<bos>Mulder: Thanks.<eos>
+<bos>He's got to be here.<eos>
+<bos>Ifhe is drawn to this location<eol>for some reason<eos>
+<bos>maybe this nest is in the approximate<eol>location ofthe previous nest.<eos>
+<bos>This is the area.<eos>
+<bos>There's a storage facility<eol>on the second foor.<eos>
+<bos>What?<eos>
+<bos>Scully: There's only room for one.<eos>
+<bos>You can get the next mutant.<eos>
+<bos>Mulder!<eos>
+<bos>(Growling)<eos>
+<bos>Mulder!<eos>
+<bos>(Growling)<eos>
+<bos>Mulder! Here. Take my hand!<eos>
+<bos>Come on. You can reach it! Mulder!<eos>
+<bos>Mulder, what's happening?<eos>
+<bos>Quick!<eos>
+<bos>(Growling)<eos>
+<bos>(Screaming)<eos>
+<bos>You read this report?<eos>
+<bos>Doyou believe them?<eos>
+<bos>Ofcourse I do.<eos>
+<bos>Okay. Let's go.<eos>
+<bos>It's amazing how things change, isn't it?<eos>
+<bos>The caterpillar?<eos>
+<bos>No. A change for us. It's coming.<eos>
+<bos>How doyou know?<eos>
+<bos>A hunch.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

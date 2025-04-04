@@ -1,0 +1,408 @@
+<bos>"Clínica de Convalecencia Harrow<eol>Boca Ratón, Florida"<eos>
+<bos>¿Tía Janet?<eos>
+<bos>Es hora, tía Janet. Él está esperando.<eos>
+<bos>De prisa.<eol>Tiene que firmar los documentos.<eos>
+<bos>Avíseme.<eos>
+<bos>No llores por mí, linda.<eos>
+<bos>Estoy cansada del dolor.<eos>
+<bos>Eres mi ángel de la misericordia.<eos>
+<bos>¿ Ya murió?<eos>
+<bos>Algo está mal.<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>"San Petersburgo, Rusia"<eos>
+<bos>¿ Vassily Peskow?<eos>
+<bos>¿ Vassily Peskow?<eos>
+<bos>Traigo un comunicado urgente<eol>del camarada Arntzen en Krasnoyarsk.<eos>
+<bos>Por favor, ya me retiré de todo eso.<eos>
+<bos>El camarada Arntzen<eol>anticipó esta respuesta.<eos>
+<bos>¿Qué quiere de mí?<eos>
+<bos>Quiere que Ud. sepa<eol>que la Guerra Fría aún no terminó.<eos>
+<bos>Prisionero. Oiga.<eos>
+<bos>Prisionero.<eos>
+<bos>Pensé que tal vez no estaba muerto.<eos>
+<bos>¿Cuánto tiempo llevo aquí acostado?<eos>
+<bos>Horas. No sé.<eos>
+<bos>La primera vez es muy mala. Pésima.<eos>
+<bos>- ¿Le hicieron esto a usted? - Sí.<eos>
+<bos>Cada vez se vuelve más fácil,<eol>hasta que termina por matarlo.<eos>
+<bos>¿Qué me hicieron?<eos>
+<bos>Lo expusieron al cáncer negro.<eos>
+<bos>¿A cuál cáncer?<eos>
+<bos>Al cáncer que vive en la piedra.<eos>
+<bos>¿Quién es usted?<eos>
+<bos>Yo era un geólogo.<eos>
+<bos>De hecho, era reconocido en mi área...<eos>
+<bos>pero ahora solamente soy<eol>un sujeto experimental.<eos>
+<bos>¿Les ayudó a encontrar la piedra?<eos>
+<bos>Estuve presente cuando sacaron<eol>los primeros fragmentos.<eos>
+<bos>Esto fue antes de la extracción...<eos>
+<bos>y antes de saber lo que vivía<eol>en la Piedra Tunguska.<eos>
+<bos>- ¿Cuántos han muerto aquí? - Cientos.<eos>
+<bos>Quizá más.<eos>
+<bos>La búsqueda de la cura<eol>es un proceso lento.<eos>
+<bos>¿Dicen que esto es<eol>para encontrar una cura?<eos>
+<bos>No, no. No nos dicen nada.<eos>
+<bos>Tenemos que adivinar o imaginar<eol>los motivos de nuestra tortura.<eos>
+<bos>Pero, ¿qué otra cosa podría ser?<eos>
+<bos>¿Qué le pasó a Krycek,<eol>mi compañero de celda?<eos>
+<bos>Seguramente está cenando con los hombres<eol>responsables de nuestra tortura.<eos>
+<bos>Oí risas cuando se alejaban de su celda.<eos>
+<bos>- Yo no moriré. - ¿No? ¿Por qué no?<eos>
+<bos>Tengo que sobrevivir para matar a Krycek.<eos>
+<bos>- ¿De dónde sacó esto?<eol>- Lo hice para suicidarme.<eos>
+<bos>Me tomó casi dos semanas.<eos>
+<bos>Para entonces, ya no sentía deseos.<eos>
+<bos>¿Prefiere sufrir la tortura?<eos>
+<bos>La persistencia por vivir<eol>es algo extraordinario.<eos>
+<bos>Encontramos esa roca<eol>enterrada profundamente.<eos>
+<bos>Es totalmente ilógico que algo pueda<eol>sobrevivir en esas profundidades.<eos>
+<bos>No. Ellos tendrán que matarme.<eos>
+<bos>"Centro de Vuelos Espaciales Goddard"<eol>Sólo hemos podido darle líquidos.<eos>
+<bos>El hecho de que esté confinado<eol>no es de gran ayuda.<eos>
+<bos>Si algún tipo de organismo lo infectó...<eos>
+<bos>la contaminación es un gran riesgo.<eos>
+<bos>¿ Ve algo?<eos>
+<bos>La sangre en la arteria carótida<eol>se ve engrosada...<eos>
+<bos>posiblemente debido a la disminución<eol>de la presión.<eos>
+<bos>¿Qué es esto? ¿Qué diablos es esto?<eos>
+<bos>- ¿Qué es? - No sé.<eos>
+<bos>Parece que se concentra<eol>en su glándula pineal.<eos>
+<bos>Creo que está vivo.<eos>
+<bos>Parece un nido.<eos>
+<bos>Un tipo de organismo vermiforme negro<eol>adherido a la glándula pineal.<eos>
+<bos>- ¿Quiere manzana? - No. Muchas gracias.<eos>
+<bos>- Ah, disculpe. - ¿Quién es usted?<eos>
+<bos>Cuando yo era niño,<eol>mi padre tenía una granja...<eos>
+<bos>pero no tenía caballos como éstos.<eos>
+<bos>Mi nombre es Vassily Peskow.<eos>
+<bos>Sr. Peskow...<eos>
+<bos>disculpe, pero no debería estar aquí.<eos>
+<bos>Lo siento, lo siento mucho.<eos>
+<bos>Tendrá que irse.<eos>
+<bos>Le pediré un taxi.<eos>
+<bos>Pero vine a verla a usted,<eol>Dra. Charne-Sayre.<eos>
+<bos>¿Lo conozco?<eos>
+<bos>No. No sé cómo podría conocerme.<eos>
+<bos>Agente Scully.<eos>
+<bos>- Señor, ¿qué--?<eol>- Hace horas que la busco.<eos>
+<bos>- La mayor parte del día.<eol>- Mi celular estuvo apagado.<eos>
+<bos>Me debe respuestas, agente Scully.<eos>
+<bos>Respuestas a las preguntas<eol>que me hacen sobre la valija.<eos>
+<bos>Se conjetura que la valija la traía<eol>el hombre que cayó de mi balcón...<eos>
+<bos>y cuya relación con el delincuente<eol>que albergué, que fue una locura mía...<eos>
+<bos>requerirá que le explique al Senado<eol>mañana sin dar falso testimonio...<eos>
+<bos>lo cual es un delito serio en sí,<eol>¿no es así, Scully?<eos>
+<bos>Sí, señor.<eol>Señor, permítame que le explique.<eos>
+<bos>El contenido de esa valija--<eos>
+<bos>Contenía algún tipo<eol>de organismo peligroso...<eos>
+<bos>que afortunadamente está contenido<eol>en un laboratorio en Goddard.<eos>
+<bos>Pasé allá todo el día<eol>intentando determinar su naturaleza.<eos>
+<bos>¿Sabe cuál era el destino de esa valija?<eos>
+<bos>- No, señor.<eol>- Pues, yo sí, agente Scully...<eos>
+<bos>porque quebranté las reglas<eol>al no encontrarla...<eos>
+<bos>- para averiguar el destinatario.<eol>- ¿Quién era?<eos>
+<bos>La Dra. Bonita Charne-Sayre.<eos>
+<bos>- ¿Le suena el nombre? - Sí, señor.<eos>
+<bos>Es una médica reconocida.<eos>
+<bos>Una viróloga<eol>que ha atendido a presidentes.<eos>
+<bos>También es especialista<eol>en el virus de la viruela.<eos>
+<bos>- ¿ Viruela? - Viruela.<eos>
+<bos>Ha defendido elocuentemente...<eos>
+<bos>la eliminación de las últimas reservas<eol>del virus de la viruela...<eos>
+<bos>mediante la destrucción de los frascos...<eos>
+<bos>aquí en Atlanta y en la antigua URSS.<eos>
+<bos>- Pues, la mataron esta noche.<eol>- ¿La mataron?<eos>
+<bos>Un caballo le pisó la garganta<eol>en Virginia.<eos>
+<bos>¿Adónde vamos?<eos>
+<bos>Prisionero, ¿ése es su amigo?<eos>
+<bos>Sólo tiene una oportunidad.<eos>
+<bos>Qué hábito tan desagradable.<eos>
+<bos>Es malo para la salud.<eos>
+<bos>La salud es la menor<eol>de mis preocupaciones.<eos>
+<bos>Sí.<eos>
+<bos>Según los informes, su...<eos>
+<bos>médica sufrió un accidente ecuestre<eol>grave aquí en su propiedad.<eos>
+<bos>- La Dra. Charne-Sayre fue asesinada.<eol>- ¿Quién la mató?<eos>
+<bos>Si lo supiera, ¿cree que estaría aquí<eol>hablando con Ud.?<eos>
+<bos>Ah, ahora Ud. me necesita.<eos>
+<bos>Me necesita por mi aptitud, ¿no es así?<eos>
+<bos>- Éste fue un trabajo profesional.<eol>- ¿En serio?<eos>
+<bos>Ay, y usted aquí solo y vulnerable.<eos>
+<bos>¿Tenía relaciones sexuales con ella?<eos>
+<bos>No creo que sea tan tonto<eol>como para arriesgar el proyecto...<eos>
+<bos>sólo por sus placeres personales.<eos>
+<bos>Encuentre al asesino.<eos>
+<bos>Cancele esta investigación del Congreso.<eos>
+<bos>No puedo.<eos>
+<bos>Pero el senador Sorenson<eol>es un hombre honorable.<eos>
+<bos>Todos estos hombres honorables...<eol>son honorables.<eos>
+<bos>Supe que capturaron a Mulder en Tunguska.<eos>
+<bos>Y supe que escapó.<eos>
+<bos>Si despertamos al oso ruso, podría<eol>darse cuenta de que le robamos la miel.<eos>
+<bos>¡No está!<eos>
+<bos>¡Monten! Tenemos que encontrarlo.<eos>
+<bos>¿Qué quieren de mí?<eos>
+<bos>¿Por qué corre?<eos>
+<bos>Escapé del campo de prisioneros.<eos>
+<bos>Es un mentiroso.<eos>
+<bos>No. Perdón.<eos>
+<bos>No, soy americano...<eos>
+<bos>y me acusaron falsamente de espionaje.<eos>
+<bos>Entonces, su enemigo es mi enemigo.<eol>Podemos protegerlo.<eos>
+<bos>"Subcomité del Senado: Yo, Dana Scully...<eos>
+<bos>Espionaje y Terrorismo"<eol>juro decir la verdad, toda la verdad...<eos>
+<bos>y nada más que la verdad,<eol>con el amparo de Dios.<eos>
+<bos>Quisiera leerles<eol>una declaración preparada.<eos>
+<bos>Puede hacerlo.<eos>
+<bos>" Hace 4 años, dejé la medicina...<eos>
+<bos>para convertirme en una agente del FBI...<eos>
+<bos>porque creía en este país...<eos>
+<bos>porque quería defender sus leyes...<eos>
+<bos>castigar a los culpables<eol>y proteger a los inocentes.<eos>
+<bos>Aún creo en este país...<eos>
+<bos>pero hay autoridades poderosas<eol>que no creen en él.<eos>
+<bos>Hombres que no respetan la ley,<eol>que se burlan de ella impunemente.<eos>
+<bos>- Srta. Scully.<eol>- Llegué a la conclusión...<eos>
+<bos>- Agente Scully.<eol>- de que ya no me es posible--"<eos>
+<bos>Ésta no es una tribuna improvisada,<eol>Srta. Scully.<eos>
+<bos>Su declaración constará en el acta.<eos>
+<bos>Con respeto, Sr. Presidente,<eol>quisiera terminar.<eos>
+<bos>- No estamos aquí para eso.<eol>- ¿Por qué estamos aquí?<eos>
+<bos>Agente Scully, ¿sabe o no sabe<eol>el paradero del agente Mulder?<eos>
+<bos>¿Tiene conocimiento o no de la ubicación<eol>actual del agente Mulder?<eos>
+<bos>Me niego, con todo respeto,<eol>a responder eso.<eos>
+<bos>Srta. Scully,<eol>no puede negarse a responder.<eos>
+<bos>La respuesta podría poner en peligro<eol>al agente Mulder.<eos>
+<bos>Parece que no comprende.<eos>
+<bos>Su respuesta no es opcional.<eol>Ud. es una agente del FBI.<eos>
+<bos>Entonces, terminaré mi declaración.<eos>
+<bos>"Ya no me es posible llevar a cabo<eol>mis deberes como agente del FBI".<eos>
+<bos>¿Ofrece formalmente su renuncia?<eol>¿Eso es lo que quiere decir?<eos>
+<bos>No, señor.<eos>
+<bos>Lo que quiero decir...<eos>
+<bos>es que existe una cultura de anarquía...<eos>
+<bos>que me ha impedido<eol>cumplir con mi trabajo.<eos>
+<bos>Que los blancos de la investigación<eol>de este comité...<eos>
+<bos>deberían ser los hombres<eol>que están sobre la ley...<eos>
+<bos>y cuyas políticas secretas son causa<eol>de los delitos que Uds. investigan.<eos>
+<bos>Está obligada legalmente<eol>a responder a nuestras preguntas.<eos>
+<bos>Si no nos dice lo que sabe<eol>del paradero del agente Mulder...<eos>
+<bos>se le acusará de desacato al Congreso.<eos>
+<bos>Este infeliz destrozó mi camioneta.<eos>
+<bos>Sé gentil con él. Está herido.<eos>
+<bos>No puede quedarse aquí.<eos>
+<bos>Lo están buscando.<eos>
+<bos>No debiste traerlo<eol>si no querías que yo lo atendiera.<eos>
+<bos>No se quedará.<eos>
+<bos>- No hablo ruso. - ¿Americano?<eos>
+<bos>Dígale que lamento lo de su camioneta.<eos>
+<bos>- ¿El experimento? - Sí.<eos>
+<bos>- Matan a todos con ese experimento.<eol>- ¿ Y por qué a ustedes no?<eos>
+<bos>Mi esposo hace entregas.<eol>Nos perdonan la vida.<eos>
+<bos>Pero ahora, no tiene camioneta.<eol>Tiene miedo.<eos>
+<bos>Tendremos que irnos.<eos>
+<bos>Vendrán a buscarme. Vendrán a buscarlos.<eos>
+<bos>- Hay otras maneras.<eol>- No sé de qué habla.<eos>
+<bos>Sin brazo, no hay experimento.<eos>
+<bos>Usted no entiende, estos experimentos--<eos>
+<bos>Esta cicatriz de la viruela en su brazo<eol>es algún tipo de identificación.<eos>
+<bos>Ayúdenme a escapar.<eol>Yo les ayudaré a escapar.<eos>
+<bos>Ayúdenme a llegar a San Petersburgo.<eos>
+<bos>"Virus de la Viruela"<eos>
+<bos>- ¿Aguanta el encierro?<eol>- Tengo mucho que leer.<eos>
+<bos>Entiendo que quiera proteger<eol>al agente Mulder, pero--<eos>
+<bos>No sólo protejo al agente Mulder, señor.<eos>
+<bos>- ¿Qué hace? - Este comité nos convocó...<eos>
+<bos>para responder preguntas<eol>sobre un homicidio...<eos>
+<bos>sobre una valija diplomática<eol>interceptada...<eos>
+<bos>que iba a serle entregada<eol>a una médica prominente...<eos>
+<bos>que ahora está muerta, igual que el<eol>hombre que iba a entregar la valija...<eos>
+<bos>cuyo contenido ha infectado<eol>a un exobiólogo...<eos>
+<bos>con una toxina paralizadora...<eos>
+<bos>¿y qué quieren saber?<eos>
+<bos>- El paradero del agente Mulder.<eol>- Es la pregunta equivocada.<eos>
+<bos>Varios de los miembros del comité<eol>son abogados.<eos>
+<bos>Yo sé que ellos hacen<eol>la pregunta equivocada...<eos>
+<bos>cuando no quieren la respuesta correcta.<eos>
+<bos>A menos de que Mulder ya tenga<eol>las respuestas que buscan.<eos>
+<bos>O quieran asegurarse de que no las halle.<eos>
+<bos>Estamos hablando de congresistas.<eos>
+<bos>Lo sé, señor...<eos>
+<bos>y mi inclinación natural es creer...<eos>
+<bos>que ellos obran<eol>en beneficio de la verdad.<eos>
+<bos>Pero no me inclino a dejarme guiar<eol>por mi buen juicio en este caso.<eos>
+<bos>Y se dejará guiar por el buen juicio<eol>del agente Mulder, ¿es así?<eos>
+<bos>Se llama Vassily Peskow.<eos>
+<bos>Era un trabajador eventual<eol>de la KGB en Moscú.<eos>
+<bos>¿Cómo puede ser?<eos>
+<bos>¿Cómo pudieron saber los rusos<eol>que buscábamos una vacuna?<eos>
+<bos>Seis los sabíamos.<eos>
+<bos>¿La Dra. Charne-Sayre?<eos>
+<bos>Era de confianza.<eos>
+<bos>Absolutamente.<eos>
+<bos>Entonces, no lo sé.<eos>
+<bos>¡Encuentre a este hombre! ¡Encuéntrelo!<eos>
+<bos>Si mis fuentes de espionaje<eol>tienen razón...<eos>
+<bos>hay alguien que podría<eol>ahorrarnos la molestia.<eos>
+<bos>- Sr. Presidente, ¿me permite?<eol>- Adelante.<eos>
+<bos>Srta. Scully, tuvo mucho tiempo<eol>para considerar la pregunta...<eos>
+<bos>que le hicimos en la última sesión.<eos>
+<bos>Quiero darle la oportunidad<eol>de que la conteste aquí hoy...<eos>
+<bos>para que yo pueda ayudar<eol>al Sr. Presidente...<eos>
+<bos>a seguir adelante con esta audiencia.<eos>
+<bos>No puedo responder esa pregunta, señor.<eos>
+<bos>Le preguntaré de nuevo.<eos>
+<bos>¿Dónde está el agente especial Mulder<eol>y por qué no está aquí?<eos>
+<bos>Sí responderé a sus preguntas<eol>sobre el hombre y la valija.<eos>
+<bos>- Agente Scully. - Sobre su homicidio...<eos>
+<bos>y mi opinión sobre su conexión<eol>con la muerte de la Dra. Charne-Sayre.<eos>
+<bos>Srta. Scully,<eol>tendrá oportunidad de decir todo--<eos>
+<bos>- O sobre la toxina en la valija.<eol>- ¡Responda la pregunta!<eos>
+<bos>¿Cuál es la pregunta?<eos>
+<bos>Muy bien, llamo al orden.<eos>
+<bos>Agente Scully, continúe.<eos>
+<bos>Sí, señor. Si me lo permite, quisiera<eol>terminar de establecer mi argumento.<eos>
+<bos>¿ Y cuál es su argumento, Srta. Scully?<eos>
+<bos>Que la muerte de la Dra. Charne-Sayre,<eol>dada su especialidad...<eos>
+<bos>sugiere que ella sabía algo<eol>acerca de la toxina...<eos>
+<bos>de sus orígenes...<eos>
+<bos>y que ese conocimiento<eol>podría relacionarse...<eos>
+<bos>con el homicidio del hombre en el<eol>edificio del director adjunto Skinner.<eos>
+<bos>¿Srta. Scully?<eos>
+<bos>Sí, señor. El director adjunto Skinner<eol>acaba de informarme...<eos>
+<bos>que hubo un accidente<eol>relacionado directa--<eos>
+<bos>¿ Un accidente?<eos>
+<bos>Un médico infectado con la toxina<eol>murió en circunstancias sospechosas...<eos>
+<bos>que incluyen el robo de las pruebas...<eos>
+<bos>que contenía la valija diplomática.<eos>
+<bos>Pues, comenzamos muy bien.<eos>
+<bos>Suspenderé la sesión hasta que<eol>este asunto nuevo pueda explicarse...<eos>
+<bos>para que podamos comenzar a avanzar.<eos>
+<bos>Puedes abrazarme. Con los dos brazos.<eos>
+<bos>- ¿Cuándo volviste? - Fue un viaje raro.<eos>
+<bos>Otro día le contará. Creo que ya hay<eol>suficientes cosas raras que aclarar.<eos>
+<bos>Hice varias conexiones con esta toxina,<eol>con su naturaleza.<eos>
+<bos>- Yo también.<eol>- Señor, necesito su permiso...<eos>
+<bos>para reservar boletos<eol>a Boca Ratón, Florida.<eos>
+<bos>Nos llevará entre 12 y 15 horas.<eos>
+<bos>Pero si tardáramos más,<eol>entretenga al comité mañana...<eos>
+<bos>- para que--<eol>- Si me lo explica, agente Scully...<eos>
+<bos>yo tendré que explicarles a ellos.<eos>
+<bos>Les sugiero que hagan lo posible<eol>para asistir a la sesión de mañana...<eos>
+<bos>o no podré ayudarlos.<eos>
+<bos>- ¿Boca Ratón?<eol>- La Dra. Bonita Charne-Sayre...<eos>
+<bos>es miembro de la junta<eol>y médica en jefe...<eos>
+<bos>de una cadena de clínicas de reposo<eol>para ancianos en todo el país.<eos>
+<bos>Adivina de qué murió una paciente suya<eol>en Boca Ratón.<eos>
+<bos>"Clínica de Convalecencia Harrow<eol>Boca Ratón, Florida, 8:15 P.M."<eos>
+<bos>- ¿Sí?<eol>- Somos los agentes Mulder y Scully.<eos>
+<bos>Necesitamos hablar con Ud.<eol>o con uno de sus pacientes.<eos>
+<bos>- ¿Sobre qué? - ¿Podemos pasar, señorita?<eos>
+<bos>Sí.<eos>
+<bos>¿Cuándo los vieron por última vez?<eos>
+<bos>Hace una hora, antes de que se durmieran.<eos>
+<bos>Este hombre está muerto.<eos>
+<bos>¿Qué?<eos>
+<bos>Son sujetos experimentales.<eol>Creo que los envenenaron.<eos>
+<bos>¿Quién les administró<eol>sus medicamentos hoy?<eos>
+<bos>Yo.<eos>
+<bos>Bien, quiero que llame a urgencias.<eos>
+<bos>Avise que tiene una cuarentena<eol>de material peligroso.<eos>
+<bos>Muéstrenos las entradas al hospital.<eos>
+<bos>Debemos sellar el edificio de inmediato.<eos>
+<bos>"Correccional Federal - Nueva York"<eol>No sé qué quieres averiguar.<eos>
+<bos>Todo lo ocurrido, todas las muertes...<eos>
+<bos>nos llevan a un hombre.<eos>
+<bos>Pero según tú,<eol>él está en Rusia o incluso muerto.<eos>
+<bos>No trabaja solo.<eos>
+<bos>¿Terry Edward Mayhew?<eol>¿Podemos hablar con Ud.?<eos>
+<bos>¿Podemos tener<eol>una conversación extraoficial?<eos>
+<bos>- ¿Sobre qué? - Alex Krycek.<eos>
+<bos>¿Quién?<eos>
+<bos>El que le tendió una trampa a su milicia.<eos>
+<bos>Su apellido no era Krycek.<eos>
+<bos>Era Arntzen o algo así.<eos>
+<bos>Lo conocieron en Dakota del Norte...<eos>
+<bos>al rescatar material<eol>de un silo de misiles.<eos>
+<bos>Nunca he estado en un silo de misiles.<eol>No sé nada al respecto.<eos>
+<bos>Este sujeto Krycek o "Arntzen",<eol>¿cómo lo conoció?<eos>
+<bos>Extraoficialmente.<eos>
+<bos>Él acudió a nosotros con algunos<eol>materiales de construcción e ideas.<eos>
+<bos>- ¿Qué quería construir?<eol>- Dos dispositivos.<eos>
+<bos>¿Alguna vez mencionó el cáncer negro?<eos>
+<bos>Oh, sí.<eos>
+<bos>- ¿Qué dijo?<eol>- Que lo desarrollaron los soviéticos.<eos>
+<bos>Saddam lo usó en el Golfo.<eos>
+<bos>Quiere decir, ¿como arma biológica?<eos>
+<bos>Por eso obligaron a los soldados<eol>a tomar píldoras.<eos>
+<bos>El gobierno de los EE.UU.<eol>sabía del cáncer negro.<eos>
+<bos>Mintieron. No tenían cura ni vacuna.<eos>
+<bos>Creo que vamos a dejarlo así.<eol>No tengo nada más que decir.<eos>
+<bos>- Vámonos, Mulder.<eol>- Ud. mencionó dos dispositivos.<eos>
+<bos>¿Qué le ocurrió a la otra bomba?<eos>
+<bos>Me la comí.<eos>
+<bos>¿Quiere saber lo que es la anarquía?<eos>
+<bos>Si no me dice dónde está,<eol>veré que pase su condena...<eos>
+<bos>a gatas, maldito fanático,<eol>haciendo sonreír a un convicto.<eos>
+<bos>El infeliz se la robó,<eol>con todo y camioneta.<eos>
+<bos>- De un almacén. - ¿Dónde?<eos>
+<bos>En Terma, Dakota del Norte.<eos>
+<bos>Gracias.<eos>
+<bos>Scully, consigue las matrículas...<eos>
+<bos>de las camionetas robadas<eol>en los últimos 6 meses.<eos>
+<bos>Que las autoridades fronterizas<eol>canadienses detengan a las camionetas.<eos>
+<bos>- Diles que busquen una bomba.<eol>- ¿Qué haces?<eos>
+<bos>Nos tendieron una trampa<eol>desde el principio.<eos>
+<bos>Alguien usó a Krycek;<eol>y Krycek, a nosotros.<eos>
+<bos>Alguien que no quería la piedra<eol>en los EE.UU.<eos>
+<bos>¿Qué hay en Canadá?<eos>
+<bos>¿Dónde pondrías la piedra<eol>si no quisieras que la encontraran?<eos>
+<bos>La enterraría de nuevo.<eos>
+<bos>" Frontera, Alberta, Canadá"<eol>Fertilizante.<eos>
+<bos>Fertilizante<eol>para mis tomates de invernadero.<eos>
+<bos>Tomates hermosos el año entero.<eos>
+<bos>Gracias.<eos>
+<bos>Vuelve a la refinería.<eos>
+<bos>A ver si alguien sabe algo<eol>sobre esa camioneta.<eos>
+<bos>"Sala de Válvulas"<eos>
+<bos>Sería muy fácil matarla,<eol>pero por favor, no me obligue.<eos>
+<bos>Mi trabajo está hecho.<eos>
+<bos>Me gustaría comenzar. ¿Señorita Scully?<eos>
+<bos>Sí, estoy lista, señor.<eos>
+<bos>Van a presentar pruebas.<eol>Eso es lo que me dijeron.<eos>
+<bos>Sí, señor.<eos>
+<bos>Pruebas que relacionan cierto número<eol>de muertes, un número grande...<eos>
+<bos>con una toxina biológica que fue<eol>transportada a los Estados Unidos...<eos>
+<bos>por un mensajero<eol>que también fue asesinado.<eos>
+<bos>¿Se refiere al hombre que fue lanzado<eol>del apartamento del director adjunto?<eos>
+<bos>Sí. Aún no ha sido identificado.<eos>
+<bos>¿Tenemos el nombre del individuo<eol>que lo lanzó?<eos>
+<bos>Sí, señor. Alex Krycek, quien<eol>desapareció y posiblemente haya muerto.<eos>
+<bos>Entonces, ¿tienen en su posesión<eol>la valija o sus contenidos?<eos>
+<bos>No, señor.<eos>
+<bos>Entonces, ¿qué pruebas<eol>vienen a presentarnos hoy?<eos>
+<bos>Documentos y entrevistas...<eos>
+<bos>que respaldan<eol>una conspiración muy amplia...<eos>
+<bos>para controlar<eol>una toxina biológica letal...<eos>
+<bos>que es, de hecho, extraterrestre.<eos>
+<bos>¿De qué estamos hablando?<eol>¿De hombrecitos verdes?<eos>
+<bos>- De ninguna manera.<eol>- ¿Por qué no pueden creer esto...<eos>
+<bos>cuando el descubrimiento de vida<eol>fuera de este planeta...<eos>
+<bos>está en la primera página de diarios<eol>en todo el mundo?<eos>
+<bos>¿Cuando hasta los científicos<eol>más conservadores...<eos>
+<bos>piden la exploración de Marte yJúpiter?<eos>
+<bos>¿Pudiendo creer<eol>que la vida y su persistencia...<eos>
+<bos>florece más allá<eol>de nuestra esfera terrestre?<eos>
+<bos>Si son incapaces de creer esto...<eos>
+<bos>sugiero que se acuse de desacato<eol>a todo este comité...<eos>
+<bos>por ignorar pruebas irrefutables.<eos>
+<bos>- No estamos aquí para eso.<eol>- Entonces, ¿por qué estamos aquí?<eos>
+<bos>Sugiero que suspendamos la sesión...<eos>
+<bos>hasta que podamos evaluar las pruebas<eol>adecuadamente.<eos>
+<bos>"San Petersburgo, Rusia"<eos>
+<bos>Por favor,<eol>si está aquí para pedir otro favor...<eos>
+<bos>ya me jubilé...<eos>
+<bos>camarada Krycek.<eos>
+<bos>Camarada, sólo estoy aquí para<eol>felicitarlo por un trabajo bien hecho.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

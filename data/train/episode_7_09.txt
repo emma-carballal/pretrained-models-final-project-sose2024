@@ -1,0 +1,441 @@
+<bos>AJell-O salad with little pear chunks.<eos>
+<bos>It's the Wednesday special at the<eol>hospital cafeteria. I can't escape it.<eos>
+<bos>Listen to you. That didn't stop you<eol>from eating my dessert.<eos>
+<bos>Well, all right.<eol>The profiteroles weren't bad.<eos>
+<bos>- You didn't want me to starve, did you?<eos>
+<bos>He ate mine too.<eos>
+<bos>Daddy, why don't you take this<eol>before my arm falls off.<eos>
+<bos>Thanks, honey.<eos>
+<bos>Everybody?<eos>
+<bos>- One last shot. - Oh, Dad.<eos>
+<bos>Do you think we can draw the line<eol>at 600 photographs?<eos>
+<bos>Six hundred and one.<eos>
+<bos>Quit griping.<eol>And hold up that eyesore, Robert.<eos>
+<bos>God knows when you're<eol>gonna win another one.<eos>
+<bos>Irv, you wanna think<eol>about staying the night?<eos>
+<bos>What? I get to stay at the home of<eol>the Bay Area Doctor of the Year?<eos>
+<bos>It's a deal.<eos>
+<bos>Proud of you, Robert.<eos>
+<bos>Up. Hold it up. Say "cheese."<eos>
+<bos>"Presented to Dr. Robert Wieder M. D...<eos>
+<bos>"for the great wisdom,<eol>skill and compassion...<eos>
+<bos>he exhibits in the practice of medicine."<eos>
+<bos>It's gonna look awfully nice<eol>in your office.<eos>
+<bos>What are you thinking?<eos>
+<bos>How this is just the cherry on top.<eos>
+<bos>How lucky I am.<eos>
+<bos>- What is it? - Downstairs motion sensor.<eos>
+<bos>You think Dad tripped the alarm?<eos>
+<bos>The alarm hasn't been tripped.<eos>
+<bos>You got me. I'll go check it out.<eos>
+<bos>Irv?<eos>
+<bos>Irving, is everything all right?<eos>
+<bos>What do you think, Scully?<eol>Is this a name, possibly,<eos>
+<bos>or a code or an anagram?<eos>
+<bos>T-H-E-E-F.<eos>
+<bos>I assume it's supposed to be<eol>T-H-I-E-F. Thief.<eos>
+<bos>Insert your own Dan Quayle joke here.<eos>
+<bos>Lousy spelling aside, what do you think<eol>it refers to? Who's the thief?<eos>
+<bos>Well, that's certainly one question.<eos>
+<bos>I've got many.<eos>
+<bos>"Mulder, why are we here?"<eos>
+<bos>Mmm, to be fair,<eol>I might have used the words,<eos>
+<bos>"Mulder, how is this an X-File?"<eos>
+<bos>You see that, Scully?<eol>You always keep me guessing.<eos>
+<bos>This is Dr. Irving Thalbro, age 66,<eol>found hanged with his throat cut,<eos>
+<bos>his family tucked away and<eol>in bed not 40 feet from here.<eos>
+<bos>Didn't see or hear anything.<eos>
+<bos>Which would certainly shine<eol>the light of suspicion on them.<eos>
+<bos>Except they're the ones<eol>that called it in,<eos>
+<bos>and there's no evidence whatsoever<eol>to link them to the crime.<eos>
+<bos>Which is why the police<eol>are rightly wondering...<eos>
+<bos>if Dr. Thalbro killed himself.<eos>
+<bos>Except who, then, did this?<eos>
+<bos>Blood pattern doesn't indicate<eol>that the good doctor did it,<eos>
+<bos>who I am assuming could read and write<eol>above a fourth grade level.<eos>
+<bos>I'll admit, Mulder, this is not<eol>an open-and-shut case.<eos>
+<bos>But, uh, it doesn't make it an X-File.<eos>
+<bos>Well, there is one detail that does.<eos>
+<bos>This.<eos>
+<bos>Dirt?<eos>
+<bos>Dirt. It's a very powerful<eol>component of hexcraft,<eos>
+<bos>as well as the pattern in which<eol>it was originally arranged.<eos>
+<bos>Check this out.<eos>
+<bos>- Looks like a human form.<eos>
+<bos>Hexcraft, as in putting<eol>a curse on someone?<eos>
+<bos>Murdering them magically?<eos>
+<bos>That's what it looks like to me. Now,<eol>I know what you're gonna say, Scully.<eos>
+<bos>No, hexcraft. I mean,<eol>I'll buy that as the intent here.<eos>
+<bos>It certainly jives with the evidence.<eos>
+<bos>I say we talk to the family.<eos>
+<bos>I'll always keep you guessing.<eos>
+<bos>It was probably<eol>the greatest night of my life.<eos>
+<bos>Till...<eos>
+<bos>Sir, can you think of any enemies<eol>your father-in-law might have made?<eos>
+<bos>Maybe inadvertently through<eol>his medical practice...<eos>
+<bos>or a business dealing, perhaps?<eos>
+<bos>Everybody loved Irving.<eos>
+<bos>Everyone who knew him. He was...<eos>
+<bos>No, I can't conceive of it.<eos>
+<bos>Dr. Wieder, do you have any enemies?<eos>
+<bos>I'm sorry I have to ask.<eol>There was a message left behind.<eos>
+<bos>If it doesn't refer to your<eol>father-in-law, it may refer to you.<eos>
+<bos>Thief?<eos>
+<bos>Are you asking if my dad's a thief?<eos>
+<bos>He saves people's lives. He's a good man.<eos>
+<bos>Honey.<eos>
+<bos>If I have any enemies, I don't know them.<eos>
+<bos>At the home of his son-in-law,<eol>Dr. Robert Wieder,<eos>
+<bos>Dr. Irving Thalbro was found<eol>hanged at 1:48 this morning.<eos>
+<bos>The details are sketchy.<eol>It's my understanding...<eos>
+<bos>that police are treating<eol>the case as a murder.<eos>
+<bos>This is due in part to<eol>core evidence left at the scene.<eos>
+<bos>Hello? Mr. Peattie?<eos>
+<bos>Mr. Peattie, I know you're in there.<eos>
+<bos>Are you cooking?<eos>
+<bos>You aren't supposed to be cooking.<eos>
+<bos>You aren't supposed to be cooking.<eos>
+<bos>That smell like somethin' you wanna eat?<eos>
+<bos>- Well, what is it, then? - Medicine.<eos>
+<bos>Oh, all right. Uh,<eos>
+<bos>just so long as you're not cooking.<eos>
+<bos>Seems like you could use yourself<eol>a poultice for your back.<eos>
+<bos>Old Peattie fix ya right up.<eos>
+<bos>Be ready later.<eos>
+<bos>pronounced spikes of methane<eol>and sulfur compounds.<eos>
+<bos>The signature of decay.<eos>
+<bos>It's graveyard dirt,<eol>also known as conjure dust.<eos>
+<bos>It's one of the most powerful hexing<eol>elements, whether for good or evil.<eos>
+<bos>Not the kind of stuff you want<eol>to be on the wrong end of.<eos>
+<bos>Uh-huh.<eos>
+<bos>Well, go ahead, Scully. Keep me guessing.<eos>
+<bos>Kuru.<eos>
+<bos>The-The, uh...<eos>
+<bos>The disease that<eol>New Guinea tribesmen get?<eos>
+<bos>From eating the brains<eol>of their relatives.<eos>
+<bos>I thought my grandpa<eol>slurping his soup was bad.<eos>
+<bos>Practically speaking, Mulder,<eol>Kuru doesn't even exist anymore,<eos>
+<bos>not in New Guinea<eol>and certainly not in the U.S.<eos>
+<bos>But this man's cerebellum<eol>and his triadim...<eos>
+<bos>clearly show signs of it, Mulder.<eos>
+<bos>I mean, these plaques...<eol>his brain is riddled with them.<eos>
+<bos>Kuru makes you crazy, right?<eos>
+<bos>Yeah, stark-raving, among other things.<eol>But in this case,<eos>
+<bos>stark-raving mad enough to<eol>slit his own throat and hang himself.<eos>
+<bos>Mulder, that's what his autopsy shows...<eos>
+<bos>from the wound pattern<eol>to-to the blood spray.<eos>
+<bos>it was inflicted upon him.<eos>
+<bos>The graveyard dirt, the hex.<eos>
+<bos>He was given this disease<eol>so that he would kill himself.<eos>
+<bos>Nan? Honey?<eos>
+<bos>Robert?<eos>
+<bos>Look at this.<eos>
+<bos>It could be they needed it as evidence.<eos>
+<bos>I'm telling you, I'm scared.<eos>
+<bos>I can't stay here, Robert.<eol>I can't live in this house anymore.<eos>
+<bos>Lucy can't, not after<eol>what's happened here.<eos>
+<bos>And now this picture of us is missing.<eos>
+<bos>- It'll turn up.<eol>- No. It doesn't make any sense.<eos>
+<bos>Nothing that's happened here<eol>makes any sense.<eos>
+<bos>It does. Nan,<eos>
+<bos>listen to me.<eos>
+<bos>Your dad was ill.<eos>
+<bos>He had a kind of progressive dementia.<eos>
+<bos>That's what the F.B.I. autopsy showed.<eos>
+<bos>I reviewed their findings,<eol>and I have to agree.<eos>
+<bos>Honey, we will get through this.<eos>
+<bos>- Oh, my God! Nan, honey!<eos>
+<bos>Oh, my God!<eos>
+<bos>- Nan! - Dad?<eos>
+<bos>Lucy, call 911.<eos>
+<bos>Call 911!<eos>
+<bos>Nan!<eos>
+<bos>Dr. Wieder?<eos>
+<bos>We understand you've made a diagnosis.<eos>
+<bos>Diffuse Cutaneous Flesh Moniliasis.<eol>Old World type.<eos>
+<bos>- I take it that's rare.<eol>- In San Francisco? It's unheard of.<eos>
+<bos>Maybe in Central Africa.<eos>
+<bos>- Well, the rarer, the better.<eol>- What do you mean by that?<eos>
+<bos>Someone directed this<eol>to happen to your wife...<eos>
+<bos>just as someone directed<eol>what happened to your father-in-law.<eos>
+<bos>My enemy you were talking about...<eol>the one who thinks I'm a thief?<eos>
+<bos>Agent, you're a doctor.<eol>Explain to your partner...<eos>
+<bos>that no one can direct<eol>a person to get sick.<eos>
+<bos>The dirt you found in your bed<eol>drawn in the shape of a body,<eos>
+<bos>that's indicative of folk magic.<eos>
+<bos>That's what I believe<eol>is being used against you.<eos>
+<bos>Folk magic?<eos>
+<bos>You mean, like, Babayaga? Gypsies?<eos>
+<bos>I was actually thinking<eol>less Eastern and more Celtic.<eos>
+<bos>Maybe Scots-Irish or Appalachian, even.<eos>
+<bos>I'm supposed to take this seriously?<eos>
+<bos>Sir, regardless of the particulars,<eos>
+<bos>I think it's clear that<eol>there was an intruder in your home.<eos>
+<bos>And I think it would be<eol>prudent for you...<eos>
+<bos>to accept our protection...<eos>
+<bos>and help us to identify this person.<eos>
+<bos>Prudent for me would be to<eol>continue treating my wife.<eos>
+<bos>If we don't stop who's causing this,<eol>your treatments won't matter.<eos>
+<bos>So modern medicine<eol>and all it encompasses...<eos>
+<bos>artificial hearts, laser surgery,<eol>gene therapy, to name a few...<eos>
+<bos>all of that arrayed against<eol>a pile of magic dirt?<eos>
+<bos>And you tell me I'll lose.<eos>
+<bos>I have M.R.I. s to look at.<eos>
+<bos>Oh, yeah, Mulder, win him over.<eos>
+<bos>He will lose unless<eol>we can find a way to stop it.<eos>
+<bos>What do you suggest?<eos>
+<bos>A second opinion.<eos>
+<bos>The truth always hurts, don't it, Doc?<eos>
+<bos>Who are you?<eos>
+<bos>Is this you? You did this?<eos>
+<bos>What do you want from me?<eos>
+<bos>Don't you be frettin' none about that.<eos>
+<bos>I'm gettin' my nickel's worth.<eos>
+<bos>You're doin' a fine job so far.<eos>
+<bos>What the hell are you talking about?<eol>What is this all about?<eos>
+<bos>Lynette Peattie.<eos>
+<bos>And don't you be sayin'<eol>you don't recollect her.<eos>
+<bos>Uh-uh. No, no, no.<eos>
+<bos>Look, if I've done anything<eol>to upset you, I...<eos>
+<bos>It's no use trying to intimidate me<eol>if I don't know how I've offended you!<eos>
+<bos>Tell me!<eos>
+<bos>What makes me a thief?<eos>
+<bos>You be a smart man.<eos>
+<bos>I figure...<eos>
+<bos>you ponder it a while,<eol>it gonna come to ya.<eos>
+<bos>Wait!<eos>
+<bos>No. No matter how I spell it,<eol>there's no Lynette Peattie.<eos>
+<bos>- She's not in my patient file.<eol>- She's not in any doctor's patient file.<eos>
+<bos>No one by that name has ever<eol>been admitted to the hospital.<eos>
+<bos>You think you treated her?<eos>
+<bos>What aboutJane Does?<eos>
+<bos>You treated three in the last two years.<eos>
+<bos>Pull the files, please.<eos>
+<bos>You remember old Boon. I know you do.<eos>
+<bos>This mangy, old, ugly dog.<eos>
+<bos>Smart.<eos>
+<bos>People-smart, and then some.<eos>
+<bos>Oh, he sure did love you.<eos>
+<bos>He crawled up under that house...<eos>
+<bos>the very day you left.<eos>
+<bos>Wouldn't come out for nothin'.<eos>
+<bos>Not no ham bone, nothin'.<eos>
+<bos>He just knew that his life was over.<eos>
+<bos>You stole his heart too.<eos>
+<bos>You shouldn't oughta left.<eos>
+<bos>You're there.<eos>
+<bos>I... wanted to thank you.<eos>
+<bos>That poultice worked<eol>a miracle on my back.<eos>
+<bos>I was about to knock and...<eos>
+<bos>and ask if I could get a little more.<eos>
+<bos>Whatever that is, it sure is stinky.<eos>
+<bos>Stinky's good.<eos>
+<bos>Good afternoon.<eos>
+<bos>Can I help you?<eos>
+<bos>Yeah, we're looking for some<eol>alternative medical advice.<eos>
+<bos>Well, you've come to the right place.<eos>
+<bos>I get a lot of folks<eol>fed up with their H.M.O.s.<eos>
+<bos>- Well, actually, we're not here for us.<eol>- Yeah.<eos>
+<bos>Oh! Chief, back in your pocket.<eos>
+<bos>It's dirt.<eos>
+<bos>It's goofer dust is what it is.<eos>
+<bos>I don't know what your<eol>intentions are with that.<eos>
+<bos>- Goofer dust?<eol>- Conjure dust, goofer dust.<eos>
+<bos>How would you go about<eol>making somebody sick using that?<eos>
+<bos>We're investigating a murder.<eol>That's why I'm asking.<eos>
+<bos>Oh.<eos>
+<bos>Speaking strictly in the academic sense,<eos>
+<bos>you'd spread it on or near<eol>your victim to direct misfortune.<eos>
+<bos>So you could give them<eol>any illness you wanted...<eos>
+<bos>that's a lot trickier.<eos>
+<bos>It requires something special.<eos>
+<bos>- A voodoo doll.<eol>- No. They're called "puppets."<eos>
+<bos>Inside, you place three thorns<eol>of a blood red rose,<eos>
+<bos>a strand of hair,<eol>and a photo of your victim.<eos>
+<bos>Maybe other items as well.<eol>Depends on the operator.<eos>
+<bos>Sew it up, say your spell.<eos>
+<bos>How would you counteract one of these?<eos>
+<bos>Depends on who you're dealing with.<eos>
+<bos>But if the person you're looking for...<eos>
+<bos>is powerful enough to bring about<eol>a murder, he's probably charmed.<eos>
+<bos>Which would mean what?<eos>
+<bos>It means just that.<eos>
+<bos>He's drawing on the energy of a charm.<eos>
+<bos>A source of magic power.<eos>
+<bos>It could be any item,<eos>
+<bos>provided that it's very important to him.<eos>
+<bos>Something that holds<eol>great meaning for him.<eos>
+<bos>And unless you can separate him<eol>from his charm,<eos>
+<bos>you're out of luck.<eos>
+<bos>Poppin' corn.<eos>
+<bos>You gotta put the money in first.<eos>
+<bos>Don't look like no poppin' corn to me.<eos>
+<bos>Put it in the microwave.<eol>Then you get your popcorn.<eos>
+<bos>Oh. Microwave.<eos>
+<bos>I heard tell of such a thing.<eol>It's a true wonder.<eos>
+<bos>Radiation.<eos>
+<bos>Come from the heart of the atom.<eos>
+<bos>I think it be God's own glow.<eos>
+<bos>You're gonna be very happy, I promise.<eos>
+<bos>The drug therapy I'm giving her<eol>is working wonders.<eos>
+<bos>Come on. Come see.<eos>
+<bos>- Mom. - Hi, sweetie.<eos>
+<bos>- You look good. - Yeah, right.<eos>
+<bos>But I am definitely feeling better.<eos>
+<bos>This thing gives off about<eol>as much radiation as a dental X ray.<eos>
+<bos>- Nothing to worry about. - I know.<eos>
+<bos>It just scares me. Wish me luck?<eos>
+<bos>Doctor!<eos>
+<bos>Switch it off. Switch it off.<eos>
+<bos>All done.<eos>
+<bos>How could somebody<eol>orchestrate all of this?<eos>
+<bos>You believe that your wife was murdered?<eos>
+<bos>It was no accident. There was<eol>no malfunction of the machine.<eos>
+<bos>Yes, I believe she was murdered.<eos>
+<bos>And you still have no idea why?<eos>
+<bos>The pathologist found this<eol>branded into your wife's chest.<eos>
+<bos>Sir, we can't help you if<eol>you withhold information from us.<eos>
+<bos>A man came to see me yesterday.<eos>
+<bos>My age, older, maybe.<eos>
+<bos>Tall.<eos>
+<bos>He mentioned someone named<eol>Lynette Peattie.<eos>
+<bos>I didn't know who she was at first.<eos>
+<bos>Turns out she was a Jane Doe<eol>I treated last October.<eos>
+<bos>She was in a bus rollover.<eol>Came in amid a wave of victims.<eos>
+<bos>She was the worst off.<eos>
+<bos>I could barely put fluids in fast enough<eol>to keep up with the blood loss.<eos>
+<bos>We were rushing around triaging people.<eos>
+<bos>Everybody knew she was dying.<eos>
+<bos>It was only a matter of time.<eos>
+<bos>She was in agony.<eos>
+<bos>This was my course of treatment.<eos>
+<bos>You gave her morphine.<eos>
+<bos>Lots of it.<eos>
+<bos>I pushed it myself.<eos>
+<bos>She kept screaming,<eos>
+<bos>and her heart rate kept climbing.<eos>
+<bos>So...<eos>
+<bos>I kept pushing.<eos>
+<bos>I took maybe the last<eol>20 minutes of her life.<eos>
+<bos>It was a fair trade to make for the pain.<eos>
+<bos>Her father doesn't agree.<eos>
+<bos>What makes you think it's her father?<eos>
+<bos>He thinks you robbed him of his family.<eos>
+<bos>And that's why he's systematically<eol>robbing you of yours.<eos>
+<bos>What am I supposed to do?<eol>My daughter Lucy...<eos>
+<bos>You don't do anything.<eol>Let us find a way to protect you.<eos>
+<bos>- How? - I have an idea where to start.<eos>
+<bos>If Lynette Peattie was Carlos theJackal,<eos>
+<bos>I would've had an easier time<eol>tracking her down.<eos>
+<bos>There's no birth certificate,<eol>no social security number, nothing.<eos>
+<bos>Better known to the world<eol>as Jane Doe, 6149.<eos>
+<bos>Well, her name shows up<eol>once in the records...<eos>
+<bos>of a Vista Inoculation Program in 1981.<eos>
+<bos>That's when her father, one Oral Peattie,<eos>
+<bos>refused to allow her to be<eol>inoculated against polio.<eos>
+<bos>But there's no address for him.<eol>There's no record of him whatsoever.<eos>
+<bos>Mulder, why are we exhuming this girl?<eos>
+<bos>Well, I'm thinking of her<eol>dear old backwoods dad...<eos>
+<bos>and where he gets all his graveyard dirt.<eos>
+<bos>Here? His daughter's grave?<eos>
+<bos>The occultist we spoke to<eol>said that the person...<eos>
+<bos>casting these magic spells was charmed.<eos>
+<bos>That he had a source of power<eol>that was very meaningful to him...<eos>
+<bos>and he kept it close by.<eos>
+<bos>Lynette Peattie's body?<eos>
+<bos>That's my guess.<eos>
+<bos>So as long as her body remains here<eol>resting in peace in the Bay Area,<eos>
+<bos>he remains powerful.<eos>
+<bos>But if we were to<eol>ship it off to Quantico...<eos>
+<bos>Hold onto that.<eos>
+<bos>Mr. Peattie?<eos>
+<bos>Mr. Peattie, my pain's back.<eos>
+<bos>I was wondering if I could get<eol>a little more of that poultice.<eos>
+<bos>Mr. Peattie?<eos>
+<bos>Oh, I'm sorry.<eos>
+<bos>I didn't know you were home.<eos>
+<bos>All right, thank you.<eol>They'll be there before dark.<eos>
+<bos>We rented a cabin for you. It's<eol>important that you get out of town.<eos>
+<bos>And you believe by our leaving<eol>it will somehow weaken him?<eos>
+<bos>Well, what's important<eol>is that he believes that.<eos>
+<bos>At any rate, if he can't find you,<eol>he can't hurt you.<eos>
+<bos>How do you know he'll come forward?<eos>
+<bos>Because he hasn't gotten<eol>everything he wants.<eos>
+<bos>Our ownJohn Gillness is on the scene.<eos>
+<bos>San Mateo County health<eol>officials admit they're at a loss...<eos>
+<bos>to explain the sudden onset of the<eol>56-year-old woman's bizarre illness,<eos>
+<bos>but insist there is no cause for alarm.<eos>
+<bos>- Pretty weird, huh?<eol>- There's been no official diagnosis.<eos>
+<bos>Sources say they believe<eol>the woman contracted...<eos>
+<bos>the rare but deadly<eol>Group 'A"Streptococcus...<eos>
+<bos>We will keep a close watch<eol>on this story and any new developments.<eos>
+<bos>Bathroom's clear!<eos>
+<bos>Clear here!<eos>
+<bos>- Scully. - Peattie may be on to us.<eos>
+<bos>- What happened?<eol>- I found out where he lives,<eos>
+<bos>only he's cleared out and<eol>he's taken his magic charm with him.<eos>
+<bos>At least as much of it as he can carry.<eos>
+<bos>My guess is he's looking for you.<eos>
+<bos>I didn't see anybody following us.<eos>
+<bos>Well, just keep an eye out,<eol>Scully. I'm on my way.<eos>
+<bos>Okay.<eos>
+<bos>Soon.<eos>
+<bos>Very soon.<eos>
+<bos>What was that?<eos>
+<bos>Stay where you are.<eos>
+<bos>Oh! Oh, God!<eos>
+<bos>- Oh! - What is it?<eos>
+<bos>I don't know.<eos>
+<bos>I can't...<eos>
+<bos>- I can't see!<eos>
+<bos>- Agent Scully!<eol>- Just stay where you are.<eos>
+<bos>Stay down.<eos>
+<bos>- Oh, Doctor! - Leave him alone!<eos>
+<bos>- Daddy! - Get back!<eos>
+<bos>Get back!<eos>
+<bos>Don't make me hurt you!<eos>
+<bos>Can hurt the man<eol>that ain't got nothin'left.<eos>
+<bos>You know who I be now?<eos>
+<bos>Maybe you can recollect my daughter.<eos>
+<bos>I remember! I never forgot!<eos>
+<bos>I'm-I'm sorry for your loss,<eos>
+<bos>but I did everything<eol>humanly possible to save her!<eos>
+<bos>The arrogant little man.<eos>
+<bos>I did everything I could!<eos>
+<bos>And when I couldn't do anymore,<eol>I eased her suffering!<eos>
+<bos>By killin' her.<eos>
+<bos>If I be there,<eos>
+<bos>I save her!<eos>
+<bos>You weren't there!<eos>
+<bos>Scary death in some field.<eos>
+<bos>No name on her,<eos>
+<bos>far away from her people.<eos>
+<bos>It wouldn't be right.<eos>
+<bos>So now, little man,<eos>
+<bos>I gonna show you what be possible.<eos>
+<bos>I'm gonna show you...<eos>
+<bos>an eye for an eye.<eos>
+<bos>You're not gonna hurt my daughter!<eos>
+<bos>Daddy!<eos>
+<bos>Baby.<eos>
+<bos>- Daddy! Daddy!<eos>
+<bos>Doctor? What's happening?<eos>
+<bos>- Daddy!<eos>
+<bos>Dr. Wieder!<eos>
+<bos>- You're killing him!<eos>
+<bos>Daddy!<eos>
+<bos>Stop! Daddy!<eos>
+<bos>- Daddy!<eos>
+<bos>Daddy.<eos>
+<bos>Lynette Peattie's body is on its way<eol>back home to O'Neal, West Virginia.<eos>
+<bos>She's going back to her people after all.<eos>
+<bos>You know, Mulder,<eol>I would have made the same call.<eos>
+<bos>As a doctor,<eos>
+<bos>if I was certain that<eol>I couldn't save her life...<eos>
+<bos>and she was in that much pain,<eos>
+<bos>- I would've done what Wieder did.<eol>- Mm-hmm.<eos>
+<bos>It seems pretty clear cut.<eos>
+<bos>Except maybe it's not.<eos>
+<bos>You're wondering if maybe<eol>Peattie could've saved her life?<eos>
+<bos>You do keep me guessing.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

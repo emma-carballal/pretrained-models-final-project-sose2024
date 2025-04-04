@@ -1,0 +1,675 @@
+<bos>What is your present location?<eos>
+<bos>Unit 50, go ahead.<eos>
+<bos>Suspect now westbound.<eos>
+<bos>Has entered the gate of the shipworks<eos>
+<bos>off April Street.<eos>
+<bos>Unit 50 still in pursuit. Over.<eos>
+<bos>All right, Unit 50, I copy.<eos>
+<bos>Keep me advised...<eos>
+<bos>This is the police!<eos>
+<bos>Pull your vehicle over and stop!<eos>
+<bos>Stop your vehicle!<eos>
+<bos>Put your hands on the roof and freeze!<eos>
+<bos>Hold it!<eos>
+<bos>Get on the ground!<eos>
+<bos>Do it!<eos>
+<bos>You hear me?!<eos>
+<bos>Face down! Do it!<eos>
+<bos>Stay down!<eos>
+<bos>Unit 106, go ahead.<eos>
+<bos>Stop!<eos>
+<bos>Armed officer!<eos>
+<bos>I hit him.<eos>
+<bos>I know I hit him.<eos>
+<bos>Where the hell did he go?<eos>
+<bos>He'd be bleeding bad.<eos>
+<bos>The Lipari Island group<eol>off the coast of Italy.<eos>
+<bos>But-but theirs is a very light lava, sir.<eos>
+<bos>That's exactly what stumped me.<eos>
+<bos>Because inside, there must be something<eos>
+<bos>the weight of the heaviest<eol>rock in existence.<eos>
+<bos>But, Professor, that-that would<eol>be Icelandic peridotite.<eos>
+<bos>Precisely.<eos>
+<bos>There's a piece chipped off.<eos>
+<bos>By me.<eos>
+<bos>Well, what's the rock inside?<eos>
+<bos>Icelandic peridotite, naturally.<eos>
+<bos>When I saw this, I stopped chipping.<eos>
+<bos>But how could a rock from Iceland...<eos>
+<bos>Mulder.<eos>
+<bos>Are you watching channel eight?<eos>
+<bos>...across the world?<eos>
+<bos>What's your conclusion?<eos>
+<bos>Science does not jump to conclusions.<eos>
+<bos>Science is not a guessing game.<eos>
+<bos>...where a 60-mile high-speed car chase<eos>
+<bos>ended early this evening--<eos>
+<bos>the suspect alluding capture<eol>by leaping into the harbor,<eos>
+<bos>but not before reportedly<eos>
+<bos>injuring several Ardis police officers.<eos>
+<bos>We have Captain Roy Lacerio standing by.<eos>
+<bos>Captain, how was the man able to escape<eos>
+<bos>and how seriously injured<eol>were the officers involved?<eos>
+<bos>Those details are still unclear.<eos>
+<bos>I'll be talking with several of the...<eos>
+<bos>We need you, Captain.<eos>
+<bos>I'm sorry, you'll have to excuse me.<eos>
+<bos>Captain Roy Lacerio<eol>being pulled away here<eos>
+<bos>during an intense manhunt.<eos>
+<bos>No additional information<eol>has been released.<eos>
+<bos>...Lacerio being pulled away here<eos>
+<bos>during an intense...<eos>
+<bos>Mulder, you've been through<eol>this tape 100 times.<eos>
+<bos>What exactly are you hoping to find?<eos>
+<bos>I don't know.<eos>
+<bos>And all he told you<eos>
+<bos>was to watch channel eight?<eos>
+<bos>Yeah, that's all he said.<eos>
+<bos>Do we even know why the<eol>suspect was being chased?<eos>
+<bos>As far as I can tell,<eos>
+<bos>he wouldn't pull over<eol>for a moving violation.<eos>
+<bos>Well, that ought to put him<eos>
+<bos>on the ten most wanted list.<eos>
+<bos>There's got to be something here.<eos>
+<bos>Some detail-- something we're not seeing.<eos>
+<bos>How do you know he's not just<eol>yanking your chain,<eos>
+<bos>this Deep Throat character?<eos>
+<bos>Why would he do that?<eos>
+<bos>Well, he has lied to you,<eol>by his own admission.<eos>
+<bos>I don't think he'd call<eol>if there wasn't something here--<eos>
+<bos>something I'm supposed to see,<eos>
+<bos>something he wants me to see.<eos>
+<bos>Then what are you missing?<eos>
+<bos>I don't know if you're aware,<eol>but there were<eos>
+<bos>three different law enforcement<eol>agencies out here last night.<eos>
+<bos>Hunting a man on a moving violation?<eos>
+<bos>I know it's not Silence of the Lambs,<eos>
+<bos>but it's what we do.<eos>
+<bos>This man in the photograph<eol>doesn't appear to be<eos>
+<bos>wearing a badge or a uniform.<eos>
+<bos>He's not one of yours? No, sir.<eos>
+<bos>But, like I said, it was a zoo out here.<eos>
+<bos>You say the suspect was shot.<eos>
+<bos>Any explanation why the body<eol>hasn't been recovered?<eos>
+<bos>As you can see, we got<eol>our search ongoing.<eos>
+<bos>Divers down there in shifts.<eos>
+<bos>We're quite certain he will be found.<eos>
+<bos>It's been almost 18 hours, Captain.<eos>
+<bos>Where could the body be?<eos>
+<bos>There are cables and debris<eol>all over the bottom.<eos>
+<bos>It's a painstaking business.<eos>
+<bos>Can I ask what the FBI's<eol>interest in this case would be?<eos>
+<bos>The suspect matches<eos>
+<bos>the description of a federal fugitive.<eos>
+<bos>Really? How's that?<eos>
+<bos>No description of the suspect<eol>has been released.<eos>
+<bos>If you don't mind, can we take a look<eos>
+<bos>at the car, please?<eos>
+<bos>It's been taken to impound.<eos>
+<bos>The report says that the car<eol>was registered<eos>
+<bos>to a rental agency in Gaithersburg.<eos>
+<bos>They had no idea<eol>the car was even missing.<eos>
+<bos>You know, Mulder, I think that<eol>we're wasting our time here.<eos>
+<bos>I don't know what the hell<eol>I'm supposed to find.<eos>
+<bos>You can't make out<eol>the license plate in this photo.<eos>
+<bos>Hey, Scully, look at this.<eos>
+<bos>What?<eos>
+<bos>Look at the car in the photo.<eos>
+<bos>Look at the windshield.<eos>
+<bos>It's not the same car.<eos>
+<bos>It's called a caduceus.<eos>
+<bos>It's sort of the adopted symbol<eos>
+<bos>of the medical profession.<eos>
+<bos>So probably only a doctor<eol>would have that on his car.<eos>
+<bos>Mm-hmm.<eos>
+<bos>I had the picture enhanced,<eol>and the plate is different.<eos>
+<bos>"3 A-Y-F."<eos>
+<bos>Fast-forward.<eos>
+<bos>That's all you can make out;<eol>the rest is obscured.<eos>
+<bos>Hey, Danny, it's Mulder.<eos>
+<bos>I need you to run<eol>a Maryland plate for me.<eos>
+<bos>All I got is a partial.<eos>
+<bos>Registered to a doctor-- or used to be.<eos>
+<bos>Yeah, I'll hold.<eos>
+<bos>They switched cars on us,<eol>Scully, and they lied about it.<eos>
+<bos>Why would they do that?<eos>
+<bos>Maybe the real owner of the car<eol>has got something to hide.<eos>
+<bos>Dr. Berube?<eos>
+<bos>Yes?<eos>
+<bos>We're with the FBI.<eos>
+<bos>Can we have a minute of your time?<eos>
+<bos>I'm actually very busy. I'm sorry.<eos>
+<bos>Are you aware<eol>that a car registered to you<eos>
+<bos>was involved in a high-speed chase<eos>
+<bos>in Ardis yesterday?<eos>
+<bos>Excuse me?<eos>
+<bos>A silver Ciera, Doctor.<eos>
+<bos>Do you own a silver Ciera?<eos>
+<bos>Yes.<eos>
+<bos>It was used for what?<eos>
+<bos>A crime. Were you aware<eol>it was even missing?<eos>
+<bos>Not until you mentioned it.<eos>
+<bos>I have a housekeeper,<eol>and she often uses the car.<eos>
+<bos>It's a second car...<eos>
+<bos>Please!<eos>
+<bos>They should not be excited.<eos>
+<bos>Nothing should be touched.<eos>
+<bos>I'm sorry, I thought they were friendly.<eos>
+<bos>They're part of an experiment.<eos>
+<bos>What kind of experiment?<eos>
+<bos>Am I under some kind of suspicion?<eos>
+<bos>No.<eos>
+<bos>Then I think I've answered<eos>
+<bos>all your questions.<eos>
+<bos>Now if you'll excuse me,<eol>I have more work than time.<eos>
+<bos>Thank you.<eos>
+<bos>Did he bite you?<eos>
+<bos>No, but he tried to.<eos>
+<bos>Well, it's almost 5:00.<eos>
+<bos>We should check with<eol>the doctor's housekeeper<eos>
+<bos>about the car while we're out here.<eos>
+<bos>No.<eos>
+<bos>No? What do you mean, no?<eos>
+<bos>I mean, this has reached<eol>the point of absurdity, Mulder.<eos>
+<bos>We're out here on half a hunch,<eol>off of a cryptic phone call,<eos>
+<bos>chasing down a clue that's based<eol>on nothing but speculation.<eos>
+<bos>Well, that's all we've got.<eos>
+<bos>That's all he's given us.<eos>
+<bos>Who is this Deep Throat character?<eos>
+<bos>I mean, we don't know<eol>anything about him--<eos>
+<bos>what his name is, what he does.<eos>
+<bos>He's in a delicate position.<eos>
+<bos>He has access to information,<eos>
+<bos>and indiscretion could expose him.<eos>
+<bos>You don't know that this isn't<eol>just a game with him.<eos>
+<bos>He's toying with you.<eos>
+<bos>Rationing out the facts.<eos>
+<bos>You think he does it<eol>because he gets off on it?<eos>
+<bos>No. I think he does it because you do.<eos>
+<bos>Calling it a night,<eos>
+<bos>Mr. Mulder?<eos>
+<bos>My mother usually likes me home<eos>
+<bos>before the street lights come on.<eos>
+<bos>I'm surprised at you.<eos>
+<bos>Why?<eos>
+<bos>Your level of commitment<eol>seems to have diminished.<eos>
+<bos>My level of commitment?<eos>
+<bos>I should've expected that you'd<eol>be working through the night<eos>
+<bos>trying to put the pieces together.<eos>
+<bos>Well, maybe if you'd given me<eol>something more to work with.<eos>
+<bos>Under the circumstances,<eol>I've given you all I can.<eos>
+<bos>A news report?<eos>
+<bos>And where has it led you?<eos>
+<bos>Not very far.<eos>
+<bos>It may be further than you realize.<eos>
+<bos>You know, from day one, this<eol>has always been on your terms.<eos>
+<bos>I've gone along, been the dutiful son.<eos>
+<bos>But maybe this time we can just<eol>cut out the Obi-Wan Kenobi crap<eos>
+<bos>and you can save me the trouble.<eos>
+<bos>I fear you've become too dependant on me.<eos>
+<bos>Let me tell you something.<eos>
+<bos>I've got plenty to do without<eol>chasing down your vague leads<eos>
+<bos>or trying to decode your circular logic.<eos>
+<bos>Maybe it's you who's become<eol>too dependant on me--<eos>
+<bos>on my willingness to play your games.<eos>
+<bos>Mr. Mulder?<eos>
+<bos>What?<eos>
+<bos>Don't give up on this one.<eos>
+<bos>Trust me.<eos>
+<bos>You've never been closer.<eos>
+<bos>Closer to what?<eos>
+<bos>Hello?<eos>
+<bos>Who's there?<eos>
+<bos>Working late tonight, Doctor?<eos>
+<bos>What do you want here?<eos>
+<bos>He's alive, isn't he?<eos>
+<bos>Has he contacted you?<eos>
+<bos>Please.<eos>
+<bos>You're going to have to leave.<eos>
+<bos>If you're from the FBI,<eos>
+<bos>I've already answered all your questions!<eos>
+<bos>What questions?<eos>
+<bos>I had nothing to say to them.<eos>
+<bos>I have nothing to say to you.<eos>
+<bos>Where's Dr. Secare?<eos>
+<bos>I don't know what you're talking about.<eos>
+<bos>Please.<eos>
+<bos>My work is very important.<eos>
+<bos>I must get on with my work.<eos>
+<bos>I'm afraid...<eos>
+<bos>your work is done.<eos>
+<bos>Anybody see anything?<eos>
+<bos>No.<eos>
+<bos>Nothing.<eos>
+<bos>That's it, I'm calling it off.<eos>
+<bos>Shore to RC-1,<eos>
+<bos>bring it in.<eos>
+<bos>Visibility...<eos>
+<bos>There's nothing down there-- three days.<eos>
+<bos>Forget it.<eos>
+<bos>The county sheriff's office<eos>
+<bos>is conducting the investigation.<eos>
+<bos>On the preliminary reports,<eos>
+<bos>it's being listed as a suicide.<eos>
+<bos>Suicide?<eos>
+<bos>Yeah, they think that,<eol>for whatever reason,<eos>
+<bos>he trashed his lab<eol>and then killed himself.<eos>
+<bos>How?<eos>
+<bos>Well, it says he tied one end<eol>of a roll of medical gauze<eos>
+<bos>around his neck<eos>
+<bos>and the other end to this gas outlet.<eos>
+<bos>Then he jumped.<eos>
+<bos>I don't suppose there were any witnesses.<eos>
+<bos>Nope.<eos>
+<bos>The man we met yesterday<eos>
+<bos>kept this place like he was<eos>
+<bos>waiting for the people from<eol>Good Housekeeping to show up.<eos>
+<bos>I would never have pegged him<eol>as someone to do this.<eos>
+<bos>Or a Greg Louganis out the window.<eos>
+<bos>I know. That gauze is troubling.<eos>
+<bos>It's a bit too calculated, huh?<eos>
+<bos>Almost as if someone wanted<eol>to make doubly sure<eos>
+<bos>he'd break his neck<eol>before he hit the ground.<eos>
+<bos>What else do we know about Dr. Berube?<eos>
+<bos>Um...<eos>
+<bos>"Terrence Allen Berube.<eos>
+<bos>Harvard Med, 1974."<eos>
+<bos>He was working<eol>on the Human Genome Project.<eos>
+<bos>Are you familiar with that?<eos>
+<bos>Yeah. The mapping of all human genes.<eos>
+<bos>Maybe the most ambitious<eol>scientific endeavor<eos>
+<bos>in the history of mankind.<eos>
+<bos>Right, but there's nothing<eol>extraordinary about that.<eos>
+<bos>I mean, there were<eol>thousands of scientists<eos>
+<bos>working on that project.<eos>
+<bos>Yeah, but only one who owned<eol>a silver Ciera and went<eos>
+<bos>bungee jumping with medical<eol>gauze wrapped around his neck.<eos>
+<bos>I'm sorry, Mulder, I'm seeing the pieces,<eos>
+<bos>but I'm not seeing the connection.<eos>
+<bos>Well, maybe that's just it.<eos>
+<bos>Maybe we're not seeing it because...<eos>
+<bos>it can't be seen, not in any obvious way.<eos>
+<bos>What do you think this is?<eos>
+<bos>I don't know.<eos>
+<bos>Can you find out for me?<eos>
+<bos>What are you gonna do?<eos>
+<bos>I'll see what else I can find out<eos>
+<bos>about Dr. Terrence Allen Berube.<eos>
+<bos>Okay, Mulder, but I'm warning you.<eos>
+<bos>If this is monkey pee,<eol>you're on your own.<eos>
+<bos>Yeah.<eos>
+<bos>My first impression is it's<eol>some kind of bacteria specimen.<eos>
+<bos>Can I ask you where you got it?<eos>
+<bos>It was recovered at a crime scene.<eos>
+<bos>We've come a long way<eos>
+<bos>from Colonel Mustard in the den<eol>with a rope, haven't we?<eos>
+<bos>I'm expecting it'll turn<eol>out to be nothing.<eos>
+<bos>No.<eos>
+<bos>No, you've definitely got something here.<eos>
+<bos>Wow. Look at this.<eos>
+<bos>What are they?<eos>
+<bos>Well, they're the size of bacteria,<eos>
+<bos>but no bacteria I've ever seen.<eos>
+<bos>How do you mean?<eos>
+<bos>Well, most bacteria are<eol>symmetrical and smooth.<eos>
+<bos>These are... I don't know...<eos>
+<bos>strange.<eos>
+<bos>You have no way of identifying them?<eos>
+<bos>Well, we could do a freeze fracture.<eos>
+<bos>Take a thin slice off<eos>
+<bos>and see what's going on<eol>inside these babies.<eos>
+<bos>If you don't mind waiting.<eos>
+<bos>No. No, I'll wait.<eos>
+<bos>Hi, Danny. Yeah, it's Mulder again.<eos>
+<bos>Look, I got a number this time.<eos>
+<bos>555-2804, area code 301.<eos>
+<bos>I need an address,<eol>a name if you can get it for me.<eos>
+<bos>All right. I'm at, uh...<eos>
+<bos>same prefix, 1517.<eos>
+<bos>All right. Thanks, Danny.<eos>
+<bos>That was fast.<eos>
+<bos>Terry, is that you?<eos>
+<bos>Yeah.<eos>
+<bos>Who's this?<eos>
+<bos>They shot me, Terry.<eos>
+<bos>Oh, God.<eos>
+<bos>I've been in the water for three days.<eos>
+<bos>I'm hurt.<eos>
+<bos>Where are you now?<eos>
+<bos>I'm at a pay phone.<eos>
+<bos>I'm gonna pick you up. Where are you?<eos>
+<bos>Terry...<eos>
+<bos>Hello? Hello?<eos>
+<bos>You okay?<eos>
+<bos>Are you there?<eos>
+<bos>Hello?<eos>
+<bos>Hello. This man's been hurt here.<eos>
+<bos>I think he needs medical attention.<eos>
+<bos>What's the street? What's the street?<eos>
+<bos>I'm going to call an ambulance.<eos>
+<bos>Sir?<eos>
+<bos>Don't hang up.<eos>
+<bos>I got it.<eos>
+<bos>Hi, Danny.<eos>
+<bos>Let me get the address.<eos>
+<bos>All right, you ready? Let me just...<eos>
+<bos>Mulder?<eos>
+<bos>I'm just writing it down now. Go ahead.<eos>
+<bos>All right, the number belongs to<eol>a company called Zeus Storage.<eos>
+<bos>1616 Pandora Street.<eos>
+<bos>Yeah. 1616 Pandora Street.<eos>
+<bos>That's it.<eos>
+<bos>All right, thanks.<eos>
+<bos>Okay, we've got<eol>a white male, 40, weak vitals,<eos>
+<bos>with signs of severe<eol>dyspnea and hypotension.<eos>
+<bos>He also what appears to be a green fluid<eos>
+<bos>coming from a wound in<eol>his right upper quadrant.<eos>
+<bos>I don't know what the hell that is.<eos>
+<bos>Is he responding to ventilation?<eos>
+<bos>No, and we're noticing<eol>those rope veins at the neck<eos>
+<bos>and a hypersonant sounding chest.<eos>
+<bos>He's going real blue on us now.<eos>
+<bos>Okay, you've got a tension pneumothorax.<eos>
+<bos>I want you to perform a thoracotomy<eos>
+<bos>and release the pressure in his chest.<eos>
+<bos>Okay, I'm gonna need a cannula.<eos>
+<bos>We're gonna do a needle decompression.<eos>
+<bos>Mobile van, what's going on?<eos>
+<bos>Mobile men, can you hear me?<eos>
+<bos>Mobile men, answer me!<eos>
+<bos>Mobile men, what is the problem?!<eos>
+<bos>Mobile men, come in please!<eos>
+<bos>Mulder.<eos>
+<bos>It's me.<eos>
+<bos>He's alive, Scully.<eos>
+<bos>Who?<eos>
+<bos>The fugitive,<eol>the driver of the silver Ciera.<eos>
+<bos>He called the doctor's house<eol>while I was there.<eos>
+<bos>Where is he now?<eos>
+<bos>I don't know. Where are you?<eos>
+<bos>I'm at the Georgetown<eol>Microbiology Department.<eos>
+<bos>I've got something for you.<eos>
+<bos>Is it smaller than a silver Ciera?<eos>
+<bos>Much.<eos>
+<bos>And it's not silver. It's green.<eos>
+<bos>What is it?<eos>
+<bos>Some kind of bacteria,<eol>each containing virus.<eos>
+<bos>And it looks as if Berube<eol>may have been cloning them.<eos>
+<bos>They also contain something<eol>that looks like chloroplasts--<eos>
+<bos>plant cells.<eos>
+<bos>But they've never seen<eol>anything like it here.<eos>
+<bos>Any idea what he could've<eol>been doing with them?<eos>
+<bos>Well, the only reason why you'd<eol>clone a virus inside a bacteria<eos>
+<bos>is in order to inject it<eol>into something living.<eos>
+<bos>It's called gene therapy,<eos>
+<bos>and it's still highly experimental.<eos>
+<bos>Well, maybe that's what he was<eol>doing with those monkeys.<eos>
+<bos>Can they tell you anything else there?<eos>
+<bos>Yeah, they're just about to run<eol>some primary cell cultures<eos>
+<bos>and a DNA sequence.<eos>
+<bos>Now, I may be understating<eol>the strangeness of this, Mulder.<eos>
+<bos>Bacteria like this--<eos>
+<bos>it may have existed,<eol>but not for millions of years.<eos>
+<bos>Not since before our ancestors<eol>first crawled out of the sea.<eos>
+<bos>Are you there, Mulder?<eos>
+<bos>Mulder?<eos>
+<bos>Yeah.<eos>
+<bos>Scully, keep up the good work.<eos>
+<bos>Agent Scully.<eos>
+<bos>Oh, Dr. Carpenter, I fell asleep.<eos>
+<bos>I've done some work.<eos>
+<bos>These are the DNA sequences<eos>
+<bos>from the bacteria sample you brought in.<eos>
+<bos>You seem to know something<eol>about molecular biology.<eos>
+<bos>You know what you're looking at?<eos>
+<bos>Yeah, I think those are genes.<eos>
+<bos>Right. They're called base pairs.<eos>
+<bos>Each pair is made up of<eol>something called a nucleotide.<eos>
+<bos>Only four nucleotides<eol>exist in DNA-- four.<eos>
+<bos>And through some miracle of design<eos>
+<bos>that we have yet to fathom,<eos>
+<bos>every living thing is created<eos>
+<bos>out of these four basic building blocks.<eos>
+<bos>What you're looking at<eol>is a sequence of genes<eos>
+<bos>from the bacteria sample.<eos>
+<bos>Normally, we'd find no gaps<eol>in the sequence.<eos>
+<bos>But with these bacteria, we do.<eos>
+<bos>Why is that?<eos>
+<bos>I don't know why.<eos>
+<bos>But I tell you,<eol>under any other circumstances,<eos>
+<bos>my first call would have been<eol>to the government.<eos>
+<bos>What exactly did you find?<eos>
+<bos>A fifth and sixth DNA nucleotide--<eos>
+<bos>a new base pair.<eos>
+<bos>Agent Scully, what you are looking at--<eos>
+<bos>it exists nowhere in nature.<eos>
+<bos>It would have to be by definition...<eos>
+<bos>extraterrestrial.<eos>
+<bos>Hello.<eos>
+<bos>Mulder? Where on God's earth<eol>have you been?<eos>
+<bos>I've been trying to call you all night.<eos>
+<bos>I had a situation.<eos>
+<bos>I left my phone in the car.<eos>
+<bos>Mulder...<eos>
+<bos>that bacteria I had analyzed--<eos>
+<bos>they're saying<eol>that it doesn't exist in nature.<eos>
+<bos>They're saying that<eol>it could be extraterrestrial.<eos>
+<bos>Scully...<eos>
+<bos>What?<eos>
+<bos>How soon can you be here?<eos>
+<bos>There's something I got to show you.<eos>
+<bos>Wait a second.<eos>
+<bos>Mulder...<eos>
+<bos>I just want to say that I was wrong.<eos>
+<bos>That's all right. Don't worry about it.<eos>
+<bos>No, um...<eos>
+<bos>if you'd have listened to me,<eol>we wouldn't be here right now.<eos>
+<bos>I should know by now<eol>to trust your instincts.<eos>
+<bos>Why? Nobody else does.<eos>
+<bos>You know, I've always<eos>
+<bos>held science as sacred.<eos>
+<bos>I've always put my trust<eol>in the accepted facts.<eos>
+<bos>And what I saw last night...<eos>
+<bos>for the first time in my life,<eol>I don't know what to believe.<eos>
+<bos>Whatever it is you do believe, Scully,<eos>
+<bos>when you walk into that room...<eos>
+<bos>nothing sacred will hold.<eos>
+<bos>There were tanks here...<eos>
+<bos>and five bodies suspended in solution.<eos>
+<bos>There were computers monitoring them.<eos>
+<bos>They were alive, Scully, underwater.<eos>
+<bos>What happened to them?<eos>
+<bos>God only knows.<eos>
+<bos>Most likely they've been destroyed.<eos>
+<bos>Miss Scully.<eos>
+<bos>I believe we met ever so briefly.<eos>
+<bos>Destroyed by whom?<eos>
+<bos>I don't know.<eos>
+<bos>I don't believe you.<eos>
+<bos>There are limits to my knowledge,<eos>
+<bos>Mr. Mulder.<eos>
+<bos>Inside the intelligence community,<eos>
+<bos>there are so-called black organizations--<eos>
+<bos>groups within groups<eol>conducting covert activities<eos>
+<bos>unknown at the highest levels of power.<eos>
+<bos>There were three men<eol>last night; I was chased.<eos>
+<bos>If you were chased,<eol>you would have been killed.<eos>
+<bos>Those men are trained<eol>for that sort of business,<eos>
+<bos>and they are trained well.<eos>
+<bos>Were those the same men<eol>who killed Dr. Berube?<eos>
+<bos>Presumably.<eos>
+<bos>Why?<eos>
+<bos>Why?<eos>
+<bos>Good Lord.<eos>
+<bos>You've worked so hard<eos>
+<bos>and you still don't see it.<eos>
+<bos>Dr. Berube was conducting<eol>human experiments<eos>
+<bos>with extraterrestrial viruses.<eos>
+<bos>Yes, but that's been going on for years.<eos>
+<bos>We've had the tissue since 1947,<eos>
+<bos>but not the technology.<eos>
+<bos>Roswell?<eos>
+<bos>Roswell was a smoke screen.<eos>
+<bos>We've had a half a dozen<eol>better salvage operations.<eos>
+<bos>Dr. Berube was killed<eos>
+<bos>because his work was too successful.<eos>
+<bos>You're standing in the room<eos>
+<bos>where the first DNA transplant took,<eos>
+<bos>the first human-alien hybrid was created.<eos>
+<bos>Six volunteer patients,<eol>all terminally ill.<eos>
+<bos>One, Dr. William Secare,<eos>
+<bos>an old friend of Dr. Berube's<eol>was dying of melanoma cancer.<eos>
+<bos>And as a result of the E.T. gene therapy,<eos>
+<bos>all six patients treated in this room<eos>
+<bos>began to recover from their illnesses.<eos>
+<bos>Dr. Secare was able to live<eos>
+<bos>a more or less normal life--<eos>
+<bos>as normal as possible<eos>
+<bos>for a man who has developed<eol>inhuman strength<eos>
+<bos>and the ability to breathe underwater.<eos>
+<bos>That's how he was able to elude capture.<eos>
+<bos>What was he running from?<eos>
+<bos>Dr. Secare was never<eol>supposed to have survived.<eos>
+<bos>Dr. Berube's research was<eos>
+<bos>part of a top secret government project<eos>
+<bos>being run out of Los Alamos.<eos>
+<bos>All they were interested in<eol>was the technology, the science.<eos>
+<bos>To have a hybrid<eos>
+<bos>living out in the real world--<eol>too great a liability.<eos>
+<bos>What if he should need<eos>
+<bos>emergency medical procedure?<eos>
+<bos>The man has a blood chemistry<eos>
+<bos>that is alien<eos>
+<bos>and very likely toxic.<eos>
+<bos>That story should hit the press.<eos>
+<bos>It was just easier to kill Dr. Secare.<eos>
+<bos>Of course.<eos>
+<bos>Only one problem:<eol>he was Dr. Berube's old friend.<eos>
+<bos>He was able to warn him.<eos>
+<bos>There's just one thing<eol>I don't understand:<eos>
+<bos>why you gave us so little<eol>to go on in the beginning.<eos>
+<bos>And why are you giving us so much now?<eos>
+<bos>I didn't anticipate<eol>the speed and precision<eos>
+<bos>of their clean-up operation.<eos>
+<bos>They're systematically<eol>destroying all the evidence--<eos>
+<bos>Dr. Berube, the bodies here.<eos>
+<bos>Without the evidence,<eos>
+<bos>you two have no case.<eos>
+<bos>Who would believe the story<eol>I just told you?<eos>
+<bos>You must put together<eol>everything that you have found,<eos>
+<bos>and you must find Dr. Secare<eol>before they do.<eos>
+<bos>I'll have no further contact<eol>with you on this matter.<eos>
+<bos>I'm going to get back to Georgetown<eos>
+<bos>and get all the lab work.<eos>
+<bos>I'm going to find Dr. Secare.<eos>
+<bos>Where?<eos>
+<bos>I don't know.<eos>
+<bos>I'm going to trust my instincts.<eos>
+<bos>Excuse me, I'm looking<eol>for Dr. Ann Carpenter.<eos>
+<bos>I've been unable to reach her by phone,<eos>
+<bos>and she's not in her office.<eos>
+<bos>She was in a terrible car accident--<eos>
+<bos>her whole family.<eos>
+<bos>And Dr. Carpenter is, um, dead.<eos>
+<bos>Dr. Secare?<eos>
+<bos>Wait!<eos>
+<bos>I'll protect you.<eos>
+<bos>Your cellular phone's<eol>been ringing off the hook.<eos>
+<bos>I'm a popular guy.<eos>
+<bos>Why don't you answer it for me?<eos>
+<bos>Oh, I don't like talking on the phone.<eos>
+<bos>I have this thing about unsecured lines.<eos>
+<bos>When you feel like talking,<eol>let me know, though.<eos>
+<bos>He's not home.<eos>
+<bos>Where is he?<eos>
+<bos>He's been gone all night.<eos>
+<bos>I wish I knew.<eos>
+<bos>Something's happened to him.<eos>
+<bos>They won't kill him.<eos>
+<bos>How do you know that?<eos>
+<bos>He's become too high-profile,<eos>
+<bos>and you've got evidence<eol>that could expose them.<eos>
+<bos>I don't have any evidence;<eol>they took the evidence,<eos>
+<bos>and they may have killed<eol>in order to get it.<eos>
+<bos>Listen to me.<eos>
+<bos>Evidence still exists. Where?<eos>
+<bos>It might be difficult to obtain,<eos>
+<bos>but with your medical background,<eos>
+<bos>I might be able to get you inside.<eos>
+<bos>Inside where?<eos>
+<bos>High containment facility,<eos>
+<bos>Fort Marlene, Maryland.<eos>
+<bos>What do they have there?<eos>
+<bos>The wellspring, Miss Scully--<eos>
+<bos>the original tissue.<eos>
+<bos>If they've got Agent Mulder,<eos>
+<bos>they might be willing to make a deal.<eos>
+<bos>It could save his life.<eos>
+<bos>Clear.<eos>
+<bos>Name?<eos>
+<bos>Dana Scully.<eos>
+<bos>Company or institution?<eos>
+<bos>Federal government.<eos>
+<bos>Project password?<eos>
+<bos>Project password?<eos>
+<bos>Purity control.<eos>
+<bos>Log in, please.<eos>
+<bos>You're late.<eos>
+<bos>Do you have it?<eos>
+<bos>Yes.<eos>
+<bos>Good.<eos>
+<bos>They're willing to make the exchange.<eos>
+<bos>You spoke to them?<eos>
+<bos>Yes.<eos>
+<bos>I'll take the parcel.<eos>
+<bos>No, sir.<eos>
+<bos>I'll make the exchange.<eos>
+<bos>I made the deal, Scully.<eos>
+<bos>They're expecting me.<eos>
+<bos>I don't trust you.<eos>
+<bos>You've got no one else to trust.<eos>
+<bos>I don't know who you are.<eos>
+<bos>I know nothing about you.<eos>
+<bos>Oh, for God's sake,<eos>
+<bos>don't screw this up!<eos>
+<bos>Let me tell you something<eol>you should know.<eos>
+<bos>In 1987, a group of children<eol>from a Southern state<eos>
+<bos>were given what their parents thought<eos>
+<bos>was a routine inoculation.<eos>
+<bos>What they were injected with<eos>
+<bos>was a clone DNA from the<eol>contents of that package<eos>
+<bos>you're holding as a test.<eos>
+<bos>That's the kind of people<eol>you're dealing with.<eos>
+<bos>So, why give it back to them?<eos>
+<bos>To save Mulder's life.<eos>
+<bos>At the risk of so many other lives?<eos>
+<bos>It's the tip of the iceberg.<eos>
+<bos>You and Mulder are the only ones<eol>who can bring it to light.<eos>
+<bos>Now, give me the parcel.<eos>
+<bos>Give me the parcel, Scully.<eos>
+<bos>No!<eos>
+<bos>Mulder.<eos>
+<bos>Trust...<eos>
+<bos>no one.<eos>
+<bos>Hello.<eos>
+<bos>Hey, Scully, it's me.<eos>
+<bos>Where are you?<eos>
+<bos>They're shutting us down, Scully.<eos>
+<bos>What?<eos>
+<bos>They called me in tonight,<eos>
+<bos>and they said they're going to<eol>reassign us to other sections.<eos>
+<bos>Who told you that?<eos>
+<bos>Skinner.<eos>
+<bos>He said word came down from the top<eos>
+<bos>of the executive branch.<eos>
+<bos>Mulder...<eos>
+<bos>It's over, Scully.<eos>
+<bos>Well, you have to lodge<eol>a protest. They can't...<eos>
+<bos>Yes, they can.<eos>
+<bos>What are you going to do?<eos>
+<bos>I'm...<eos>
+<bos>...not going to give up.<eos>
+<bos>I can't give up.<eos>
+<bos>Not as long as the truth is out there.<eos>
+<bos>I made this.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

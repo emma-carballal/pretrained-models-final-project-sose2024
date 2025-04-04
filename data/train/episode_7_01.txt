@@ -1,0 +1,515 @@
+<bos>- Hello?<eos>
+<bos>Hello!<eos>
+<bos>Hey, I'm sittin' here, dude!<eos>
+<bos>Sorry. We're closed.<eos>
+<bos>Uh-uh. I was here before<eol>you turned off the light.<eos>
+<bos>Grandfather clause, man.<eos>
+<bos>I need a Super Patty Double<eol>with cheese...<eos>
+<bos>The light was a mistake.<eos>
+<bos>We're closed. Sorry.<eos>
+<bos>The light was on!<eos>
+<bos>How bad do you want this job? 'Cause<eol>I'll call the head office right now!<eos>
+<bos>- Super Patty Double...<eos>
+<bos>with cheese, super size fries,<eol>super size Diet Sprite.<eos>
+<bos>Drive through, please.<eos>
+<bos>What the hell is this?<eos>
+<bos>Customer service, man!<eol>Stop spankin' it and get my food!<eos>
+<bos>Hey in there.<eos>
+<bos>Guy?<eos>
+<bos>You are your own man,<eos>
+<bos>and you control everything you do.<eos>
+<bos>- How ya doin'? - Hey, Rob.<eos>
+<bos>- Hey, Mr. Rice. - How's it going, Rob?<eos>
+<bos>- Have a good one, Lucy. - You too, Rob.<eos>
+<bos>Welcome to Lucky Boy.<eol>May I take your order?<eos>
+<bos>Sir, would you do us a favor<eol>and gather your employees, please?<eos>
+<bos>- What's going on?<eol>- We're investigating a murder.<eos>
+<bos>It's a badge that's only given<eol>to employees. Is that correct?<eos>
+<bos>Yeah. "Free Fer Fridays."<eol>It's our promotion...<eos>
+<bos>where you buy one Super Patty<eol>and get one free.<eos>
+<bos>But look, there's four Lucky Boys<eol>in Costa Mesa alone,<eos>
+<bos>and something like 30 in Orange County.<eos>
+<bos>- Does everybody have their button?<eol>- We only wear them on Fridays.<eos>
+<bos>"Free Fer Fridays."<eos>
+<bos>Yeah, but does everybody<eol>have their button?<eos>
+<bos>Hey, uh, you back there.<eol>What's your name?<eos>
+<bos>Derwood Spinks.<eos>
+<bos>Derwood. Do you have<eol>your button, Derwood?<eos>
+<bos>Uh, no, I must have left it at home,<eos>
+<bos>on account of we're supposed to<eol>only wear 'em on Fridays.<eos>
+<bos>Well, I sure as hell didn't<eol>leave it on no dead guy.<eos>
+<bos>I don't believe that we said<eol>the victim was male.<eos>
+<bos>We're gonna ask everybody<eol>to step outside right now...<eos>
+<bos>His name was Donald Edward Pankow.<eos>
+<bos>Does that ring a bell?<eos>
+<bos>No.<eos>
+<bos>I'm gonna get some cigarettes.<eos>
+<bos>I guess I'd better call<eol>the corporate headquarters...<eos>
+<bos>and find out what they want us to do.<eos>
+<bos>Hey, Scully.<eos>
+<bos>Check it out. You know how they say...<eos>
+<bos>you never wanna see the kitchen<eol>of any of your favorite restaurants?<eos>
+<bos>Somehow, I don't think Lucky Boy<eol>would make that list.<eos>
+<bos>My point being that this is a hell<eol>of a lot cleaner than all the others.<eos>
+<bos>- Don't you think? - I guess.<eos>
+<bos>to cover up evidence? -  Maybe.<eos>
+<bos>Maybe I'm thinking<eol>this was the crime scene.<eos>
+<bos>You're saying Mr. Pankow had his brain...<eos>
+<bos>very neatly removed from his skull<eol>right here in this kitchen?<eos>
+<bos>It had to happen somewhere.<eos>
+<bos>But next to the shake machine, Mulder?<eos>
+<bos>I think that we should be<eol>checking out employee lockers,<eos>
+<bos>and not entertaining the idea that<eol>ad hoc surgery was performed here.<eos>
+<bos>I wouldn't exactly call it "surgery."<eos>
+<bos>What if this man's brain was eaten?<eol>It's not sociologically unheard of.<eos>
+<bos>There are certain tribes in New Guinea<eol>that consider human brains a delicacy.<eos>
+<bos>It's just that...<eos>
+<bos>nothing about the way the body was<eol>dumped suggests a fetishistic killing.<eos>
+<bos>The brain wasn't removed intact.<eos>
+<bos>What if this man's brain<eol>was eaten right out of his skull?<eos>
+<bos>Through an inch and a half opening that<eol>looks like it was cut with a hole saw?<eos>
+<bos>Well, maybe it was cut.<eol>Maybe it was punched.<eos>
+<bos>Like it was made by a...<eos>
+<bos>a tongue, or a proboscis.<eos>
+<bos>The proboscis of what?<eos>
+<bos>I don't know.<eos>
+<bos>Oh. Hello. Look at this.<eos>
+<bos>Does that look like blood to you?<eos>
+<bos>-  Yes, it looks like it.<eol>-  What is that?<eos>
+<bos>Next to it. Is that, uh...<eos>
+<bos>Oh, my... Uh. Is that brain...<eol>Is that brain matter there?<eos>
+<bos>No, I'd say that's ground beef.<eos>
+<bos>-  Ground beef? - Yeah.<eos>
+<bos>Rob Roberts? It's Agent Mulder.<eos>
+<bos>Hello, again.<eol>I'm sorry to bother you at home.<eos>
+<bos>- No. No bother. - Can I come in?<eos>
+<bos>- Yeah, s-sure. Sure. - Great. Great.<eos>
+<bos>Uh, what... what can I do for you?<eos>
+<bos>- You live here alone?<eol>- Yeah, it's just me.<eos>
+<bos>- Mom or girlfriend? - What?<eos>
+<bos>Come on, man. Who cleans up after you?<eos>
+<bos>Neither. It's just me.<eol>I-I live here alone.<eos>
+<bos>Well, bravo. You know, they say single<eol>guys are just bears who own furniture.<eos>
+<bos>I mean, my place, it's...<eos>
+<bos>But here, you can smell the Pine Sol.<eos>
+<bos>Yeah, a cheeseburger<eol>and a large order of fries.<eos>
+<bos>It's a bad joke. I'm sorry.<eos>
+<bos>Um, Mr. Rice, your manager,<eos>
+<bos>he told me that, uh,<eol>you stayed late on Friday.<eos>
+<bos>- Is that right?<eol>- Uh, yeah, sure. Friday.<eos>
+<bos>The freezer had died on us.<eos>
+<bos>I stayed after to throw out<eol>the meat that was goin' bad.<eos>
+<bos>- Yeah, did you volunteer to close?<eol>- Yeah.<eos>
+<bos>Yeah, okay. You volunteered.<eos>
+<bos>Volunteered.<eos>
+<bos>Um...<eos>
+<bos>The, uh... The 35 pounds<eol>of ground chuck...<eos>
+<bos>that Mr. Rice told you to throw away...<eol>what did you do with that?<eos>
+<bos>- I threw it out. - Where?<eos>
+<bos>In the Dumpster... behind the restaurant.<eos>
+<bos>Hmm. That's weird.<eos>
+<bos>That's what I figured you did, so I<eol>checked the Dumpster, and it was empty.<eos>
+<bos>Which is weird because<eol>it only gets cleaned out on Thursday,<eos>
+<bos>and you would've thrown away<eol>the meat on Friday.<eos>
+<bos>So you'd expect the meat<eol>to be there, right?<eos>
+<bos>I don't see how that's relevant<eol>to this murder case anyway.<eos>
+<bos>Let me see if there's anything else<eol>I wanted to ask you.<eos>
+<bos>Blood.<eos>
+<bos>You're-You're bleeding.<eos>
+<bos>I-I bit my lip.<eos>
+<bos>Hmm.<eos>
+<bos>I think that just about<eol>wraps it up for me here, actually.<eos>
+<bos>Oh, hey, I, uh... I hope<eol>you catch the guy, huh?<eos>
+<bos>No, I already got<eol>a pretty good idea who it is.<eos>
+<bos>Thanks.<eos>
+<bos>- What do you want? - N-Nothing.<eos>
+<bos>So take a hike.<eos>
+<bos>Uh, hi.<eol>This is a message for Rob Roberts.<eos>
+<bos>My name is Dr. Mindy Reinhart,<eos>
+<bos>and I'm a licensed<eol>mental health counselor...<eos>
+<bos>with the Lucky Boy Corporation's<eol>Employee Assistance Program.<eos>
+<bos>I'm talking to all of<eol>the employees at your restaurant...<eos>
+<bos>about the recent unpleasantness<eol>that occurred there.<eos>
+<bos>Rob, I'd love for you to come down to my<eol>office at 11:00 a.m. tomorrow morning.<eos>
+<bos>As it is a requirement of your<eol>employer's insurance provider,<eos>
+<bos>this meeting is mandatory.<eos>
+<bos>I'm in the Irvine Medical Park,<eol>suite 308.<eos>
+<bos>- Have a good evening.<eos>
+<bos>Self-discipline.<eol>That's the name of this game.<eos>
+<bos>That's the one thing<eol>that separates us from the animals,<eos>
+<bos>provided you have it.<eos>
+<bos>So where do you get it?<eol>You can't go down...<eos>
+<bos>to the local convenience store<eol>and buy self-discipline.<eos>
+<bos>You can't order it over the internet.<eol>So where does it come from?<eos>
+<bos>True story. I used to weigh 356 pounds.<eos>
+<bos>Do you believe that? Well, it's true.<eos>
+<bos>I lived to eat, ladies and gentlemen.<eos>
+<bos>My entire life revolved around eating,<eol>because I was always hungry.<eos>
+<bos>My appetite was controlling me.<eos>
+<bos>Four-star restaurants, Denny's...<eol>It didn't matter, and it didn't stop.<eos>
+<bos>It didn't stop until<eol>I took charge of my own life.<eos>
+<bos>It didn't stop until I put on<eol>the brakes and I said, "Whoa!"<eos>
+<bos>Ricardo, you are your own man,<eos>
+<bos>and you control everything that you do.<eos>
+<bos>Oh, brother. What?<eos>
+<bos>What... Derwood.<eos>
+<bos>How did you get in here?<eos>
+<bos>It's a little skill I picked up in Chino.<eos>
+<bos>I did a nickel for attempted murder.<eos>
+<bos>You didn't know I was an ex-con?<eos>
+<bos>Yeah, nobody at work did.<eos>
+<bos>Not until this F.B.I.<eol>murder investigation...<eos>
+<bos>whipped everybody up into a froth.<eos>
+<bos>Derwood, what can I do for you?<eos>
+<bos>You know I got fired last night?<eos>
+<bos>Stupid little pissant job,<eos>
+<bos>where they make you wear a paper hat.<eos>
+<bos>And they fired me.<eol>Plus, as far as that, uh,<eos>
+<bos>redheaded F.B. I agent's concerned,<eos>
+<bos>I'm the prime suspect in this murder.<eos>
+<bos>But that's no skin off my nose,<eol>seeing as you did it.<eos>
+<bos>Diet pills.<eos>
+<bos>Yours, right?<eos>
+<bos>See, I found 'em when<eol>I opened up on Saturday morning.<eos>
+<bos>I didn't give 'em back because<eol>I figured, hey, free speed, right?<eos>
+<bos>But then there's this<eol>whole flap about a murder,<eos>
+<bos>and I noticed this.<eos>
+<bos>That ain't ketchup, man.<eos>
+<bos>What-What do you want, Derwood?<eos>
+<bos>I don't know. What do you got?<eos>
+<bos>TV, VCR.<eos>
+<bos>Nah, it's all crappy, off-brand stuff.<eos>
+<bos>But, you know, I'll take that,<eol>and whatever money you got in the bank,<eos>
+<bos>and you get this,<eol>and I keep my mouth shut.<eos>
+<bos>And just maybe you can blow town...<eos>
+<bos>before the long arm of the law<eol>reaches out and grabs you by the gonads.<eos>
+<bos>Maybe not.<eos>
+<bos>Cup 'em.<eos>
+<bos>Uh... Hi.<eos>
+<bos>Uh, Rob?<eos>
+<bos>I hate to bother you, but last night<eol>in the front of the building,<eos>
+<bos>there was a man<eol>in a parked car for hours.<eos>
+<bos>Did you happen to see him?<eol>It was a maroon car.<eos>
+<bos>He was pretty clean-cut,<eol>so I didn't call the police.<eos>
+<bos>But he was still there<eol>when I went to bed.<eos>
+<bos>Gee, Sylvia, I don't know<eol>what to tell you.<eos>
+<bos>- You got it. - Thanks.<eos>
+<bos>- So I'll call you tonight<eol>and let you know...<eos>
+<bos>where to drop off my new VCR.<eos>
+<bos>Oh. And don't try skipping town.<eos>
+<bos>You won't get too far.<eos>
+<bos>Hey, just the man I wanted to see.<eos>
+<bos>How are you this morning, Rob?<eos>
+<bos>- Fine. - Yeah. I'm glad I caught you.<eos>
+<bos>Oh, hey, I was just<eol>driving to your apartment,<eos>
+<bos>and I saw Derwood Spinks<eol>not a block from here.<eos>
+<bos>Good. I'd stay away from him. He's<eol>our prime suspect in the Pankow murder.<eos>
+<bos>- You think he did it?<eol>- Me? No. No, I should say...<eos>
+<bos>that's the opinion of the<eol>Costa Mesa Police, and my partner.<eos>
+<bos>So he's not your guy?<eos>
+<bos>No. No, I think we're looking for<eol>somebody who has a compulsion to kill.<eos>
+<bos>Truly can't help himself.<eos>
+<bos>Oh, quick question. The, uh... The meat<eol>that you threw in the Dumpster?<eos>
+<bos>- What about it?<eol>- The Dumpster had a padlock.<eos>
+<bos>- Yeah. - Who would have the key?<eos>
+<bos>We do,<eos>
+<bos>and the trucking company does.<eos>
+<bos>Hey, wait. What's your point?<eos>
+<bos>I'm just tying up some loose ends.<eos>
+<bos>Good, you got my message,<eol>Rob. I appreciate your coming.<eos>
+<bos>This will be really informal.<eol>Here you go.<eos>
+<bos>I wanna run through some things with you.<eos>
+<bos>just go ahead and blurt it out, okay?<eos>
+<bos>Hasn't been a run-of-the-mill week<eol>so far, has it?<eos>
+<bos>No.<eos>
+<bos>The police have been at the restaurant,<eol>and the F.B.I.<eos>
+<bos>I'm sure this has been<eol>a very stressful time for you.<eos>
+<bos>Pretty much.<eos>
+<bos>So we wanna keep on top<eol>of any potential problems...<eos>
+<bos>that these stresses might cause for you.<eos>
+<bos>- So let's run through some<eol>standard questions together.<eos>
+<bos>Rob, have you been troubled<eol>recently by insomnia?<eos>
+<bos>- Bad dreams? Nightmares?<eos>
+<bos>Have you felt emotionally numb?<eos>
+<bos>Have you felt emotionally numb?<eos>
+<bos>Do you ever see things<eol>that aren't there, or hear voices?<eos>
+<bos>- Tell me, Rob, do you feel... - This...<eos>
+<bos>This murder... This murder that happened?<eos>
+<bos>Yes?<eos>
+<bos>What kind of a monster<eol>would do something like that?<eos>
+<bos>I don't believe in monsters.<eos>
+<bos>But I do believe in people.<eos>
+<bos>And sometimes, they do terrible things...<eos>
+<bos>out of weakness or sickness or fear.<eos>
+<bos>But I do truly believe<eol>that deep down inside,<eos>
+<bos>even the worst of us wants to be good.<eos>
+<bos>Rob, is there anything that's troubling<eol>you that you'd like to talk about?<eos>
+<bos>I'm sorry.<eol>I thought I put that on voice mail.<eos>
+<bos>Mindy Reinhart.<eos>
+<bos>Yes, Agent Mulder. What can I do for you?<eos>
+<bos>No, I'm afraid I can't do that.<eos>
+<bos>I'm sorry, but it would violate<eol>patient confidentiality.<eos>
+<bos>I, uh...<eos>
+<bos>Excuse me, Agent... Rob?<eos>
+<bos>Yeah? I have to go to work now.<eos>
+<bos>Would you please call me later<eol>so that we can finish our talk?<eos>
+<bos>You shouldn't be here, Derwood.<eol>We would've mailed you your last check.<eos>
+<bos>Just give me my money, Rice.<eos>
+<bos>How you doin', killer?<eos>
+<bos>You better have some money<eol>for me too, huh?<eos>
+<bos>There. Now please leave.<eos>
+<bos>With pleasure, pal.<eos>
+<bos>Oh, I ought to just make happy hour.<eos>
+<bos>Since this is farewell,<eol>when nobody was looking,<eos>
+<bos>I used to dip my boys in the coleslaw.<eos>
+<bos>- Ew! - Ew!<eos>
+<bos>Bon appétit.<eos>
+<bos>If somebody's still in here,<eol>you're in a world of hurt!<eos>
+<bos>Rob?<eos>
+<bos>You lookin' for these?<eos>
+<bos>The deal's off, buddy.<eos>
+<bos>You know that guy you iced, Pankow?<eos>
+<bos>I just heard he didn't have<eol>a brain in his head.<eos>
+<bos>You're one sick little freak, man.<eos>
+<bos>You got a lot of problems.<eos>
+<bos>If I were the F.B.I.,<eos>
+<bos>I'd want you real bad.<eos>
+<bos>Public enemy number one and all that.<eos>
+<bos>Lots of reward money.<eos>
+<bos>So I'm gonna turn you in myself,<eos>
+<bos>"lucky boy. "<eos>
+<bos>- Rob. - Hi.<eos>
+<bos>You said we should finish talking.<eos>
+<bos>Come in.<eos>
+<bos>- I think I need help.<eol>- Tell me why you think that.<eos>
+<bos>I have compulsions to eat.<eos>
+<bos>I-I get hungry. And I try to<eol>put it off for as long as I can,<eos>
+<bos>but then finally, I just... I get so<eol>hungry that I can't help myself, and...<eos>
+<bos>You binge, then purge?<eos>
+<bos>You eat too much,<eol>and then cause yourself to vomit?<eos>
+<bos>No. I just eat.<eos>
+<bos>But this makes you feel bad.<eos>
+<bos>I guess it makes me feel<eol>like I'm not a good person.<eos>
+<bos>Rob, there are so many<eol>different kinds of eating disorders.<eos>
+<bos>Men and women from every walk<eol>of life suffer from them.<eos>
+<bos>But if there's one thing that they all<eol>have in common, it's low self-esteem.<eos>
+<bos>And it's a shame because low self-esteem<eol>can be like a fun house mirror.<eos>
+<bos>It reflects back<eol>a warped and ugly image of ourselves.<eos>
+<bos>What do you think Cindy Crawford would<eol>look like in a fun house mirror?<eos>
+<bos>Uh, weird?<eos>
+<bos>How would, say, PeterJennings<eol>look in a fun house mirror?<eos>
+<bos>- Ugly. - And how do you look...<eos>
+<bos>in this mirror?<eos>
+<bos>Do you think that looks<eol>like a bad person?<eos>
+<bos>An unworthy person?<eol>I'll tell you what I see.<eos>
+<bos>I see a nice smile.<eos>
+<bos>I see soulful brown eyes.<eos>
+<bos>I see good.<eos>
+<bos>Now, Rob, I want you<eol>to keep looking into this mirror...<eos>
+<bos>until you see the same things that I do.<eos>
+<bos>There's a meeting that<eol>I'd like you to attend tonight.<eos>
+<bos>It's every Monday, Wednesday and Friday.<eos>
+<bos>Now, you can talk to me anytime you want.<eos>
+<bos>But these people are the best.<eol>They can really help you.<eos>
+<bos>- I have to go. - You always hurry away.<eos>
+<bos>I appreciate it,<eos>
+<bos>and I want you to understand...<eos>
+<bos>that I really am trying to do right.<eos>
+<bos>He's upstairs. I told him all about<eol>that strange man in the maroon car,<eos>
+<bos>and he said he'd look into it.<eos>
+<bos>Afternoon, Rob.<eos>
+<bos>Sir, may we speak with you?<eos>
+<bos>Derwood Spinks has disappeared.<eos>
+<bos>His car is gone,<eol>along with some personal belongings.<eos>
+<bos>My partner saw Spinks in your<eol>neighborhood yesterday morning.<eos>
+<bos>At that time, you told Agent Mulder<eol>that you hadn't seen Mr. Spinks.<eos>
+<bos>Is that correct?<eos>
+<bos>I don't even know him that well.<eos>
+<bos>If he was going to leave town,<eol>he wouldn't come tell me about it.<eos>
+<bos>Who said he left town?<eos>
+<bos>I don't know. Isn't that<eol>what you think happened?<eos>
+<bos>No, no. Uh, personally,<eol>I think he's dead.<eos>
+<bos>I can't speak for my partner,<eol>but I think that whatever it was...<eos>
+<bos>that killed Donald Pankow<eol>also got to Mr. Derwood Spinks.<eos>
+<bos>What do... What do you mean,<eol>whatever it was?<eos>
+<bos>Well, I'll let you in on a little secret.<eos>
+<bos>We've been able to keep it<eol>pretty quiet up until now,<eos>
+<bos>but Donald Pankow's brain<eol>was missing from his skull.<eos>
+<bos>My partner was able to find something<eol>that was previously undetected.<eos>
+<bos>It was the tip of what<eol>could only be described...<eos>
+<bos>as a tiny shark's tooth<eol>embedded deep in the bone.<eos>
+<bos>I think we're looking for<eol>some kind of genetic freak...<eos>
+<bos>a carnivorous predator<eol>as yet unidentified.<eos>
+<bos>A monster, if you will.<eos>
+<bos>There's no such thing.<eos>
+<bos>Well, don't you believe it.<eol>This thing definitely qualifies.<eos>
+<bos>It has a biological imperative to eat.<eos>
+<bos>I think it even ate<eol>that ground chuck you threw away.<eos>
+<bos>Yeah? Why?<eos>
+<bos>Because it can't kill with impunity,<eol>and it knows it.<eos>
+<bos>But the hunger is always there,<eos>
+<bos>and it satisfies it anyway it can.<eos>
+<bos>I'm-I'm sorry,<eos>
+<bos>but this is like good cop, insane cop.<eos>
+<bos>Why are you telling me all of this?<eos>
+<bos>I think you know why.<eos>
+<bos>Thank you, Mr. Roberts.<eos>
+<bos>We'll contact you<eol>if we have any further questions.<eos>
+<bos>Watch out for that monster.<eos>
+<bos>Devil's food,<eol>with the white sugar frosting.<eos>
+<bos>And it is, like, "Deliver me from evil. "<eos>
+<bos>Come on in.<eos>
+<bos>Come on. So,<eos>
+<bos>I baked three dozen of these...<eos>
+<bos>for my daughter's school fund-raiser.<eos>
+<bos>And at 3:00 in the morning<eol>the night before there they are,<eos>
+<bos>all three dozen of'em,<eos>
+<bos>lined up and calling to me.<eos>
+<bos>- Well, you know, in the past,<eos>
+<bos>Small world, huh?<eos>
+<bos>Is this your first time at a meeting?<eos>
+<bos>- Yeah.<eos>
+<bos>Does anybody else have anything<eol>they want to share?<eos>
+<bos>Do you feel up to introducing yourself?<eol>Everybody's really nice.<eos>
+<bos>- Anyone?<eol>- Don't be scared. It helped me.<eos>
+<bos>Uh, hi.<eos>
+<bos>My name is Robert Roberts.<eos>
+<bos>People... People call me Rob.<eos>
+<bos>Hi, Rob!<eos>
+<bos>I-I have an eating disorder.<eos>
+<bos>I'm definitely a meat eater,<eos>
+<bos>not a vegetarian.<eos>
+<bos>I've always had these cravings...<eol>my whole life.<eos>
+<bos>And just-just recently,<eos>
+<bos>the last month or so,<eos>
+<bos>they've just become<eol>too powerful to resist.<eos>
+<bos>Tell us about it.<eos>
+<bos>I guess it's the taste<eol>I respond to the most.<eos>
+<bos>Salty and... juicy.<eos>
+<bos>Kind of buttery.<eos>
+<bos>- The texture of it<eol>inside of your mouth...<eos>
+<bos>You know, your teeth just sink into it...<eos>
+<bos>like this juicy cloud.<eos>
+<bos>And it tastes so good.<eos>
+<bos>You know, you don't even<eol>wanna swallow it.<eos>
+<bos>You just wanna work it<eol>around your taste buds...<eos>
+<bos>until your eyes roll<eol>right back into your head.<eos>
+<bos>Do you remember when I first came here?<eos>
+<bos>Anyway, it's a real problem.<eos>
+<bos>Wait. Your ex-husband did what?<eos>
+<bos>He said I was too fat<eol>to ride in his sports car...<eos>
+<bos>that I'd just mess up the springs.<eos>
+<bos>So I sat on the hood and I bounced.<eos>
+<bos>And I didn't stop<eol>until the police showed up.<eos>
+<bos>They sided with me.<eos>
+<bos>Hey, thank you, Sylvia.<eos>
+<bos>Good night, Rob.<eos>
+<bos>Good night, Sylvia.<eos>
+<bos>I'll be right there.<eos>
+<bos>What the hell is going on?<eos>
+<bos>Oh, my God! Call the police!<eos>
+<bos>Everything okay?<eos>
+<bos>Mr. Derwood Spinks, alive and well.<eos>
+<bos>You know what, folks? Why don't we<eol>go outside and talk about it there.<eos>
+<bos>I'm confused, Rob.<eos>
+<bos>Was he helping you redecorate?<eos>
+<bos>- I lied to you before. - About what?<eos>
+<bos>Derwood was...<eos>
+<bos>was coming from my place<eol>the morning you saw him.<eos>
+<bos>He said if I spoke to you, he'd kill me.<eos>
+<bos>What didn't he want you to tell us?<eos>
+<bos>Last Friday night,<eos>
+<bos>he hung out while I was<eol>cleaning out the freezer.<eos>
+<bos>He told me to go home,<eol>said he'd finish up.<eos>
+<bos>You know, I... I didn't know why<eol>the hell he was being so nice to me.<eos>
+<bos>But when I got home,<eos>
+<bos>I realized I had the key to the Dumpster.<eos>
+<bos>And when I drove back,<eos>
+<bos>I saw him cleaning up all this blood.<eos>
+<bos>You must have been very scared.<eos>
+<bos>I was, but you know, I should have<eol>told the truth from the start.<eos>
+<bos>Do you recognize this guy?<eos>
+<bos>- No. - Hmm.<eos>
+<bos>He's a private eye.<eol>Sylvia Jassie's ex-husband...<eos>
+<bos>hired him to spy on her.<eos>
+<bos>But now this Steve Kiziak<eol>is gone missing.<eos>
+<bos>He was last seen<eol>parked outside your apartment.<eos>
+<bos>You didn't notice him?<eos>
+<bos>No, I-I didn't... notice anything.<eos>
+<bos>Well, maybe we should check<eol>with Sylvia again.<eos>
+<bos>I don't... I don't think she's home.<eos>
+<bos>Ah, well, we'll track her down.<eos>
+<bos>Don't worry, Rob. It won't be long now.<eos>
+<bos>Oh, my God.<eos>
+<bos>Rob? What happened?<eos>
+<bos>It's a long story.<eos>
+<bos>What do... What do you want?<eos>
+<bos>I, uh... I was in the neighborhood,<eol>and I thought I'd say hi.<eos>
+<bos>- Hi. - Rob, are you all right?<eos>
+<bos>Did you do this?<eos>
+<bos>No! Derwood Spinks did this.<eos>
+<bos>You know, he's the one who...<eos>
+<bos>Like I said, it's a long story.<eos>
+<bos>Where are you going?<eos>
+<bos>To a friend's house.<eos>
+<bos>I have to leave, actually, as in now.<eos>
+<bos>Are you sure you're all right?<eol>You're not feeling...<eos>
+<bos>Yes, absolutely. I'm-I'm fine, you know?<eos>
+<bos>It's just that when you came<eol>to see me yesterday,<eos>
+<bos>I sensed that there were things that<eol>you wanted to talk about, but couldn't.<eos>
+<bos>That was yesterday.<eos>
+<bos>Well, can we talk about them now?<eos>
+<bos>Look, let me stop you right there, okay?<eos>
+<bos>You don't have to worry about me anymore.<eos>
+<bos>As of... As of 10:38 a.m.,<eos>
+<bos>I am no longer employed by<eol>the Lucky Boy Corporation.<eos>
+<bos>- I quit. - Rob.<eos>
+<bos>I'm here as a friend.<eos>
+<bos>Well, then, consider me cured.<eos>
+<bos>I had a breakthrough last night.<eos>
+<bos>- Did you attend the O.A. meeting?<eol>- Yeah.<eos>
+<bos>I'm sorry you felt that way.<eos>
+<bos>So they're a bunch of fat people.<eos>
+<bos>So what? M-M-Maybe they, got, uh,<eos>
+<bos>what you would call<eol>a biological imperative...<eos>
+<bos>to eat too much.<eos>
+<bos>Did you ever think of that? Did you?<eos>
+<bos>You know, maybe I've got<eol>a biological imperative too.<eos>
+<bos>So why is that such a bad thing?<eos>
+<bos>Like, the world's gonna end?<eol>That is biology.<eos>
+<bos>You can't fight biology. You can't.<eos>
+<bos>And I am sick and tired...<eos>
+<bos>of pretending that<eol>I'm something that I'm not.<eos>
+<bos>You killed that man, didn't you?<eos>
+<bos>What did you just say?<eos>
+<bos>That's why you feel so guilty, isn't it?<eos>
+<bos>Can you tell me why you did it?<eos>
+<bos>- Who have you been talking to? - No one.<eos>
+<bos>I realized it after our last session.<eos>
+<bos>- You spoke to the F.B.I., didn't you?<eol>- I haven't spoken to anyone.<eos>
+<bos>And I won't without your permission,<eol>but I am here...<eos>
+<bos>- To ask you to turn yourself in.<eos>
+<bos>I want you to get the help that you need.<eos>
+<bos>- You don't know what the hell<eol>you're talking about.<eos>
+<bos>Yes, I do, Rob.<eos>
+<bos>No, you don't!<eos>
+<bos>You said...<eos>
+<bos>you don't believe in monsters.<eos>
+<bos>Right?<eos>
+<bos>How about...<eos>
+<bos>now?<eos>
+<bos>How about...<eos>
+<bos>now?<eos>
+<bos>Do you believe... in monsters?<eos>
+<bos>You poor man.<eos>
+<bos>What you must go through.<eos>
+<bos>- Oh, my God. - Step away, Rob.<eos>
+<bos>- Step away.<eol>- Dr. Reinhart, step away from him.<eos>
+<bos>You just can't stop yourself, can you?<eos>
+<bos>Get on the floor.<eos>
+<bos>Rob, get on the floor!<eos>
+<bos>Rob.<eos>
+<bos>Be that good person<eol>I know you mean to be.<eos>
+<bos>Why?<eos>
+<bos>I can't be something I'm not.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

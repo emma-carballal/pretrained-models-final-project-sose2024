@@ -1,0 +1,473 @@
+<bos>Sra. Holland, soy la enfermera Waite.<eos>
+<bos>Asistiré en su procedimiento.<eos>
+<bos>¿Me va a doler?<eos>
+<bos>No sentirá nada. Ni saldrá sangre.<eol>" Unidad de Cirugía Plástica"<eos>
+<bos>El Dr. Lloyd ha realizado más<eol>de mil procedimientos de liposucción.<eos>
+<bos>Está en buenas manos.<eos>
+<bos>Aquí vamos.<eos>
+<bos>Le voy a dar un tranquilizante<eol>y justo antes de la operación...<eos>
+<bos>el doctor le inyectará<eol>una solución salina y anestesia.<eos>
+<bos>Lo único por lo que tendrá<eol>que preocuparse es comprar ropa nueva.<eos>
+<bos>Su paciente de liposucción está<eol>preparada y esperándolo en la sala 5.<eos>
+<bos>Bien. ¿Qué otra cosa tengo en mi horario?<eos>
+<bos>Una reducción de cuero cabelludo<eol>y una blefaroplastia.<eos>
+<bos>¿ Ya están preparados?<eos>
+<bos>- No. ¿Quiere que--?<eol>- Prepárelos, por favor.<eos>
+<bos>Quiero avanzar lo más posible<eol>esta mañana.<eos>
+<bos>Sí, doctor.<eos>
+<bos>¿Cómo se siente?<eos>
+<bos>¿Tardará mucho más el doctor?<eos>
+<bos>Se me están pasando los efectos<eol>del tranquilizante.<eos>
+<bos>Lo siento. No sé dónde--<eos>
+<bos>¡Dr. Lloyd!<eos>
+<bos>Creo que he terminado con este paciente.<eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>¿De qué otra forma se le llama...<eos>
+<bos>cuando uno está en su cuerpo<eol>y fuera de él al mismo tiempo...<eos>
+<bos>sin tener la habilidad<eol>de controlar sus acciones?<eos>
+<bos>¿Sin poder evitar hacer<eol>lo que le hice a ese pobre hombre?<eos>
+<bos>¿De qué otra forma se le llama?<eos>
+<bos>Posesión de los espíritus<eol>o posesión demoníaca.<eos>
+<bos>Estados mentales extraordinarios<eol>han sido documentados en la historia...<eos>
+<bos>pero han sido difamados,<eol>correcta o incorrectamente...<eos>
+<bos>y no se han defendido bien<eol>en el tribunal como defensa criminal.<eos>
+<bos>Quiero reiterar que le aconsejé<eol>a mi cliente que no hablara con Ud.<eos>
+<bos>Le agradecería que dirigiera<eol>cualquier discusión legal...<eos>
+<bos>a los abogados.<eos>
+<bos>Dr. Lloyd, ¿está tomando<eol>alguna clase de medicamento?<eos>
+<bos>A veces una píldora para dormir y<eol>un antiácido recetado para mi estómago.<eos>
+<bos>¿Me permite ver las dosis y cuáles son?<eos>
+<bos>No, yo realmente...<eos>
+<bos>quisiera saber por qué, ya que--<eos>
+<bos>Creo que tienen muy clara<eol>la historia de mi cliente...<eos>
+<bos>y el hecho de que está dispuesto<eol>a cooperar con su investigación.<eos>
+<bos>Sí, creo que así es.<eos>
+<bos>Dr. Lloyd, dice que ha tomado<eol>píldoras para dormir.<eos>
+<bos>¿Cuánto durmió la noche anterior?<eos>
+<bos>No-- No lo recuerdo.<eos>
+<bos>" Emergencias"<eol>" Hospital Greenwood Memorial"<eos>
+<bos>El somnífero que estaba tomando<eol>se llama Somanil.<eos>
+<bos>He oído hablar de él.<eos>
+<bos>Es popular porque afecta directamente<eol>el sistema nervioso central...<eos>
+<bos>y no queda almacenado en el tejido<eol>corporal después de hacer efecto.<eos>
+<bos>Pero también es muy problemático<eol>porque es adictivo...<eos>
+<bos>y afecta la conducta a largo plazo.<eos>
+<bos>¿Qué fecha tiene<eol>el medicamento del Dr. Lloyd?<eos>
+<bos>Empezó a tomar esa droga hace 5 años.<eos>
+<bos>Y ha tomado-- Mucha.<eos>
+<bos>19 frascos de 100 píldoras cada uno.<eos>
+<bos>- Eso es más de una píldora al día.<eol>- En otras palabras, una adicción.<eos>
+<bos>Una adicción que pudo haber alterado<eol>su habilidad de hacer su trabajo.<eos>
+<bos>¿Cuántos procedimientos de éstos<eol>habrá efectuado el Dr. Lloyd?<eos>
+<bos>Juzgando por su horario<eol>el día del accidente...<eos>
+<bos>cientos, probablemente miles.<eos>
+<bos>Y ni una sola persona falleció.<eos>
+<bos>No me estás entendiendo, Mulder.<eol>Este lugar es una verdadera fábrica.<eos>
+<bos>La cirugía plástica es la industria<eol>en auge en el mundo de la medicina.<eos>
+<bos>Y las unidades de cirugía estética,<eol>como ésta, son una mina de oro.<eos>
+<bos>Todo el mundo lo hace.<eos>
+<bos>Un establecimiento moderno como éste<eol>puede mantener a todo un hospital.<eos>
+<bos>¿Qué crees que sean éstas?<eos>
+<bos>- ¿Qué? - Estas cinco marcas...<eos>
+<bos>en este piso nuevo flamante.<eos>
+<bos>Parece que fueron hechas...<eos>
+<bos>por las ruedas de una mesa de sala<eol>de operaciones o alguna clase de equipo.<eos>
+<bos>A mí me parece que fueron quemadas<eol>o chamuscadas.<eos>
+<bos>La forma de un pentagrama.<eos>
+<bos>Mulder, si quieres conectar los puntos,<eol>debes estudiar los hechos.<eos>
+<bos>Las muertes yatrogénicas, o muertes<eol>causadas por errores del médico...<eos>
+<bos>son más de 80,000 al año.<eos>
+<bos>El Dr. Lloyd excedió sus límites.<eol>Era un accidente a punto de ocurrir.<eos>
+<bos>No soy doctor, Scully, pero<eol>el asunto tiene que ser muy grave...<eos>
+<bos>para confundir una barriga gorda<eol>con una cabeza calva.<eos>
+<bos>Para no mencionar la puerta número tres.<eos>
+<bos>Es asombroso que nadie lo vio<eol>a tiempo para detenerlo.<eos>
+<bos>Tal vez todos estaban poseídos.<eos>
+<bos>No, no creo que esto sea<eol>sólo una simple posesión.<eos>
+<bos>Creo que es más bien hechicería,<eol>magia negra o algo así.<eos>
+<bos>Disculpe, ¿qué clase<eol>de procedimiento es ése?<eos>
+<bos>Una rinoplastia. Perdone, ¿quiénes son?<eos>
+<bos>Somos del FBI. Yo soy la agente Scully<eol>y él es el agente Mulder.<eos>
+<bos>Estamos investigando<eol>la muerte de un paciente.<eos>
+<bos>Ah, sí.<eos>
+<bos>Usted es Rebecca Waite,<eol>la enfermera asistente. ¿Correcto?<eos>
+<bos>Sí.<eos>
+<bos>¿Podría explicarme<eol>qué ocurrió con el Dr. Lloyd?<eos>
+<bos>¿Cómo pudo cometerse un error así?<eos>
+<bos>No, realmente no puedo.<eos>
+<bos>Yo no estaba en la sala de operaciones,<eol>en ese momento y...<eos>
+<bos>es difícil para mí en mi posición.<eos>
+<bos>¿Observó al Dr. Lloyd<eol>antes del accidente?<eos>
+<bos>Ayudé a preparar al paciente.<eol>Eso tenía que hacer.<eos>
+<bos>Cumplí con mi deber como enfermera.<eos>
+<bos>¿Sabía que el Dr. Lloyd afirma<eol>que estaba poseído durante el incidente?<eos>
+<bos>Supongo que es más barato<eol>que el seguro por negligencia médica.<eos>
+<bos>Dele 500 cm cúbicos<eol>antes de que vaya a recuperación.<eos>
+<bos>- Necesito que se apresure.<eol>- Enseguida, Dra. Shannon.<eos>
+<bos>Dra. Shannon,<eol>¿podemos hablar con Ud., por favor?<eos>
+<bos>Lo siento.<eol>Tengo un paciente que no puede esperar.<eos>
+<bos>Aquí hay magia, Mulder.<eos>
+<bos>Pero está hecha con silicona,<eol>colágeno y un escalpelo bien colocado.<eos>
+<bos>Lo que debemos hacer<eol>es mantenernos calmados...<eos>
+<bos>y no hacer nada fuera de lo común.<eos>
+<bos>La apariencia de cualquier<eol>encubrimiento o incongruencia...<eos>
+<bos>sólo hará más profunda<eol>la indagación del FBI...<eos>
+<bos>además de la investigación<eol>de la compañía de seguros del Dr. Lloyd.<eos>
+<bos>El Dr. Lloyd nos convirtió en un blanco.<eos>
+<bos>Lo último que necesitamos<eol>es estar atrapados en un escándalo.<eos>
+<bos>Empezarían a mirar<eol>nuestros libros de nuevo.<eos>
+<bos>Tendríamos que explicar por qué cobramos<eol>$4,000 por la lipoescultura del trasero.<eos>
+<bos>Parecemos codiciosos,<eol>y por lo tanto, parecemos culpables.<eos>
+<bos>No hemos hecho nada malo, Dr. Illaqua.<eos>
+<bos>Si le damos crédito o credibilidad<eol>a la historia del Dr. Lloyd...<eos>
+<bos>nos van a quemar en la hoguera.<eos>
+<bos>¿ Y los demás miembros del personal?<eol>Estaban hablando con la enfermera Waite.<eos>
+<bos>Ella no puede decirles nada...<eos>
+<bos>porque no sabe nada.<eos>
+<bos>No siento los pies.<eos>
+<bos>Me van a hacer un peeling.<eos>
+<bos>No siento los pies.<eos>
+<bos>Todo está bien.<eos>
+<bos>Sus pies aún están ahí.<eol>No se irán a ninguna parte.<eos>
+<bos>Es que...<eos>
+<bos>me da miedo que me anestesien totalmente.<eos>
+<bos>¿ Y si no despierto?<eos>
+<bos>No se preocupe.<eos>
+<bos>Quiero que se relaje.<eos>
+<bos>Piense en su hermosa cara nueva.<eos>
+<bos>Está en buenas manos.<eos>
+<bos>La voy a proteger.<eos>
+<bos>- ¿Querías mostrarme algo?<eol>- Sí. La cinta de video.<eos>
+<bos>Este video de la operación muestra<eol>que las cinco marcas...<eos>
+<bos>que forman el pentagrama eran evidentes<eol>antes de la muerte del paciente.<eos>
+<bos>Detenlo un segundo.<eos>
+<bos>Cielos, Mulder. Básicamente mató a<eol>ese hombre a puñaladas mientras dormía.<eos>
+<bos>Lo cual sólo acentúa lo extraño<eol>del asunto. Bajo su propia voluntad...<eos>
+<bos>nunca hubiera podido hacer algo así.<eos>
+<bos>Mira.<eos>
+<bos>Ahí.<eos>
+<bos>Suponiendo que eso tenga algo que ver<eol>con esto, ¿quién las puso ahí?<eos>
+<bos>No lo sé. Se supone que el pentagrama<eol>es un símbolo de protección...<eos>
+<bos>y poder positivo usado para controlar<eol>las fuerzas elementales.<eos>
+<bos>- Entonces no tiene sentido.<eol>- Pero tiene sentido...<eos>
+<bos>que un lugar como éste sea escenario<eol>de brujería o magia negra...<eos>
+<bos>haciendo víctimas de los débiles<eol>y vanagloriosos.<eos>
+<bos>Pero no hay otra evidencia<eol>de que ocurra aquí algo como brujería.<eos>
+<bos>Tal vez la haya. ¿Qué era esa medicina<eol>que estaba tomando el Dr. Lloyd?<eos>
+<bos>- ¿Las píldoras para dormir?<eol>- No, el antiácido para el estómago.<eos>
+<bos>Léeme de qué está hecho.<eos>
+<bos>" Un antiespasmódico cuyos ingredientes<eol>incluyen el alcaloide de la belladona".<eos>
+<bos>Se le llama "baya de las brujas".<eol>Es una hierba usada en hechizos.<eos>
+<bos>¿Sabes cuántos farmacéuticos del<eol>directorio médico contienen belladona?<eos>
+<bos>Sí, sólo uno.<eol>El que estaba tomando el Dr. Lloyd.<eos>
+<bos>Si es tan sencillo,<eol>dile a la policía que busque...<eos>
+<bos>a alguien volando en una escoba<eol>con sombrero negro y puntiagudo.<eos>
+<bos>Bromeas, pero hay muchas probabilidades<eol>de que este hechizo...<eos>
+<bos>o ritual, o lo que sea,<eol>no esté terminado.<eos>
+<bos>Bueno, el FBI parece haberse retirado,<eol>al menos por ahora.<eos>
+<bos>- Sí. - ¿ Ya acabaste por hoy?<eos>
+<bos>-Sí.<eol>-Tengo que hacer un peeling con láser...<eos>
+<bos>y me voy.<eos>
+<bos>Vamos a salir de esto, Eric.<eos>
+<bos>Sólo tenemos que actuar con sensatez.<eos>
+<bos>La paciente está lista, Dra. Shannon.<eol>¿Me necesita para algo más?<eos>
+<bos>Sí. Una bata limpia de la lavandería.<eol>Olvidé traer una.<eos>
+<bos>Iré por ella.<eos>
+<bos>¿Necesita algo, Dr. Illaqua?<eos>
+<bos>No, gracias.<eos>
+<bos>- ¿Está en otra sala mi paciente?<eol>- No, su paciente está en la sala 2.<eos>
+<bos>¿Qué es eso?<eos>
+<bos>Es el Dr. Illaqua. ¿Qué demonios<eol>está haciendo con mi paciente?<eos>
+<bos>¡Abra la puerta!<eos>
+<bos>¡Rápido!<eol>¡Abra esta puerta inmediatamente!<eos>
+<bos>Dr. Illaqua, ¿me oye?<eos>
+<bos>¡Tiene que detenerse de inmediato!<eos>
+<bos>¡Esto está mal! ¿Qué hace?<eos>
+<bos>¡Abra esta puerta inmediatamente!<eos>
+<bos>¡Detenga ese maldito procedimiento!<eol>¡Basta, le digo!<eos>
+<bos>¡Alto!<eos>
+<bos>¿No recuerda nada, Dr. Illaqua?<eos>
+<bos>¿Cómo se metió a esa sala, o qué<eol>lo obligó a hacer algo semejante?<eos>
+<bos>No. Iba en camino a casa.<eos>
+<bos>¿Se da cuenta de lo que ha hecho?<eos>
+<bos>¿Me permite?<eos>
+<bos>Ahora vuelvo.<eos>
+<bos>¿Examinaste a la víctima?<eos>
+<bos>No, sólo al Dr. Illaqua. ¿Por qué?<eos>
+<bos>Encontré otra cosa en la cinta.<eos>
+<bos>Eso.<eos>
+<bos>- ¿Qué son? ¿Moretones? - No lo sé.<eos>
+<bos>Pero la orientación de los puntos<eol>forma un pentagrama otra vez. ¿Lo ves?<eos>
+<bos>Yo también encontré algo.<eos>
+<bos>Es la misma medicina<eol>que estaba tomando el Dr. Lloyd.<eos>
+<bos>¿Crees que sea sólo una coincidencia?<eos>
+<bos>Cualquier cambio en horario<eol>o en cantidad de trabajo...<eos>
+<bos>dará la apariencia<eol>de que estamos cubriendo culpa.<eos>
+<bos>No podemos comprometer<eol>nuestra posición en esto.<eos>
+<bos>Lamentamos irrumpir así,<eol>pero es un asunto urgente.<eos>
+<bos>No se preocupen. Soy el Dr.Jack<eol>Franklyn. Tomen asiento, por favor.<eos>
+<bos>Parece que interrumpimos una reunión.<eos>
+<bos>¿" Reunión"? Señor...<eos>
+<bos>¿se imagina lo preocupados que estamos<eol>por lo que ocurrió?<eos>
+<bos>¿ Y nuestra urgencia<eol>para resolver esto...<eos>
+<bos>y ver que la persona responsable<eol>sea finalmente capturada y enjuiciada?<eos>
+<bos>¿" Finalmente"?<eos>
+<bos>No sé cuánto sepan al respecto...<eos>
+<bos>pero hace diez años...<eos>
+<bos>hubo varias muertes en este hospital...<eos>
+<bos>aquí en la unidad de cirugía plástica.<eos>
+<bos>Y, al igual que las muertes recientes...<eos>
+<bos>fueron calificadas como accidentales.<eos>
+<bos>- ¿Estaba alguno de Uds. aquí?<eol>- Unos cuantos.<eos>
+<bos>Pero...<eos>
+<bos>lo que es más importante...<eos>
+<bos>hay una enfermera, Rebecca Waite.<eos>
+<bos>Ella estaba en el pabellón<eol>durante esos incidentes.<eos>
+<bos>Hace 6 semanas se transfirió de regreso<eol>aquí a la unidad de cirugía plástica.<eos>
+<bos>¿Tiene otras razones<eol>para sospechar de ella?<eos>
+<bos>Es la única persona que tuvo contacto<eol>con todas las víctimas...<eos>
+<bos>y los doctores involucrados.<eos>
+<bos>- ¿Han hablado con ella?<eol>- No. Se fue temprano del hospital...<eos>
+<bos>y nadie ha podido encontrarla.<eos>
+<bos>Causa probable.<eos>
+<bos>¿La sospecha de que es una bruja?<eos>
+<bos>¿Qué pudo haber estado haciendo aquí?<eos>
+<bos>No estaba completando<eol>formas de impuestos.<eos>
+<bos>"Calle Gardner 1953 Winnetka, Illinois"<eos>
+<bos><i>Ésta es la línea de emergencias.</i><eol><i>No cuelgue, por favor.</i><eos>
+<bos>¡No saben lo que me están haciendo!<eos>
+<bos>- No entienden. Dígaselo.<eol>- Necesito hablar con ella.<eos>
+<bos>- ¡Dígales! - Necesito hablar con ella.<eos>
+<bos>- Mulder, no.<eol>- Quise detenerlo, pero es muy poderoso.<eos>
+<bos>Alguien tiene que dete--<eos>
+<bos>¡Llamen a los paramédicos!<eos>
+<bos>¡Que vengan de inmediato!<eos>
+<bos>Cuidado.<eos>
+<bos>Tragó alfileres<eol>y está sangrando por dentro.<eos>
+<bos>Tienen que llevarla a cirugía<eol>de inmediato.<eos>
+<bos>Iré con ella a la sala de emergencias.<eos>
+<bos>Lo habría hecho yo mismo...<eos>
+<bos>pero aún estoy un poco tembloroso.<eos>
+<bos>Jack, estás mucho más sereno<eol>de lo que yo estaría.<eos>
+<bos>Lo importante es que ya se acabó todo.<eos>
+<bos>¿Dr. Franklyn?<eos>
+<bos>- ¡Agente Mulder!<eol>- Vine a ver si está bien.<eos>
+<bos>Sí, estoy bien. Gracias.<eos>
+<bos>Esa mujer entró aquí subrepticiamente.<eol>Lo estaba esperando.<eos>
+<bos>Parece que le dio una buena cortada.<eos>
+<bos>Sí, aparentemente.<eos>
+<bos>Nada que no arregle<eol>un poco de cirugía plástica, ¿verdad?<eos>
+<bos>¿Tiene alguna idea de por qué<eol>pudo haberlo atacado?<eos>
+<bos>Yo fui quien expresó<eol>la sospecha sobre ella.<eos>
+<bos>- Ella no lo sabía.<eol>- Nos habría atacado a cualquiera.<eos>
+<bos>Obviamente está loca.<eos>
+<bos>Tenemos razón para creer<eol>que practica la magia ritual.<eos>
+<bos>- ¿Magia ritual? - Practica la brujería.<eos>
+<bos>¿Dice que ella es responsable de lo que<eol>hicieron el Dr. Lloyd y el Dr. Illaqua?<eos>
+<bos>¿Que la brujería causó<eol>que mataran a esos pacientes?<eos>
+<bos>Quedan muchas cosas por probar.<eos>
+<bos>Lo siento. Esta noche ha sido terrible...<eos>
+<bos>y necesito descansar.<eos>
+<bos>Creo que todos queremos descansar...<eos>
+<bos>volver al trabajo<eol>y olvidarnos de todo esto.<eos>
+<bos>" Enciclopedia de Brujería y Demonología"<eos>
+<bos>- Mulder, soy yo. - Pasa. Está abierto.<eos>
+<bos>Te ves muy cansada.<eos>
+<bos>¿Sí?<eos>
+<bos>Vengo del hospital. Rebecca Waite<eol>fue declarada muerta hace 20 minutos.<eos>
+<bos>¿Cuál fue la causa de su muerte?<eos>
+<bos>Pérdida masiva de sangre<eol>debido a una hemorragia del esófago...<eos>
+<bos>causada por la expulsión<eol>de cientos de alfileres.<eos>
+<bos>¿Habías visto algo parecido?<eos>
+<bos>Cuando estudié medicina<eol>vi algunas cosas raras.<eos>
+<bos>Hay un trastorno psiquiátrico<eol>llamado pica...<eos>
+<bos>caracterizado porque se les antoja<eol>comer objetos que no son comida...<eos>
+<bos>como barro, piedras, pegamento.<eos>
+<bos>Pero si ingirió--<eos>
+<bos>Habría muerto mucho antes<eol>de vomitarlos en la calle.<eos>
+<bos>A menos que no los hubiera ingerido...<eos>
+<bos>lo cual correspondería<eol>al fenómeno llamado alotriofagia.<eos>
+<bos>- ¿Alotriofagia?<eol>- El vómito espontáneo...<eos>
+<bos>o expulsión de objetos extraños...<eos>
+<bos>usualmente asociado<eol>con alguien que está poseído.<eos>
+<bos>Mulder, no voy a refutar que esa mujer<eol>pudo haber practicado ocultismo...<eos>
+<bos>pero lo que sale debió haber entrado.<eos>
+<bos>Según este libro, ha habido gente a<eol>través de la historia que ha escupido...<eos>
+<bos>todo tipo de cosas,<eol>desde bolas de billar hasta cuchillos...<eos>
+<bos>sin explicación alguna<eol>de cómo llegaron ahí.<eos>
+<bos>- ¿De dónde sacaste esto?<eol>- De la casa de Rebecca Waite.<eos>
+<bos>Ahí también encontré esto.<eos>
+<bos>Estaba abierto en abril. El día 30<eol>está marcado por un símbolo conocido.<eos>
+<bos>¿Qué significado tiene el día 30?<eos>
+<bos>Es uno de los cuatro sabbats de las<eol>brujas, sus días sagrados estacionales.<eos>
+<bos>Según el libro,<eol>también se le llama día de la cruz.<eos>
+<bos>También es la fecha de nacimiento<eol>de la primera víctima.<eos>
+<bos>El 31 de julio...<eos>
+<bos>también está marcado con un pentagrama.<eos>
+<bos>Esto coincide con otro<eol>de los sabbats de las brujas.<eos>
+<bos>Y es la fecha de nacimiento<eol>de la segunda víctima.<eos>
+<bos>Así que tú crees que escogía a sus<eol>víctimas según su fecha de nacimiento.<eos>
+<bos>No. Recuerda que te dije que el<eol>pentagrama es un símbolo de protección.<eos>
+<bos>Creo que Rebecca Waite<eol>trataba de salvar a esos pacientes.<eos>
+<bos>-Sabía que estaban en peligro.<eol>-Lo cual la hizo atacar al Dr. Franklyn.<eos>
+<bos>Yo creo que sabía algo sobre él.<eos>
+<bos>Y debemos averiguar qué es<eol>antes de que vuelva a su trabajo.<eos>
+<bos>- Recibí una llamada muy perturbadora.<eol>- ¿De quién?<eos>
+<bos>Del FBI, preguntando por las fechas<eol>de nacimiento de los pacientes.<eos>
+<bos>Vienen en camino.<eos>
+<bos>- Creí que esto se había terminado.<eol>- Aparentemente no.<eos>
+<bos>Tienes algo bueno, y alguien<eol>siempre trata de quitártelo.<eos>
+<bos>Estoy empezando a entender por qué<eol>un hombre se vuelve conservador.<eos>
+<bos>Tiene algo que conservar.<eos>
+<bos>- ¿Estás bien,Jack?<eol>- Sí. Es que no dormí mucho anoche.<eos>
+<bos>- Claro que no. - Estaré bien.<eos>
+<bos>Gail, retrase mi osteoplastia media hora.<eos>
+<bos><i>Sí, doctor.</i><eos>
+<bos>Yo haré tu peeling químico.<eol>Te irás a casa.<eos>
+<bos>- Dije que estaré bien. - Mírate.<eos>
+<bos>Luces muy mal,Jack.<eos>
+<bos>Te agradezco la oferta.<eos>
+<bos>No me entiendas mal.<eol>No estoy siendo magnánimo.<eos>
+<bos>Es que no puedes permitirte<eol>cometer más errores.<eos>
+<bos>Sí, gracias.<eol>El Dr. Franklyn ya se fue, pero...<eos>
+<bos>me confirmaron en su consultorio que<eol>el nacimiento de una de sus pacientes...<eos>
+<bos>corresponde con uno de los sabbats.<eos>
+<bos>- ¿Cuándo será operada? - Esta mañana.<eos>
+<bos>Ya está en la etapa preoperatoria<eol>y otro doctor lo está reemplazando.<eos>
+<bos>¿Está bien el Dr. Franklyn?<eos>
+<bos>No se siente muy bien.<eos>
+<bos>Supongo que éste es<eol>uno de esos procedimientos...<eos>
+<bos>que todos los doctores<eol>pueden hacer, ¿verdad?<eos>
+<bos>Sí.<eos>
+<bos>El Dr. Franklyn dijo que...<eos>
+<bos>un peeling químico de la piel<eol>es muy seguro...<eos>
+<bos>casi libre de riesgos.<eos>
+<bos>" Fenol"<eos>
+<bos>Buscamos al Dr. Shannon.<eos>
+<bos>Hace 13 años que nuestra práctica<eol>está afiliada con Greenwood.<eos>
+<bos>La unidad de cirugía plástica gana más<eol>del 50% de los ingresos del hospital.<eos>
+<bos>¿Comprenden lo que eso significa?<eos>
+<bos>Que mientras los doctores<eol>en otras áreas han visto...<eos>
+<bos>sus ingresos disminuir debido<eol>a la atención médica controlada...<eos>
+<bos>todos ustedes se volvieron ricos.<eos>
+<bos>Satisfacemos una necesidad.<eol>Nosotros no la creamos.<eos>
+<bos>Toda la gente quiere ser hermosa.<eos>
+<bos>Pero nuestro éxito nos hizo arrogantes.<eos>
+<bos>Estoy dispuesta a tomar responsabilidad<eol>por algunos de nuestros errores.<eos>
+<bos>¿" Errores"? ¿Como la muerte<eol>de esos pacientes hace diez años?<eos>
+<bos>Que cualquiera de nosotros fuera capaz<eol>de tan terrible negligencia...<eos>
+<bos>era inconcebible.<eos>
+<bos>Así que lo ocultaron.<eos>
+<bos>Si lo hicimos,<eol>fue con la bendición del hospital.<eos>
+<bos>Ellos condujeron la investigación.<eos>
+<bos>Nos habíamos convertido en algo<eol>muy valioso que tenían que proteger.<eos>
+<bos>Incluso a costa de la vida<eol>de cinco personas.<eos>
+<bos>- ¿Hubo cinco muertes?<eol>- Sí. Cuatro pacientes.<eos>
+<bos>La quinta fue un colega nuestro que...<eos>
+<bos>prácticamente se mató trabajando.<eos>
+<bos>- Murió de una sobredosis de droga.<eol>- ¿Cómo se llamaba?<eos>
+<bos>Dr. Cox. Clifford Cox.<eos>
+<bos>- ¿Tiene un expediente sobre él?<eol>- Probablemente en la computadora.<eos>
+<bos>Muy bien. Necesito ése y los de los<eol>pacientes que murieron hace 10 años.<eos>
+<bos>Vamos, Mulder. ¿Qué estás pensando?<eos>
+<bos>Dr. Clifford Cox.<eol>Fecha de nacimiento: 7 de julio de 1939.<eos>
+<bos>¿Podría pasar esa foto por el programa<eol>de cirugía plástica de la computadora?<eos>
+<bos>Me tomará unos segundos<eol>instalar el software.<eos>
+<bos>Mulder, aún no sé adónde vas con esto.<eos>
+<bos>Hace 10 años murieron cuatro pacientes.<eos>
+<bos>Como las víctimas recientes, nacieron en<eol>los días de los sabbats de las brujas.<eos>
+<bos>- Excepto el Dr. Cox.<eol>- Pero Cox era doctor.<eos>
+<bos>Nada sobre su muerte corresponde,<eol>excepto su coincidencia.<eos>
+<bos>Tal vez sí, tal vez no.<eos>
+<bos>Aquí lo tengo.<eos>
+<bos>Esto se creó para darles a los pacientes<eol>una idea del resultado, ¿no?<eos>
+<bos>Dentro de los límites del paciente,<eol>tratamos de lograr un ideal estético.<eos>
+<bos>La computadora tiene un programa basado<eol>en un molde de proporciones relativas.<eos>
+<bos>Vanidad.<eos>
+<bos>Todo es vanidad.<eos>
+<bos>Aquí está.<eos>
+<bos>¿Puede separar los ojos<eol>y hacer la frente más fuerte?<eos>
+<bos>Eso está más allá<eol>de nuestra capacidad quirúrgica.<eos>
+<bos>Lo sé.<eos>
+<bos>No comprendo.<eos>
+<bos>¡Luce igual a Jack Franklyn!<eos>
+<bos>- ¿Dónde más cree que puede estar?<eol>- No lo sé.<eos>
+<bos>Lo buscaré en la sala de operaciones.<eol>Tal vez esté ahí.<eos>
+<bos>- No está contestando sus mensajes.<eol>- ¿Llamaste a su casa?<eos>
+<bos>Contestó la máquina contestadora.<eos>
+<bos>¿Qué estás pensando? ¿Que el Dr. Cox<eol>asesinó a esos pacientes hace 10 años...<eos>
+<bos>y luego se convirtió en el Dr. Franklyn?<eos>
+<bos>No. Creo que asesinó a esos pacientes<eol>para convertirse en el Dr. Franklyn.<eos>
+<bos>Esta clase de transformación<eol>es médicamente imposible.<eos>
+<bos>No es medicina, Scully.<eol>Es un sacrificio de sangre.<eos>
+<bos>- ¿Sacrificio de sangre?<eol>- La ofrenda más potente en magia negra.<eos>
+<bos>¿ Y si este hombre, habiendo alcanzado<eol>los límites de los milagros médicos...<eos>
+<bos>decidió crear su propio milagro?<eos>
+<bos>¿Así que ese hombre cometió<eol>esos asesinatos para hacerse hermoso?<eos>
+<bos>Toda la gente quiere ser hermosa, Scully.<eos>
+<bos>¿Qué haces?<eos>
+<bos>Me alegra que hayas venido.<eos>
+<bos>Jack, quédate donde estás.<eos>
+<bos>Espero que esos instrumentos<eol>hayan sido esterilizados adecuadamente.<eos>
+<bos>¿Dr. Franklyn?<eos>
+<bos>Scully, ven acá.<eos>
+<bos>Detente ahí. Mira en lo que estás parada.<eos>
+<bos>Éste es diferente.<eos>
+<bos>Ha sido invertido.<eos>
+<bos>¿ Ves estos dos puntos?<eos>
+<bos>Representan a la cabra de la lujuria<eol>atacando el cielo con sus cuernos.<eos>
+<bos>Mira. Inscribió todos los nombres<eol>de los pacientes que fueron asesinados.<eos>
+<bos>Incluyendo a la Dra. Shannon.<eos>
+<bos>¡A un lado! ¡Déjennos pasar!<eos>
+<bos>¿Qué ingirió?<eos>
+<bos>- ¿Qué ingirió? - No lo dijo.<eos>
+<bos>Voy a hacer una laparotomía exploratoria.<eos>
+<bos>No. Por favor--<eos>
+<bos>Denle 2 unidades de sangre, de inmediato.<eos>
+<bos>Introduzcan una intravenosa de 16<eol>y ábranla bien.<eos>
+<bos>Yo le pondré la intravenosa, doctor.<eos>
+<bos>No. Por favor, no.<eos>
+<bos>No. Por favor...<eos>
+<bos>no.<eos>
+<bos>¿Dónde está la Dra. Shannon? Me dijeron<eol>que la trajeron de emergencia.<eos>
+<bos>Aquí, Mulder.<eos>
+<bos>No permitas que la operen.<eol>Detenlos hasta que oigas de mí.<eos>
+<bos>- ¿Adónde vas?<eol>- A buscar al Dr. Franklyn.<eos>
+<bos>- Fórceps. - Aquí están.<eos>
+<bos>Esponja. Succión.<eos>
+<bos>- Solución salina. - Más esponja.<eos>
+<bos>Tienen que detener<eol>este procedimiento de inmediato.<eos>
+<bos>Sea quien sea la persona,<eol>¡sáquenla de aquí!<eos>
+<bos>¡Soy la agente especial Scully del FBI!<eos>
+<bos>- ¡Fuera de aquí!<eol>- ¡Escúcheme! Soy doctora.<eos>
+<bos>- ¿Qué diablos está pasando aquí?<eol>- Soy agente federal.<eos>
+<bos>No me importa quién sea.<eol>No puede interrumpir una cirugía.<eos>
+<bos>- Esta mujer podría morir.<eol>- Eso es lo que trato de evitar.<eos>
+<bos><i>Dr. Hallin, por favor</i><eol><i>llame a obstetricia.</i><eos>
+<bos>- ¿Qué pasó? - Le salvaron la vida.<eos>
+<bos>Sacaron un montón<eol>de instrumentos quirúrgicos...<eos>
+<bos>de sus intestinos.<eos>
+<bos>Sólo Dios sabe cómo llegaron ahí.<eos>
+<bos>Entonces falló.<eos>
+<bos>¡Cielo santo!<eos>
+<bos>¡Traté de detenerlo! ¡Se volvió loco!<eos>
+<bos>¡La estamos perdiendo!<eos>
+<bos>¿Cuál es la fecha de nacimiento<eol>de esta paciente?<eos>
+<bos>El 31 de octubre. La noche de brujas.<eos>
+<bos>Ése es el cuarto sabbat de las brujas.<eos>
+<bos>- ¡Espere! - ¡Adelante!<eos>
+<bos>"Centro Médico<eol>de la Ciudad de Los Ángeles"<eos>
+<bos>No se imagina lo contentos que estamos...<eos>
+<bos>de que haya decidido trabajar<eol>con nosotros, Dr. Hartman.<eos>
+<bos>Me gusta lo que he visto hasta ahora.<eos>
+<bos>La verdad es que Los Ángeles<eol>siempre me ha atraído.<eos>
+<bos>Con sus credenciales, estoy segura<eol>de que tuvo muchas opciones.<eos>
+<bos>He estado viendo su carpeta de pacientes.<eos>
+<bos>Su trabajo es de lo más extraordinario<eol>que he visto.<eos>
+<bos>Yo digo que a aquellos a quienes Dios...<eos>
+<bos>no creó a Su imagen y semejanza...<eos>
+<bos>debemos recrearlos a la nuestra.<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

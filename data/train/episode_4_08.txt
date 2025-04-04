@@ -1,0 +1,694 @@
+<bos>Excuse me. That's my house.<eos>
+<bos>Okay, let her through.<eos>
+<bos>What's going on?<eos>
+<bos>Your husband has violated<eol>base security procedure.<eos>
+<bos>He's commandeered a military vehicle,<eos>
+<bos>is believed to be armed.<eos>
+<bos>Team one moving in. Oh, my God.<eos>
+<bos>You've got to let me talk to him.<eos>
+<bos>What the hell?<eos>
+<bos>We got him, but he's<eol>going to need a doctor.<eos>
+<bos>Or something.<eos>
+<bos>Hi. I got your message.<eos>
+<bos>Sorry for the runaround.<eos>
+<bos>Can I buy you a drink?<eos>
+<bos>It's 2:00 in the afternoon, Agent Mulder.<eos>
+<bos>That's not stopping<eol>the rest of these people.<eos>
+<bos>I got something to show you.<eos>
+<bos>Something you couldn't show me at work?<eos>
+<bos>Let's get a table.<eos>
+<bos>Okay.<eos>
+<bos>MULDER: That's Colonel Robert Budahas.<eos>
+<bos>That photo was taken last year<eos>
+<bos>when he was a test pilot for the military<eos>
+<bos>stationed at Ellens Air Base<eol>in southwest Idaho.<eos>
+<bos>Four months ago, Colonel Budahas<eol>experienced a psychotic episode<eos>
+<bos>and barricaded himself in his home.<eos>
+<bos>The military police were called in.<eos>
+<bos>Budahas was removed<eol>and apparently hospitalized<eos>
+<bos>for the treatment of his condition.<eos>
+<bos>Which was what exactly?<eos>
+<bos>The military will not comment<eos>
+<bos>on the cause, nature or status.<eos>
+<bos>In fact, the military will not comment<eos>
+<bos>on Colonel Budahas at all.<eol>What do you mean?<eos>
+<bos>Mrs. Budahas has neither<eol>seen nor heard from her husband<eos>
+<bos>in over four months.<eos>
+<bos>Her inquiries to the military<eol>have gone unanswered.<eos>
+<bos>Last month, she contacted the FBI<eos>
+<bos>and reported it as a kidnapping.<eos>
+<bos>What reason would<eol>the military have to kidnap<eos>
+<bos>one of their own pilots?<eos>
+<bos>That's the $64,000 question, Scully.<eos>
+<bos>Since 1963, six pilots have been listed<eos>
+<bos>missing in action from Ellens Air Base.<eos>
+<bos>The military will say<eos>
+<bos>only that these pilots accepted the risks<eos>
+<bos>of flying experimental aircraft.<eos>
+<bos>Yeah, there are rumors those pilots were<eos>
+<bos>shot down at high altitudes<eol>while they were routinely<eos>
+<bos>penetrating Russian airspace.<eos>
+<bos>There were other rumors, too.<eos>
+<bos>I've been tracking this case<eos>
+<bos>since it came through the Boise<eol>regional office last month.<eos>
+<bos>Last week,<eol>for reasons I can't figure out,<eos>
+<bos>it was deprioritized.<eos>
+<bos>They shelved this case without<eos>
+<bos>an investigation, Scully.<eos>
+<bos>So...<eos>
+<bos>So you and I are going to the Spud State<eos>
+<bos>to investigate a little kidnapping.<eos>
+<bos>I don't get it, Mulder.<eos>
+<bos>Does this have something<eol>to do with an X-File?<eos>
+<bos>I thought you only liked<eol>those paranormal-type cases.<eos>
+<bos>Am I missing something here?<eos>
+<bos>Let's just say this case<eol>has a... distinct smell to it.<eos>
+<bos>A certain<eos>
+<bos>paranormal bouquet.<eos>
+<bos>Excuse me.<eos>
+<bos>Leave this case alone, Agent Mulder.<eos>
+<bos>What?<eos>
+<bos>The military will not tolerate<eol>an FBI investigation.<eos>
+<bos>Who are you?<eos>
+<bos>I, uh... can be of help to you.<eos>
+<bos>I've had a certain interest<eos>
+<bos>in your work.<eos>
+<bos>MAN: Sorry.<eos>
+<bos>How do you know about my work?<eos>
+<bos>Let's just say<eol>that I'm a position to know<eos>
+<bos>quite a lot of things--<eos>
+<bos>things about our government.<eos>
+<bos>Who are you?<eos>
+<bos>Who do you work for?<eos>
+<bos>It's unimportant.<eos>
+<bos>I came here to give you<eol>some valuable advice.<eos>
+<bos>You are exposing yourself<eol>and Agent Scully<eos>
+<bos>to unnecessary risk.<eos>
+<bos>I advise you to drop the case.<eos>
+<bos>I can't do that.<eos>
+<bos>You have much work to do, Agent Mulder.<eos>
+<bos>Don't jeopardize the future<eol>of your own efforts.<eos>
+<bos>You okay, Mulder?<eos>
+<bos>Yeah. I'm fine.<eos>
+<bos>Hello.<eos>
+<bos>SCULLY: Mulder... Yeah.<eos>
+<bos>I checked on that file you gave me.<eos>
+<bos>You failed to tell me a few things.<eos>
+<bos>This isn't some UFO goose chase<eol>you're leading me on, is it?<eos>
+<bos>Are you there, Mulder?<eos>
+<bos>Yeah.<eos>
+<bos>Did you hear what I said?<eos>
+<bos>Because the Bureau has it<eol>out for us already<eos>
+<bos>and it would make us appear pretty stupid<eos>
+<bos>if my field report<eol>read like some tabloid story.<eos>
+<bos>Uh, listen, I don't want<eol>to talk about it on this line.<eos>
+<bos>I'll talk to you about it<eol>on the flight out, okay?<eos>
+<bos>Hello?<eos>
+<bos>Mrs. Budahas?<eos>
+<bos>Yes.<eos>
+<bos>We're from the FBI.<eos>
+<bos>Oh, yes.<eos>
+<bos>Please, come in.<eos>
+<bos>I started noticing it<eol>about two years ago.<eos>
+<bos>Bob developed this rash under his arms.<eos>
+<bos>We'd been doing<eol>some renovations on the house<eos>
+<bos>so we thought it was a reaction<eol>to the paint stripper,<eos>
+<bos>but then everything just went crazy.<eos>
+<bos>SCULLY: How do you mean?<eos>
+<bos>MRS. BUDAHAS: Bob's whole personality--<eos>
+<bos>it was so unpredictable.<eos>
+<bos>He started doing things...<eos>
+<bos>What kinds of things?<eos>
+<bos>MRS. BUDAHAS: It was kind of<eol>embarrassing at first.<eos>
+<bos>We were having<eol>this dinner party once and, um,<eos>
+<bos>he sprinkled<eol>Tetrameal D all over his food.<eos>
+<bos>Hm...?<eos>
+<bos>That's fish food flakes.<eos>
+<bos>You ever talk to him about this?<eos>
+<bos>I tried.<eos>
+<bos>It was extremely difficult.<eos>
+<bos>Bob would get so angry, he'd...<eos>
+<bos>yell at the kids for no reason.<eos>
+<bos>And then, and then he would shake<eos>
+<bos>like he was having a seizure.<eos>
+<bos>Did he ever talk about his work?<eos>
+<bos>It was never discussed,<eol>even before the problems.<eos>
+<bos>I knew that he worked<eol>on top secret projects--<eos>
+<bos>word gets around--<eos>
+<bos>but Bob was always<eos>
+<bos>a patriot first.<eos>
+<bos>He took loyalty to his country<eol>as an oath,<eos>
+<bos>and now they treat us like strange...<eos>
+<bos>I just want my husband back.<eos>
+<bos>You know the government<eol>is not above the law.<eos>
+<bos>They cannot withhold information.<eos>
+<bos>And-and then I think...<eos>
+<bos>well, what if he's...?<eos>
+<bos>How would I support the family?<eos>
+<bos>You said word gets around.<eos>
+<bos>I'm sorry, um...<eos>
+<bos>Have you ever heard of this<eol>happening to anyone else?<eos>
+<bos>Um... yeah.<eos>
+<bos>Verla McLennen's husband--<eol>he went kind of crazy.<eos>
+<bos>But it's not like<eol>he didn't get to come home.<eos>
+<bos>How long has he been...?<eos>
+<bos>Almost two years.<eos>
+<bos>The fly-fishing idea<eol>was his brother Hank's.<eos>
+<bos>I was upset, at first,<eos>
+<bos>but when you're the wife of a test pilot,<eos>
+<bos>you thank God<eol>just to have him home alive.<eos>
+<bos>MULDER: Mrs. McLennen?<eos>
+<bos>Has anyone ever offered<eol>to explain what caused this?<eos>
+<bos>Stress, I guess.<eos>
+<bos>You have to understand...<eos>
+<bos>the military deals with things<eol>in a certain way.<eos>
+<bos>They've given him plenty<eol>of therapy and treatment<eos>
+<bos>and I'm thankful for that.<eos>
+<bos>They've taken good care of us.<eos>
+<bos>And, you know, they do<eol>volunteer for their jobs.<eos>
+<bos>Really, Anita--<eos>
+<bos>bringing the FBI to my house.<eos>
+<bos>Here-- I've, um, I've<eol>called all the numbers<eos>
+<bos>about a thousand times.<eos>
+<bos>Please, let me know what you find out.<eos>
+<bos>We'll be staying at<eol>the Beach Grove Motel,<eos>
+<bos>if you need anything, okay?<eos>
+<bos>Thanks.<eos>
+<bos>Come on, kids.<eos>
+<bos>So what did you make of<eol>Uncle Fester, down the block?<eos>
+<bos>Oh... It's called stereotypy.<eos>
+<bos>It's a syndrome produced<eol>by extreme stress.<eos>
+<bos>P.O.W.'s have been known<eol>to suffer from it.<eos>
+<bos>They've studied it in zoo animals.<eos>
+<bos>Yeah, but these guys aren't zoo animals,<eos>
+<bos>they're test pilots.<eos>
+<bos>They're not supposed<eol>to fold under pressure,<eos>
+<bos>they're supposed to thrive on it.<eos>
+<bos>Ever hear of something<eol>called the Aurora Project?<eos>
+<bos>Yeah, that's the unacknowledged<eol>code name for some new kind of<eos>
+<bos>Defense Department surveillance project.<eos>
+<bos>The Pentagon has all but admitted<eos>
+<bos>they've been testing a secret class<eos>
+<bos>of suborbital spycraft<eol>over the western U.S.<eos>
+<bos>Maybe these guys are flying those planes.<eos>
+<bos>Maybe these guys are the washouts.<eos>
+<bos>You saw the photos on the wall in there.<eos>
+<bos>This guy Budahas received<eol>a presidential commendation.<eos>
+<bos>He's never washed out of<eol>anything in his life.<eos>
+<bos>Been on hold with the base<eol>director of communications<eos>
+<bos>for 45 minutes.<eos>
+<bos>How about you?<eos>
+<bos>Yeah, somebody named Colonel Kissel<eos>
+<bos>will meet with us...<eos>
+<bos>a week from Friday.<eos>
+<bos>Yeah, right.<eos>
+<bos>Did you say Kissel?<eos>
+<bos>Colonel Kissel?<eos>
+<bos>Yes?<eos>
+<bos>Can I talk with you?<eos>
+<bos>Special Agent Mulder, FBI.<eos>
+<bos>I've got nothing to say.<eos>
+<bos>Please! This is an invasion<eol>of my privacy.<eos>
+<bos>Why don't you talk to us<eol>about Colonel Budahas?<eos>
+<bos>Why don't you get the hell<eol>out of my yard?<eos>
+<bos>Good thing we still kept<eol>that appointment.<eos>
+<bos>MAN: Hi.<eos>
+<bos>Are you the FBI agents?<eos>
+<bos>I'm Paul Mossinger.<eos>
+<bos>I, uh, work for the local paper.<eos>
+<bos>We live a few houses down<eol>from Verla McLennen.<eos>
+<bos>She said you guys are out here<eos>
+<bos>looking into this Budahas thing.<eos>
+<bos>We're just looking around.<eos>
+<bos>I got you. Right.<eos>
+<bos>A lot of people out here<eol>just looking around.<eos>
+<bos>UFO nuts mostly,<eos>
+<bos>but it's not every day we get FBI.<eos>
+<bos>By the time you hear them,<eol>they're already gone.<eos>
+<bos>So this Budahas thing--<eol>are you getting anywhere?<eos>
+<bos>We're not at liberty to comment.<eos>
+<bos>Well...<eos>
+<bos>Paul... right?<eos>
+<bos>You've lived in this area a while.<eos>
+<bos>You ever seen a UFO?<eos>
+<bos>Never.<eos>
+<bos>Bunch of hooey, if you ask me.<eos>
+<bos>People see what they want to see.<eos>
+<bos>But if I wanted to talk<eol>to one of those UFO nuts<eos>
+<bos>that you referred to earlier,<eol>where would I go?<eos>
+<bos>F-15 Eagle, pulling about four g's.<eos>
+<bos>Those boys think they are such hotshots.<eos>
+<bos>Get a few drinks in them,<eol>you'd think it was them up there<eos>
+<bos>flapping their wings.<eos>
+<bos>Who's the photographer?<eos>
+<bos>WOMAN: Various and sundry.<eos>
+<bos>I took the one on the end there.<eos>
+<bos>MULDER: You're kidding.<eos>
+<bos>Where?<eos>
+<bos>Out on the back porch.<eos>
+<bos>Taking out the garbage.<eos>
+<bos>And there it was... just hovering.<eos>
+<bos>Quiet like a hummingbird.<eos>
+<bos>For a minute there, I thought<eos>
+<bos>it was going to land in the parking lot<eos>
+<bos>and I was going to serve 'em lunch.<eos>
+<bos>I'm selling limited edition prints, $20.<eos>
+<bos>Down to my last five,<eol>if you're interested.<eos>
+<bos>Put it on my tab.<eos>
+<bos>Sucker.<eos>
+<bos>What would be the chances<eol>of someone like me seeing a UFO?<eos>
+<bos>Catch you outside.<eos>
+<bos>You want to see something weird, Mulder?<eos>
+<bos>Ellens Air Base isn't even<eol>on my USGS quadrant map.<eos>
+<bos>I know.<eos>
+<bos>Let's go.<eos>
+<bos>You know?<eos>
+<bos>Where are we going?<eos>
+<bos>We got our own map, sucker.<eos>
+<bos>What do you honestly hope to see?<eos>
+<bos>I don't know. Maybe nothing.<eos>
+<bos>Is this why we came out here, Mulder?<eos>
+<bos>To look for UFOs?<eos>
+<bos>Yeah, this is going to look<eol>real good on my field report.<eos>
+<bos>Scully, wake up.<eos>
+<bos>You gotta see this.<eos>
+<bos>What are they?<eos>
+<bos>I don't know.<eos>
+<bos>Just keep watching. It's unbelievable.<eos>
+<bos>SCULLY: That's unreal.<eos>
+<bos>I've never seen anything like it.<eos>
+<bos>They've been going at it like<eol>that for almost half an hour.<eos>
+<bos>So it can't be aircraft.<eos>
+<bos>Aircraft can't maneuver like that.<eos>
+<bos>What else could they be?<eos>
+<bos>I don't know, lasers, maybe--<eos>
+<bos>being shot from the ground,<eol>reflecting up off the clouds.<eos>
+<bos>Oh, my God.<eos>
+<bos>Here comes another one.<eos>
+<bos>SCULLY: That's not a plane,<eol>that's a helicopter.<eos>
+<bos>...come on!...<eos>
+<bos>Hey! BOY: Let's get out of here!<eos>
+<bos>Okay, don't shoot.<eos>
+<bos>Stay right there.<eos>
+<bos>We didn't do anything.<eos>
+<bos>Come on!<eos>
+<bos>That was extreme.<eos>
+<bos>MULDER: Let's go.<eos>
+<bos>You're coming with us.<eos>
+<bos>BOY: What?<eos>
+<bos>So, what exactly were you guys<eol>doing in there?<eos>
+<bos>We were, um...<eos>
+<bos>we were just...<eos>
+<bos>We kind of have this spot.<eos>
+<bos>You know, we go and we kind of kick back<eos>
+<bos>and listen to some tunes<eol>and, uh, watch the air show.<eos>
+<bos>Were you ever chased out before?<eos>
+<bos>No... first time, right?<eos>
+<bos>Our friend showed us<eol>the hole in the fence<eos>
+<bos>about a year ago.<eos>
+<bos>Oh! One time<eol>they dropped these bombs-- whoa.<eos>
+<bos>Yeah, it was kind of heavy.<eos>
+<bos>Oh, uh, there's this place<eos>
+<bos>uh, called the Yellow Base, right?<eos>
+<bos>Where they're supposed<eol>to store all this stuff.<eos>
+<bos>And my friend said<eol>that there's land mines<eos>
+<bos>all around it and junk like that.<eos>
+<bos>I've got a 20. Over.<eos>
+<bos>MAN: Roger, Redbird.<eos>
+<bos>Assume fallback position.<eos>
+<bos>We're opening the cage.<eos>
+<bos>Redbird out.<eos>
+<bos>Sometimes they come in real low<eos>
+<bos>and just put on the skidders, right?<eos>
+<bos>It's like...<eos>
+<bos>and then they just hang there and hover<eos>
+<bos>without making a sound,<eol>and you just think,<eos>
+<bos>you know, who turned down<eol>the volume, right?<eos>
+<bos>What do you think they are?<eos>
+<bos>Okay, everybody thinks<eol>that they're, like, UFOs<eos>
+<bos>but I think it's some kind of<eos>
+<bos>Star Wars cybertech newfangled<eos>
+<bos>hardware, right? I don't know,<eos>
+<bos>they'll probably roll it out<eos>
+<bos>for Desert Storm II<eol>or something like that.<eos>
+<bos>Cruise right over<eol>Saddam's house, you know?<eos>
+<bos>He'd be, like, what?<eos>
+<bos>Do they look anything like this?<eos>
+<bos>No.<eos>
+<bos>They look exactly like that.<eos>
+<bos>Thanks.<eos>
+<bos>Later, dude.<eos>
+<bos>What's that?<eos>
+<bos>Evidence.<eos>
+<bos>Kids today, huh?<eos>
+<bos>You believe it all, don't you?<eos>
+<bos>Why wouldn't I?<eos>
+<bos>Mulder, did you see their eyes?<eos>
+<bos>If I were that stoned...<eos>
+<bos>Ooh! If you were that stoned, what?<eos>
+<bos>Mulder, you could've shown<eol>that kid a picture of<eos>
+<bos>a flying hamburger,<eol>and he would have told you<eos>
+<bos>that's exactly what he saw.<eos>
+<bos>All right, I want to show you something.<eos>
+<bos>This is a photo of a UFO<eos>
+<bos>that reportedly crashed<eol>in Roswell, New Mexico,<eos>
+<bos>in 1947.<eos>
+<bos>Now, I know you don't believe that story<eos>
+<bos>but just hear me out.<eos>
+<bos>Now, Ellens Air Base,<eos>
+<bos>the same base that we're at right now--<eos>
+<bos>the same base that,<eol>for some strange reason,<eos>
+<bos>doesn't appear on your<eol>U.S. Government map--<eos>
+<bos>is supposedly one of the six sites<eos>
+<bos>where parts from the<eol>wreckage were shipped.<eos>
+<bos>Mulder, are you suggesting<eos>
+<bos>that the military is flying UFOs?<eos>
+<bos>No.<eos>
+<bos>Planes built using UFO technology.<eos>
+<bos>Mulder, come on!<eos>
+<bos>You've got two blurry photos<eos>
+<bos>one of them taken almost 50 years ago<eos>
+<bos>and another one you purchased<eol>today, in a roadside diner.<eos>
+<bos>You're going out on a pretty big limb.<eos>
+<bos>Tell me there isn't<eol>a remarkable resemblance.<eos>
+<bos>Tell me one good reason<eos>
+<bos>why either of these photos is authentic.<eos>
+<bos>You saw exactly what I saw<eol>in the sky tonight.<eos>
+<bos>What do you think they were?<eos>
+<bos>Just because I can't explain it<eos>
+<bos>doesn't mean I'm going<eol>to believe they were UFOs.<eos>
+<bos>Unidentified Flying Objects.<eos>
+<bos>I think that fits<eol>the description pretty well.<eos>
+<bos>Tell me I'm crazy.<eos>
+<bos>Mulder, you're crazy.<eos>
+<bos>And it still doesn't explain to me<eos>
+<bos>what happened to Colonel Budahas.<eos>
+<bos>SCULLY: Thanks.<eos>
+<bos>WOMAN: You're welcome.<eos>
+<bos>You didn't come to raid<eol>my mini-bar, did you?<eos>
+<bos>You ready for this?<eos>
+<bos>What?<eos>
+<bos>We got a message from Mrs. Budahas.<eos>
+<bos>Her husband came home last night.<eos>
+<bos>We got your message.<eos>
+<bos>Mrs. Budahas, are you okay?<eos>
+<bos>Come inside.<eos>
+<bos>SCULLY: What is it?<eos>
+<bos>What? What's wrong?<eos>
+<bos>That...<eos>
+<bos>is not my husband.<eos>
+<bos>Honey...<eos>
+<bos>who are these people?<eos>
+<bos>That is not him.<eos>
+<bos>That is not my husband.<eos>
+<bos>They've done something to him.<eos>
+<bos>What are you talking about?<eos>
+<bos>It's okay, it's okay.<eos>
+<bos>Just relax.<eos>
+<bos>I'm Special Agent Mulder from the FBI.<eos>
+<bos>We're out here investigating<eol>your disappearance,<eos>
+<bos>Colonel Budahas.<eos>
+<bos>I'm wondering if you have any explanation<eos>
+<bos>of your whereabouts<eol>over the past four months.<eos>
+<bos>I was in the hospital.<eos>
+<bos>Here? On base?<eos>
+<bos>I think so.<eos>
+<bos>Colonel Budahas, do you mind<eol>if I ask you your birth date?<eos>
+<bos>November 21, 1948.<eos>
+<bos>And the names of your kids.<eos>
+<bos>Josh and Leslie.<eos>
+<bos>They're right there.<eos>
+<bos>Yeah.<eos>
+<bos>Green Bay fan.<eos>
+<bos>Yes, sir.<eos>
+<bos>Bet you remember<eos>
+<bos>the Super Bowl of '68, huh?<eos>
+<bos>Don Chandler.<eos>
+<bos>Kicked four field goals.<eos>
+<bos>Lombardi's last game.<eos>
+<bos>Why do I have to answer these questions?<eos>
+<bos>It's not him.<eos>
+<bos>Colonel... Colonel Budahas,<eos>
+<bos>you're a pilot, isn't that right?<eos>
+<bos>Yes, sir.<eos>
+<bos>Bet you've flown<eos>
+<bos>just about everything with two wings.<eos>
+<bos>I got this hotshot pilot friend<eos>
+<bos>who said he could do an Immleman<eol>at a sustained eight g's.<eos>
+<bos>Is that possible?<eos>
+<bos>I... I don't...<eos>
+<bos>I can't...<eos>
+<bos>Anita...<eos>
+<bos>I can't remember.<eos>
+<bos>No...<eos>
+<bos>Mulder, would you explain to me<eos>
+<bos>what's going on?<eos>
+<bos>I think they rewired that man's brain--<eos>
+<bos>some kind of selective memory drain.<eos>
+<bos>The brain doesn't work like that, Mulder.<eos>
+<bos>You can't just go in there<eol>and erase certain files.<eos>
+<bos>Then you explain it to me.<eos>
+<bos>There are types of amnesia that...<eos>
+<bos>This is not amnesia--<eol>I think it's something<eos>
+<bos>far more deliberate and insidious.<eos>
+<bos>All I'm saying is that the<eol>science or medical technology<eos>
+<bos>to do what you are suggesting<eol>does not exist.<eos>
+<bos>And neither does the technology<eos>
+<bos>to fly the aircraft we saw last night.<eos>
+<bos>Listen to me, Scully, they can do this.<eos>
+<bos>That man, he should have known<eol>the answer to the question.<eos>
+<bos>It just wasn't in his head anymore.<eos>
+<bos>SCULLY: Even if they could,<eol>why would they do such a thing?<eos>
+<bos>To control information.<eos>
+<bos>I think that after his psychotic episode,<eos>
+<bos>Colonel Budahas became a security risk.<eos>
+<bos>It couldn't just be that<eol>he had a nervous breakdown<eos>
+<bos>with a concomitant memory lapse?<eos>
+<bos>No, I think that men like Colonel Budahas<eos>
+<bos>are physiologically incapable<eos>
+<bos>of dealing with the stress of<eol>flying the aircraft we saw.<eos>
+<bos>Of doing those maneuvers at those speeds.<eos>
+<bos>I mean, we're talking about a technology<eos>
+<bos>that is so sensitive and advanced<eos>
+<bos>that it's taken almost 50 years<eol>to make it work.<eos>
+<bos>UFO technology, Scully.<eos>
+<bos>What the hell is this?! Hold on!<eos>
+<bos>Please, step out of the car.<eos>
+<bos>You think if maybe we ignore him,<eos>
+<bos>he'll go away?<eos>
+<bos>Please, step out of the car.<eos>
+<bos>Guess not.<eos>
+<bos>Special Agent Mulder, FBI.<eos>
+<bos>Federal agents.<eos>
+<bos>You want to tell me what this is about?<eos>
+<bos>National security.<eos>
+<bos>Now get in your car.<eos>
+<bos>You'll be escorted back to your motel.<eos>
+<bos>You'll pack and leave town immediately<eos>
+<bos>or assume the consequences<eos>
+<bos>of intense indiscretion.<eos>
+<bos>Nothing under Idaho plate CC1356?<eos>
+<bos>No plate registered under that number?<eos>
+<bos>Thanks, Gail.<eos>
+<bos>No, no, no.<eos>
+<bos>I'm sure the other one's bogus too.<eos>
+<bos>Bye.<eos>
+<bos>So who were those guys?<eos>
+<bos>I don't think it was those kids<eos>
+<bos>they were chasing away<eol>from the base last night.<eos>
+<bos>I think it was us.<eos>
+<bos>They knew we were coming<eol>before we ever arrived<eos>
+<bos>and they returned<eol>Colonel Budahas as a decoy.<eos>
+<bos>There's something<eol>I didn't tell you, Scully.<eos>
+<bos>Something else?<eos>
+<bos>I was approached by a man in DC<eos>
+<bos>who warned me to<eol>stay away from this case.<eos>
+<bos>He didn't give me his name<eos>
+<bos>and my phone was being tapped.<eos>
+<bos>What?!<eos>
+<bos>Why would they go<eos>
+<bos>to all this trouble?<eos>
+<bos>Out of a need for security?<eos>
+<bos>Security of what?<eos>
+<bos>I think there's a huge<eol>conspiracy here, Scully.<eos>
+<bos>They've got a UFO here, I'm sure of it,<eos>
+<bos>and they'll do anything<eol>to keep it a secret<eos>
+<bos>including sacrificing lives<eol>and minds of those pilots<eos>
+<bos>because what if that secret got out?<eos>
+<bos>If-- if-- that were true...<eos>
+<bos>it would be a national scandal.<eos>
+<bos>No, no, you're not thinking big enough.<eos>
+<bos>If it were true,<eos>
+<bos>it would be confirmation of the existence<eos>
+<bos>of extraterrestrial life.<eos>
+<bos>Did you ever stop to think<eos>
+<bos>that what we saw was simply<eol>an experimental plane<eos>
+<bos>like the Stealth bomber<eol>or this Aurora Project?<eos>
+<bos>Doesn't the government have a right<eos>
+<bos>and a responsibility<eol>to protect its secrets?<eos>
+<bos>Yes, but at what cost?<eos>
+<bos>When does the human cost become too high<eos>
+<bos>for the building of a better machine?<eos>
+<bos>These are questions<eol>we have no business asking.<eos>
+<bos>Our kidnap victim<eol>is no longer outstanding.<eos>
+<bos>Let's get out of here, Mulder,<eol>while you still have a job.<eos>
+<bos>Aren't you even curious?<eos>
+<bos>Um...<eos>
+<bos>I'm going to shower, I'll pack,<eos>
+<bos>and then we'll get out of here.<eos>
+<bos>Mulder!<eos>
+<bos>Where are you going?<eos>
+<bos>Right here.<eos>
+<bos>Hey, aren't you guys coming?<eos>
+<bos>No, we've...<eos>
+<bos>you know, we've only gone in at night.<eos>
+<bos>Okay.<eos>
+<bos>This spot you told me about<eos>
+<bos>where you watched the air show,<eol>how far is it?<eos>
+<bos>45 minutes?<eos>
+<bos>Will I be able to find it?<eos>
+<bos>GIRL: Just stay on the path.<eos>
+<bos>And what about this<eol>other place you told me about--<eos>
+<bos>Yellow Base,<eos>
+<bos>where they hangar them...?<eol>Don't. Don't even.<eos>
+<bos>It's like... ten miles.<eos>
+<bos>Nobody's ever... nobody's ever<eol>been that far!<eos>
+<bos>Hey, don't go past the edge<eol>of the tall weeds.<eos>
+<bos>Oh, man.<eos>
+<bos>Did we tell him about<eol>the land mines and junk?<eos>
+<bos>Hey!<eos>
+<bos>SOLDIER: You got him! Go! Go!<eos>
+<bos>No!<eos>
+<bos>MAN: Come on, hold him.<eos>
+<bos>Oxygen.<eos>
+<bos>Yeah, I'm-I'm trying to make<eol>a call to Washington, DC,<eos>
+<bos>and I can't seem to get<eol>a long-distance line.<eos>
+<bos>Hello? Hello?<eos>
+<bos>Excuse me.<eos>
+<bos>Um, my phone's not working.<eos>
+<bos>Can I use yours to make<eol>a credit card call, please?<eos>
+<bos>Sure thing.<eos>
+<bos>Thank you.<eos>
+<bos>This one's not working either.<eos>
+<bos>Phones are pretty<eol>undependable around here.<eos>
+<bos>People say<eol>it's the military interference,<eos>
+<bos>but they say that about everything.<eos>
+<bos>Thanks.<eos>
+<bos>Hi.<eos>
+<bos>I was just looking for you.<eos>
+<bos>I knocked but I saw the door was open.<eos>
+<bos>I was in the lobby,<eol>trying to make a call.<eos>
+<bos>Phones down again?<eos>
+<bos>Yeah.<eos>
+<bos>Base to Redbird.<eos>
+<bos>Can you give us your position? Over.<eos>
+<bos>Redbird, do you copy?<eos>
+<bos>What are you doing?<eos>
+<bos>Excuse me.<eos>
+<bos>There's nothing in there.<eos>
+<bos>Against the car!<eos>
+<bos>Hands on the car! Do it!<eos>
+<bos>Put the gun down,<eol>and we'll talk about it.<eos>
+<bos>I said hands against the car!<eos>
+<bos>Who are you?<eos>
+<bos>You're a long way from home, Dr. Scully.<eos>
+<bos>Nobody wants this<eol>to come to violence now.<eos>
+<bos>Where's Mulder?<eos>
+<bos>We took him to the base.<eos>
+<bos>We waited for him.<eos>
+<bos>I want you to get on that walkie-talkie<eos>
+<bos>and find out where Mulder is.<eos>
+<bos>I don't think I can do that.<eos>
+<bos>I think you can<eos>
+<bos>or I'm going to have every<eol>newspaper in America out here<eos>
+<bos>writing about your experimental aircraft!<eos>
+<bos>Vitals...<eos>
+<bos>Respiration is normal.<eos>
+<bos>Blood pressure... 120/50.<eos>
+<bos>There are other ways to go about this.<eos>
+<bos>Yeah, I've already seen<eos>
+<bos>where you get with tears and a sad story.<eos>
+<bos>Package is arriving...<eos>
+<bos>Roger.<eos>
+<bos>What are we doing?<eos>
+<bos>Waiting.<eos>
+<bos>I want the car running.<eos>
+<bos>I said start the car!<eos>
+<bos>And put your hands on the wheel<eol>where I can see them.<eos>
+<bos>You do anything stupid<eos>
+<bos>and this situation could get big<eol>in a hurry.<eos>
+<bos>Yeah, you just keep<eol>telling yourself that.<eos>
+<bos>MAN: Intruder arriving.<eos>
+<bos>MAN 2: Copy.<eos>
+<bos>I want you to keep the car running<eos>
+<bos>and step out of the car.<eos>
+<bos>Get in the car, Mulder.<eos>
+<bos>Get in the car!<eos>
+<bos>I just want to say,<eol>everything you've seen here<eos>
+<bos>is equal to the protection we give it.<eos>
+<bos>It's you who have acted inappropriately.<eos>
+<bos>You okay, Mulder?<eos>
+<bos>I think so.<eos>
+<bos>Scully, I...<eos>
+<bos>What?<eos>
+<bos>How did I get here?<eos>
+<bos>MULDER: Hi.<eos>
+<bos>Hello.<eos>
+<bos>We came by to see<eol>how your husband was doing.<eos>
+<bos>Oh, he's fine.<eos>
+<bos>He's getting much better now.<eos>
+<bos>Do you think maybe we could see him?<eos>
+<bos>Um, well, he's resting now.<eos>
+<bos>BUDAHAS: Who is it now?<eos>
+<bos>Thank you for your concern.<eos>
+<bos>They got to her, Scully.<eos>
+<bos>They were here.<eos>
+<bos>They must've threatened her and Budahas--<eos>
+<bos>That's enough, Mulder!<eos>
+<bos>We don't know anything--<eos>
+<bos>anything more than when we got here...<eos>
+<bos>and that's what I'm going<eol>to write in my field report.<eos>
+<bos>Let's get out of here, Mulder...<eos>
+<bos>as fast as we can.<eos>
+<bos>SCULLY: Lieutenant Colonel Robert Budahas<eos>
+<bos>was returned to his home,<eos>
+<bos>though his own knowledge of his<eol>disappearance and whereabouts<eos>
+<bos>is vague and inconclusive.<eos>
+<bos>Special Agent Mulder's insistence<eos>
+<bos>that Budahas may have been a test pilot<eos>
+<bos>on a top secret project<eos>
+<bos>involving aircraft using<eol>"recovered UFO" technology<eos>
+<bos>and may have suffered severe<eol>stress-related trauma<eos>
+<bos>by flying these aircraft<eol>is also inconclusive.<eos>
+<bos>Though this agent can corroborate<eos>
+<bos>Agent Mulder's eyewitness account<eos>
+<bos>of two unidentified flying objects<eos>
+<bos>in the northern sky over Ellens Air Base,<eos>
+<bos>their exact nature or design<eol>could not be determined.<eos>
+<bos>Barring further authorized<eol>inquiry, this case...<eos>
+<bos>Your lives may be in danger.<eos>
+<bos>Why?<eos>
+<bos>Mm, you've seen things<eol>that weren't to be seen.<eos>
+<bos>Care and discretion are now imperative.<eos>
+<bos>I saw something I...<eos>
+<bos>As I said,<eos>
+<bos>I can provide you with information<eos>
+<bos>but only so long as it's in<eol>my best interest to do so.<eos>
+<bos>What is your interest?<eos>
+<bos>The truth.<eos>
+<bos>I did see something...<eos>
+<bos>but it's gone.<eos>
+<bos>They took it from me.<eos>
+<bos>They erased it.<eos>
+<bos>You have to tell me what it was.<eos>
+<bos>A military UFO.<eos>
+<bos>Mr. Mulder, why are those like yourself<eos>
+<bos>who believe in the existence<eol>of extraterrestrial life<eos>
+<bos>on this earth not dissuaded<eol>by all the evidence<eos>
+<bos>to the contrary?<eos>
+<bos>Because... all the evidence<eol>to the contrary<eos>
+<bos>is not entirely dissuasive.<eos>
+<bos>Precisely.<eos>
+<bos>They're here, aren't they?<eos>
+<bos>Mr. Mulder, they've been here<eol>for a long, long time.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

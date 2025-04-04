@@ -1,0 +1,421 @@
+<bos>Max?<eos>
+<bos>Max, you there?<eos>
+<bos>You're late, kid.<eos>
+<bos>It's way past his bedtime, Max.<eos>
+<bos>He's not cut out for this.<eos>
+<bos>Cut out for what?<eos>
+<bos>Oh, there's more here than just trees.<eos>
+<bos>Before you can find out what,<eos>
+<bos>I gotta know that you're not gonna<eol>tell anyone about this place.<eos>
+<bos>I won't. I swear.<eos>
+<bos>It's a vow, Tony. Don't make it<eol>if you're gonna break it.<eos>
+<bos>I won't break it, man. Not ever.<eos>
+<bos>No matter what?<eos>
+<bos>Even if someone dies tonight?<eos>
+<bos>Anthony Reed.<eos>
+<bos>- Got any outstanding warrants?<eol>- No, of course not.<eos>
+<bos>- Look, I was just taking a walk.<eol>- Uh-huh.<eos>
+<bos>Right past all those big<eol>"no trespassing" signs?<eos>
+<bos>Now you just stand there for a minute.<eos>
+<bos>Come on, man. I didn't do anything.<eos>
+<bos>I wish I had a nickel for every time I<eol>had to drag you kids out of these woods.<eos>
+<bos>It'd be a lot of nickels.<eol>Do you have any calls from dispatch?<eos>
+<bos>Sir?<eos>
+<bos>Dispatch to Foster.<eol>I didn't copy your last transmission.<eos>
+<bos>Officer?<eos>
+<bos>Dispatch to Foster, do you copy?<eos>
+<bos>Deputy Foster, this is Dispatch.<eol>Do you copy?<eos>
+<bos>Deputy Foster, sir, what's your 20?<eos>
+<bos>Oh. There you are. Heavy traffic?<eos>
+<bos>A sheriff s deputy is slain<eol>during a routine patrol.<eos>
+<bos>It's a tragic occurrence, but<eol>I don't see the mystery here, Mulder.<eos>
+<bos>Except said that the deputy was beaten<eol>to death by an invisible assailant.<eos>
+<bos>Yes, but that's according to the<eol>young man who's accused of his murder.<eos>
+<bos>One Tony Reed, and I'm guessing<eol>wrongfully accused.<eos>
+<bos>He's an "A" student, moved here<eol>a few months ago from Philadelphia.<eos>
+<bos>He's never been in trouble in his life.<eos>
+<bos>Maybe. Take a look at the body.<eos>
+<bos>The former Deputy Ronald Foster.<eos>
+<bos>As you can see, the report doesn't<eol>quite do it justice.<eos>
+<bos>Oh, my God. It looks like<eol>he was hit with a sledgehammer.<eos>
+<bos>Police flashlight.<eos>
+<bos>One blow.<eos>
+<bos>Damage to the maxilla facial<eol>bones and the cranium...<eos>
+<bos>is consistent with<eol>a blunt force trauma, but...<eos>
+<bos>I'd say that Tony eats his Wheaties.<eos>
+<bos>Check out the back of his head.<eos>
+<bos>His eyeglasses.<eos>
+<bos>Penetrated to the back of his skull.<eos>
+<bos>Babe Ruth couldn't hit this hard,<eol>let alone a high school sophomore.<eos>
+<bos>- No, his tox screen came back negative.<eol>- Well, even so,<eos>
+<bos>enable feats of<eol>near super human strength.<eos>
+<bos>Agent Mulder? How long you plannin'<eol>on bein'down here?<eos>
+<bos>Sheriff Harden, this is<eol>my partner, Agent Scully.<eos>
+<bos>How long you plan on bein' down here?<eos>
+<bos>I'd like Ron left in peace. I don't<eol>know what there is to see anyway.<eos>
+<bos>I got the murder weapon<eol>with bloody fingerprints,<eos>
+<bos>- Well, uh, we're done here, right?<eol>- Mm-hmm.<eos>
+<bos>But, Sheriff Harden, you won't mind<eol>if I talk to Tony Reed, do you?<eos>
+<bos>I mean, it won't hurt your case. And<eol>if he did do it, you'll wanna know why.<eos>
+<bos>What?<eos>
+<bos>Well, Tony, this must be<eol>your lucky day for visitors.<eos>
+<bos>- This is Agent Scully with the F.B. I...<eol>- I'm not talkin' anymore, okay?<eos>
+<bos>Well, that might make things worse.<eos>
+<bos>They seem pretty bad already.<eos>
+<bos>In your statement, you say that<eol>Deputy Foster stopped you.<eos>
+<bos>But you don't say why.<eos>
+<bos>Come on. You were cruisin', right?<eos>
+<bos>I mean, a small town like this, you're<eol>not exactly livin' la vida loca.<eos>
+<bos>I know. I grew up in Dullsville too.<eol>Nothing to do but drive and park.<eos>
+<bos>How long ago was that? Look.<eos>
+<bos>Don't you think I know what you're doing?<eos>
+<bos>If you didn't do it, it's all<eol>the more reason to clear it up.<eos>
+<bos>Everything I know... is in my statement.<eos>
+<bos>Okay, but bear with us,<eol>'cause we're old and stupid.<eos>
+<bos>How long was it between<eol>the time you heard the scream...<eos>
+<bos>to the time that you found Deputy Foster?<eos>
+<bos>Tony, you're not likely<eol>to get a fairer hearing than this.<eos>
+<bos>Maybe ten, fifteen seconds.<eos>
+<bos>You didn't see anyone near the<eol>patrol car? You didn't hear anything?<eos>
+<bos>And you're still<eol>gonna stick with your story...<eos>
+<bos>that you were the only one there,<eol>is that right?<eos>
+<bos>Uh...<eos>
+<bos>I wanna go back to my cell.<eos>
+<bos>Sixteen years old and his life is over<eol>unless he starts tellin' the truth.<eos>
+<bos>If you really think he's guilty,<eol>why don't you ask yourself this:<eos>
+<bos>Why wouldn't he make up<eol>a more plausible cover story?<eos>
+<bos>Why didn't he say that a pickup<eol>full of hillbillies...<eos>
+<bos>drove by and clobbered<eol>the deputy and ran away?<eos>
+<bos>I'm not saying he's guilty.<eos>
+<bos>I'm inclined to agree that Tony Reed<eol>did not commit murder.<eos>
+<bos>But I think that he saw the person who<eol>did, and he may be covering up for it.<eos>
+<bos>I'm not sure there was a person to see.<eol>I think there was a force at work here.<eos>
+<bos>Poltergeists have long been associated<eol>with violent acts like this,<eos>
+<bos>and they tend to manifest<eol>around young people.<eos>
+<bos>They seem to be drawn<eol>to the turmoil of adolescence.<eos>
+<bos>Mulder, rather than spirits,<eos>
+<bos>can we at least start<eol>with Tony's friends?<eos>
+<bos>Please, just... for me?<eos>
+<bos>I think there's one person in particular<eol>I'd like to talk to.<eos>
+<bos>Let's wrap it up, people.<eos>
+<bos>Two-minute warnin'.<eos>
+<bos>There goes half your grade, Max.<eos>
+<bos>- You missed the midterm.<eol>- Not if I take it right now.<eos>
+<bos>- In one minute?<eol>- Oh, I've been studying.<eos>
+<bos>I don't care who your father is.<eos>
+<bos>You fail my test, it sticks.<eos>
+<bos>I guess I better ace it then, huh?<eos>
+<bos>Take your seat, young man.<eos>
+<bos>- Piece of cake.<eol>- It is when you mark 'em at random.<eos>
+<bos>Go ahead. Check it.<eos>
+<bos>Maybe I got more goin' on<eol>than people know.<eos>
+<bos>- He didn't kill that cop.<eol>- How can you be so sure?<eos>
+<bos>- Tony just doesn't have it in him.<eol>- Do you?<eos>
+<bos>Were you there when it happened?<eos>
+<bos>Look, I gotta go.<eos>
+<bos>Chastity, if you know something,<eol>now's the time to mention it.<eos>
+<bos>Let's go.<eos>
+<bos>- How do you know who my dad is?<eol>- You got the same last name.<eos>
+<bos>Oh, you're good.<eos>
+<bos>We're done here. Come on, babe.<eos>
+<bos>You must've been a Betty back in the day.<eos>
+<bos>- A "Betty"? - "Back in the day."<eos>
+<bos>Scully.<eos>
+<bos>What about the murder weapon?<eos>
+<bos>All I know is we put the flashlight<eol>in here and now it's gone.<eos>
+<bos>It's like it just disappeared<eol>into thin air.<eos>
+<bos>What does the tape show?<eos>
+<bos>That no unauthorized persons came in and<eol>no one went anywhere near this locker.<eos>
+<bos>- Was this here before? - I don't know.<eos>
+<bos>Can we take a look<eol>at the surveillance tape?<eos>
+<bos>You can see that<eol>the flashlight was properly secured.<eos>
+<bos>It's not like we're runnin'some kind<eol>of half-assed operation here.<eos>
+<bos>No one's saying that you are, Sheriff.<eos>
+<bos>Here's when the state police<eol>showed up to take it to the crime lab.<eos>
+<bos>There's me goin'to get it.<eos>
+<bos>We opened up the locker, and it's gone.<eos>
+<bos>- May I? - I watched it a dozen times.<eos>
+<bos>Plus, there's no gap in the time code.<eos>
+<bos>The murder weapon was<eol>the only hard evidence we had.<eos>
+<bos>Without it, we got no case.<eos>
+<bos>You know what I gotta do now?<eos>
+<bos>I gotta call Ron Foster's widow and tell<eol>her that I gotta turn his killer loose.<eos>
+<bos>Scully, check this out.<eos>
+<bos>- What am I supposed to be seeing?<eol>- Here it comes.<eos>
+<bos>Now you see it.<eos>
+<bos>One more frame. Now you don't.<eos>
+<bos>What do you make of that, Scully?<eol>Take another look.<eos>
+<bos>Now it's here.<eos>
+<bos>Now it's not.<eos>
+<bos>Are you ready to be straight with me?<eos>
+<bos>Leave me alone, Mom.<eol>Would you just leave me alone.<eos>
+<bos>I'm tired!<eos>
+<bos>This isn't like a bad report card,<eol>Anthony. A man is dead.<eos>
+<bos>I told you, I didn't do it!<eos>
+<bos>It's just that what you say happened<eol>doesn't make sense.<eos>
+<bos>There's gotta be more to it.<eos>
+<bos>Well, there isn't. Okay?<eos>
+<bos>Are those kids involved in this?<eol>That boy Max?<eos>
+<bos>No.<eos>
+<bos>- You don't even know them.<eol>- I do know them. I was your age once.<eos>
+<bos>Tony, we came here to get a fresh start,<eos>
+<bos>get away from them bad schools,<eol>the wrong crowd.<eos>
+<bos>You are doing so well here.<eos>
+<bos>How would you know? You're never around.<eos>
+<bos>You think it's my dream to work two jobs?<eos>
+<bos>I'm doin' it for you, Tony.<eos>
+<bos>I just wanna get some sleep.<eol>That's all I want.<eos>
+<bos>You got a chance at a good life,<eos>
+<bos>a real future.<eos>
+<bos>We didn't come all this way<eol>so you could throw it away.<eos>
+<bos>Listen to that, man. This car's got guts.<eos>
+<bos>- Sort of like you that way.<eol>- Whose car is this, Max?<eos>
+<bos>Chastity told you to shut up<eol>and sit tight and things would be fine.<eos>
+<bos>- You did that. It tells me a lot.<eol>- Everything's not fine.<eos>
+<bos>We're in a stolen car, a cop is dead.<eos>
+<bos>Calm down, man. He'd been<eol>snoopin' around. He had to go.<eos>
+<bos>What do you mean, "He had to go"?<eol>What happened out there?<eos>
+<bos>You gotta learn not<eol>to ask so many questions.<eos>
+<bos>Slow the hell down, man!<eol>You're freakin' me out!<eos>
+<bos>You ain't seen nothin' yet.<eos>
+<bos>- Max, look out!<eos>
+<bos>I'm gonna make you one of us.<eos>
+<bos>But I call the shots.<eol>Always remember that.<eos>
+<bos>Hey, Chuck.<eos>
+<bos>Sorry to make you trek over here<eol>for what's probably a glitch.<eos>
+<bos>- What'd you come up with?<eol>- Nothing but eye strain at first.<eos>
+<bos>Then I ran it through<eol>my imaging software.<eos>
+<bos>I'm here to tell you, it's not a glitch.<eol>It's what the camera saw.<eos>
+<bos>Yes and no. Initially,<eol>I was thinking spectral manifestation.<eos>
+<bos>But with spirit activity, you'd expect<eol>to see light streaks, auras,<eos>
+<bos>atmospheric disturbances,<eol>translucent figures.<eos>
+<bos>Whatever this is, it's not a ghost.<eos>
+<bos>That's what the gunk<eol>on the floor turned out to be.<eos>
+<bos>Huh. I dig a mystery with layers.<eos>
+<bos>Chuck, I get the feeling<eol>you don't know what the hell this is.<eos>
+<bos>I cross-referenced<eol>the shape's silhouette...<eos>
+<bos>The closest match was<eol>a Soviet Akula class submarine.<eos>
+<bos>I think we can rule that out.<eos>
+<bos>And then there's this weirdness.<eos>
+<bos>around the anomaly.<eos>
+<bos>- A shadow.<eol>- It fit with the lighting in the room.<eos>
+<bos>Which is impossible because<eol>it only appears for a single frame.<eos>
+<bos>One-thirtieth of a second.<eos>
+<bos>You know what? Maybe, uh,<eol>SCAG can give us a clearer picture.<eos>
+<bos>I'm beta testing it forJ.P.L.<eos>
+<bos>It's still in the tweaking phase,<eol>but the basic idea is...<eos>
+<bos>I assign known color values...<eos>
+<bos>onto the black-and-white image.<eos>
+<bos>Then SCAG assigns chromatic values<eol>throughout the frame,<eos>
+<bos>in effect making an<eol>educated guess at, uh,<eos>
+<bos>what all the colors might be.<eos>
+<bos>It still needs fine tuning.<eos>
+<bos>What?<eos>
+<bos>You recognize these colors, Scully?<eos>
+<bos>I'm not. I heard you took a ride.<eos>
+<bos>What was that? How did he do it?<eos>
+<bos>You'll find out.<eos>
+<bos>Maybe you were right...<eol>about me not bein' cut out for this.<eos>
+<bos>It's a little late for second thoughts.<eos>
+<bos>You tryin' to move in on my girl?<eos>
+<bos>- Saved by the bell.<eos>
+<bos>Hey, you wanna stare at someone?<eol>Stare at me.<eos>
+<bos>Well, class.<eos>
+<bos>I graded your midterms.<eos>
+<bos>Save for a few of you,<eol>the news is not good.<eos>
+<bos>Mr. Pembleton.<eos>
+<bos>What happened?<eos>
+<bos>Welcome back, Mr. Reed.<eos>
+<bos>Expect to make up the test tomorrow.<eos>
+<bos>Mr. Harden, you're here<eol>on time for a change.<eos>
+<bos>What's this?<eos>
+<bos>- Self-explanatory, isn't it?<eol>- I got every answer right.<eos>
+<bos>- Not because you knew the material.<eol>- You sayin' I cheated? How?<eos>
+<bos>I have no idea how.<eos>
+<bos>But you did. And I won't tolerate it.<eos>
+<bos>Back to business, people.<eos>
+<bos>- Mr. Guider?<eos>
+<bos>How do I tell Max that I want out?<eos>
+<bos>I wish I could help you, Tony.<eos>
+<bos>I can't even help myself.<eos>
+<bos>Babbit!<eos>
+<bos>Oh, my God!<eos>
+<bos>Excuse me, please. Thank you.<eos>
+<bos>Just stay back.<eos>
+<bos>I'll show you my theory<eol>if you show me yours.<eos>
+<bos>Based on the eyewitness accounts<eol>of the students I spoke to,<eos>
+<bos>at this moment I'd have to say<eol>that I don't have one.<eos>
+<bos>What about for these globs of goo?<eos>
+<bos>- The ones we found in the evidence room?<eol>- Yeah.<eos>
+<bos>I'm guessing Max Harden could tell us<eol>how they got there.<eos>
+<bos>You think Max did this? Based on what?<eos>
+<bos>because he failed him<eol>on his midterm exam, so he had motive.<eos>
+<bos>Well, he may have had motive,<eol>but he didn't have opportunity.<eos>
+<bos>There was nobody here<eol>who saw him even go near the victim.<eos>
+<bos>Maybe he didn't need to.<eol>I pulled his records.<eos>
+<bos>As his behavior was getting worse,<eol>his grades were going through the roof.<eos>
+<bos>His body and his brain chemistry<eol>is in a state of unparalleled upheaval,<eos>
+<bos>plus there's peer pressure<eol>and-and substance abuse.<eos>
+<bos>Any one of these factors<eol>could alter his behavior radically.<eos>
+<bos>What if it's given him a kind of<eol>psychokinetic or paranormal ability...<eos>
+<bos>- That's your theory? - Yes, it is.<eos>
+<bos>Soon to be proven as soon<eol>as I get Max in for questioning.<eos>
+<bos>- I want to talk to him about his son.<eol>- He's with him now.<eos>
+<bos>You hear about Max? Is he okay?<eos>
+<bos>What, no candy, no flowers?<eos>
+<bos>My deputy told me you were comin'and why.<eos>
+<bos>Sheriff, we'd like to ask your son<eol>a few questions, if that's okay.<eos>
+<bos>The boy's sick. The doctors<eol>can't even say what's wrong with him.<eos>
+<bos>Max could tell them. You know why<eol>you collapsed, don't you, Max?<eos>
+<bos>Yeah. Too much teen spirit.<eos>
+<bos>You think? Smells like murder to me.<eos>
+<bos>Who do you think you're talkin'to here?<eos>
+<bos>Yeah, it's not like you got<eol>a damned thing on me.<eos>
+<bos>You got a problem with<eol>authority figures, don't you, Max?<eos>
+<bos>If I wasted Babbit, then how did<eol>I do it? Am I like Carrie or somethin'?<eos>
+<bos>I used some kind of mental powers?<eos>
+<bos>Came in handy with Babbit<eol>and Deputy Foster.<eos>
+<bos>Man, you're whistlin' "Dixie."<eos>
+<bos>High temperature and heart rate.<eos>
+<bos>Low blood sugar.<eol>Electrolytes show acidosis.<eos>
+<bos>All these symptoms are consistent<eol>with extreme exertion and withdrawal.<eos>
+<bos>Withdrawal? From what?<eos>
+<bos>and turn a flashlight into a battering<eol>ram also gives you quite a buzz.<eos>
+<bos>Well, if I can do all that,<eol>what's stoppin' me from doin' it to you?<eos>
+<bos>I don't know.<eos>
+<bos>Maybe the effect's worn off.<eos>
+<bos>Maybe you need another fix.<eos>
+<bos>As soon as I blow out of here,<eol>I'll be sure to get one.<eos>
+<bos>That's not gonna happen any time soon.<eos>
+<bos>Your condition's getting worse.<eos>
+<bos>And we're not gonna be able to help you<eol>unless you can tell us what's going on.<eos>
+<bos>Boy, is any of this true?<eos>
+<bos>- No.<eol>- You better pray I don't find out it is.<eos>
+<bos>Sir? Can we have a word outside?<eos>
+<bos>He's not a bad kid.<eol>He just needs discipline.<eos>
+<bos>If your son is in trouble,<eol>I'm sure you'd want to know about it.<eos>
+<bos>With that in mind, we'd like permission<eol>to search your house.<eos>
+<bos>You're not getting it.<eos>
+<bos>I'm not ready to jump on a bandwagon<eol>and call my boy a murderer.<eos>
+<bos>There's some, uh, test results<eol>missing from Max's chart.<eos>
+<bos>I think we should track 'em down.<eos>
+<bos>Thanks.<eos>
+<bos>Hot off the presses.<eos>
+<bos>Anything interesting?<eos>
+<bos>- This can't be right. - What is it?<eos>
+<bos>Oh, my God.<eos>
+<bos>What?<eos>
+<bos>Evidence of cerebral lesions<eol>from repeated concussions.<eos>
+<bos>Arthritis in the spine and major joints.<eos>
+<bos>Stress fractures.<eos>
+<bos>Numerous muscle and...<eos>
+<bos>- And ligament micro-tears.<eol>- What would cause this?<eos>
+<bos>In a teenager? I can't even imagine.<eos>
+<bos>This is the kind of thing that you'd see<eol>in someone who's crashed race cars...<eos>
+<bos>or played pro football for 15 years.<eos>
+<bos>Whatever Max is doing, it's killing him.<eos>
+<bos>I think I'm starting to get it.<eos>
+<bos>Max Harden's personal effects.<eos>
+<bos>Yeah.<eos>
+<bos>This is it. Those globs we found...<eos>
+<bos>this is where they came from.<eos>
+<bos>Speed, Scully. Somehow Max<eol>Harden has found a way...<eos>
+<bos>- To move faster than the eye can see.<eol>- Mulder.<eos>
+<bos>appeared to move on their own<eol>with enough force to penetrate a wall.<eos>
+<bos>Force equals mass times acceleration.<eol>Isn't that right?<eos>
+<bos>Yes, but it's impossible. The human body<eol>isn't designed to move like that.<eos>
+<bos>Exactly. That is... That is why<eol>his is falling apart.<eos>
+<bos>Agents, could you...<eos>
+<bos>Max... Max, please don't do this.<eol>You can stop.<eos>
+<bos>Sure. Just like you can.<eos>
+<bos>I mean hurting people.<eol>Haven't enough people already been hurt?<eos>
+<bos>This is not why I got you out!<eos>
+<bos>- Let's leave here. Let's just go away.<eol>- And do what?<eos>
+<bos>Find a place to get some help.<eos>
+<bos>Help for what? This is the best thing<eol>that's ever happened to me.<eos>
+<bos>I can't go back to things standin' still.<eos>
+<bos>And neither can you.<eos>
+<bos>Tony, what are you doing here?<eos>
+<bos>You went in that cave, didn't you?<eos>
+<bos>You shouldn't have done that.<eos>
+<bos>It was such a rush...<eol>moving fast like that.<eos>
+<bos>I didn't want this for you.<eol>How did you find it?<eos>
+<bos>I followed you. I was worried about you.<eos>
+<bos>That's so sweet.<eos>
+<bos>I wish things were different<eol>than how they are.<eos>
+<bos>Maybe they can be. With Max in<eol>the hospital, we could go to the cops.<eos>
+<bos>He's out.<eos>
+<bos>Oh, my God.<eos>
+<bos>Hello?<eos>
+<bos>Boo.<eos>
+<bos>You killed Ron Foster.<eos>
+<bos>Yeah, I did.<eos>
+<bos>Why?<eos>
+<bos>I don't know. You want some great reason?<eos>
+<bos>You little son of a bitch!<eos>
+<bos>He thought he was really somethin'.<eos>
+<bos>Always liked to push people around.<eos>
+<bos>Same as Babbit... and same as you.<eos>
+<bos>I'm not afraid of you anymore.<eos>
+<bos>I can't let you do this, Max.<eos>
+<bos>- Take him to O.R. one. - All right.<eos>
+<bos>Yo, Scully.<eos>
+<bos>How bad are his injuries?<eos>
+<bos>It's too soon to tell. He's unconscious<eol>and bleeding internally,<eos>
+<bos>apparently from a blow to the abdomen.<eos>
+<bos>Yeah, delivered with this.<eol>Max's weapon of choice against cops.<eos>
+<bos>Why would he leave it behind? Do you<eol>think he's doing it to taunt the police?<eos>
+<bos>No, I think somebody intervened.<eos>
+<bos>I think that's why the sheriff is<eol>still alive and why his gun is missing.<eos>
+<bos>But if he can do what you claim, then...<eol>then who could possibly intervene?<eos>
+<bos>The someone who knows exactly<eol>how Max does what he does.<eos>
+<bos>And someone who's finally<eol>standing up to him.<eos>
+<bos>Tony. How do we find him?<eos>
+<bos>Well, I would guess the source<eol>where Max gets his power from.<eos>
+<bos>The woods near where<eol>the deputy was killed.<eos>
+<bos>Tony never came clean<eol>about what he was doing out there.<eos>
+<bos>Well, maybe that's why<eol>the deputy was killed.<eos>
+<bos>Maybe he got too close to the truth.<eos>
+<bos>Chastity, we don't have to be doing this.<eos>
+<bos>I told you, I took care<eol>of things with Max.<eos>
+<bos>No, you didn't,<eol>and you shouldn't have tried.<eos>
+<bos>He was slowing down.<eol>Tony, you've slowed down too.<eos>
+<bos>If we don't get back to the cave<eol>before Max does, we're history.<eos>
+<bos>- Hurry! - I'll catch up.<eos>
+<bos>Chastity?<eos>
+<bos>Are you okay?<eos>
+<bos>You're late, kid.<eos>
+<bos>- What did you do to her?<eol>- She took a swing at me.<eos>
+<bos>You believe that?<eol>You got it all turned around.<eos>
+<bos>Come on, man.<eos>
+<bos>Who do you think you're dealin' with?<eos>
+<bos>All I ever wanted was<eol>you to be my friend, Tony.<eos>
+<bos>You stuck a knife in my back.<eos>
+<bos>And now I'm gonna mess you up.<eos>
+<bos>I'm sorry, Tony.<eos>
+<bos>I can't go back.<eos>
+<bos>Chastity?<eos>
+<bos>Did the U.S.G.S. show up?<eos>
+<bos>- And what'd they come up with?<eol>- Nothing.<eos>
+<bos>A little bat guano and above normal<eol>magnetic field readings,<eos>
+<bos>but nothing that would<eol>cause a physiological effect.<eos>
+<bos>- What'd you expect them to find, Mulder?<eol>- I don't know.<eos>
+<bos>A vortex like the one in Oregon.<eos>
+<bos>Gravitational aberrations,<eol>unique chemical compositions,<eos>
+<bos>relics that would indicate<eol>the cave was a sacred site.<eos>
+<bos>Something. Anything. I don't know.<eos>
+<bos>What if we're too old?<eos>
+<bos>You said teenagers differ...<eos>
+<bos>from adults chemically<eol>and physiologically.<eos>
+<bos>What if whatever's in that cave<eol>effects only them?<eos>
+<bos>Well, that's doubtful.<eos>
+<bos>But no more so than any other theory.<eos>
+<bos>I mean, it's worth checking out.<eos>
+<bos>Yeah? Well, we can't.<eos>
+<bos>As of an hour ago,<eol>they pumped concrete into the cave,<eos>
+<bos>sealed it for precautionary reasons.<eos>
+<bos>We'll never know.<eos>
+<bos>How's he doin'?<eos>
+<bos>Bruises and muscle strains mostly.<eos>
+<bos>He'll recover.<eol>Go back to being a normal kid.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

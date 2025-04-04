@@ -1,0 +1,667 @@
+<bos>Teena?<eos>
+<bos>Honey?<eos>
+<bos>You're freezing.<eos>
+<bos>Where's your jacket?<eos>
+<bos>Where's your daddy?<eos>
+<bos>In the yard.<eos>
+<bos>He told me he needed<eol>some time to himself.<eos>
+<bos>I'd say his time's up.<eos>
+<bos>Come on, honey.<eos>
+<bos>I'm sure he wouldn't<eol>want you to catch cold.<eos>
+<bos>Joel?<eos>
+<bos>Hey, Joel.<eos>
+<bos>Swing set's supposed to be for<eol>your daughter, not for you.<eos>
+<bos>I'll call 911.<eos>
+<bos>Daddy?<eos>
+<bos>Death by hypovolemia,<eos>
+<bos>75% blood loss.<eos>
+<bos>That's over four liters of blood.<eos>
+<bos>You could say the man<eol>was running on empty.<eos>
+<bos>The man's daughter, eight years old,<eos>
+<bos>was away from his side<eol>for no more than ten minutes.<eos>
+<bos>She doesn't remember anything.<eos>
+<bos>There was no trace evidence<eos>
+<bos>to be found at the crime scene.<eos>
+<bos>And any evidence<eol>would have been washed away<eos>
+<bos>by yesterday's rain.<eos>
+<bos>Oh, there were two small<eos>
+<bos>puncture wounds in the jugular.<eos>
+<bos>Are you at all familiar<eos>
+<bos>with the phenomenon<eol>of cattle mutilations?<eos>
+<bos>Hmm?<eos>
+<bos>Since 1967, over 34 states<eos>
+<bos>have reported unsolved cases<eol>of cattle mutilations.<eos>
+<bos>The trace evidence is remarkably similar.<eos>
+<bos>Incision marks of surgical precision.<eos>
+<bos>The area around the mouth,<eol>and, often, the sexual organs<eos>
+<bos>has been removed.<eos>
+<bos>There's a substantial degree<eol>of blood loss<eos>
+<bos>without a trace of blood at the scene.<eos>
+<bos>How can that be?<eos>
+<bos>Exsanguination.<eos>
+<bos>If you were to stick a needle<eos>
+<bos>in the jugular of any living creature,<eos>
+<bos>the heart itself would act as a pump.<eos>
+<bos>These animals have had<eol>their jugulars punctured<eos>
+<bos>in the same as the man<eol>from Greenwich, Connecticut,<eos>
+<bos>only this is the first time<eos>
+<bos>I've ever seen it on a human being.<eos>
+<bos>But there was no sign of a struggle.<eos>
+<bos>I mean, how can a man just sit<eol>through a bloodletting?<eos>
+<bos>The M.E. Found traces of digitalis--<eos>
+<bos>that's a South American plant<eos>
+<bos>that can be used as a paralytic drug.<eos>
+<bos>Wait a minute.<eos>
+<bos>These X files indicate<eos>
+<bos>this is a UFO-related phenomena.<eos>
+<bos>Often, there are sightings<eos>
+<bos>in the sky near the incident,<eol>surface burns...<eos>
+<bos>Witnesses often report time loss.<eos>
+<bos>We've seen this in abduction cases.<eos>
+<bos>That might explain why the girl<eol>can't remember anything.<eos>
+<bos>Mulder, why would alien beings<eol>travel light-years to Earth<eos>
+<bos>in order to play doctor on cattle?<eos>
+<bos>For the same reason<eol>we cut up frogs and monkeys.<eos>
+<bos>Besides...<eos>
+<bos>they seem to have stepped up<eol>their interest.<eos>
+<bos>Her mother passed away<eol>from ovarian cancer<eos>
+<bos>two years ago.<eos>
+<bos>There's no other family.<eos>
+<bos>We'll keep Teena here<eol>until we can place her<eos>
+<bos>with a foster family.<eos>
+<bos>Has she spoken about it?<eos>
+<bos>No, not a word.<eos>
+<bos>Any nightmares?<eos>
+<bos>No. At least, not that I know of.<eos>
+<bos>May we talk to her now?<eos>
+<bos>Yes.<eos>
+<bos>Teena.<eos>
+<bos>These are the people we talked about.<eos>
+<bos>This is Miss Scully and Mr. Mulder.<eos>
+<bos>Do you think you can talk to them?<eos>
+<bos>Okay.<eos>
+<bos>Hi.<eos>
+<bos>I know you must be feeling<eol>very sad right now<eos>
+<bos>and scared,<eos>
+<bos>but we want to find out<eol>what happened so we can help<eos>
+<bos>stop whoever hurt your daddy, okay?<eos>
+<bos>Okay.<eos>
+<bos>Did you ever see any strangers<eos>
+<bos>with your daddy at home?<eos>
+<bos>Did you ever see anyone<eol>yell at your daddy<eos>
+<bos>or your daddy yell at them?<eos>
+<bos>No.<eos>
+<bos>Can you think of anyone who might want<eos>
+<bos>to hurt your daddy?<eos>
+<bos>No.<eos>
+<bos>That's a nice bunny, Teena.<eos>
+<bos>Teena, can we talk about<eol>what happened that day?<eos>
+<bos>About what happened in the backyard?<eos>
+<bos>Yeah?<eos>
+<bos>Do you remember any<eol>strange sounds or lights<eos>
+<bos>or anything like that?<eos>
+<bos>There was red lightning.<eos>
+<bos>Can you tell me more<eol>about the red lightning?<eos>
+<bos>I can't remember.<eos>
+<bos>It all went dark.<eos>
+<bos>Have you ever seen<eol>anything like that before?<eos>
+<bos>You have?<eos>
+<bos>When?<eos>
+<bos>The men from the clouds.<eos>
+<bos>They were after my dad.<eos>
+<bos>Scully.<eos>
+<bos>Where?<eos>
+<bos>Why were these men after your dad?<eos>
+<bos>They wanted to exsanguinate him.<eos>
+<bos>Thanks. Mulder.<eos>
+<bos>What?<eos>
+<bos>There's been another one.<eos>
+<bos>It's like looking at a mirror image.<eos>
+<bos>The victim, Doug Reardon,<eol>was married with one daughter.<eos>
+<bos>Cause of death: hypovolemia.<eos>
+<bos>Mulder, this is uncanny.<eos>
+<bos>They also found traces<eol>of the poison, digitalis.<eos>
+<bos>Puncture wound?<eos>
+<bos>Uh... yes.<eos>
+<bos>On the jugular.<eos>
+<bos>Time of death was estimated at 2:30 p.m.<eos>
+<bos>Same day, only three hours earlier<eos>
+<bos>than the Simmons murder.<eos>
+<bos>That's Pacific Standard Time.<eos>
+<bos>That makes it the exact same moment.<eos>
+<bos>It appears as if we<eol>have two serial killers<eos>
+<bos>working in tandem.<eos>
+<bos>No, serial killers rarely work in pairs,<eos>
+<bos>and when they do,<eos>
+<bos>they kill together, not separately.<eos>
+<bos>Mulder, nothing beyond<eos>
+<bos>your leading questions to Teena Simmons<eos>
+<bos>substantiates UFO mutilation theory.<eos>
+<bos>Was Reardon's daughter<eol>here when he was murdered?<eos>
+<bos>Yes.<eos>
+<bos>The police report states<eol>that she remembers nothing.<eos>
+<bos>Uh, she's with her mother<eol>and family in Sacramento.<eos>
+<bos>When will they be back?<eos>
+<bos>Um... tomorrow.<eos>
+<bos>Even money, she'll<eol>remember red lightning.<eos>
+<bos>Teena?<eos>
+<bos>She was kidnapped from<eol>the social services home<eos>
+<bos>around 11:00 p.m. last night.<eos>
+<bos>Looks like someone was afraid<eos>
+<bos>she might remember too much.<eos>
+<bos>Someone or something, Scully.<eos>
+<bos>Connecticut state troopers<eos>
+<bos>set up roadblocks within a half an hour.<eos>
+<bos>Nothing.<eos>
+<bos>Maybe they weren't looking<eol>in the right direction.<eos>
+<bos>I told them to contact us<eol>in case they find her.<eos>
+<bos>Teena?<eos>
+<bos>No.<eos>
+<bos>What's your name?<eos>
+<bos>Cindy Reardon.<eos>
+<bos>Do you live here, Cindy?<eos>
+<bos>Ever since I was born, eight years ago.<eos>
+<bos>Help!<eos>
+<bos>Uh, this is the ceremonial<eol>signing of, uh, the bill<eos>
+<bos>which is now known as,<eos>
+<bos>and forever forward<eol>from this point on, known as...<eos>
+<bos>Cindy really is<eos>
+<bos>a beautiful little girl, Mrs. Reardon.<eos>
+<bos>Doug and I wanted to spoil her.<eos>
+<bos>We wanted to protect her<eos>
+<bos>from everything horrible in the world.<eos>
+<bos>She was daddy's little girl.<eos>
+<bos>Is she an only child?<eos>
+<bos>May I ask... was Cindy adopted?<eos>
+<bos>No.<eos>
+<bos>I gave birth to her<eol>at San Rafael General.<eos>
+<bos>So I assume you have<eos>
+<bos>all the proper documentation--<eos>
+<bos>birth certificate...<eos>
+<bos>Of course I do.<eos>
+<bos>Was she the only child<eol>delivered at that birth?<eos>
+<bos>What the hell kind of question is that?<eos>
+<bos>Look, I have told the police<eol>everything I know.<eos>
+<bos>Mrs. Reardon, have you ever<eol>seen this man before?<eos>
+<bos>Is... is this your suspect?<eos>
+<bos>No, he...<eos>
+<bos>No, Mrs. Reardon.<eos>
+<bos>This is not your daughter.<eos>
+<bos>That girl's name is Teena Simmons.<eos>
+<bos>She lives 3,000 miles away<eol>in Greenwich, Connecticut.<eos>
+<bos>That man-- her father--<eos>
+<bos>was killed in the same<eol>manner as your husband.<eos>
+<bos>Cindy is my daughter.<eos>
+<bos>I can show you videos of her birth.<eos>
+<bos>We tried for six years<eol>to become pregnant.<eos>
+<bos>In vitro fertilization?<eos>
+<bos>At which clinic?<eos>
+<bos>The Luther Stapes Center<eol>down in San Francisco.<eos>
+<bos>Thanks.<eos>
+<bos>Do you still believe<eos>
+<bos>this is UFO-related?<eos>
+<bos>Cindy Reardon didn't see red lightning.<eos>
+<bos>I don't know.<eos>
+<bos>The only thing similar about these girls<eos>
+<bos>does seem to be their appearance.<eos>
+<bos>Well, there is the random possibility<eos>
+<bos>that two people can have<eol>an unrelated likeness.<eos>
+<bos>Who both just happened to see<eol>their fathers exsanguinated.<eos>
+<bos>I'd like to get the odds<eol>on that in Vegas.<eos>
+<bos>The girls are the one and only link<eos>
+<bos>between identical murders.<eos>
+<bos>And one girl was just abducted.<eos>
+<bos>Kidnapped.<eos>
+<bos>'Potato, potahto'...<eos>
+<bos>Where are you going?<eos>
+<bos>If the murders were committed<eol>by the same person or persons<eos>
+<bos>and part of the pattern involves<eol>kidnapping the daughter...<eos>
+<bos>Then you'd expect<eol>the pattern to continue.<eos>
+<bos>I'm going to keep an eye the girl.<eos>
+<bos>You check out the clinic.<eos>
+<bos>See if the Simmons were enrolled<eol>in the same fertility program.<eos>
+<bos>Okay.<eos>
+<bos>I'll call the San Francisco bureau<eos>
+<bos>and get someone to relieve you.<eos>
+<bos>Okay.<eos>
+<bos>In vitro fertilization is a procedure<eos>
+<bos>in which we can implement fertilization<eos>
+<bos>and implantation of the<eol>embryo in the uterus.<eos>
+<bos>Could a patient believe<eol>she was receiving her own egg<eos>
+<bos>but actually receive another<eol>without her knowledge?<eos>
+<bos>Not here. We have very strict controls.<eos>
+<bos>Are you aware of ever having patients<eos>
+<bos>by the name of Claudia and Joel Simmons?<eos>
+<bos>Any information about our<eol>patients is confidential.<eos>
+<bos>It's our policy.<eos>
+<bos>Both the Simmons are dead,<eos>
+<bos>and their daughter has been kidnapped.<eos>
+<bos>I'd say any information you have<eol>that could help<eos>
+<bos>would override your policy.<eos>
+<bos>You had copies of their records<eos>
+<bos>transferred to Greenwich,<eol>Connecticut in 1991.<eos>
+<bos>They came here nine years ago<eos>
+<bos>under the supervision<eol>of a Dr. Sally Kendrick?<eos>
+<bos>Is there a problem?<eos>
+<bos>Dr. Kendrick was nothing but a problem.<eos>
+<bos>Hello, and welcome<eos>
+<bos>to the Luther Stapes Center<eol>for Reproductive Medicine.<eos>
+<bos>I'm Dr. Sally Kendrick,<eos>
+<bos>a specialist in the exciting field<eos>
+<bos>of in vitro fertilization...<eos>
+<bos>She was a resident here in 1985.<eos>
+<bos>Brilliant.<eos>
+<bos>First in her class at Yale Med<eol>where she got her M.D.<eos>
+<bos>after completing<eol>her doctorate in biogenetics.<eos>
+<bos>Oh, we were thrilled to get her.<eos>
+<bos>And now you don't sound so thrilled.<eos>
+<bos>We have reason to believe<eol>that Dr. Kendrick<eos>
+<bos>was tampering with genetic material<eos>
+<bos>of fertilized ova in the lab<eol>prior to implant--<eos>
+<bos>experimenting with eugenics.<eos>
+<bos>Did you report this to the AMA?<eos>
+<bos>Of course.<eos>
+<bos>And I fired her.<eos>
+<bos>I also requested an investigation<eos>
+<bos>from the U.S. Health Department.<eos>
+<bos>And what happened?<eos>
+<bos>The AMA censured her.<eos>
+<bos>My request for<eol>an investigation was denied.<eos>
+<bos>Dr. Kendrick... disappeared.<eos>
+<bos>We know the pain of infertility,<eol>and we are ready to help.<eos>
+<bos>In the next half hour,<eos>
+<bos>I will guide you<eol>through our IVF program...<eos>
+<bos>Kendrick was the supervising<eol>physician on both the Reardons'<eos>
+<bos>and the Simmons' IVF program.<eos>
+<bos>It seems she was<eol>experimenting at the clinic.<eos>
+<bos>And maybe now she's trying<eol>to erase the results?<eos>
+<bos>I wish that we could guarantee<eol>everyone success,<eos>
+<bos>but with our scientific advances,<eos>
+<bos>a little luck and a lot of hope,<eos>
+<bos>miracles can happen.<eos>
+<bos>Well, she must have had an accomplice<eos>
+<bos>in order to have done both murders.<eos>
+<bos>So you think this is a vendetta<eol>that she and a colleague<eos>
+<bos>have against the Stapes Center?<eos>
+<bos>Mulder, does this mean you have<eol>abandoned your UFO connection?<eos>
+<bos>Hello?<eos>
+<bos>Hello?<eos>
+<bos>Just a couple clicks.<eos>
+<bos>Must be the wrong number.<eos>
+<bos>I'll tell you what...<eos>
+<bos>um, I'm going to sleep on it<eos>
+<bos>and we'll talk about it in the morning.<eos>
+<bos>Mulder, you're rushing me<eol>out of the room.<eos>
+<bos>No, I'm not.<eos>
+<bos>Do you have a girl coming over?<eos>
+<bos>What's a girl?<eos>
+<bos>I got a movie I want to watch on TV.<eos>
+<bos>Sleep tight.<eos>
+<bos>I'll see you in the morning.<eos>
+<bos>Are you certain she hasn't followed you?<eos>
+<bos>Yes.<eos>
+<bos>What are you doing here?<eos>
+<bos>Well, I thought we might<eol>take in a Warriors game.<eos>
+<bos>No. Actually, I was, uh...<eos>
+<bos>just in the neighborhood<eos>
+<bos>and, uh...<eos>
+<bos>wondered if I had ever told you<eos>
+<bos>about the Litchfield experiments.<eos>
+<bos>Hmm... no, you haven't.<eos>
+<bos>Well, it was a most...<eos>
+<bos>interesting project.<eos>
+<bos>Highest level of classification.<eos>
+<bos>All records have since been destroyed.<eos>
+<bos>And those who knew of it<eos>
+<bos>will deny knowledge of its existence.<eos>
+<bos>In the early '50s,<eos>
+<bos>during the height of the Cold War,<eos>
+<bos>we got wind that the Russians<eos>
+<bos>were fooling around with eugenics--<eos>
+<bos>rather primitively, I might add--<eos>
+<bos>trying to crossbreed<eos>
+<bos>their top scientists, athletes--<eos>
+<bos>you name it--<eos>
+<bos>to come up with the superior soldier.<eos>
+<bos>Naturally, we jumped on the bandwagon.<eos>
+<bos>The Litchfield experiment.<eos>
+<bos>Mm-hmm.<eos>
+<bos>A group of genetically<eol>controlled children<eos>
+<bos>who were raised and monitored<eol>on a compound in Litchfield.<eos>
+<bos>The boys were called "Adam"<eos>
+<bos>and the girls were called "Eve."<eos>
+<bos>There's a woman you should see,<eos>
+<bos>and I'll make sure that you can get in.<eos>
+<bos>Agents Mulder and Scully<eol>here to see Eve 6.<eos>
+<bos>Deposit your firearms.<eos>
+<bos>Sign for these.<eos>
+<bos>What are those?<eos>
+<bos>Panic buttons.<eos>
+<bos>Can't let you inside without one.<eos>
+<bos>Lockdown!<eos>
+<bos>Thank you.<eos>
+<bos>Why the flashlight?<eos>
+<bos>She screams and screams<eol>if we turn the overheads on.<eos>
+<bos>No one's ever got<eol>a real good look at her.<eos>
+<bos>We'll be right outside.<eos>
+<bos>Hello?<eos>
+<bos>So I guess you found<eol>what you're looking for.<eos>
+<bos>One of us, at least.<eos>
+<bos>Sally Kendrick.<eos>
+<bos>Unlock the chains, and then we'll talk.<eos>
+<bos>They're probably there for a good reason.<eos>
+<bos>No. A bad reason.<eos>
+<bos>I paid too much attention to a guard.<eos>
+<bos>Bit into his eyeball.<eos>
+<bos>I meant it as a sign of affection.<eos>
+<bos>Are you here to give me<eol>an IQ test, by any chance?<eos>
+<bos>I think I can top 265.<eos>
+<bos>We're very bright, we Eves.<eos>
+<bos>It runs in the family.<eos>
+<bos>Where are the others,<eol>the Adams and the Eves?<eos>
+<bos>We're prone to suicide.<eos>
+<bos>All that's left is me...<eos>
+<bos>and Eve 7.<eos>
+<bos>She escaped early on.<eos>
+<bos>And Eve 8.<eos>
+<bos>She escaped ten years later.<eos>
+<bos>Are you Sally Kendrick?<eos>
+<bos>That's not my name, but...<eos>
+<bos>she is me, and I am her, and...<eos>
+<bos>'We are all together.'<eos>
+<bos>Did you work for the Luther Stapes Center<eos>
+<bos>for Reproductive Medicine in 1985?<eos>
+<bos>In 1985, I had been tied up<eol>like this for two years<eos>
+<bos>and for what reason?<eos>
+<bos>No reason. I did nothing.<eos>
+<bos>I'm just me.<eos>
+<bos>They made me...<eos>
+<bos>but did they suffer?<eos>
+<bos>No. No, I suffer.<eos>
+<bos>I suffer!<eos>
+<bos>They keep me alive<eos>
+<bos>for the Litchfield Project.<eos>
+<bos>They come in and they test me.<eos>
+<bos>They poke me to see what went wrong.<eos>
+<bos>Sally knows what went wrong.<eos>
+<bos>You and you--<eos>
+<bos>you have 46 chromosomes.<eos>
+<bos>The Adams, me, the Eves-- we have 56.<eos>
+<bos>We have extra chromosomes.<eos>
+<bos>Number four, five, 12, 16 and 22.<eos>
+<bos>This replication of chromosomes<eol>also produces additional genes.<eos>
+<bos>Heightened strength,<eol>heightened intelligence...<eos>
+<bos>Heightened psychosis.<eos>
+<bos>Saved the best for last.<eos>
+<bos>You don't believe me.<eos>
+<bos>I have proof.<eos>
+<bos>Look on my wall.<eos>
+<bos>My family album.<eos>
+<bos>My God.<eos>
+<bos>It's the girls.<eos>
+<bos>We were close.<eos>
+<bos>We were very close.<eos>
+<bos>Sally Kendrick was using the clinic<eos>
+<bos>to carry on the Litchfield experiment.<eos>
+<bos>She was cloning herself.<eos>
+<bos>"Now I lay me down to sleep<eos>
+<bos>"Pray the Lord my soul to keep<eos>
+<bos>"If I should die before I wake<eos>
+<bos>I pray the Lord my soul to take."<eos>
+<bos>God bless Grandma and Grampa Stenner,<eos>
+<bos>Irma and Irmapop,<eos>
+<bos>and God bless Mom<eos>
+<bos>and please take care of Daddy<eol>up in Heaven.<eos>
+<bos>You're such a special little girl, Cindy.<eos>
+<bos>Good night, honey.<eos>
+<bos>If Eve 6 is right<eos>
+<bos>and there are two other Eves out there,<eos>
+<bos>that could account for<eol>the two identical murders<eos>
+<bos>occurring at exactly the same time.<eos>
+<bos>Sally Kendrick does have<eos>
+<bos>an accomplice: herself.<eos>
+<bos>Until I heard that, I was<eol>beginning to suspect the girls.<eos>
+<bos>No, no, no, no.<eos>
+<bos>It seems the two remaining Eves<eos>
+<bos>are doing away with the parents<eos>
+<bos>in order to keep Teena and Cindy<eol>in the family.<eos>
+<bos>Do you suppose the girls<eol>have any idea of what they are?<eos>
+<bos>I hope not.<eos>
+<bos>Mulder, let's go.<eos>
+<bos>I'll take the back.<eos>
+<bos>There's someone upstairs.<eos>
+<bos>Wait outside.<eos>
+<bos>FBI!<eos>
+<bos>I'm armed!<eos>
+<bos>Which one are you?<eos>
+<bos>Eve 7 or Eve 8?<eos>
+<bos>Drop it.<eos>
+<bos>You know I'm capable.<eos>
+<bos>Slow.<eos>
+<bos>Very slow.<eos>
+<bos>The suspect's name is Sally Kendrick.<eos>
+<bos>Early 40s; five foot, eight; 135 pounds.<eos>
+<bos>Now, she may have an accomplice<eos>
+<bos>similar in appearance.<eos>
+<bos>Kendrick is driving<eol>a light blue '93 Corolla.<eos>
+<bos>She has exceptional strength<eol>for her size.<eos>
+<bos>So you must consider her<eol>armed and dangerous.<eos>
+<bos>Quite possibly she'll display<eol>severe psychotic behavior.<eos>
+<bos>Now, the Oakland bureau<eol>is here to orchestrate<eos>
+<bos>the search across the bridge.<eos>
+<bos>What if...?<eos>
+<bos>What if she kills her?<eos>
+<bos>First Doug, now Cindy?<eos>
+<bos>Mrs. Reardon, the fact that<eol>Kendrick and her accomplice<eos>
+<bos>murdered the fathers<eol>and abducted the girls<eos>
+<bos>tells us that they want them alive.<eos>
+<bos>I'm sure Cindy's alive<eol>and we'll find her.<eos>
+<bos>And then what do we do?<eos>
+<bos>I'm sorry you have to meet this way.<eos>
+<bos>But it's the best for all concerned.<eos>
+<bos>Teena Simmons, meet Cindy Reardon.<eos>
+<bos>Agent Scully?<eos>
+<bos>Mulder. Yep.<eos>
+<bos>They found the light blue Corolla<eos>
+<bos>in the parking lot<eol>of San Francisco International.<eos>
+<bos>Oh, good. Okay.<eos>
+<bos>Uh, I want you to start a check<eol>on every single passenger list<eos>
+<bos>for every flight that left the terminal<eos>
+<bos>within the past 12 hours.<eos>
+<bos>I want you to check every<eol>single terminal and make sure<eos>
+<bos>she's not hiding out for a later flight.<eos>
+<bos>And remember, she may have an accomplice.<eos>
+<bos>That was a motel manager in Pt. Reyes,<eos>
+<bos>says he's got a guest that matches<eos>
+<bos>Sally Kendrick's description.<eos>
+<bos>We just found the car at the airport.<eos>
+<bos>She might have ditched it.<eos>
+<bos>The manager says this woman<eol>checked in with a little girl,<eos>
+<bos>that she leaves the hotel<eol>in the afternoon by herself,<eos>
+<bos>is gone all night, and then<eol>returns with the little girl.<eos>
+<bos>Someone else could have<eol>picked up the girl<eos>
+<bos>without the manager knowing about it.<eos>
+<bos>I mean, the area is a place<eos>
+<bos>full of vacationing families.<eos>
+<bos>There could be hundreds of<eol>little kids running around.<eos>
+<bos>No, he remembers this kid.<eos>
+<bos>She told him he should use chlorine<eos>
+<bos>to eradicate the dinoflagellates<eol>in the swimming pool.<eos>
+<bos>Does that sound like someone you know?<eos>
+<bos>That's it.<eos>
+<bos>I've always kept a close eye<eol>on your behavior<eos>
+<bos>no matter where I was.<eos>
+<bos>The last few years,<eos>
+<bos>I spent in search of the remaining Eve.<eos>
+<bos>That, however, was cut short<eol>by your... activity.<eos>
+<bos>I'd hoped my work at the Stapes Center<eos>
+<bos>had corrected the Litchfield flaws.<eos>
+<bos>Psychotic behavior<eos>
+<bos>didn't develop in the Adams and Eves<eos>
+<bos>until age 16, homicidal behavior at 20.<eos>
+<bos>Imagine my... disappointment<eos>
+<bos>when I learned<eol>of your accelerated development.<eos>
+<bos>How did you learn<eol>of each other's existence?<eos>
+<bos>We just knew.<eos>
+<bos>Did you discuss how you would orchestrate<eos>
+<bos>your little... prank?<eos>
+<bos>We just knew.<eos>
+<bos>Why murder your fathers?<eos>
+<bos>They weren't our fathers.<eos>
+<bos>We have no parents.<eos>
+<bos>We weren't born.<eos>
+<bos>We were created.<eos>
+<bos>You... you cannot think that way.<eos>
+<bos>You're human beings...<eos>
+<bos>different, special...<eos>
+<bos>but you cannot give in<eol>to genetic destiny.<eos>
+<bos>That's why I've taken you.<eos>
+<bos>I was raised by a man<eol>who knew what I was.<eos>
+<bos>He was a genetic engineer on the project.<eos>
+<bos>With the... the proper environment<eos>
+<bos>and a program of long-term medication...<eos>
+<bos>you can become like me.<eos>
+<bos>And not the other Eves.<eos>
+<bos>Wh-What..? What have you done?<eos>
+<bos>Your soda--<eos>
+<bos>four ounces of foxglove.<eos>
+<bos>Extracted<eos>
+<bos>from a digitalis plant.<eos>
+<bos>This much is a lethal dose.<eos>
+<bos>We cultivated them ourselves.<eos>
+<bos>Wh-Why?<eos>
+<bos>You tell us.<eos>
+<bos>You made us.<eos>
+<bos>We're your mistake.<eos>
+<bos>I-I'll...<eos>
+<bos>correct... that mistake.<eos>
+<bos>Well, I waited like you told me.<eos>
+<bos>No one's come in or out<eol>that I could tell.<eos>
+<bos>Get the back!<eos>
+<bos>We were all supposed to drink,<eos>
+<bos>but we only pretended to drink it.<eos>
+<bos>They tried to poison us.<eos>
+<bos>Who's they?<eos>
+<bos>She and another lady.<eos>
+<bos>What did the other lady look like?<eos>
+<bos>Eve 8.<eos>
+<bos>They were working together.<eos>
+<bos>It's all right.<eos>
+<bos>We'll take care of you.<eos>
+<bos>You're safe with us.<eos>
+<bos>It looks like the Eves mixed<eos>
+<bos>about four ounces of digitalis<eos>
+<bos>in each glass.<eos>
+<bos>Their own mini-Jonestown.<eos>
+<bos>Eve 6 said they were prone to suicide.<eos>
+<bos>It has a sweet flavor.<eos>
+<bos>It's probably not even<eol>perceptible in soda.<eos>
+<bos>We're still searching the area,<eos>
+<bos>but so far, there's no sign<eol>of the other suspect.<eos>
+<bos>We'll have an officer<eol>take the girls back.<eos>
+<bos>No, uh, maybe it would be best<eos>
+<bos>if, uh, we take responsibility<eol>for the girls.<eos>
+<bos>We can get them checked<eol>out by a doctor and...<eos>
+<bos>Okay, whatever.<eos>
+<bos>Okay.<eos>
+<bos>Come on, girls.<eol>We're going to take you back.<eos>
+<bos>Back where?<eos>
+<bos>What's going to happen to Teena?<eos>
+<bos>We'll talk about it in the car, okay?<eos>
+<bos>They've already grown so attached.<eos>
+<bos>It's going to be hard<eos>
+<bos>when Teena's placed in foster care.<eos>
+<bos>Yeah.<eos>
+<bos>Agent Mulder, I have<eol>to go to the bathroom.<eos>
+<bos>Me, too.<eos>
+<bos>Can you hold it?<eos>
+<bos>I really need to go.<eos>
+<bos>I could use some caffeine.<eos>
+<bos>Hi.<eos>
+<bos>Where's your bathroom?<eos>
+<bos>In the back. You'll need a key.<eos>
+<bos>Thanks.<eos>
+<bos>Oh, uh, can I get four diet sodas?<eos>
+<bos>Regular. Regular.<eos>
+<bos>All right, uh, two...<eos>
+<bos>two diet and two regular, to go.<eos>
+<bos>Please. Thanks.<eos>
+<bos>Agent Scully, my door's stuck.<eos>
+<bos>Just a second.<eos>
+<bos>Just a minute.<eos>
+<bos>It's okay. My dad will pay for them<eos>
+<bos>when he gets out of the bathroom.<eos>
+<bos>Okay.<eos>
+<bos>Those are the diet?<eos>
+<bos>I think these are.<eos>
+<bos>Are you sure? It's really sweet.<eos>
+<bos>Okay.<eos>
+<bos>Let's go.<eos>
+<bos>Come on.<eos>
+<bos>Don't forget the drinks.<eos>
+<bos>Ah, the drinks.<eos>
+<bos>How much?<eos>
+<bos>Five dollars.<eos>
+<bos>Okay.<eos>
+<bos>Want to pay?<eos>
+<bos>Sure.<eos>
+<bos>There you go.<eos>
+<bos>You got those?<eos>
+<bos>Thanks.<eos>
+<bos>Mmm, tastes syrupy.<eos>
+<bos>Cindy, you didn't pick up my keys<eos>
+<bos>off the counter, did you?<eos>
+<bos>No.<eos>
+<bos>No? All right. I-I'll be right back.<eos>
+<bos>Scully!<eos>
+<bos>What?<eos>
+<bos>Scully...<eos>
+<bos>Just wanted to open the car door for you.<eos>
+<bos>Mulder!<eos>
+<bos>It's them. They poisoned it.<eos>
+<bos>Let's just get them in the car.<eos>
+<bos>Okay.<eos>
+<bos>I only had a sip.<eos>
+<bos>We didn't drink enough to make us sick.<eos>
+<bos>Stop it!<eos>
+<bos>Scully! I got them!<eos>
+<bos>Leave us alone!<eos>
+<bos>I got them!<eos>
+<bos>Scully!<eos>
+<bos>Hey!<eos>
+<bos>What the hell are you doing?<eos>
+<bos>Back off. I'm a federal agent.<eos>
+<bos>Yeah, and these are<eol>America's most wanted?<eos>
+<bos>Hands in front.<eos>
+<bos>Leave me alone!<eos>
+<bos>Now, let the girls go.<eol>Get in the truck, girls.<eos>
+<bos>Get in.<eos>
+<bos>I'm going to call the police.<eos>
+<bos>We are the police!<eos>
+<bos>Mulder!<eos>
+<bos>They went that way.<eos>
+<bos>You seen the twins we were with?<eos>
+<bos>No, I...<eos>
+<bos>There's a bunch of schoolkids<eos>
+<bos>just left on that bus.<eos>
+<bos>Forget your sodas?<eos>
+<bos>We didn't do anything wrong.<eos>
+<bos>We're just little girls.<eos>
+<bos>That's the last thing you are.<eos>
+<bos>They said they have an excellent program<eos>
+<bos>that can help her.<eos>
+<bos>They can't hide<eos>
+<bos>behind a bureaucracy, Mrs. Reardon.<eos>
+<bos>You have every right to know<eol>what happened--<eos>
+<bos>you have a right to know<eol>about your daughter.<eos>
+<bos>All I need to know is<eol>she was not my daughter.<eos>
+<bos>She never was.<eos>
+<bos>Hello, girls.<eos>
+<bos>It's so nice to have company.<eos>
+<bos>Sign for this.<eos>
+<bos>Hello, Eve 8.<eos>
+<bos>We've been waiting.<eos>
+<bos>How did you know I'd come for you?<eos>
+<bos>We just knew.<eos>
+<bos>We just knew.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

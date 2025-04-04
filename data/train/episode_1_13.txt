@@ -1,0 +1,905 @@
+<bos>ï»¿1 I'm here in Pasadena<eos>
+<bos>with the NASA Mission Control team<eos>
+<bos>as they celebrate scientific history--<eos>
+<bos>the first close-up photographic<eol>transmissions of Mars<eos>
+<bos>from the Viking observer spacecraft--<eos>
+<bos>photos that have created<eol>something of a stir<eos>
+<bos>by revealing surprising<eol>geologic information--<eos>
+<bos>the presence of large amounts of water<eos>
+<bos>locked in Mars' polar ice caps,<eol>water that some speculate<eos>
+<bos>could have possibly<eol>sustained life on the planet.<eos>
+<bos>Even more controversial is<eol>one image of a land formation--<eos>
+<bos>a formation that looks<eol>like a sculpted human face.<eos>
+<bos>However, NASA officials are denying it<eos>
+<bos>as an indication<eol>of an alien civilization.<eos>
+<bos>No, it's nothing more than<eol>a trick of light and shadows--<eos>
+<bos>a geologic anomaly.<eos>
+<bos>I'm afraid the only sculptors at work<eos>
+<bos>are the solar winds that blow<eol>across the surface of Mars<eos>
+<bos>at 300 miles an hour, ten months a year.<eos>
+<bos>I'm seeing... I've got...<eos>
+<bos>How's it going out there?<eos>
+<bos>There's something out here!<eos>
+<bos>Can you repeat that, Commander Belt?<eos>
+<bos>It's coming at me!<eos>
+<bos>Holy God!<eos>
+<bos>Pick up terminal sequence, NPS.<eos>
+<bos>You have a go to proceed.<eos>
+<bos>Booster hydraulic power<eol>units have started.<eos>
+<bos>This is Shuttle Launch Control<eos>
+<bos>with T-minus one minute,<eol>15 seconds and counting.<eos>
+<bos>OTC to CDR, how do you read?<eos>
+<bos>Loud and clear, OVCC.<eos>
+<bos>Go ahead. Roger that.<eos>
+<bos>OVCC verified.<eos>
+<bos>Port set up, two zero.<eos>
+<bos>Copy set up, two zero.<eos>
+<bos>CDR Houston, how do you read?<eos>
+<bos>Loud and clear.<eos>
+<bos>Side hatch close out and white room<eos>
+<bos>configuration is complete.<eos>
+<bos>Retracting orbiter arm.<eos>
+<bos>OMS pressure on.<eos>
+<bos>Cabin vent complete. Roger, we see that.<eos>
+<bos>All systems go for APU start.<eos>
+<bos>Transfer to internal power now.<eos>
+<bos>Pre-start complete. APU to inhibit.<eos>
+<bos>Oxygen vent hood retracted.<eos>
+<bos>External tank is at flight pressure.<eos>
+<bos>Lock your visors<eol>and initiate your O2 flow.<eos>
+<bos>Y'all have a good trip.<eos>
+<bos>Roger that.<eos>
+<bos>T-minus 20 seconds and counting.<eos>
+<bos>Go for auto-sequence start.<eos>
+<bos>Booster hydraulic power units<eol>have started.<eos>
+<bos>Go for main engine start.<eos>
+<bos>T-minus ten, nine, eight,<eos>
+<bos>seven, six, five,<eos>
+<bos>four, three...<eos>
+<bos>Abort liftoff. Abort liftoff.<eos>
+<bos>System failure. Abort liftoff.<eos>
+<bos>Repeat: we have an abort liftoff<eos>
+<bos>at T-minus three seconds.<eos>
+<bos>What did the note say?<eos>
+<bos>Just that they worked for NASA.<eos>
+<bos>They wanted to talk to somebody<eos>
+<bos>from the FBI.<eos>
+<bos>Why the cloak-and-dagger routine?<eos>
+<bos>I have no idea.<eos>
+<bos>Think it's a crank?<eos>
+<bos>It's beginning to look that way.<eos>
+<bos>My name is Michelle Generoo.<eos>
+<bos>Fox Mulder.<eos>
+<bos>I sent you the note.<eos>
+<bos>Hi. Special Agent Dana Scully.<eos>
+<bos>I'm sorry to have<eol>to take these precautions.<eos>
+<bos>I flew up from Houston this morning.<eos>
+<bos>I work at the space center there.<eos>
+<bos>In what capacity?<eos>
+<bos>I'm the Mission Control<eol>communications commander<eos>
+<bos>for the space shuttle program.<eos>
+<bos>What brings you to Washington?<eos>
+<bos>I have reason to believe<eol>that there may be<eos>
+<bos>a saboteur at work inside NASA.<eos>
+<bos>You have evidence of sabotage?<eos>
+<bos>I don't know. I may.<eos>
+<bos>Two weeks ago<eos>
+<bos>a shuttle mission was scrubbed<eol>three seconds before liftoff<eos>
+<bos>when an auxiliary<eol>power unit valve malfunctioned.<eos>
+<bos>If the flight had not been aborted,<eos>
+<bos>there was a great chance<eos>
+<bos>the liquid fuel system and the orbiter<eos>
+<bos>would have exploded on the launchpad.<eos>
+<bos>This was sent to me in the mail.<eos>
+<bos>It's a material analysis<eol>that shows deep-grooved<eos>
+<bos>scoring marks inside this APU valve--<eos>
+<bos>marks that could have<eol>caused a malfunction.<eos>
+<bos>Evidence of tampering?<eos>
+<bos>That's what it looks like, but...<eos>
+<bos>according to the person<eol>who gave me your names,<eos>
+<bos>you have expertise<eos>
+<bos>in unexplained phenomena.<eos>
+<bos>And what's unexplainable<eos>
+<bos>is how and when anybody<eol>could have done it.<eos>
+<bos>How do you mean?<eos>
+<bos>The valve is made<eol>of ferrocarbon titanium.<eos>
+<bos>To score that material would<eol>take extreme temperatures--<eos>
+<bos>launchpad temperatures.<eos>
+<bos>If anyone at NASA were to<eol>take a look at that analysis,<eos>
+<bos>they would say<eol>that it would be impossible<eos>
+<bos>for anyone to do<eol>that type of damage undetected.<eos>
+<bos>Do you have any idea<eol>who may have sent that to you?<eos>
+<bos>No, no idea, but I can tell you<eol>that the official analysis<eos>
+<bos>of the malfunction was<eol>simple mechanical failure.<eos>
+<bos>Does anybody share your suspicions?<eos>
+<bos>If they do,<eos>
+<bos>they're not talking to the FBI.<eos>
+<bos>I believe in the space program,<eos>
+<bos>I believe in the people who run it,<eos>
+<bos>but there's<eol>another launch window tomorrow.<eos>
+<bos>And my reasons may sound selfish,<eos>
+<bos>but my fiancÃ© is a shuttle commander<eos>
+<bos>on that mission.<eos>
+<bos>Why would somebody want to sabotage<eos>
+<bos>the space shuttle?<eos>
+<bos>Well, if you were a terrorist,<eos>
+<bos>there probably isn't a more potent symbol<eos>
+<bos>of American progress and prosperity,<eos>
+<bos>and if you're an opponent of Big Science,<eos>
+<bos>NASA itself represents<eol>a vast money trench<eos>
+<bos>that exists outside<eol>the crucible and debate<eos>
+<bos>of the democratic process.<eos>
+<bos>And, of course, there are those futurists<eos>
+<bos>who believe the space shuttle<eol>is a rusty old bucket<eos>
+<bos>that should be mothballed,<eos>
+<bos>a dinosaur spacecraft built in the '70s<eos>
+<bos>by scientists<eol>setting their sights on space<eos>
+<bos>in an ever-declining scale.<eos>
+<bos>And we thought we could rest easy<eos>
+<bos>with the fall of the Soviet Union.<eos>
+<bos>Not to mention certain fringe elements<eos>
+<bos>who accuse our government itself<eol>of space sabotage--<eos>
+<bos>the failure of the Hubble Telescope<eos>
+<bos>and the Mars Observer<eos>
+<bos>are directly connected to a conspiracy<eos>
+<bos>to deny us evidence.<eos>
+<bos>Evidence of what?<eos>
+<bos>Alien civilizations.<eos>
+<bos>Oh, of course.<eos>
+<bos>Wow, look at that-- Gemini Eight.<eos>
+<bos>What?<eos>
+<bos>The man we're going to see--<eos>
+<bos>Colonel Marcus Aurelius Belt--<eos>
+<bos>nearly died on that mission,<eol>had to make an emergency landing<eos>
+<bos>right in the middle of the Pacific Ocean.<eos>
+<bos>You remember all that stuff?<eos>
+<bos>You never wanted to be an astronaut<eos>
+<bos>when you were a kid, Scully?<eos>
+<bos>Guess I missed that phase.<eos>
+<bos>Come in.<eos>
+<bos>Colonel Belt.<eos>
+<bos>I'm Special Agent Dana Scully.<eos>
+<bos>And this is...<eos>
+<bos>Colonel Belt.<eos>
+<bos>Fox Mulder. I'm a big fan.<eos>
+<bos>It's an honor to meet you.<eos>
+<bos>You, you were a big hero to me<eos>
+<bos>when I was a kid. Thank you.<eos>
+<bos>I-I stayed up all night when I was 14<eos>
+<bos>to watch your spacewalk.<eos>
+<bos>Well, now it's like<eol>a stroll around the block.<eos>
+<bos>So... how can I help you?<eos>
+<bos>This found its way to the FBI.<eos>
+<bos>Do you recognize it?<eos>
+<bos>Sure. It's an auxiliary power unit valve.<eos>
+<bos>Do you have any reason to believe<eos>
+<bos>that the damage done to it<eos>
+<bos>was in an effort to sabotage<eol>the space shuttle program?<eos>
+<bos>No.<eos>
+<bos>Do you have any reason<eol>to suspect sabotage at all?<eos>
+<bos>No reason whatsoever.<eos>
+<bos>And if you have any respect<eol>for this program<eos>
+<bos>and for the people who have<eol>devoted their lives to it,<eos>
+<bos>you'll be careful to whom<eol>you make those accusations.<eos>
+<bos>Looking at this evidence, sir,<eos>
+<bos>would you consider postponing<eol>the shuttle flight<eos>
+<bos>until a full investigation<eos>
+<bos>could be conducted?<eos>
+<bos>Look, I don't know where<eol>you got this specious artifact,<eos>
+<bos>but I can assure you<eol>every precaution has been taken<eos>
+<bos>to rectify the problem.<eos>
+<bos>We've been waiting two weeks<eos>
+<bos>for a window to initiate this mission.<eos>
+<bos>We've got a payload to deliver.<eos>
+<bos>Colonel Belt,<eol>has an internal investigation<eos>
+<bos>ever been done on this matter?<eos>
+<bos>The part you have here<eos>
+<bos>has been installed,<eol>inspected, and designed<eos>
+<bos>by over 100 highly trained technicians.<eos>
+<bos>With the security measures we take,<eos>
+<bos>it would be virtually impossible<eos>
+<bos>for one man working by himself--<eos>
+<bos>or two or four men--<eos>
+<bos>to do what you're suggesting.<eos>
+<bos>I can assure you there isn't<eol>a person in this facility<eos>
+<bos>that doesn't want to see<eol>that shuttle go into space,<eos>
+<bos>complete its mission,<eos>
+<bos>and come back<eol>like winged victory herself.<eos>
+<bos>And in about ten hours, God willing,<eos>
+<bos>you're going to see just that.<eos>
+<bos>Do you think there'd be a problem<eos>
+<bos>with us watching the liftoff<eol>from Mission Control?<eos>
+<bos>Well, being that you'd probably<eol>go over my head anyway,<eos>
+<bos>please be my guest.<eos>
+<bos>It was an honor, sir.<eos>
+<bos>Thank you.<eos>
+<bos>Didn't you want to get his autograph?<eos>
+<bos>Where did you say you got this?<eos>
+<bos>It came to us anonymously.<eos>
+<bos>Well, this is an APU valve, all right.<eos>
+<bos>This doesn't make sense.<eos>
+<bos>What doesn't make sense?<eos>
+<bos>This scoring here.<eos>
+<bos>This valve is made out<eol>of ferrocarbon titanium.<eos>
+<bos>It's...<eos>
+<bos>You didn't order the analysis?<eos>
+<bos>No, I've never seen this before,<eos>
+<bos>but we're on outside contract to NASA.<eos>
+<bos>of course, wouldn't you order<eol>a material analysis<eos>
+<bos>if a part malfunctioned?<eos>
+<bos>Every shuttle has flown<eol>with that same APU valve.<eos>
+<bos>We haven't had a problem.<eos>
+<bos>To do an analysis and redesign<eos>
+<bos>would delay the program for months,<eos>
+<bos>not to mention the cost.<eos>
+<bos>Is it conceivable that,<eol>in order to avoid these delays,<eos>
+<bos>the program is being pushed ahead<eos>
+<bos>without proper safety precaution?<eos>
+<bos>Look, there are about 17,000 things<eos>
+<bos>that can go wrong with the shuttle<eos>
+<bos>and about 17,000 people<eol>who make sure they don't.<eos>
+<bos>And who makes the final determination<eos>
+<bos>as to its safety?<eos>
+<bos>We make a recommendation,<eos>
+<bos>but ultimately the decision<eol>is Colonel Belt's.<eos>
+<bos>Thank you. Thank you.<eos>
+<bos>What do you think?<eos>
+<bos>I can't believe how much faith<eol>we put in machines.<eos>
+<bos>You think Colonel Belt<eol>knows more than he's saying?<eos>
+<bos>That he lied about his knowledge<eol>of a saboteur?<eos>
+<bos>I can't believe that Colonel Belt<eos>
+<bos>would endanger the lives<eol>of those astronauts,<eos>
+<bos>knowing that something might go wrong.<eos>
+<bos>He was an astronaut himself.<eos>
+<bos>So you think this X ray is bogus?<eos>
+<bos>God, I hope so.<eos>
+<bos>This is Shuttle<eol>Launch Control with T-minus<eos>
+<bos>one minute, 40 seconds and counting.<eos>
+<bos>TC is go for orbiter access arm retract.<eos>
+<bos>OTC, OVCC verified.<eos>
+<bos>Roger that. OVCC verified.<eos>
+<bos>Here we go.<eos>
+<bos>This is Shuttle Launch Control<eos>
+<bos>with T-minus one minute 30 and counting.<eos>
+<bos>Final purge sequence; main engine check.<eos>
+<bos>Copy purge sequence; main engine check.<eos>
+<bos>Switching off orbiter's ground supply.<eos>
+<bos>Port fuel cells, check.<eos>
+<bos>Roger, OTC.<eos>
+<bos>Pick up terminal sequence MPS.<eos>
+<bos>Copy that.<eos>
+<bos>Charge capacitor energy storage banks<eos>
+<bos>are all at 241.<eos>
+<bos>OTC to CDR, how do you read?<eos>
+<bos>Loud and clear.<eos>
+<bos>CDR Houston, how do you read?<eos>
+<bos>Loud and clear.<eos>
+<bos>Side hatch closeout,<eos>
+<bos>and white room configuration complete.<eos>
+<bos>Retracting orbiter arm.<eos>
+<bos>All systems go for APU start.<eos>
+<bos>Go with APU start.<eos>
+<bos>BBSR power down and ready for launch.<eos>
+<bos>Transfer to internal power.<eos>
+<bos>Transfer to internal power.<eos>
+<bos>Gimbaling of main engines complete.<eos>
+<bos>Aero surfaces in launch position.<eos>
+<bos>MPDR assembled;<eol>military recorder is running.<eos>
+<bos>Okay. Copy.<eos>
+<bos>Oxygen vent hood retracted.<eos>
+<bos>External tank is at flight pressure.<eos>
+<bos>Okay, CDR, lock your visors<eos>
+<bos>and initiate your O2 flow.<eos>
+<bos>Y'all have a good one.<eos>
+<bos>Roger that.<eos>
+<bos>Go for auto-sequence start.<eos>
+<bos>Booster hydraulic units have started.<eos>
+<bos>Go for main engine start.<eos>
+<bos>T-minus ten and counting... nine...<eos>
+<bos>eight, seven,<eos>
+<bos>six, five,<eos>
+<bos>four, three, two, one, zero.<eos>
+<bos>Ignition.<eos>
+<bos>We have liftoff of the shuttle orbiter.<eos>
+<bos>CDR Houston,<eos>
+<bos>bet y'all have never seen<eol>a more beautiful sight.<eos>
+<bos>Roger that. 10-4.<eos>
+<bos>Roger, Max Q. Lower throttle back.<eos>
+<bos>Main engine at 65%.<eos>
+<bos>Go at throttle up.<eos>
+<bos>Roger. Throttle at 110%.<eos>
+<bos>Over SRB separation.<eos>
+<bos>Roger, OTC.<eos>
+<bos>I have to admit that fulfilled<eol>one of my boyhood fantasies.<eos>
+<bos>Yeah, it ranks right up there<eol>with getting a pony<eos>
+<bos>and learning how to braid my own hair.<eos>
+<bos>Come on, Scully, you have to<eol>admit that was exciting--<eos>
+<bos>Mission Control, countdown...<eos>
+<bos>Mulder!<eos>
+<bos>Wait!<eos>
+<bos>Something's gone wrong. What happened?<eos>
+<bos>Something's wrong with the shuttle.<eos>
+<bos>We had some trouble<eol>with the solid rocket boosters,<eos>
+<bos>but we were able to fix it.<eos>
+<bos>We changed watch, I went home<eol>to try to get some sleep.<eos>
+<bos>I got a phone call 20 minutes ago.<eos>
+<bos>Communication with the shuttle<eol>had gone down.<eos>
+<bos>Come on, we've got<eol>to get back to Houston.<eos>
+<bos>They have a press blackout<eol>in effect-- chances are<eos>
+<bos>the media doesn't know about it.<eos>
+<bos>You think this is sabotage?<eos>
+<bos>I don't know.<eos>
+<bos>Things go wrong all the time.<eos>
+<bos>Yeah, but they usually fix them, right?<eos>
+<bos>Usually.<eos>
+<bos>She's turning.<eos>
+<bos>Michelle!<eos>
+<bos>I can see her.<eos>
+<bos>Michelle!<eos>
+<bos>Help! You all right?<eos>
+<bos>I'm stuck!<eos>
+<bos>Can you move?<eos>
+<bos>Just get me out of here!<eos>
+<bos>I'm wedged in.<eos>
+<bos>You all right?<eos>
+<bos>I'm wedged in.<eos>
+<bos>Come here.<eos>
+<bos>Can you push with your legs?<eos>
+<bos>Be careful.<eos>
+<bos>Just get me out of here! I can't...<eos>
+<bos>Okay, all right.<eos>
+<bos>Come on... okay...<eos>
+<bos>Come on.<eos>
+<bos>Okay.<eos>
+<bos>It's okay.<eos>
+<bos>Okay...<eos>
+<bos>Let's do it.<eos>
+<bos>Now, don't try to move.<eos>
+<bos>Oh, I got to get back to Houston.<eos>
+<bos>What happened? I don't know.<eos>
+<bos>Something came at me in the fog<eos>
+<bos>and next thing I knew, I was upside down.<eos>
+<bos>Was it some kind of an animal?<eos>
+<bos>No, it... it had a face.<eos>
+<bos>It was...<eos>
+<bos>it was grotesque.<eos>
+<bos>I don't know what it was.<eos>
+<bos>You okay?<eos>
+<bos>Yeah.<eos>
+<bos>That's right, sir.<eos>
+<bos>The charge capacitor energy<eol>storage unit...<eos>
+<bos>Orbiter, this is Houston. Do you copy?<eos>
+<bos>Your transmission<eol>is breaking up, Houston.<eos>
+<bos>What's happening?<eos>
+<bos>We have a malf in the OMS<eol>and RCF systems.<eos>
+<bos>They can't get the orbiter<eol>into attitude rotation.<eos>
+<bos>Temperature in the cabin is approaching<eos>
+<bos>103 degrees, and they have<eol>downlink transmission problems.<eos>
+<bos>What happened to you?<eos>
+<bos>I had an accident.<eos>
+<bos>What's their position?<eos>
+<bos>Just over eastern Africa.<eos>
+<bos>Try patching them into<eol>the Seychelles tracking station.<eos>
+<bos>All right.<eos>
+<bos>Hang in there, OTC.<eos>
+<bos>The orbiter maneuvering system<eol>is malfunctioning.<eos>
+<bos>Without it, they can't<eol>rotate the shuttle.<eos>
+<bos>They need to rotate it away from the sun,<eos>
+<bos>to keep the orbiter cool.<eos>
+<bos>We've got a drop in cabin pressure--<eos>
+<bos>21 kilopascals and declining.<eos>
+<bos>They're going to burn up.<eos>
+<bos>Where's Colonel Belt? He's on his way.<eos>
+<bos>Damn it! What happened<eol>when they went to backup?<eos>
+<bos>Backup system failed to respond.<eos>
+<bos>I don't know-- what about telemetry?<eos>
+<bos>Can we auto-activate<eol>their systems from down here?<eos>
+<bos>We cannot auto-activate.<eos>
+<bos>It's like someone's<eos>
+<bos>interfering with the telemetry,<eos>
+<bos>screwing with the uplink<eos>
+<bos>communications from this end.<eos>
+<bos>Can you trace it?<eos>
+<bos>It'd have to be a digital processor.<eos>
+<bos>They'd have to be in the data banks.<eos>
+<bos>Where's that? Come on.<eos>
+<bos>Mulder?<eos>
+<bos>I'm a Federal agent.<eos>
+<bos>Come on out of there.<eos>
+<bos>What are you doing in here?<eos>
+<bos>I work here.<eos>
+<bos>Let me see your clearance.<eos>
+<bos>A sensor went off--<eol>there was a malfunction<eos>
+<bos>in one of the telemetry processors.<eos>
+<bos>Did you find it?<eos>
+<bos>No.<eos>
+<bos>Did you see anybody else in here?<eos>
+<bos>Okay. Call security.<eos>
+<bos>I want a search of the premises.<eos>
+<bos>I don't want anybody coming<eol>in or out of this building<eos>
+<bos>who doesn't have proper clearance.<eos>
+<bos>I'm breaking up, OTC.<eos>
+<bos>What's the attitude of the orbiter?<eos>
+<bos>They're flying tail first, sir<eos>
+<bos>with their belly towards the sun.<eos>
+<bos>The flash evaporator system is working<eos>
+<bos>but it's not enough to cool them down.<eos>
+<bos>Cabin temperature climbing to 116.<eos>
+<bos>Where's...?<eos>
+<bos>Somebody's jamming our transmissions.<eos>
+<bos>What do you mean?<eos>
+<bos>Somebody or something<eos>
+<bos>is interfering with<eol>our ground communications<eos>
+<bos>and scrambling our uplink telemetry.<eos>
+<bos>The shuttle is not responding<eos>
+<bos>to override signals.<eos>
+<bos>I'm going to let them fly by wire.<eos>
+<bos>I'm cutting off telemetry.<eos>
+<bos>It might not work.<eos>
+<bos>We might lose contact for good.<eos>
+<bos>We have to give it a chance to work.<eos>
+<bos>We have to try to bring them down.<eos>
+<bos>We have to give them control of the ship,<eos>
+<bos>take a chance they'll be able<eos>
+<bos>to perform that rotation maneuver<eos>
+<bos>and deliver the payload.<eos>
+<bos>What if they can't?<eos>
+<bos>We could be stranding them up there.<eos>
+<bos>Abandon telemetry.<eos>
+<bos>Go to fly by wire mode.<eos>
+<bos>They're cutting off ground<eol>control to the orbiter.<eos>
+<bos>Is it going to work?<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>How's the weather up there?<eos>
+<bos>Sunny and warm, Houston.<eos>
+<bos>What's the forecast?<eos>
+<bos>OTC, we're going to fly by wire mode.<eos>
+<bos>We're going to abort ground<eol>control momentarily,<eos>
+<bos>to see if you can bring<eol>those systems back up.<eos>
+<bos>Roger that, Houston.<eos>
+<bos>And leave the driving to us.<eos>
+<bos>David...<eos>
+<bos>you take care.<eos>
+<bos>What just happened?<eos>
+<bos>They cut off contact with the shuttle.<eos>
+<bos>Negative. We pulled off<eol>the MPG; we are manual...<eos>
+<bos>45 seconds.<eos>
+<bos>If they were able to execute,<eos>
+<bos>they'd have done it by now.<eos>
+<bos>Standing by.<eos>
+<bos>60 seconds.<eos>
+<bos>Go to reestablish uplink communication.<eos>
+<bos>Video signal's failed now.<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>Do you copy?<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>Where are you?<eos>
+<bos>Howdy-do, Houston.<eos>
+<bos>Looks like we finally<eol>got this bird to fly right.<eos>
+<bos>OTC, do you hear that?<eos>
+<bos>Music to our ears.<eos>
+<bos>Cabin temperature<eos>
+<bos>stabilizing.<eos>
+<bos>OTC, this is Mark Belt in Houston.<eos>
+<bos>How's the crew holding up?<eos>
+<bos>They're looking good, sir.<eos>
+<bos>And you all get some rest.<eos>
+<bos>We'll get back to work<eos>
+<bos>at about 0700.<eos>
+<bos>Roger that, Houston.<eos>
+<bos>Let's get to work<eos>
+<bos>on that telemetry problem.<eos>
+<bos>We got a big day ahead of us.<eos>
+<bos>Let's just let the electronic press<eos>
+<bos>get their sound equipment set.<eos>
+<bos>Are we set up in here?<eos>
+<bos>Do you want to test this mike?<eos>
+<bos>I know you have a lot of questions,<eos>
+<bos>and I'll get to them.<eos>
+<bos>How did he know what he did<eol>was going to work?<eos>
+<bos>He didn't. They could've died up there,<eos>
+<bos>and there would've been nothing<eos>
+<bos>we could've done.<eos>
+<bos>They'd have been a ghost ship,<eol>stuck in orbit.<eos>
+<bos>They on schedule? (reporters shouting)<eos>
+<bos>Why would he take that risk?<eos>
+<bos>You're talking millions<eol>of wasted dollars.<eos>
+<bos>That's all Congress would need<eol>to shut down NASA.<eos>
+<bos>As of 2200 hours,<eos>
+<bos>the crew has been conducting<eol>onboard tests and tasks<eos>
+<bos>and resting up for their first<eol>full day in space tomorrow.<eos>
+<bos>I'm happy to say,<eos>
+<bos>after a beautiful night launch,<eos>
+<bos>the shuttle orbiter<eos>
+<bos>has performed magnificently.<eos>
+<bos>So much for your boyhood hero.<eos>
+<bos>Colonel Belt? Colonel Belt?<eos>
+<bos>Can I talk to you for a moment?<eos>
+<bos>You want to know why I lied to them.<eos>
+<bos>You're asking yourself<eol>if this means I'd lie to you.<eos>
+<bos>You know what it means<eol>to be an astronaut, sir?<eos>
+<bos>You risk your life<eos>
+<bos>every time you get into your spacecraft<eos>
+<bos>for nothing more<eos>
+<bos>than the good progress of mankind.<eos>
+<bos>You've got no argument from me, sir.<eos>
+<bos>You're true American heroes.<eos>
+<bos>Heroes...?<eos>
+<bos>We used to make headlines<eol>when we did our job right.<eos>
+<bos>Now they bury you<eol>in the back of the paper.<eos>
+<bos>Name me two astronauts<eol>on the last shuttle mission.<eos>
+<bos>You make the front page today<eos>
+<bos>only if you screw up.<eos>
+<bos>They only know your name<eos>
+<bos>if you're the unlucky S.O.B.<eol>sitting on 500 tons of dynamite.<eos>
+<bos>That's what they're really waiting for.<eos>
+<bos>Sir, I have to ask.<eos>
+<bos>I'm sorry, it's my job.<eos>
+<bos>Do you think someone<eol>is sabotaging the shuttle?<eos>
+<bos>My answer to you, sir,<eos>
+<bos>will be to bring those men back<eol>safely to Earth.<eos>
+<bos>OTC... I've got...<eos>
+<bos>How's it going out there?<eos>
+<bos>There's something out here.<eos>
+<bos>Can you repeat that, Commander Belt?<eos>
+<bos>It's coming at me.<eos>
+<bos>Holy God!<eos>
+<bos>Uh, Houston, we just heard<eol>something weird up here.<eos>
+<bos>OTC Houston, can you describe it?<eos>
+<bos>Sort of a dull thump,<eol>like something bumped the ship.<eos>
+<bos>You got any ideas about that?<eos>
+<bos>There it is again.<eos>
+<bos>...taking a look at it now.<eos>
+<bos>Pull it out?<eos>
+<bos>That one right there.<eos>
+<bos>Got in the, uh, matrix.<eos>
+<bos>They've got an oxygen leak<eol>onboard the orbiter.<eos>
+<bos>Our O2 gauges<eol>are going all screwy, Houston.<eos>
+<bos>We got problems.<eos>
+<bos>We've got an O2 leak in the main tank.<eos>
+<bos>What did they say happened?<eos>
+<bos>They don't know.<eos>
+<bos>They just said it was a thump.<eos>
+<bos>Stand by.<eos>
+<bos>Uh, we have an astronomer in Winnipeg<eos>
+<bos>who just spotted a gaseous cloud<eos>
+<bos>about a mile long, trailing in our orbit.<eos>
+<bos>That's the liquid O2<eol>leaking out into space.<eos>
+<bos>The exact same thing<eol>happened to Colonel Belt<eos>
+<bos>but on an Apollo mission.<eos>
+<bos>How much time do they have?<eos>
+<bos>Well, that's hard to know<eol>without accurate telemetry data,<eos>
+<bos>We're doing the calculations,<eos>
+<bos>but it'll just be a guesstimate.<eos>
+<bos>I need some answers.<eos>
+<bos>And where is Colonel Belt?<eos>
+<bos>We can't find him.<eos>
+<bos>He was due here 90 minutes ago<eos>
+<bos>to begin payload deployment.<eos>
+<bos>Uh, Houston, we're up here<eos>
+<bos>kind of wondering<eos>
+<bos>when do we have<eol>to start holding our breath?<eos>
+<bos>We're working on it, OTC.<eos>
+<bos>I need those calculations and<eol>I need a worst-case scenario.<eos>
+<bos>We don't know if one or both<eos>
+<bos>of the O2 tanks have been damaged.<eos>
+<bos>Worst-case scenario!<eos>
+<bos>And then I want someone<eol>to find Colonel Belt.<eos>
+<bos>We'll find Colonel Belt.<eos>
+<bos>They've got 30 minutes of backup oxygen.<eos>
+<bos>Beyond that, it's anybody's guess.<eos>
+<bos>Why does she need Belt?<eos>
+<bos>She doesn't know how serious the leak is.<eos>
+<bos>It's an oxygen leak.<eos>
+<bos>Even I can figure out what happens<eos>
+<bos>when you run out of oxygen.<eos>
+<bos>Colonel Belt's been up there<eol>in the same situation before.<eos>
+<bos>He'll know better than<eol>anybody else what to do.<eos>
+<bos>He's got to make the decisions.<eos>
+<bos>Where the hell is he?<eos>
+<bos>Colonel Belt?<eos>
+<bos>Colonel Belt!<eos>
+<bos>I'm going to go get Security.<eos>
+<bos>Colonel Belt.<eos>
+<bos>Are you all right?<eos>
+<bos>Yeah.<eos>
+<bos>I wasn't feeling well.<eos>
+<bos>They need you down<eol>at Mission Control, sir.<eos>
+<bos>There's been another accident.<eos>
+<bos>OTC,<eos>
+<bos>is your orbital maneuvering<eol>system still operational?<eos>
+<bos>Roger, Houston.<eos>
+<bos>Now we're ready for reentry.<eos>
+<bos>Just say the word.<eos>
+<bos>How bad's the leak?<eos>
+<bos>We have no way to determine.<eos>
+<bos>OTC...<eos>
+<bos>what's the condensation on your cabin?<eos>
+<bos>Windows are getting a little steamy.<eos>
+<bos>Carbon dioxide buildup.<eos>
+<bos>Okay, OTC.<eos>
+<bos>Everything's going to be fine.<eos>
+<bos>I want you to get in your spacesuits<eos>
+<bos>and depressurize your cabin.<eos>
+<bos>And then I want you to vent that CO2.<eos>
+<bos>Roger, Houston. And then what?<eos>
+<bos>I want you to stay in your suits.<eos>
+<bos>And then I want you to prepare to use<eos>
+<bos>your emergency oxygen systems.<eos>
+<bos>And then I want you...<eos>
+<bos>to...<eos>
+<bos>deliver your payload.<eos>
+<bos>Those are men up there.<eos>
+<bos>You're out of line.<eos>
+<bos>You want to tell me how to do my job?<eos>
+<bos>I've been up there<eol>in that situation, Ms. Generoo.<eos>
+<bos>There's more at risk here<eos>
+<bos>than your personal life.<eos>
+<bos>And if you can't accept that...<eos>
+<bos>or operate effectively<eol>in these circumstances,<eos>
+<bos>then maybe you better leave the decisions<eos>
+<bos>to people in this room who can.<eos>
+<bos>OTC...<eos>
+<bos>do you copy?<eos>
+<bos>Roger, Houston.<eos>
+<bos>We're waiting on those O2 calculations.<eos>
+<bos>Michelle!<eos>
+<bos>They're going to die.<eos>
+<bos>You don't know that.<eos>
+<bos>That's absolutely unconscionable<eos>
+<bos>putting that payload<eol>before those men's lives.<eos>
+<bos>I think she's right, Mulder.<eos>
+<bos>You saw him in there. He's losing it.<eos>
+<bos>He saved their lives earlier.<eos>
+<bos>Did he, or did he put their<eol>lives in unnecessary jeopardy?<eos>
+<bos>If he can't deliver that payload<eos>
+<bos>Congress is gonna kill the space program.<eos>
+<bos>Oh, and you think<eol>killing those astronauts<eos>
+<bos>isn't going to have the same effect?<eos>
+<bos>Look, Mulder, I think somebody must have<eos>
+<bos>sabotaged the space shuttle<eos>
+<bos>because too many things have gone wrong.<eos>
+<bos>I think Colonel Belt knows about it<eos>
+<bos>and he's known<eol>about it from the beginning.<eos>
+<bos>We've got to stop him.<eos>
+<bos>We've got to pull them out of orbit!<eos>
+<bos>He doesn't want those men to die.<eos>
+<bos>How do you know?<eos>
+<bos>I know it. I'm sure of it.<eos>
+<bos>He's the one that put them up there.<eos>
+<bos>And he may be the only person<eol>who can get them down alive.<eos>
+<bos>And how can you be certain<eol>that what he's doing<eos>
+<bos>isn't the right thing?<eos>
+<bos>That what he's doing isn't<eol>gonna save their lives?<eos>
+<bos>Now, I need access to your records<eos>
+<bos>in a hurry.<eos>
+<bos>I need everything on the Hubble telescope<eos>
+<bos>the Mars Observer, the shuttle Challenger<eos>
+<bos>and the current orbiter mission.<eos>
+<bos>You're talking about<eol>tens of thousands of documents.<eos>
+<bos>What exactly are we looking for?<eos>
+<bos>X rays, diagrams, schematics--<eos>
+<bos>any proof that Belt<eol>knew about a sabotage.<eos>
+<bos>A needle in a haystack.<eos>
+<bos>Payload deployment initiated.<eos>
+<bos>Roger that, OTC.<eos>
+<bos>Tracking it now.<eos>
+<bos>Looks good from here.<eos>
+<bos>Payload delivery is complete, Houston.<eos>
+<bos>We're awaiting your order.<eos>
+<bos>System check for reentry deorbit burn.<eos>
+<bos>Holy God! There's something<eol>outside the ship!<eos>
+<bos>Th... There's someone outside the ship!<eos>
+<bos>Can you repeat that, OTC?<eos>
+<bos>There's some kind of... ghost<eol>outside the ship!<eos>
+<bos>No.<eos>
+<bos>Mulder,<eos>
+<bos>I found it.<eos>
+<bos>This is the same diagram<eol>that was sent to Michelle.<eos>
+<bos>Ordered by Colonel Belt.<eos>
+<bos>Which means he knew<eol>about the faulty valve.<eos>
+<bos>This is from the Challenger.<eos>
+<bos>It's the O-ring fitting that failed.<eos>
+<bos>Dated January 21, 1986.<eos>
+<bos>That's one week before<eol>the space shuttle blew up.<eos>
+<bos>The analysis was ordered by colonel belt.<eos>
+<bos>Are you saying he might have known<eos>
+<bos>about the Challenger defect?<eos>
+<bos>Something weird is going on here, Scully.<eos>
+<bos>Colonel Belt's collapsed.<eos>
+<bos>Where is he? He's in his office.<eos>
+<bos>He was just here.<eos>
+<bos>Oh, my God.<eos>
+<bos>What's wrong with him?<eos>
+<bos>Get a doctor.<eos>
+<bos>Help me...<eos>
+<bos>Help me.<eos>
+<bos>How can we help you, Colonel?<eos>
+<bos>He's having some kind<eol>of a seizure, Mulder.<eos>
+<bos>Come on! Come on, come on!<eos>
+<bos>Oh, it's tearing...<eol>it's tearing me apart!<eos>
+<bos>See if I can get a bus.<eos>
+<bos>help me. Oh, help me.<eos>
+<bos>I'm bringing<eos>
+<bos>that shuttle down.<eos>
+<bos>Sir, we need to... No!<eos>
+<bos>It's out there!<eos>
+<bos>Come on, let's put him down.<eos>
+<bos>Spacesuits! Easy. Easy.<eos>
+<bos>Strap him down! There you go.<eos>
+<bos>Give him ten milligrams of diazepam.<eos>
+<bos>He's trying to tell us something.<eos>
+<bos>I got his legs. Colonel Belt.<eos>
+<bos>I got... I got... I got...<eos>
+<bos>Those men are running out of oxygen.<eos>
+<bos>They don't have to die.<eos>
+<bos>Colonel Belt, I want you to focus.<eos>
+<bos>Focus your breathing.<eos>
+<bos>Focus your pain.<eos>
+<bos>Right here.<eos>
+<bos>Blood pressure's 174 over 120.<eos>
+<bos>Spacesuit! Spacesuit! Vitals are rising.<eos>
+<bos>Mulder, you're risking an aneurysm.<eos>
+<bos>Focus.<eos>
+<bos>Now you're focused.<eos>
+<bos>Right here.<eos>
+<bos>Now, you're going<eol>to save those astronauts<eos>
+<bos>and you're going to tell me how to do it.<eos>
+<bos>The shuttle can't survive reentry.<eos>
+<bos>The fuselage... the fuselage is damaged.<eos>
+<bos>The s... silicone tiles are destroyed.<eos>
+<bos>How does he know?<eos>
+<bos>How has it been damaged?<eos>
+<bos>I'm responsible.<eos>
+<bos>Did you sabotage the shuttle?<eos>
+<bos>No, but I couldn't stop them.<eos>
+<bos>Nobody can stop them. Stop who?<eos>
+<bos>Pulse is 194.<eol>You're gonna kill him, Mulder.<eos>
+<bos>Stop who? They don't want us to know.<eos>
+<bos>They don't want us to know.<eos>
+<bos>Who?<eos>
+<bos>It came to me.<eos>
+<bos>It lives in me.<eos>
+<bos>It's coming at me!<eos>
+<bos>It's coming at me!<eos>
+<bos>Get me out of here!<eos>
+<bos>It's attacking me!<eos>
+<bos>Get me out!<eos>
+<bos>(eerie screeching)<eos>
+<bos>Get it out.<eos>
+<bos>Help me.<eos>
+<bos>It's coming back.<eos>
+<bos>That's the face I saw in the fog.<eos>
+<bos>We're losing him. Defib.<eos>
+<bos>Here you go.<eos>
+<bos>Clear.<eos>
+<bos>Hit it.<eos>
+<bos>They just ran out of oxygen.<eos>
+<bos>They've got exactly<eos>
+<bos>30 minutes left in the<eol>emergency backup system.<eos>
+<bos>They're going to suffocate up there.<eos>
+<bos>I've got no choice<eol>but to bring them down.<eos>
+<bos>It's the only chance I've got.<eos>
+<bos>Again.<eos>
+<bos>Okay, we got O2 standing by...<eos>
+<bos>Hold on.<eos>
+<bos>We've got vitals. We got a pulse.<eos>
+<bos>We've got to get him to a hospital.<eos>
+<bos>OTC, this is Houston Mission Control.<eos>
+<bos>Do you copy?<eos>
+<bos>Roger, Houston.<eos>
+<bos>We've got some spooky stuff up here.<eos>
+<bos>OTC, we're going to bring you down.<eos>
+<bos>We want you to instigate deorbit burn<eos>
+<bos>and begin deceleration.<eos>
+<bos>Roger, Houston. Kind of hoping<eol>you were going to say that.<eos>
+<bos>Activating OMS rockets.<eos>
+<bos>All systems go for reentry.<eos>
+<bos>They're bringing the shuttle down.<eos>
+<bos>You said the shuttle<eol>would burn up on reentry.<eos>
+<bos>Is there anything we can do to save it?<eos>
+<bos>Change the trajectory.<eos>
+<bos>Change the trajectory to what?<eos>
+<bos>Change the reentry trajectory<eol>to 35 degrees.<eos>
+<bos>T-minus 35 seconds to ionosphere reentry.<eos>
+<bos>Change the reentry trajectory.<eos>
+<bos>What?<eos>
+<bos>You've got to change it to 35 degrees.<eos>
+<bos>T-minus 30 seconds to ionosphere reentry.<eos>
+<bos>Colonel Belt... I can't.<eos>
+<bos>...25 seconds.<eos>
+<bos>It's your only shot.<eos>
+<bos>We'd have to change landing site;<eos>
+<bos>we'd have to<eol>inform them before the blackout.<eos>
+<bos>15 seconds to blackout.<eos>
+<bos>I want to know what<eos>
+<bos>the weather conditions are<eol>in Albuquerque.<eos>
+<bos>Are we go for an emergency landing?<eos>
+<bos>Weather in Albuquerque?<eos>
+<bos>Landing conditions go in Albuquerque.<eos>
+<bos>T-minus five seconds to blackout.<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>I want you to change<eol>your re-entry trajectory<eos>
+<bos>to 35 degrees.<eos>
+<bos>You'll be landing at Kirtland<eol>Field in Albuquerque.<eos>
+<bos>Do you copy?<eos>
+<bos>Ionosphere reentry.<eol>Temporary blackout in effect.<eos>
+<bos>Did they get that transmission?<eos>
+<bos>Two minutes to reestablish.<eos>
+<bos>Damn it.<eos>
+<bos>How much oxygen do they have?<eos>
+<bos>16 minutes.<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>Come in, OTC.<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>Come in, OTC!<eos>
+<bos>Anything?<eos>
+<bos>What's the point of their new reentry?<eos>
+<bos>500 miles west of Hawaii.<eos>
+<bos>on radar.<eos>
+<bos>They made it.<eos>
+<bos>Not necessarily.<eos>
+<bos>Albuquerque, do you have<eol>radar confirmation?<eos>
+<bos>Negative, Houston. Nothing on the screen.<eos>
+<bos>OTC, this is Houston.<eos>
+<bos>Come in, OTC.<eos>
+<bos>OTC, this is Houston!<eos>
+<bos>Come in, OTC!<eos>
+<bos>Houston, this is OTC.<eos>
+<bos>You know a good place to eat<eol>in Albuquerque?<eos>
+<bos>We all want to meet for dinner.<eos>
+<bos>OTC, welcome home.<eos>
+<bos>Welcome home, OTC.<eos>
+<bos>You're looking real good.<eos>
+<bos>Yes!<eos>
+<bos>The space shuttle touched down today<eos>
+<bos>at 10:56 Central Standard Time.<eos>
+<bos>The orbiter delivered its payload<eos>
+<bos>after just 13 orbits<eos>
+<bos>and returned to Earth...<eos>
+<bos>without incident.<eos>
+<bos>We at NASA are looking forward<eol>to our next shuttle mission<eos>
+<bos>and to future successful<eol>explorations of space<eos>
+<bos>for mankind<eos>
+<bos>and for the future of mankind.<eos>
+<bos>No more!<eos>
+<bos>I just heard.<eos>
+<bos>Something had possessed him--<eos>
+<bos>something he must have seen<eol>out there in space.<eos>
+<bos>The doctors who examined him<eos>
+<bos>said he was experiencing severe dementia.<eos>
+<bos>I don't think he ever really knew<eos>
+<bos>exactly how it was working through him<eos>
+<bos>or that he ever knew that he was...<eos>
+<bos>responsible for his own actions.<eos>
+<bos>He ordered those X rays<eol>of the damaged parts.<eos>
+<bos>You saw what I saw, Scully.<eos>
+<bos>I think he was trying to warn her.<eos>
+<bos>I think that he sent Michelle<eol>those X rays<eos>
+<bos>like he was trying to reach out to her<eos>
+<bos>without quite knowing why,<eos>
+<bos>as if his own instinctual impulse<eos>
+<bos>was to save those men.<eos>
+<bos>While simultaneously trying to kill them?<eos>
+<bos>Scully, we send those men up into space<eos>
+<bos>to unlock the doors of the universe<eos>
+<bos>and we don't even know<eol>what's behind them.<eos>
+<bos>I think whatever it was,<eol>he took it with him.<eos>
+<bos>And in the end, that was the only way<eos>
+<bos>he knew how to stop it.<eos>
+<bos>There's an investigation, you know.<eos>
+<bos>They haven't ruled out foul play.<eos>
+<bos>He gave his own life.<eos>
+<bos>As an astronaut,<eos>
+<bos>that was something he was prepared to do.<eos>
+<bos>...for Colonel Marcus Aurelius Belt<eos>
+<bos>devoted his life to the exploration<eos>
+<bos>and understanding of space--<eos>
+<bos>learning its mysteries<eol>and experiencing it<eos>
+<bos>not just for himself, but for humanity.<eos>
+<bos>Lord, take this man's soul<eos>
+<bos>and let it rise up to your Heaven<eos>
+<bos>higher than he could ever go as a man.<eos>
+<bos>Let him know<eol>the true nature of the universe<eos>
+<bos>that he sought to learn.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

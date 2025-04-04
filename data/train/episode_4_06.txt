@@ -1,0 +1,732 @@
+<bos>ï»¿1 Mm-hmm, yes.<eos>
+<bos>Love you.<eos>
+<bos>I love you.<eos>
+<bos>Hello.<eos>
+<bos>Morning, sir.<eos>
+<bos>Ah, good morning.<eos>
+<bos>Good morning, Cecil.<eos>
+<bos>Top of the morning to you.<eos>
+<bos>Oh, thank you.<eos>
+<bos>Good-bye, darling.<eos>
+<bos>Good-bye, Charles.<eos>
+<bos>What time can I expect you?<eos>
+<bos>Before supper.<eos>
+<bos>I forgot what it was like<eol>to spend a day in court.<eos>
+<bos>That's one of the luxuries<eos>
+<bos>to hunting down aliens<eol>and genetic mutants.<eos>
+<bos>You rarely get to press charges.<eos>
+<bos>It's opened.<eos>
+<bos>What?<eos>
+<bos>It's unlocked.<eos>
+<bos>That's weird.<eos>
+<bos>I'm sure I locked it.<eos>
+<bos>Must be an X file.<eos>
+<bos>What's that?<eos>
+<bos>I told you I locked the door.<eos>
+<bos>What do you think it is?<eos>
+<bos>Ten to one, you can't dance to it.<eos>
+<bos>Greetings, Agent Mulder.<eos>
+<bos>Six months ago,<eol>British Minister of Parliament<eos>
+<bos>Reggie Ellicott<eol>received an audio cassette<eos>
+<bos>much like the one<eol>you are listening to now.<eos>
+<bos>Unfortunately for Minister Ellicott,<eos>
+<bos>when he popped<eol>the tape into the car stereo,<eos>
+<bos>he armed a device which,<eol>when he tried to exit the car,<eos>
+<bos>created an explosion<eol>which was heard five miles away.<eos>
+<bos>The Scotland Yard forensic team<eol>could only identify<eos>
+<bos>the poor bastard by his dental records.<eos>
+<bos>If only he hadn't reached<eol>for the door handle<eos>
+<bos>and triggered the detonator.<eos>
+<bos>But then how was he to know<eos>
+<bos>he was sitting on enough<eol>plastic explosive<eos>
+<bos>to lift the car 40 feet in the air<eos>
+<bos>and deposit the engine block<eos>
+<bos>on top of a three-story building?<eos>
+<bos>Aren't we looking rather ghostly?<eos>
+<bos>It's an old friend.<eos>
+<bos>Aren't you going to thank me?<eos>
+<bos>For what?<eos>
+<bos>Saving your life.<eos>
+<bos>One tends not to make<eol>the same mistake twice.<eos>
+<bos>I'll try to remember that. Oh, come on,<eos>
+<bos>don't tell me<eol>you left your sense of humor<eos>
+<bos>in Oxford ten years ago.<eos>
+<bos>No, actually it's one of the few things<eos>
+<bos>you didn't drive a stake through.<eos>
+<bos>You know, some mistakes are<eol>quite worth making twice.<eos>
+<bos>Dana Scully,<eos>
+<bos>this is Phoebe Greene.<eos>
+<bos>Terror of Scotland Yard.<eos>
+<bos>Hello.<eos>
+<bos>Hello.<eos>
+<bos>She hates me.<eos>
+<bos>What brings you to the colonies?<eos>
+<bos>Some clever bloke has been giving<eos>
+<bos>the aristocracy a good scare.<eos>
+<bos>Killed off a ranking member of Parliament<eos>
+<bos>or three for good measure.<eos>
+<bos>Set Windsor Castle ablaze in '92.<eos>
+<bos>Your car bomber?<eos>
+<bos>No. This one likes<eos>
+<bos>to burn his victims alive.<eos>
+<bos>Can't figure out how he does it either.<eos>
+<bos>Not a crumb of evidence<eol>left at the crime scene.<eos>
+<bos>The last one died in his front garden,<eos>
+<bos>his poor, young wife watching helplessly<eos>
+<bos>as he went up in smoke.<eos>
+<bos>The Irish Republican Army?<eos>
+<bos>Our suspect likes to send love letters<eos>
+<bos>to his victims' wives.<eos>
+<bos>Sent one to the wife<eol>of Sir Malcolm Marsden<eos>
+<bos>a month ago.<eos>
+<bos>Three days later he narrowly<eol>escaped a fire in his garage.<eos>
+<bos>It burned to the ground.<eos>
+<bos>So they're renting a place<eol>out on Cape Cod.<eos>
+<bos>Bringing the family over to the States<eos>
+<bos>for an extended holiday<eos>
+<bos>or until we can catch the dirty bugger.<eos>
+<bos>Do you think he's that determined?<eos>
+<bos>Judging by his success, he seems to take<eos>
+<bos>a certain delight in his work.<eos>
+<bos>So, what brings you on<eol>this detour to Washington, D.C.,<eos>
+<bos>Inspector?<eos>
+<bos>I figured my friend Mulder...<eos>
+<bos>...couldn't resist a three-pipe problem.<eos>
+<bos>I'll run it by our arson specialist.<eos>
+<bos>Splendid.<eos>
+<bos>I'll call London, let them know.<eos>
+<bos>Oh, good-bye.<eos>
+<bos>Three-pipe problem?<eos>
+<bos>That's from, uh,<eos>
+<bos>Sherlock Holmes.<eos>
+<bos>It's a private joke.<eos>
+<bos>How private?<eos>
+<bos>Um...<eos>
+<bos>we knew each other in school in England.<eos>
+<bos>She was brilliant<eos>
+<bos>and, uh, I got in over my head<eos>
+<bos>and, uh, paid the price.<eos>
+<bos>Mulder, you just keep unfolding<eol>like a flower.<eos>
+<bos>That was over ten years ago, Scully.<eos>
+<bos>Yeah, I noticed how you<eol>couldn't drop everything<eos>
+<bos>fast enough in order to help her out.<eos>
+<bos>Oh, I was merely extending<eol>her a professional courtesy.<eos>
+<bos>Oh, is that what you were extending?<eos>
+<bos>Look, I'm going to run this<eol>by the arson guys<eos>
+<bos>and then she's on her own.<eos>
+<bos>Something tells me you're not going<eos>
+<bos>to get rid of her that easily.<eos>
+<bos>Beautiful.<eos>
+<bos>Oh, just beautiful.<eos>
+<bos>Look at that.<eos>
+<bos>Salmon red flames.<eos>
+<bos>This is 1,400-1,500 degrees.<eos>
+<bos>This is a work of art.<eos>
+<bos>Was there any kind<eol>of incendiary device used?<eos>
+<bos>Yes, actually.<eos>
+<bos>The victim's body.<eos>
+<bos>Spontaneous combustion?<eos>
+<bos>He was murdered.<eos>
+<bos>However, we've turned up no evidence<eos>
+<bos>that tells how the body caught fire.<eos>
+<bos>That's peculiar.<eos>
+<bos>People don't normally just catch on fire.<eos>
+<bos>I mean, we burn, but we don't<eol>conduct all that well.<eos>
+<bos>There's usually some kind<eol>of extraneous fuel involved<eos>
+<bos>like candle wax, gasoline--<eos>
+<bos>something flammable and incendiary<eos>
+<bos>that adheres to the skin.<eos>
+<bos>Like an accelerant.<eos>
+<bos>Like an accelerant. Yes.<eol>But we've found no trace<eos>
+<bos>of anything<eol>save for a dusting of magnesium<eos>
+<bos>at two of the sites.<eos>
+<bos>That's aliphatic pyrolysis.<eos>
+<bos>It's a residue remaining<eol>after an exothermic reaction.<eos>
+<bos>But there's no evidence of the source--<eos>
+<bos>no pour pattern or ignition devices.<eos>
+<bos>There have been some arson fires<eos>
+<bos>in Seattle lately and, um, Pennsylvania.<eos>
+<bos>They burn so hot that<eol>the firemen can't put 'em out.<eos>
+<bos>7,000 degrees.<eos>
+<bos>I mean, hosing that down<eol>just makes it worse.<eos>
+<bos>How's that?<eos>
+<bos>Well, the, uh, reaction is so intense<eos>
+<bos>that it splits the water<eos>
+<bos>into hydrogen and oxygen.<eos>
+<bos>It just adds fuel to the fire.<eos>
+<bos>What were they using?<eos>
+<bos>We don't know for sure.<eos>
+<bos>It could be rocket fuel.<eos>
+<bos>That stuff burns so hot and clean,<eos>
+<bos>there's never a trace left.<eos>
+<bos>You see, it's very difficult<eol>to prove arson.<eos>
+<bos>It's driving<eol>the insurance companies nuts.<eos>
+<bos>Well, that's about the only<eol>explanation that I can give you.<eos>
+<bos>But there have been cases<eol>of pyrokinetics--<eos>
+<bos>people who can control and conduct fire.<eos>
+<bos>Well, I've seen fire bend around corners,<eos>
+<bos>seen it bounce like a rubber ball.<eos>
+<bos>Fire has got a certain genius, you know,<eos>
+<bos>a certain demon poetry.<eos>
+<bos>It's like it's got a mind of its own,<eos>
+<bos>but I've never seen one that can defy<eos>
+<bos>the laws of physics,<eol>not when you figure it out.<eos>
+<bos>You've, uh...<eos>
+<bos>got quite a case<eol>for yourself here, Mulder.<eos>
+<bos>I almost wish I could be in your shoes.<eos>
+<bos>Hey, Jackson.<eos>
+<bos>Boy, that's a nice house.<eos>
+<bos>Oh, what do you think?<eol>What a pleasant surprise.<eos>
+<bos>Welcome to America, Sir Malcolm.<eos>
+<bos>Thank you very much.<eol>I'm delighted to be here.<eos>
+<bos>Where's the dog?<eos>
+<bos>Darling.<eos>
+<bos>Right there.<eos>
+<bos>In here, please. Thank you.<eos>
+<bos>And over there as well. All right.<eos>
+<bos>But the second one, I want upstairs.<eos>
+<bos>Gentlemen, the second set of boxes<eos>
+<bos>will go directly up the stairs.<eos>
+<bos>Please be careful.<eos>
+<bos>Hello there.<eos>
+<bos>Hello.<eos>
+<bos>I'm Bob the caretaker.<eos>
+<bos>We've been exchanging letters.<eos>
+<bos>Oh, good heavens. Yes, of course.<eos>
+<bos>Hello, Bob, how are you?<eol>Excuse the paint.<eos>
+<bos>Hi. Hello.<eos>
+<bos>Just trying to spruce<eol>the place up for you.<eos>
+<bos>Well, it's delightful.<eos>
+<bos>The photos don't do it justice.<eos>
+<bos>Anything I can do for you,<eol>anything at all,<eos>
+<bos>you just holler.<eos>
+<bos>Seems like a rather nice<eol>fellow, don't you think?<eos>
+<bos>Very.<eos>
+<bos>My God, darling,<eos>
+<bos>that painting rather looks like you.<eos>
+<bos>What do you think?<eos>
+<bos>Oh, I don't know.<eos>
+<bos>I've never been good at this one.<eos>
+<bos>Bloody little cur, I'll skin you alive.<eos>
+<bos>See, I'm the caretaker now.<eos>
+<bos>So, Sherlock, is the game afoot?<eos>
+<bos>I'm afraid so, Watson.<eos>
+<bos>You're off the hook on this one.<eos>
+<bos>What do you mean?<eos>
+<bos>I mean I'm not going<eol>to put you through this.<eos>
+<bos>Put me through what?<eos>
+<bos>Phoebe's little mind game.<eos>
+<bos>What are you talking about?<eos>
+<bos>There's something else I haven't<eol>told you about myself, Scully.<eos>
+<bos>I hate fire.<eos>
+<bos>Hate it.<eos>
+<bos>I'm scared to death of it.<eos>
+<bos>When I was a kid, my<eol>best friend's house burned down.<eos>
+<bos>Had to spend the night in<eol>the rubble to keep away looters.<eos>
+<bos>For years I had nightmares<eos>
+<bos>about being trapped<eol>in a burning building.<eos>
+<bos>Wait,<eos>
+<bos>and Phoebe knows about this? Oh, yeah,<eos>
+<bos>this is classic Phoebe Greene,<eol>mind game player extraordinaire.<eos>
+<bos>Ten years it's taken me<eol>to forget about this woman,<eos>
+<bos>and she shows up in my life<eol>with a case like this.<eos>
+<bos>So she shows up knowing<eol>the power she has over you<eos>
+<bos>and then she makes you walk through fire.<eos>
+<bos>Is that it?<eos>
+<bos>Phoebe is fire.<eos>
+<bos>Mulder, are you sure<eos>
+<bos>you don't want me<eol>to help you out on this one?<eos>
+<bos>Sooner or later,<eol>a man's got to face his demons.<eos>
+<bos>Hello, you're the Marsdens' driver?<eos>
+<bos>Who's that?<eos>
+<bos>Bob.<eos>
+<bos>Caretaker.<eos>
+<bos>Oh.<eos>
+<bos>Bum a smoke?<eos>
+<bos>Yeah, sure.<eos>
+<bos>I'm going into town.<eos>
+<bos>Can I get you anything?<eos>
+<bos>Yeah... some cough medicine<eol>if it's no problem.<eos>
+<bos>Syrup or...<eos>
+<bos>lozenges?<eos>
+<bos>Syrup would be good.<eos>
+<bos>Can I give you some money?<eos>
+<bos>Appreciate that.<eos>
+<bos>Beer.<eos>
+<bos>They don't let you bring<eol>your own around here.<eos>
+<bos>Well, I guess they'll just<eol>have to make an exception,<eos>
+<bos>won't they?<eos>
+<bos>Oh, you're English.<eos>
+<bos>God, I just love that accent.<eos>
+<bos>Allow me.<eos>
+<bos>And a gentleman to boot.<eos>
+<bos>Oh, my God.<eos>
+<bos>Now, that is a trick.<eos>
+<bos>Hey, guys, take a look at this.<eos>
+<bos>Care for a light?<eos>
+<bos>I pulled this report<eol>off the wire last night.<eos>
+<bos>Eyewitnesses are saying<eos>
+<bos>that a customer in the bar caught fire,<eos>
+<bos>but they're still looking for a body.<eos>
+<bos>Any indication an accelerant was used?<eos>
+<bos>The bar is across the street<eol>from a fire station.<eos>
+<bos>Burned to the ground<eos>
+<bos>before they had a chance to even respond.<eos>
+<bos>The fire marshal said it burned so hot,<eos>
+<bos>it turned the concrete<eol>foundation into sponge cake.<eos>
+<bos>This is a woman who was in the bar.<eos>
+<bos>Hello. Hello.<eos>
+<bos>Miss Kotchik? Yes.<eos>
+<bos>I'm Special Agent Mulder from the FBI.<eos>
+<bos>This is Inspector Greene.<eos>
+<bos>Can you tell us<eos>
+<bos>what happened in the bar last night?<eos>
+<bos>There was this guy.<eos>
+<bos>I'd had a few drinks, so...<eos>
+<bos>He sat next to me and he did this thing.<eos>
+<bos>It was like a magic trick<eos>
+<bos>where he lit his finger on fire.<eos>
+<bos>Next thing, I turned around,<eol>he was up in flames.<eos>
+<bos>Can you describe him?<eos>
+<bos>Good-looking, I think.<eos>
+<bos>Brownish hair.<eos>
+<bos>Long hair, short hair?<eos>
+<bos>I've already given the police<eol>the information.<eos>
+<bos>Do you think you could work<eol>with a composite artist<eos>
+<bos>and come up with a sketch for us?<eos>
+<bos>Look, I said I had a few drinks.<eos>
+<bos>Can I get your full name and address?<eos>
+<bos>See...<eos>
+<bos>I live with someone.<eos>
+<bos>He thinks I was at school last night.<eos>
+<bos>It's no problem.<eos>
+<bos>You can come down<eos>
+<bos>to the field office<eol>and work with somebody there.<eos>
+<bos>I'll give you a minute<eol>to think about it, okay?<eos>
+<bos>Deftly done, Agent Mulder.<eos>
+<bos>Casually disregard her indiscretion.<eos>
+<bos>A firm but polite manner<eos>
+<bos>until she accedes to cooperate.<eos>
+<bos>It's a technique I refined<eol>in my relationship with you.<eos>
+<bos>Oh, yes, well,<eos>
+<bos>I see you haven't lost<eol>your sense of humor after all.<eos>
+<bos>I'm sorry, that was a cheap shot.<eos>
+<bos>I don't want to dredge up the past.<eos>
+<bos>Let's just stick to the case.<eos>
+<bos>Let's.<eos>
+<bos>Look, Phoebe, I... Unless I'm mistaken,<eos>
+<bos>ten years seems sufficient<eol>time to have forgiven<eos>
+<bos>if not forgotten<eol>a few youthful indiscretions.<eos>
+<bos>I'm cursed with a photographic memory.<eos>
+<bos>Then don't you tell me<eol>that you've forgotten<eos>
+<bos>a certain youthful indiscretion...<eos>
+<bos>atop Sir Arthur Conan Doyle's tombstone<eos>
+<bos>on a misty night in Windlesham.<eos>
+<bos>Like I said, let's just<eol>stick to the case.<eos>
+<bos>Well, it occurred to me that<eol>we're going to a lot of trouble<eos>
+<bos>to find the description of a man<eol>who, in all likelihood,<eos>
+<bos>has been burned to a crisp.<eos>
+<bos>I would agree with you, but<eol>they haven't found a body yet.<eos>
+<bos>So, can we count on you?<eos>
+<bos>Yeah, okay.<eos>
+<bos>I don't know if it matters,<eos>
+<bos>but I remembered something else<eol>about the guy who caught fire.<eos>
+<bos>He had an English accent.<eos>
+<bos>Having a rough time, huh?<eos>
+<bos>Maybe it's the cough syrup.<eos>
+<bos>After reviewing the files<eos>
+<bos>of the Scotland Yard arson/murders,<eos>
+<bos>two points remain unexplained.<eos>
+<bos>One is the use<eol>of an untraceable accelerant.<eos>
+<bos>The other involves the victims.<eos>
+<bos>Since they all burned in<eol>the presence of family members<eos>
+<bos>in safe surroundings, this indicates<eos>
+<bos>unusually intimate access<eol>to the victims by the arsonist.<eos>
+<bos>The arsonist is most likely a<eol>male less than 25 years of age.<eos>
+<bos>He will often act out of impulse,<eos>
+<bos>satisfying sexual urges or insecurities<eos>
+<bos>with destructive behavior,<eol>which compensates<eos>
+<bos>for his social inadequacies<eol>or maladjustments.<eos>
+<bos>You boys want to see a magic trick?<eos>
+<bos>Okay.<eos>
+<bos>What's your names?<eos>
+<bos>Michael and Jimmie.<eos>
+<bos>Doesn't he talk?<eos>
+<bos>Yes.<eos>
+<bos>What kind of a magic trick?<eos>
+<bos>Maybe I'd better not.<eos>
+<bos>Show us.<eos>
+<bos>Nah, you might tell your mom and dad.<eos>
+<bos>We won't tell.<eos>
+<bos>Really? Promise?<eos>
+<bos>Promise.<eos>
+<bos>Hope to die-- stick a needle in your eye?<eos>
+<bos>Okay, boys.<eos>
+<bos>You've taken the solemn oath<eol>of trust that can't be broken<eos>
+<bos>except under penalty...<eos>
+<bos>of death.<eos>
+<bos>Watch.<eos>
+<bos>Is it in there?<eos>
+<bos>No.<eos>
+<bos>Ah, you're too smart for me.<eos>
+<bos>Where did it go?<eos>
+<bos>Where did it go?<eos>
+<bos>Where do you think it went, Jimmie?<eos>
+<bos>I don't know.<eos>
+<bos>Uh... I think I remember.<eos>
+<bos>Ta-da!<eos>
+<bos>Ooh!<eos>
+<bos>Yes.<eos>
+<bos>Okay, we'll do it again.<eos>
+<bos>Agent Beatty? Yeah.<eos>
+<bos>I'm Special Agent Dana Scully.<eos>
+<bos>Can I steal a minute of your time?<eos>
+<bos>Oh, yeah, yeah, yeah, sure, come in,<eos>
+<bos>come in, come in.<eos>
+<bos>I'm just working on this<eol>Mafia torch job here.<eos>
+<bos>I'm working with Agent Mulder.<eos>
+<bos>Oh, yeah, wild case.<eos>
+<bos>So, what can I do for you?<eos>
+<bos>You mentioned that the arsonist<eol>might be using<eos>
+<bos>some kind of rocket fuel<eol>as an accelerant.<eos>
+<bos>Yeah, that's just speculation.<eos>
+<bos>It still doesn't explain<eol>how he sets bodies on fire.<eos>
+<bos>What if he got some of this fuel<eos>
+<bos>into some hand cream or...?<eos>
+<bos>Well, you've got to understand,<eos>
+<bos>even the smallest amounts of this stuff<eos>
+<bos>can produce temperatures<eol>over 5,000 degrees,<eos>
+<bos>but I suppose it's not impossible.<eos>
+<bos>Extremely diluted.<eos>
+<bos>But you still have to<eol>find a way to ignite it.<eos>
+<bos>Wow! It lit by itself!<eos>
+<bos>Come on, sit down.<eos>
+<bos>So, you guys ever smoked a cigarette?<eos>
+<bos>No. They're bad for you.<eos>
+<bos>Would you like to take a puff, Michael?<eos>
+<bos>No.<eos>
+<bos>Make a man out of you.<eos>
+<bos>I don't want to.<eos>
+<bos>Why don't you hold one for me?<eos>
+<bos>How about you, Jimmie?<eos>
+<bos>Huh, little man?<eos>
+<bos>Jimmie,<eos>
+<bos>Michael.<eos>
+<bos>Hello.<eos>
+<bos>Bob.<eos>
+<bos>Ugh.<eos>
+<bos>There you are.<eos>
+<bos>Um, we've had<eos>
+<bos>a bit of bad news.<eos>
+<bos>Um, our driver has taken ill,<eos>
+<bos>and we're due at a party<eol>in Boston this evening.<eos>
+<bos>Is there any chance<eol>that we can impose upon you<eos>
+<bos>to drive the family into town?<eos>
+<bos>We'd be more than happy<eol>to pay you for your time<eos>
+<bos>and certainly to put you up<eol>for the night.<eos>
+<bos>I'd be very happy to do it as a favor.<eos>
+<bos>Oh, good, thank you.<eos>
+<bos>All right, then, boys, let's go.<eos>
+<bos>Daddy's got lunch all ready.<eos>
+<bos>Jimmie, you're absolutely filthy.<eos>
+<bos>Come on, I'll race you.<eos>
+<bos>Oh, Mom, I don't mind.<eol>Honestly, Jimmie...<eos>
+<bos>The arsonist is usually unmarried<eos>
+<bos>and prone to obsessive<eol>fantasies about women or men<eos>
+<bos>who are inaccessible to him.<eos>
+<bos>Often the setting of fires<eol>results from his cowardice<eos>
+<bos>and inability to develop<eol>a natural relationship.<eos>
+<bos>His crimes are often very<eol>clever and elaborately planned.<eos>
+<bos>The suspicious nature<eol>of the fire last night<eos>
+<bos>strongly suggests the arsonist<eol>has followed Lord Marsden<eos>
+<bos>to the United States.<eos>
+<bos>A check of all recent immigration<eos>
+<bos>to the northeastern area is underway.<eos>
+<bos>It has become not a matter of if<eos>
+<bos>but when he will strike.<eos>
+<bos>Here's that immigration data you wanted.<eos>
+<bos>Thank you.<eos>
+<bos>You're welcome.<eos>
+<bos>Remember those reports I told<eol>you about-- about people<eos>
+<bos>who control and conduct<eol>fire-- pyrokinetics?<eos>
+<bos>Vaguely.<eos>
+<bos>I think this guy just sent us a message<eos>
+<bos>that he's far more exotic.<eos>
+<bos>I should say so, I mean,<eol>if he can set himself afire.<eos>
+<bos>What?<eos>
+<bos>I'm just not used to someone<eol>so quick to agree with me.<eos>
+<bos>The driver's a very capable bodyguard.<eos>
+<bos>Well, he should look into<eol>getting a few additional men<eos>
+<bos>and limit public exposure.<eos>
+<bos>Oh, they've got a party being held<eos>
+<bos>in their honor tonight in Boston.<eos>
+<bos>They're gonna have to cancel.<eos>
+<bos>Unless you wanted to set a trap.<eos>
+<bos>I had thought of that,<eos>
+<bos>but we must be careful and discreet.<eos>
+<bos>The party's at 8:00 at the Venable Plaza.<eos>
+<bos>I'll be traveling with the family<eos>
+<bos>so why don't you go on ahead and have<eos>
+<bos>a look around? Oh, and...<eos>
+<bos>I've taken a room<eol>at the hotel for the night.<eos>
+<bos>Thanks.<eos>
+<bos>All right, thank you.<eos>
+<bos>Mulder.<eos>
+<bos>It's Scully. Where are you?<eos>
+<bos>I'm in Boston.<eos>
+<bos>I've got something to show you.<eos>
+<bos>I'm gonna come up there.<eos>
+<bos>What have you got?<eos>
+<bos>I might have some information<eos>
+<bos>on the identity of your arson suspect.<eos>
+<bos>Are you there, Mulder?<eos>
+<bos>Yeah... yeah.<eos>
+<bos>Can I meet you somewhere?<eos>
+<bos>No, it's just, I'm,<eol>I'm kind of anticipating<eos>
+<bos>having my hands full.<eos>
+<bos>We're here.<eos>
+<bos>Good evening. Thank you.<eos>
+<bos>Let's go inside.<eos>
+<bos>Evening, sir. Hello.<eos>
+<bos>Enjoying yourself?<eos>
+<bos>There's good food,<eos>
+<bos>witty conversation.<eos>
+<bos>I'm having the time of my life.<eos>
+<bos>I wondered if you think it's safe enough<eos>
+<bos>to indulge ourselves in a dance?<eos>
+<bos>Doesn't look like your arsonist<eos>
+<bos>is going to make an appearance.<eos>
+<bos>That doesn't mean there won't<eol>be any fires to put out.<eos>
+<bos>I've thought about you often.<eos>
+<bos>There's a fire upstairs.<eos>
+<bos>What?<eos>
+<bos>On the 14th floor.<eos>
+<bos>That's where the children are.<eos>
+<bos>We've got a fire on the 14th floor.<eos>
+<bos>Let us out!<eos>
+<bos>Hurry up.<eos>
+<bos>Here we go. Got one down.<eos>
+<bos>Come on, buddy, come on.<eos>
+<bos>Come on, here you go.<eos>
+<bos>Can you walk? You get him?<eos>
+<bos>Yeah, I got him. Hold on.<eos>
+<bos>Here we are.<eos>
+<bos>Mommy.<eos>
+<bos>Jimmie, Michael, oh, my<eol>God, are you all right?<eos>
+<bos>You saved their lives.<eos>
+<bos>Who is he? He's the driver.<eos>
+<bos>Thanks. Thanks.<eos>
+<bos>Well done, good job, thank you.<eos>
+<bos>You were really out.<eos>
+<bos>Where's Phoebe?<eos>
+<bos>She's down the hall.<eos>
+<bos>What about the kids?<eos>
+<bos>Okay. The doctor checked them out.<eos>
+<bos>What happened to you up there?<eos>
+<bos>I panicked.<eos>
+<bos>Couldn't even move, Scully.<eos>
+<bos>It could have happened to anyone.<eos>
+<bos>Yeah... but it happened to me.<eos>
+<bos>I haired out... plain and simple.<eos>
+<bos>What do you know about<eos>
+<bos>this guy that saved<eol>the kids-- the driver?<eos>
+<bos>I checked him out prior<eol>to the Marsdens' arrival.<eos>
+<bos>He's worked on the property<eol>for eight years.<eos>
+<bos>No record.<eos>
+<bos>His references checked out.<eos>
+<bos>They were lucky he was here tonight.<eos>
+<bos>Who was watching the kids tonight?<eos>
+<bos>He was. Are you sure?<eos>
+<bos>I could have sworn I saw<eol>him down in the hallway<eos>
+<bos>about the same time<eol>that the fire broke out.<eos>
+<bos>You couldn't have.<eos>
+<bos>Anyway, the man we're looking for<eos>
+<bos>is English. Hey.<eos>
+<bos>I came to see if you were okay.<eos>
+<bos>How are the kids?<eos>
+<bos>They're fine.<eos>
+<bos>Everybody's anxious to get back.<eos>
+<bos>To the cape? Only to pack.<eos>
+<bos>They've made travel arrangements<eos>
+<bos>back to England<eol>for the day after tomorrow.<eos>
+<bos>And you?<eos>
+<bos>I'll be leaving in a few days.<eos>
+<bos>Look, I'll give you a ring<eol>back at the Bureau<eos>
+<bos>before I leave.<eos>
+<bos>All right.<eos>
+<bos>Good-bye.<eos>
+<bos>You okay?<eos>
+<bos>Yeah.<eos>
+<bos>You at all interested in what I came<eos>
+<bos>all the way up here to show you?<eos>
+<bos>Yeah.<eos>
+<bos>Well, I did some checking on my own.<eos>
+<bos>I didn't know a whole lot<eol>about arson or arsonists<eos>
+<bos>so I took the opportunity<eos>
+<bos>for my own edification, of course.<eos>
+<bos>I ran a profile of<eol>possible incendiary fuels<eos>
+<bos>and accelerants that could have been used<eos>
+<bos>in the crimes.<eos>
+<bos>I also took the liberty<eos>
+<bos>of running a search through Interpol<eos>
+<bos>of all the gardeners,<eos>
+<bos>manservants, and domestic help<eos>
+<bos>that were hired by the murder victims<eos>
+<bos>at the time of their deaths.<eos>
+<bos>And...? And<eos>
+<bos>these people probably<eol>don't even tie their own shoes.<eos>
+<bos>There were over 200 names<eos>
+<bos>and not a duplicate... except one.<eos>
+<bos>A Cecil Lively.<eos>
+<bos>He worked as a gardener<eol>for two of the victims.<eos>
+<bos>And what did you find on him?<eos>
+<bos>Nothing.<eos>
+<bos>So he's clean. Apparently<eos>
+<bos>he was questioned by Scotland Yard<eos>
+<bos>and they released him,<eol>but I dug a little further.<eos>
+<bos>Cecil Lively is a documented citizen<eos>
+<bos>of Great Britain, paid his taxes,<eos>
+<bos>never been on the dole, a model citizen--<eos>
+<bos>until he died in 1971<eol>in a London tenement fire.<eos>
+<bos>I know, that's what I thought,<eos>
+<bos>so I checked a little further.<eos>
+<bos>Cecil L'ively, spelled<eol>"L-apostrophe," came up again.<eos>
+<bos>In fact, it came up twice--<eos>
+<bos>first on a list of death certificates<eos>
+<bos>listed among a group of children<eol>who died in ritual sacrifice<eos>
+<bos>by a satanic cult in 1963<eos>
+<bos>in the Tottingham Woods<eol>outside Bath, England.<eos>
+<bos>Where else did you find it?<eos>
+<bos>You're going to love this.<eos>
+<bos>On a list of recent visas<eos>
+<bos>issued by the British government.<eos>
+<bos>Cecil Lively's passport<eos>
+<bos>was stamped by U.S. immigration officials<eos>
+<bos>two weeks ago<eol>at the port of entry in Boston.<eos>
+<bos>Call the local field office<eol>in Boston of the FBI<eos>
+<bos>and get them to fax you<eol>the composite the witness did<eos>
+<bos>of the man who burned down<eol>the bar and then get them<eos>
+<bos>to fax it to every local law<eol>enforcement agency in the area.<eos>
+<bos>What are you going to do?<eos>
+<bos>I'm going to try and catch Phoebe.<eos>
+<bos>This guy could be waiting<eol>for them in Cape Cod.<eos>
+<bos>Yes, this is Special Agent Scully.<eos>
+<bos>I've been waiting on hold for you guys<eos>
+<bos>to fax me a composite<eol>of an arson suspect.<eos>
+<bos>Right. Hang on a second.<eos>
+<bos>It's coming through.<eos>
+<bos>Thanks.<eos>
+<bos>Oh, my God.<eos>
+<bos>It's the driver.<eos>
+<bos>We're sorry, the cellular<eol>customer you are trying to reach<eos>
+<bos>is out of the area.<eos>
+<bos>Excuse me.<eos>
+<bos>His name is Cecil Lively.<eos>
+<bos>Who?<eos>
+<bos>Your arsonist.<eos>
+<bos>Where's the rest of the family?<eos>
+<bos>They went outside for a walk.<eos>
+<bos>Well, go find 'em.<eol>We got to get 'em packed<eos>
+<bos>and get 'em out of here.<eos>
+<bos>Come on, we have to hurry, let's go.<eos>
+<bos>I'm sorry, children, we have<eol>to leave right away.<eos>
+<bos>It's the driver.<eos>
+<bos>I know. He disappeared.<eos>
+<bos>What's the matter?<eos>
+<bos>Nothing. Um, I found this<eol>out in the garage.<eos>
+<bos>It's been very hard on the family.<eos>
+<bos>Did you get the composite?<eos>
+<bos>He's worked for us for over ten years.<eos>
+<bos>Well, obviously there's been<eol>some type of mistake.<eos>
+<bos>Oh.<eos>
+<bos>Oh, my God.<eos>
+<bos>This isn't the driver.<eos>
+<bos>It's the caretaker.<eos>
+<bos>And he's upstairs with the children.<eos>
+<bos>Jimmie, Michael... Michael.<eos>
+<bos>Michael?<eos>
+<bos>Michael.<eos>
+<bos>Jimmie.<eos>
+<bos>Looks like we found<eos>
+<bos>the missing driver.<eos>
+<bos>Mulder, in here quickly.<eos>
+<bos>What's going on?<eos>
+<bos>They just went up<eos>
+<bos>all by themselves.<eos>
+<bos>My God!<eos>
+<bos>Oh, my God. Everybody out!<eos>
+<bos>Let's go, get out, get out!<eos>
+<bos>Let's go! Go, go, go!<eos>
+<bos>I think he rigged the whole house.<eos>
+<bos>Oh, no.<eos>
+<bos>It's fuel.<eos>
+<bos>Go! Go!<eos>
+<bos>Quick, come on. Come on.<eos>
+<bos>Come on, move, move.<eos>
+<bos>Scully, see if you can find<eol>a fire extinguisher.<eos>
+<bos>Everybody else, outside.<eos>
+<bos>But what about the children?<eos>
+<bos>I'll take care of the children.<eos>
+<bos>Go.<eos>
+<bos>You gonna be okay, Mulder?<eos>
+<bos>Oh, yeah, I'll be fine.<eos>
+<bos>There's no place I'd rather be.<eos>
+<bos>Michael, Jimmie, you in there?<eos>
+<bos>Time to call 911.<eos>
+<bos>Don't move!<eos>
+<bos>Freeze.<eos>
+<bos>Federal agent.<eos>
+<bos>You won't shoot me.<eos>
+<bos>Stay right where you are.<eos>
+<bos>You see?<eos>
+<bos>'Cause you don't know<eos>
+<bos>the spark from that round<eos>
+<bos>won't blow this whole house<eol>to kingdom come.<eos>
+<bos>Aah!<eos>
+<bos>Back off, Scully, it's the accelerant!<eos>
+<bos>No.<eos>
+<bos>Help us! Help us!<eos>
+<bos>Help us, please! Help!<eos>
+<bos>Michael, Jimmie, thank God, thank God.<eos>
+<bos>You can't kill me!<eos>
+<bos>You can't fight fire<eos>
+<bos>with fire!<eos>
+<bos>Care to take me to lunch?<eos>
+<bos>Scare you?<eos>
+<bos>You have no idea.<eos>
+<bos>Where is Phoebe?<eos>
+<bos>I don't know.<eos>
+<bos>You don't know.<eos>
+<bos>She didn't call?<eos>
+<bos>No. She did messenger this<eol>to me last night, though.<eos>
+<bos>Did you play it?<eos>
+<bos>No.<eos>
+<bos>Why not?<eos>
+<bos>Aren't you curious what's on it?<eos>
+<bos>Ten to one, you can't dance to it.<eos>
+<bos>X file #11214893:<eos>
+<bos>addendum to the file opened<eol>by Special Agent Mulder.<eos>
+<bos>The arson suspect Cecil Lively<eos>
+<bos>was admitted to Boston Mercy Hospital<eos>
+<bos>with fifth- and sixth-degree burns<eos>
+<bos>over his entire body.<eos>
+<bos>Military burn specialists<eol>have been brought in<eos>
+<bos>to study the case, which<eol>they're calling extraordinary<eos>
+<bos>not only for the fact<eol>the suspect survived<eos>
+<bos>but for the rapid regeneration<eol>of his basal cell tissue.<eos>
+<bos>Full recovery is anticipated<eol>in as little as a month.<eos>
+<bos>Lively is being held<eos>
+<bos>in a high-security medical facility.<eos>
+<bos>until he can be tried on murder charges<eos>
+<bos>in the death<eol>of a Massachusetts caretaker.<eos>
+<bos>His body temperature remains<eol>at a steady 109 degrees.<eos>
+<bos>Health technicians have removed<eos>
+<bos>anything flammable from his room<eos>
+<bos>due to several fires<eos>
+<bos>which have broken out in the vicinity.<eos>
+<bos>According to Agent Mulder,<eos>
+<bos>further incarceration remains a problem<eos>
+<bos>for federal penal authorities.<eos>
+<bos>Can I get you anything, sir?<eos>
+<bos>I'm just dying for a cigarette.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

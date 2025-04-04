@@ -1,0 +1,590 @@
+<bos>Ya casi llegamos.<eos>
+<bos>" Hospital Comunitario Tablers<eol>Martinsburg, Virginia Occidental"<eos>
+<bos>¿Cómo estás, querida?<eos>
+<bos>Respira profundo.<eos>
+<bos>Así.<eos>
+<bos>- Eso es. Lo haces muy bien.<eol>- Sí. Muy bien.<eos>
+<bos>Señora.<eos>
+<bos>Necesito su nombre y el número<eol>de seguro social.<eos>
+<bos>Amanda Nelligan. 545-02-0809.<eos>
+<bos>- ¿Su compañía de seguros?<eol>- Atlantic Mutual.<eos>
+<bos>¿Le avisamos a alguien?<eos>
+<bos>- El padre del bebé.<eol>- No sé dónde encontrarlo.<eos>
+<bos>- Deme su nombre. Puedo intentarlo.<eol>- No es de por aquí.<eos>
+<bos>- ¿Es de otro estado? - De otro planeta.<eos>
+<bos>Llegamos. Sujétate.<eos>
+<bos>Puja una vez más.<eos>
+<bos>Eso es.<eol>Establecerás una marca de velocidad.<eos>
+<bos>Genial.<eos>
+<bos>Qué rostro tan bonito. Jeringa.<eos>
+<bos>Parece una carrera de autos.<eos>
+<bos>Aquí viene el hombro.<eos>
+<bos>Muy bien, Amanda.<eos>
+<bos>Eso es.<eos>
+<bos>- Oh, Dios. - ¿Qué?<eos>
+<bos>- ¿Qué sucede? - No pasa nada.<eos>
+<bos>La niña está bien.<eos>
+<bos>Es normal.<eos>
+<bos>Tranquila. Todo saldrá muy bien.<eos>
+<bos>Tienes una hija sana.<eos>
+<bos>Una niña.<eos>
+<bos>Santo cielo, otro más no.<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>" Bebés Simios Invaden Pueblo"<eol>La foto está un poco exagerada.<eos>
+<bos>- ¿Qué opinas, Scully? - Es poco serio.<eos>
+<bos>¿Niños que nacen con cola<eol>no te interesan?<eos>
+<bos>Apéndices codales, como los fetos.<eos>
+<bos>El cóccix se agranda<eol>y contiene el líquido raquídeo.<eos>
+<bos>Se reduce a medida que el niño<eol>se desarrolla.<eos>
+<bos>Algunas veces no.<eos>
+<bos>Es muy raro pero sucede.<eos>
+<bos>¿Cinco casos en los últimos 3 meses?<eos>
+<bos>¿En un pueblo<eol>con menos de 15 mil habitantes?<eos>
+<bos>Es algo más que un dato<eol>estadístico aislado.<eos>
+<bos>Para mí también.<eos>
+<bos>Creo que tienes razón.<eos>
+<bos>Creo que se justifica una investigación.<eos>
+<bos>Pero no por nosotros.<eos>
+<bos>Es tarea del Ministerio de Salud.<eos>
+<bos>Los llamé. Ya están investigando.<eos>
+<bos>¿Qué otro interés tienes en esto?<eos>
+<bos>extraterrestres?<eos>
+<bos>El médico dijo que mi bebita está bien.<eos>
+<bos>Es sana.<eos>
+<bos>Y cuando tenga unos meses más...<eos>
+<bos>sólo hay que cortársela.<eos>
+<bos>- Me alegro. - Sí.<eos>
+<bos>¿Tuvo alguna complicación<eol>fuera de lo normal durante el embarazo?<eos>
+<bos>¿Se sometió a algún tratamiento<eol>de fertilización?<eos>
+<bos>No buscaba quedar embarazada.<eos>
+<bos>Podría decir que soy una madre soltera.<eos>
+<bos>Al internarse...<eos>
+<bos>dijo que el padre del bebé<eol>era de otro planeta.<eos>
+<bos>- ¿A qué se refería? - Verá usted--<eos>
+<bos>No es de este planeta.<eos>
+<bos>- ¿Fue secuestrada? - ¿Qué?<eos>
+<bos>Un día vino a mi apartamento...<eos>
+<bos>y una cosa condujo a otra.<eos>
+<bos>Pero, ¿el padre del bebé<eol>es extraterrestre?<eos>
+<bos>No, no dije eso.<eol>Dije que era de otro planeta.<eos>
+<bos>Se llama Luke Skywalker.<eol>Es un caballero <i>jedi.</i><eos>
+<bos>- ¿Tenía una espada de luz?<eol>- No. No la había traído.<eos>
+<bos>Pero me cantó su canción.<eos>
+<bos>¿Cuántas veces vio<eol><i>La Guerra de las Galaxias</i>?<eos>
+<bos>368.<eos>
+<bos>Llegaré a las 400 antes<eol>del Día de los Caídos en la Guerra.<eos>
+<bos>Bien.<eos>
+<bos>Gracias.<eos>
+<bos>Espere un momento.<eos>
+<bos>¿ Vio los otros 4 bebés<eol>que nacieron aquí con cola?<eos>
+<bos>Por casualidad,<eol>Luke no será el padre, ¿no?<eos>
+<bos>Muy bien. Gracias.<eos>
+<bos>Prepárate.<eos>
+<bos>Aquí hay algo más que Luke Skywalker<eol>y su espada de luz.<eos>
+<bos>Tienes razón.<eos>
+<bos>¿ Vienes?<eos>
+<bos>Éste es el análisis de los 5 niños.<eol>" Ministerio de Salud"<eos>
+<bos>Citamos a los padres.<eos>
+<bos>Haremos un análisis de sangre<eol>a los esposos.<eos>
+<bos>- Bien. - No les agradará.<eos>
+<bos>Debo admitir que esta respuesta<eol>parece tan clara...<eos>
+<bos>que no habría sido necesario<eol>verificar nada.<eos>
+<bos>¿Qué respuesta?<eos>
+<bos>¿ Ves que a estas tiras idénticas...<eos>
+<bos>les falta una parte<eol>del cromosoma número 8?<eos>
+<bos>Estos 5 niños,<eol>nacidos de 5 mujeres distintas...<eos>
+<bos>- tienen el mismo padre. - ¿Sí?<eos>
+<bos>Debí haberlo imaginado.<eos>
+<bos>Este tipo de defecto congénito<eol>es hereditario.<eos>
+<bos>¿Eso significa que el padre<eol>también tenía cola?<eos>
+<bos>Deben de habérsela extirpado<eol>en algún momento.<eos>
+<bos>¿Cómo pasó algo así?<eos>
+<bos>Las aves, las abejas<eol>y los bebés mono, Mulder.<eos>
+<bos>Las aves y las abejas lo hacen.<eol>Los médicos también.<eos>
+<bos>Las 5 mujeres tienen<eol>el mismo obstetra, ¿no?<eos>
+<bos>Es el único en el pueblo.<eos>
+<bos>Y 4 de las 5 mujeres,<eol>siendo las 4 casadas...<eos>
+<bos>excluyendo a Amanda Nelligan...<eos>
+<bos>fueron inseminadas artificialmente.<eos>
+<bos>¿Estás pensando que el médico<eol>tiene algo que ver?<eos>
+<bos>No hay que poner<eol>todos los huevos en una sola canasta.<eos>
+<bos>"Consultorio del Dr. Alton Pugh Obstetra"<eos>
+<bos>Hay que encontrar un buen abogado<eol>porque lo demandaré.<eos>
+<bos>Es lo único que te digo, Fred.<eos>
+<bos>Deja que hable yo, ¿de acuerdo?<eos>
+<bos>- Yo me encargaré.<eol>- Dile que lo demandaremos.<eos>
+<bos>¿ Ustedes también?<eos>
+<bos>- ¿Qué diablos hizo? - Sí, Alton.<eos>
+<bos>No hice nada. Resolveremos esto.<eol>Lo prometo.<eos>
+<bos>Tranquilícense todos.<eos>
+<bos>No me tranquilizaré.<eol>¿Qué pasó con mi esperma?<eos>
+<bos>- El mío también. - ¿De quién era?<eos>
+<bos>Bastante malo es tener un hijo con cola<eol>y además saber que no es mío.<eos>
+<bos>- Sí. - Así es.<eos>
+<bos>Por Dios, Alton, ¿cuántos somos?<eos>
+<bos>Soy el agente especial Mulder del FBI.<eos>
+<bos>- Ella es la agente Scully. - Genial.<eos>
+<bos>- Arreste a este desgraciado.<eol>- Arréstelo.<eos>
+<bos>- No habrá ningún arresto.<eol>- Queremos saber qué sucede.<eos>
+<bos>Alton no usó mi esperma.<eos>
+<bos>Claro que sí.<eos>
+<bos>Sólo recibieron el esperma<eol>de sus esposos.<eos>
+<bos>¿Por qué hubo que inseminarlas?<eos>
+<bos>Por un problema de esperma.<eos>
+<bos>El método intrauterino que utilicé...<eos>
+<bos>tiene éxito en un 40 por ciento<eol>de los casos.<eos>
+<bos>Me sorprendió.<eos>
+<bos>Resultó las 4 veces.<eos>
+<bos>- Lo único que se me ocurre es-- - ¿Qué?<eos>
+<bos>- Quizá no funcionó.<eol>- ¿Qué está diciendo, Alton?<eos>
+<bos>Quiero saber qué insinúa.<eos>
+<bos>No he estado con un hombre desde 1989.<eol>Descontándote a ti, querido.<eos>
+<bos>Yo no acuso a nadie.<eos>
+<bos>La última paciente que dio a luz<eol>un bebé con cola...<eos>
+<bos>no fue inseminada.<eos>
+<bos>Están acusando al médico equivocado.<eos>
+<bos>Disculpe.<eos>
+<bos>Soy agente del FBI.<eos>
+<bos>Quisiera hacerle unas preguntas.<eos>
+<bos>Sí, de acuerdo.<eos>
+<bos>Mira.<eos>
+<bos>Dios mío.<eos>
+<bos>¿Es él?<eos>
+<bos>" Prueba de Paternidad" 5 de 5.<eos>
+<bos>Escribieron mal mi nombre.<eol>Es Van Blundht, con " H" muda.<eos>
+<bos>B-L-U-N-D-H-T.<eos>
+<bos>Lo corregiremos.<eos>
+<bos>Muchos lo escriben mal. Es holandés.<eos>
+<bos>- ¿Puedo retirarme?<eol>- Tenemos que aclarar ciertas cosas.<eos>
+<bos>Sí. ¿Cómo lo hizo?<eos>
+<bos>- ¿A qué se refiere?<eol>- Es padre de 5 niños.<eos>
+<bos>¿No se había enterado?<eos>
+<bos>¿Sabe cómo fue que 5 mujeres<eol>fueron inseminadas con su esperma?<eos>
+<bos>Suena muy romántico.<eos>
+<bos>¿Entonces hubo romance de por medio?<eos>
+<bos>¿Le parece imposible?<eos>
+<bos>¿Porque nací con una cola<eol>ninguna mujer puede desearme?<eos>
+<bos>Quizá tenga personalidad. ¿No cree?<eos>
+<bos>¿Tuvo relaciones sexuales con ellas?<eos>
+<bos>¿Cómo es que ninguna lo recuerda?<eos>
+<bos>Miren, no estoy reconociendo nada.<eos>
+<bos>En teoría, sólo digo...<eos>
+<bos>que si las mujeres querían tener niños<eol>y sus esposos no podían...<eos>
+<bos>y todos fueron felices<eol>y nadie sufrió daño alguno...<eos>
+<bos>¿cuál es el delito?<eos>
+<bos>Si, como siempre, quieres saber<eol>cuál es mi teoría, pues no la tengo.<eos>
+<bos>Yo sí.<eos>
+<bos>En representación<eol>de todas las mujeres del mundo...<eos>
+<bos>dudo que hayan tenido<eol>relaciones sexuales de común acuerdo.<eos>
+<bos>Debe de haberles dado Rohypnol<eol>para violarlas.<eos>
+<bos>Un tranquilizante. No lo había pensado.<eos>
+<bos>Se la conoce como "droga de violación".<eol>En grandes dosis causa desinhibición...<eos>
+<bos>amnesia.<eos>
+<bos>Si Van Blundht logró darles la droga<eol>a estas mujeres...<eos>
+<bos>especialmente junto con alcohol--<eos>
+<bos>¿Pero cuándo y cómo pudo dársela?<eos>
+<bos>Las conoció por medio de su trabajo<eol>en el centro médico.<eos>
+<bos>Pudo haberlas seguido<eol>a un club o a un bar.<eos>
+<bos>Esas mujeres no parecen ser<eol>de las que van a un bar solas.<eos>
+<bos>Bastará con tenerlo detenido<eol>mientras investigamos.<eos>
+<bos>Escribió mal mi nombre.<eos>
+<bos>Es B-L-U-N-D-H-T.<eos>
+<bos>Con " H" muda.<eos>
+<bos>¿Domicilio?<eos>
+<bos>Deje de mirarme y dígame su domicilio.<eos>
+<bos>Prospect Parkway 17...<eos>
+<bos>Martinsburg.<eos>
+<bos>25401 .<eos>
+<bos>Muy bien, Sr. Van Blund-ht.<eol>Deme su número de teléfono.<eos>
+<bos>¿Qué diablos--?<eos>
+<bos>La " H" es muda.<eos>
+<bos>Habría jurado que Curtis ya se había ido.<eos>
+<bos>Se había despedido.<eos>
+<bos>Esta mañana lo encontré<eol>debajo del escritorio.<eos>
+<bos>Subcomisario...<eos>
+<bos>¿está seguro de que no recuerda<eol>lo que pasó anoche?<eos>
+<bos>El sujeto me dejó inconsciente.<eos>
+<bos>Pero el sujeto no era él.<eos>
+<bos>Era yo.<eos>
+<bos>Me duele la cabeza.<eos>
+<bos>Encontré la ropa de Van Blundht<eol>en el vestuario.<eos>
+<bos>Debe de haberse ido con el otro uniforme<eol>del subcomisario.<eos>
+<bos>Luego de golpearlo en la cabeza.<eos>
+<bos>Tengo una teoría. ¿Quieres oírla?<eos>
+<bos>¿ Van Blundht se transformó<eol>en su guardia...<eos>
+<bos>y se fue sin que nadie lo advirtiera?<eos>
+<bos>¿No crees que deberíamos ser pareja?<eos>
+<bos>¿Por qué no puedes dar<eol>una respuesta sencilla?<eos>
+<bos>Con ese golpe, el subcomisario...<eos>
+<bos>podría haber dicho que lo atacó<eol>McGruff, el perro policía.<eos>
+<bos>- ¿ Y lo que vio el subcomisario?<eol>- Dos hombres, de la misma contextura...<eos>
+<bos>el mismo color, además del uniforme...<eos>
+<bos>explican cómo pudo confundirlos<eol>a las 3 A.M.<eos>
+<bos>Mi teoría explica...<eos>
+<bos>cómo 4 mujeres pudieron confundirlo<eol>con sus respectivos esposos...<eos>
+<bos>y cómo Amanda Nelligan pudo pensar<eol>que era Luke Skywalker.<eos>
+<bos>Hemos visto casos similares, Scully.<eos>
+<bos>¿A qué te refieres?<eol>¿A que Van Blundht es extraterrestre?<eos>
+<bos>No, a menos que en el espacio<eol>haya casas rodantes.<eos>
+<bos>No, esto es otra cosa.<eos>
+<bos>" Prospect Parkway 17"<eos>
+<bos>Si durante un día pudieras ser<eol>otra persona, ¿quién serías?<eos>
+<bos>Espero que yo misma.<eos>
+<bos>Qué aburrido.<eos>
+<bos>¿No te tentaría ser otra persona<eol>durante un día?<eos>
+<bos>- ¿ Vivir la vida de otro?<eol>- Tener otra apariencia...<eos>
+<bos>y ser otra persona no es lo mismo.<eos>
+<bos>Quizá no. Todos te tratarían<eol>como si fueras otro.<eos>
+<bos>Quizá las reacciones de la gente<eol>condicionan nuestra forma de ser.<eos>
+<bos>De acuerdo.<eos>
+<bos>Eleanor Roosevelt.<eos>
+<bos>- No puedes ser un muerto. - ¿Por qué?<eos>
+<bos>Porque no.<eos>
+<bos>¿Qué hacen husmeando en mi pórtico?<eos>
+<bos>Somos del FBI.<eol>¿Aquí vive Edward Van Blundht?<eos>
+<bos>- Sí, soy yo. - Buscamos a su hijo Eddie.<eos>
+<bos>¿Eddie?<eos>
+<bos>¿Qué hizo ahora ese bobo?<eos>
+<bos>¿Cinco mujeres?<eos>
+<bos>Dios mío.<eos>
+<bos>- ¿Algo más? - Sí.<eos>
+<bos>Atacó al subcomisario...<eos>
+<bos>al escapar.<eos>
+<bos>- ¿Lo lastimó mucho? - Por suerte no.<eos>
+<bos>Gracias a Dios.<eos>
+<bos>¿Sabe dónde puede estar su hijo?<eos>
+<bos>Ojalá lo supiera. Lo siento.<eol>Hace 2 días que no lo veo.<eos>
+<bos>"Vean a Eddie, el Hombre Mono"<eol>¿Ése es usted?<eos>
+<bos>El mismo. ¿Quieren ver?<eos>
+<bos>No, gracias.<eos>
+<bos>Mi hijo se hizo quitar la suya<eol>cuando era...<eos>
+<bos>un niño.<eos>
+<bos>Me fastidiaba y me fastidiaba...<eos>
+<bos>hasta que--<eos>
+<bos>Hasta que permití que se lo hiciera.<eos>
+<bos>Aquí tiene.<eos>
+<bos>Le dije que cometía un error.<eol>" Historia Con Cola"<eos>
+<bos>Le dije: " Hijo, no eres bien parecido.<eos>
+<bos>No eres atleta...<eos>
+<bos>y mucho menos eres Einstein.<eos>
+<bos>Pero al menos tienes esa cola.<eos>
+<bos>De otro modo, no vales nada".<eos>
+<bos>Pero no me hizo caso.<eos>
+<bos>¿Su hijo tiene alguna otra afección<eol>fuera de lo común?<eos>
+<bos>Es decir, ¿además de la cola?<eos>
+<bos>Sr. Mulder, el muchacho nació enfermizo.<eos>
+<bos>En el sur había una enfermedad<eol>llamada pelagra.<eos>
+<bos>Disculpe, ¿cómo supo<eol>que me llamaba Mulder?<eos>
+<bos>Ella me lo dijo.<eos>
+<bos>No, no lo hice.<eos>
+<bos>¡Es él!<eos>
+<bos>Demasiado ágil para ser anciano, ¿no?<eos>
+<bos>Es Eddie hijo, no padre.<eos>
+<bos>Sea quien sea,<eol>¿no dirías que oculta algo?<eos>
+<bos>Llegaste temprano, cariño.<eos>
+<bos>Era papá. Algo extraño le sucede.<eos>
+<bos>¿Fred?<eos>
+<bos>¿Cariño?<eos>
+<bos>¿Todo está bien?<eos>
+<bos>Todo está bien.<eos>
+<bos>¿Qué pasó con la ropa<eol>que tenías esta mañana?<eos>
+<bos>Luego te explico.<eos>
+<bos>Déjame solo un rato, ¿de acuerdo?<eos>
+<bos>Babú.<eos>
+<bos>Está bien.<eos>
+<bos>Caramelito.<eos>
+<bos>Iré a ver arriba.<eos>
+<bos>- Estoy bien. - ¿Qué?<eos>
+<bos>Es cal viva.<eos>
+<bos>Apártate.<eos>
+<bos>No era muy ágil.<eos>
+<bos>¿Crees que se mató al caer?<eos>
+<bos><i>Ya llegué, Babú.</i><eos>
+<bos>Rayos.<eos>
+<bos><i>Llegué temprano.</i><eos>
+<bos>- ¿Qué? - Llegaste hace un rato.<eos>
+<bos>- Entraste al baño. - ¿Qué?<eos>
+<bos>¿A qué te refieres con que entré al baño?<eos>
+<bos>Ven.<eos>
+<bos>Hay alguien en el baño.<eos>
+<bos>No hay nada.<eos>
+<bos>¿Qué fue lo que mató<eol>a Eddie, el Hombre Mono?<eos>
+<bos>Es difícil decirlo.<eos>
+<bos>La cal quemó los tejidos<eol>y a la vez los conservó.<eos>
+<bos>Entonces...<eos>
+<bos>qué lo mató es una de las dos cosas<eol>que aún no descubrí.<eos>
+<bos>- ¿Cuál es la otra? - Esto.<eos>
+<bos>- Tejido muscular estriado.<eol>- ¿Qué tiene de extraño?<eos>
+<bos>En sí mismo, nada.<eos>
+<bos>- Pero donde lo encontré--<eol>- ¿Dónde lo encontraste?<eos>
+<bos>En todo el cuerpo.<eos>
+<bos>Este hombre tiene una capa delgada<eol>de tejido muscular voluntario...<eos>
+<bos>que sostiene toda la epidermis.<eos>
+<bos>No es normal.<eos>
+<bos>El cuerpo de este hombre<eol>es un espécimen científico.<eos>
+<bos>Y, por suerte, está intacto.<eos>
+<bos>En otras palabras, el cuerpo humano<eol>tiene 654 músculos...<eos>
+<bos>y este hombre, básicamente, 655.<eos>
+<bos>¿Su cola podría tener<eol>alguna relación con eso?<eos>
+<bos>Posiblemente. Podría ser<eol>un defecto genético.<eos>
+<bos>¿Qué función cumpliría ese músculo?<eos>
+<bos>No lo sé.<eos>
+<bos>Quizá ninguno.<eos>
+<bos>Parece estar atrofiado.<eos>
+<bos>Aunque quizá esté así<eol>a causa de la momificación.<eos>
+<bos>¿Podría ser un factor hereditario?<eos>
+<bos>- ¿A qué te refieres?<eol>- ¿Eddie hijo podría...<eos>
+<bos>tener una estructura muscular anormal<eol>como su padre?<eos>
+<bos>- Quizá. ¿Qué piensas? - Bueno...<eos>
+<bos>si ese músculo está<eol>por debajo de la piel...<eos>
+<bos>quizá sirva para modificar<eol>su forma y textura...<eos>
+<bos>lo cual explicaría por qué<eol>buscamos a un hombre...<eos>
+<bos>que se parece a su propio padre<eol>o a cualquiera.<eos>
+<bos>¿No sería más probable que este hombre<eol>tuviera un gemelo idéntico?<eos>
+<bos>Verifícalo.<eos>
+<bos>- ¿Adónde vas tú?<eol>- Van Blundht me confunde.<eos>
+<bos>Sus víctimas fueron 4 mujeres casadas<eol>que querían tener hijos.<eos>
+<bos>Y una soltera que no quería.<eos>
+<bos>Lo sé. Adelante.<eos>
+<bos>Disculpe, Srta. Nelligan.<eol>Lamento molestarla.<eos>
+<bos>No es molestia.<eos>
+<bos>Tengo un par de preguntas más<eol>que hacerle.<eos>
+<bos>- De acuerdo. - Vamos, cariño.<eos>
+<bos>Adiós.<eos>
+<bos>Volveremos más tarde.<eos>
+<bos>Creí que me permitían quedarme<eol>internada mucho tiempo...<eos>
+<bos>porque tenía un seguro fantástico.<eos>
+<bos>Pero me tienen aquí<eol>porque creen que estoy loca.<eos>
+<bos>Quieren estar seguros de que el bebé<eol>no corre peligro conmigo.<eos>
+<bos>Tiene TV por cable gratis.<eos>
+<bos>Quería preguntarle<eol>si reconoce a este hombre.<eos>
+<bos>Sí.<eos>
+<bos>Es Eddie Van Blundht.<eos>
+<bos>¿Qué puede decirme sobre él?<eos>
+<bos>Salimos durante el bachillerato.<eos>
+<bos>- ¡Caray! - ¿Qué?<eos>
+<bos>Nada. Es un fracasado.<eos>
+<bos>Es uno de esos tipos que recuerdas<eol>y dices:<eos>
+<bos>" Dios mío, ¿en qué estaba pensando?<eos>
+<bos>¿En qué estaba pensando?".<eos>
+<bos>¿Por qué era un fracasado?<eos>
+<bos>No sé. Por todo.<eos>
+<bos>Tenía un millón de costumbres molestas.<eos>
+<bos>Por ejemplo:<eos>
+<bos>no era romántico, no tenía ambiciones...<eos>
+<bos>ni tenía objetivos.<eos>
+<bos>Oí que es portero o algo así.<eos>
+<bos>Y tenía una familia muy rara.<eol>Su padre trabajaba en el circo.<eos>
+<bos>No sé. Gracias a Dios,<eol>jamás me lo presentó.<eos>
+<bos>Quizá tenía alguna cualidad buena.<eos>
+<bos>Todos tenemos alguna.<eos>
+<bos>Sí, nos divertíamos.<eos>
+<bos>Le gustaba ir a ver<eol><i>La Guerra de las Galaxias.</i><eos>
+<bos>Eso era divertido.<eos>
+<bos>Pero claro, no era Luke.<eos>
+<bos>¿Por qué quiere saber sobre Eddie?<eos>
+<bos>Es un asunto oficial del FBI.<eos>
+<bos>Vaya.<eos>
+<bos>Quería felicitarla por el nacimiento.<eos>
+<bos>Gracias.<eos>
+<bos>Que la Fuerza esté contigo.<eos>
+<bos>- Vine a ver a Amanda Nelligan.<eol>- Por aquel pasillo.<eos>
+<bos>Adelante.<eos>
+<bos>De veras...<eos>
+<bos>¿por qué quiere saber sobre Eddie?<eos>
+<bos>- ¿Qué pasa con Eddie?<eol>- ¿Por qué me hizo...<eos>
+<bos>esas preguntas sobre él?<eos>
+<bos>- Mulder.<eol>-<i>Agente Mulder, habla Fred Niemann.</i><eos>
+<bos>¿ Ya podemos entrar en el baño?<eos>
+<bos>¿Cómo dice?<eos>
+<bos>Esperábamos poder entrar al baño<eol>esta noche.<eos>
+<bos><i>Dijo que la policía vendría</i><eol><i>a buscar huellas dactilares...</i><eos>
+<bos><i>pero eso fue hace 4 horas.</i><eos>
+<bos><i>Queremos ayudarle a atrapar al sujeto,</i><eol><i>pero esto se hace difícil.</i><eos>
+<bos><i>¿Cómo fue que terminó persiguiéndolo</i><eol><i>en mi baño?</i><eos>
+<bos>No olvides el traje.<eos>
+<bos><i>¿Para qué necesita mi traje negro?</i><eos>
+<bos>Lo siento, Sr. Niemann.<eol>Volveré a llamarlo.<eos>
+<bos>Recién estuve aquí. ¿Adónde fui?<eos>
+<bos>¿Qué?<eos>
+<bos>¿No vio por dónde fue<eol>un hombre igual a mí?<eos>
+<bos>Por el pasillo.<eos>
+<bos>- El vestuario de hombres. - Gracias.<eos>
+<bos>- Van Blundht. - ¿Quién?<eos>
+<bos>Ni se le ocurra. Arriba las manos.<eos>
+<bos>Dese vuelta.<eos>
+<bos>No las baje.<eos>
+<bos>Ahora, bájelas.<eos>
+<bos>Si no es usted, le pido disculpas.<eos>
+<bos>¿Qué hace?<eos>
+<bos>Súbase los pantalones.<eos>
+<bos>¿Qué? ¿Ahora qué hice?<eos>
+<bos>- ¿Sólo están ustedes dos aquí? - Sí.<eos>
+<bos>Disculpen. Sólo uno de ustedes<eol>es el hombre que busco.<eos>
+<bos>Espero.<eos>
+<bos>Cuando tenga el resultado del análisis<eol>de sangre, soltaré al otro.<eos>
+<bos>Tranquilos. Tengan paciencia.<eos>
+<bos>Soy yo. Ven de inmediato al hospital.<eos>
+<bos>- Voy para allá. - Bien.<eos>
+<bos>Eres un hombre muy bien parecido.<eos>
+<bos><i>¡Me apuntó! ¡Me esposó!</i><eos>
+<bos><i>Con mis propias esposas.</i><eol><i>No estoy de acuerdo.</i><eos>
+<bos>- <i>Lo lamento.</i><eol>- <i>Tengo un problema con eso.</i><eos>
+<bos>¿Parecemos delincuentes?<eos>
+<bos>- ¿En qué diablos estaba pensando?<eol>- Ya pedí disculpas.<eos>
+<bos>- ¿Qué sucede? - ¿Terminaron conmigo?<eos>
+<bos>Sí. Tenemos su descripción.<eos>
+<bos>Vamos, muchachos.<eos>
+<bos>- ¿Qué pasó?<eol>- Van Blundht me tomó por sorpresa.<eos>
+<bos>- Me atacó y escapó.<eol>- ¿Tienes alguna pista de él?<eos>
+<bos>No, pero las autoridades locales<eol>se enfadaron...<eos>
+<bos>porque detuve a uno de los suyos.<eos>
+<bos>- Lo atraparán.<eol>- ¿ Ya terminamos, entonces?<eos>
+<bos>Sé que te hice venir...<eos>
+<bos>pero empiezo a creer<eol>que perdemos el tiempo.<eos>
+<bos>¿ Ya no crees que sea<eol>un "expediente secreto"?<eos>
+<bos>Creo que todo esto es poca cosa.<eos>
+<bos>"Sótano Acceso Restringido A Empleados"<eos>
+<bos>" Pedir las llaves al portero" ¿Hola?<eos>
+<bos>¡Sáquenme de aquí!<eos>
+<bos>¡Hola! ¡Hola!<eos>
+<bos>¡Aquí abajo!<eos>
+<bos>¡Socorro!<eos>
+<bos>¡Socorro!<eos>
+<bos>"Oficina Central del FBI<eol>Washington, D.C."<eos>
+<bos>"Subdirector Walter S. Skinner"<eos>
+<bos>- ¿Quién escribió esto? - Yo, señor.<eos>
+<bos>Escribió mal "Oficina Federal<eol>de Investigaciones".<eos>
+<bos>Un error tipográfico.<eos>
+<bos>Dos veces.<eos>
+<bos>¿Qué pasó con el cadáver?<eol>¿Averiguó la causa de la muerte?<eos>
+<bos>El sujeto, Edward Van Blundht padre,<eol>murió por causas naturales.<eos>
+<bos>Una enfermedad cardíaca y edad avanzada.<eos>
+<bos>Creemos que el hijo escondió<eol>al padre en el ático...<eos>
+<bos>para seguir cobrando el seguro social<eol>del anciano.<eos>
+<bos>Es muy probable.<eos>
+<bos>- ¿Entonces el hijo no era un asesino?<eol>- No, en absoluto.<eos>
+<bos>Pero sí un violador.<eos>
+<bos>Lo ingresé en la Base Nacional de Datos<eol>de Delincuentes Sexuales.<eos>
+<bos>La Policía de Virginia Occidental<eol>tiene su fotografía...<eos>
+<bos>y trabajarán<eol>junto con las autoridades locales.<eos>
+<bos>Pronto lo arrestarán.<eos>
+<bos>Creo que eso es todo.<eos>
+<bos>¿Qué haces esta noche?<eol>¿Tienes algún plan?<eos>
+<bos>Por como viene el viernes,<eol>pensaba trabajar...<eos>
+<bos>en la monografía que estoy escribiendo<eol>para la revista de criminología.<eos>
+<bos>Menor producción de serotonina<eol>en los reincidentes.<eos>
+<bos>- Aunque quizá no lo haga. - ¿De veras?<eos>
+<bos>La musculatura anormal del cadáver<eol>que encontramos me tiene intrigada.<eos>
+<bos>Iré a Quantico<eol>para analizar muestras del tejido.<eos>
+<bos>Hasta el lunes.<eos>
+<bos>Por la mañana.<eos>
+<bos>" Fox Mulder Agente Especial"<eos>
+<bos>Fox.<eos>
+<bos>¡Caray!<eos>
+<bos>"QUI ERO CREER"<eos>
+<bos>¡Por Dios!<eos>
+<bos>¿Aquí vienen todos mis impuestos?<eos>
+<bos>¿Dónde vivo?<eos>
+<bos>¿Dónde diablos duermo?<eos>
+<bos><i>Mulder. Langley.</i><eol><i>Tienes que ver esto.</i><eos>
+<bos><i>Un colega nuestro,</i><eol><i>que permanecerá anónimo...</i><eos>
+<bos><i>digitalizó la fiilmación de Zapruder...</i><eos>
+<bos><i>para extrapolar la vista</i><eol><i>de la Plaza Dealey...</i><eos>
+<bos><i>en el momento del asesinato.</i><eos>
+<bos><i>No creerás de dónde vino</i><eol><i>el tercer tiro.</i><eos>
+<bos>- <i>Dile sobre los bistecs de queso.</i><eol>-<i>Ah, sí.</i><eos>
+<bos><i>Frohike, Byers y yo saldremos</i><eol><i>a comer bistecs de queso.</i><eos>
+<bos><i>¿Estás de acuerdo?</i><eos>
+<bos><i>Borra esto luego de escucharlo.</i><eos>
+<bos>Qué amigos raros.<eos>
+<bos><i>¿Hola, Marty? Soy Chantal.</i><eos>
+<bos><i>Hace mucho que no hablamos</i><eol><i>y me he sentido sola...</i><eos>
+<bos><i>al no oír tu atractiva voz.</i><eos>
+<bos><i>Marty, bajamos las tarifas</i><eol><i>en un 40 por ciento...</i><eos>
+<bos><i>2,99 el primer minuto,</i><eol><i>válido para llamadas de larga distancia.</i><eos>
+<bos><i>Llámame, querido.</i><eol><i>Te estaré esperando.</i><eos>
+<bos>¿Me miras a mí?<eos>
+<bos>No hay nadie más.<eol>Debes de estar mirándome a mí.<eos>
+<bos>¿Quieres esto?<eos>
+<bos>Eres un hombre muy bien parecido.<eos>
+<bos>¿Qué sucede, Mulder?<eos>
+<bos>¿Llego en mal momento?<eos>
+<bos>Estoy-- Adelante.<eos>
+<bos>¿Para quién es eso?<eos>
+<bos>Para nosotros.<eos>
+<bos>Toma asiento.<eos>
+<bos>¿En qué estás trabajando?<eos>
+<bos>En datos de la autopsia.<eos>
+<bos>Todo el laboratorio quedó fascinado<eol>con el Sr. Van Blundht.<eos>
+<bos>Encontramos otra anormalidad...<eos>
+<bos>relacionada con los folículos pilosos<eol>del cuero cabelludo.<eos>
+<bos>No podré saber su naturaleza...<eos>
+<bos>hasta que lo veamos bajo<eol>el microscopio electrónico.<eos>
+<bos>Suena interesante.<eos>
+<bos>Lo es.<eos>
+<bos>¿Qué pasa, Mulder?<eos>
+<bos>¿Estás bien?<eos>
+<bos>Salí a dar una vuelta...<eos>
+<bos>y a pensar.<eos>
+<bos>Delicioso.<eos>
+<bos>Nosotros jamás...<eos>
+<bos>hablamos demasiado...<eos>
+<bos>- ¿verdad? - ¿Te refieres a conversar?<eos>
+<bos>No, no conversamos.<eos>
+<bos>¿ Y por qué no lo hacemos?<eos>
+<bos>Ahí estábamos, a las 2 de la madrugada...<eos>
+<bos>yo con mi vestido de tafeta...<eos>
+<bos>y Marcus con lo que llevaba puesto.<eos>
+<bos>Muchas gracias.<eos>
+<bos>Tenía...<eos>
+<bos>una faja de color verde.<eos>
+<bos>Sabía que Marcus pensaba:<eol>"Ahora o nunca".<eos>
+<bos>- Yyo pensaba-- - ¿Qué pensabas?<eos>
+<bos>¿Qué es esa sirena que se oye<eol>cada vez más fuerte?<eos>
+<bos>- ¿Quién llamó a la policía?<eol>- No, eran los bomberos.<eos>
+<bos>- Mi amiga Sylvia y su amigo...<eol>- ¿Burwood?<eos>
+<bos>habían hecho una fogata<eol>y no pudieron controlarla.<eos>
+<bos>Entonces todos nos subimos al--<eol>¿cómo se llama?<eos>
+<bos>Al camión de bomberos.<eos>
+<bos>Marcus fue el amor de mi vida<eol>en el bachillerato.<eos>
+<bos>No puedo creer que esté contándote esto.<eos>
+<bos>No puedo creer que<eol>no me lo hayas dicho antes.<eos>
+<bos>Estoy descubriendo una nueva faceta tuya.<eos>
+<bos>¿ Y eso es bueno?<eos>
+<bos>Me gusta.<eos>
+<bos>- ¿No querrías que todo fuera distinto?<eol>- ¿A qué te refieres?<eos>
+<bos>En el bachillerato,<eol>lo que querías ser en el futuro...<eos>
+<bos>¿qué tan lejos estuviste de eso?<eos>
+<bos>En cuanto a la carrera, muy lejos.<eos>
+<bos>No sólo eso, sino--<eos>
+<bos>¿Alguna vez deseaste...<eos>
+<bos>poder volver atrás y hacer todo distinto?<eos>
+<bos>¿ Y tú?<eos>
+<bos>" Reformatorio Cumberland<eol>Un Mes Más Tarde"<eos>
+<bos>Gracias por venir.<eos>
+<bos>¿Qué es esa gorra? "Superestrella"<eos>
+<bos>Mi terapeuta quiere que la use.<eos>
+<bos>Dice que estimula mi amor propio.<eos>
+<bos>- ¿Es así? - Para nada.<eos>
+<bos>Los otros reclusos me golpean<eol>y me la quitan...<eos>
+<bos>lo cual no importaría,<eol>pero me trae una nueva.<eos>
+<bos>Además me dan un relajante muscular...<eos>
+<bos>y no puedo hacer caras como antes.<eos>
+<bos>¿ Usted les dijo que lo hicieran?<eos>
+<bos>¿ Vino la agente Scully?<eos>
+<bos>¿Qué quería decirme, Eddie?<eos>
+<bos>Es curioso.<eos>
+<bos>Yo nací siendo un fracasado,<eol>pero Ud. eligió serlo.<eos>
+<bos>¿En qué basa esa astuta apreciación?<eos>
+<bos>En la experiencia.<eos>
+<bos>Debería vivir un poco. Quiérase un poco.<eos>
+<bos>Yo lo haría si estuviera en su lugar.<eos>
+<bos>Buen día, señor.<eos>
+<bos>No es necesario que te lo diga...<eos>
+<bos>pero no eres un fracasado.<eos>
+<bos>Pero tampoco soy Eddie Van Blundht.<eos>
+<bos>¿ Verdad?<eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

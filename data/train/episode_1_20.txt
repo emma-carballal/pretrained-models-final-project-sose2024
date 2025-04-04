@@ -1,0 +1,590 @@
+<bos>Are you all right?<eos>
+<bos>Do you want some water?<eos>
+<bos>No. I'm fine.<eos>
+<bos>Oh, honey, it's been<eol>a couple of weeks now.<eos>
+<bos>Do you want to talk?<eos>
+<bos>No. Really, Jane, I'm okay.<eos>
+<bos>I just, uh, just haven't known<eos>
+<bos>a lot of people who have died, you know.<eos>
+<bos>I've never known anybody<eol>that killed themselves.<eos>
+<bos>Oh... maybe once everything<eol>gets packed away,<eos>
+<bos>it will get easier.<eos>
+<bos>There won't be the constant reminder.<eos>
+<bos>Here's your paycheck.<eos>
+<bos>Come on. Go home.<eos>
+<bos>Okay.<eos>
+<bos>I have no money!<eos>
+<bos>Oh, no, let me go, no!<eos>
+<bos>Food.<eos>
+<bos>I think I'll pass.<eos>
+<bos>Hey, I know a good place to crash.<eos>
+<bos>Up the fire escape,<eos>
+<bos>through that window.<eos>
+<bos>Come on, I'll give you a boost.<eos>
+<bos>Pull it down.<eos>
+<bos>I can't get it down.<eos>
+<bos>Come on, pull.<eos>
+<bos>Come on.<eos>
+<bos>Hurry up.<eos>
+<bos>Agent Scully, Agent Mulder,<eos>
+<bos>Chief Blevins assures us<eol>of your cooperation.<eos>
+<bos>We regret any inconvenience<eol>at this extreme hour.<eos>
+<bos>We hope that your expertise<eol>in extraordinary phenomenon<eos>
+<bos>will help us answer some questions.<eos>
+<bos>You're not FBI, are you?<eos>
+<bos>Have you ever analyzed<eol>anything like this before?<eos>
+<bos>Abnormal postmortem<eos>
+<bos>muscle reflex.<eos>
+<bos>Both corpses are still responding<eos>
+<bos>to exposure to high levels<eos>
+<bos>of electrostatic charge.<eos>
+<bos>Any signs of external lesions<eol>or surface burns?<eos>
+<bos>None.<eos>
+<bos>Time of death?<eos>
+<bos>Well, it can't be long.<eos>
+<bos>The body's still warm.<eos>
+<bos>Somatic death occurred<eol>sometime over six hours ago,<eos>
+<bos>but their body temperatures<eos>
+<bos>have yet to drop below 98.3 degrees.<eos>
+<bos>Where did you find them?<eos>
+<bos>Look, at least tell us<eos>
+<bos>the time and mode of transport.<eos>
+<bos>That might help us<eol>determine why the bodies<eos>
+<bos>haven't cooled.<eos>
+<bos>Hey,<eos>
+<bos>you guys called us down here.<eos>
+<bos>You want some answers,<eol>you got to give some.<eos>
+<bos>They traveled 60 minutes by air.<eos>
+<bos>Thank you.<eos>
+<bos>The most troubling aspect of the deaths<eos>
+<bos>is the throat area.<eos>
+<bos>Larynx, esophagus, and hyoid bone<eos>
+<bos>all have been crushed<eos>
+<bos>like chalk.<eos>
+<bos>There's no abrasions or<eol>evidence of tissue damage.<eos>
+<bos>It's as if their throats were crushed<eos>
+<bos>from the inside.<eos>
+<bos>Who are these guys?<eos>
+<bos>If you've done your examinations,<eos>
+<bos>why are you consulting us?<eos>
+<bos>During your work on the X-Files,<eos>
+<bos>have you ever seen anything like this?<eos>
+<bos>No, never.<eos>
+<bos>Well, thank you very much for your time,<eos>
+<bos>Agent Mulder, Scully.<eos>
+<bos>If any inquiry<eol>as to this meeting be made,<eos>
+<bos>we request full denial.<eos>
+<bos>I'd say you people already<eol>suffer from full denial.<eos>
+<bos>You lied.<eos>
+<bos>You have seen it before, I can tell.<eos>
+<bos>You lied to them.<eos>
+<bos>I would never lie.<eos>
+<bos>I willfully participated<eos>
+<bos>in a campaign of misinformation.<eos>
+<bos>Who do you think they were?<eos>
+<bos>NSA, CIA, some covert organization<eos>
+<bos>that Congress will uncover<eol>in the next scandal.<eos>
+<bos>It's not important who<eol>they are but what they have,<eos>
+<bos>and I'm sure they have no idea<eol>because they called us in.<eos>
+<bos>I have X-Files--<eos>
+<bos>each case has an element<eol>of what we saw tonight--<eos>
+<bos>residual electrostatic charge,<eol>internal mutilation<eos>
+<bos>without any corresponding causality,<eos>
+<bos>but none has all the elements<eol>combined in one case.<eos>
+<bos>How can an esophagus be crushed<eos>
+<bos>without the neck ever being touched?<eos>
+<bos>Psychokinetic manipulation.<eos>
+<bos>Psychokinesis?<eos>
+<bos>You mean, how Carrie<eol>got even at the prom?<eos>
+<bos>The Russians were doing studies on it.<eos>
+<bos>The Chinese still are.<eos>
+<bos>Their findings are kept secret.<eos>
+<bos>Okay, I'm intrigued, but<eol>how can we investigate?<eos>
+<bos>We have nothing to go on.<eos>
+<bos>Just getting in, Lauren?<eos>
+<bos>Oh... yes.<eos>
+<bos>Mr. Graves used to let<eol>you get away with that,<eos>
+<bos>but Mr. Dorlund is in charge now.<eos>
+<bos>I was, um...<eos>
+<bos>wondering if I could have<eol>a minute with him?<eos>
+<bos>Tomorrow... at 3:00.<eos>
+<bos>Can I see him today?<eol>It's really important.<eos>
+<bos>Oh!<eos>
+<bos>Oh!<eos>
+<bos>Oh, my suit.<eos>
+<bos>Is everything all right out here?<eos>
+<bos>Can I speak with you?<eos>
+<bos>Hmm.<eos>
+<bos>Please.<eos>
+<bos>Um, I'm here to give my two-week notice.<eos>
+<bos>Uh-huh.<eos>
+<bos>Lauren, Jane told me<eos>
+<bos>about you crying in Howard's office,<eos>
+<bos>and I, I want you to<eol>know you're not alone.<eos>
+<bos>As a matter of fact, we<eol>share something special.<eos>
+<bos>Howard and I started this company<eos>
+<bos>ten years ago, and as long as I knew him,<eos>
+<bos>he had no interest in<eol>anything besides work,<eos>
+<bos>and so some of us became family.<eos>
+<bos>I was his brother<eos>
+<bos>and you were like a daughter to him,<eos>
+<bos>so of course<eos>
+<bos>I feel very close to you,<eos>
+<bos>and I...<eos>
+<bos>I want to take care of my family.<eos>
+<bos>Stay, Lauren, please.<eos>
+<bos>The company needs you.<eos>
+<bos>Especially now.<eos>
+<bos>I won't let you leave, Lauren.<eos>
+<bos>What's wrong?<eos>
+<bos>I, uh... I can't.<eos>
+<bos>I, I have to leave.<eos>
+<bos>I c-- I can't be here anymore.<eos>
+<bos>You've got two weeks.<eos>
+<bos>Mohammed Amrollahi.<eos>
+<bos>Convictions:<eol>illegal possession of firearms,<eos>
+<bos>illegal possession of explosives,<eos>
+<bos>falsification of export licenses.<eos>
+<bos>He has ties to an exiled extremist group<eos>
+<bos>operating in the U.S.--<eos>
+<bos>the Isfahan.<eos>
+<bos>They take their name<eol>from the city in Iran.<eos>
+<bos>Recently they've been working<eol>out of Philadelphia.<eos>
+<bos>That's 60 air minutes.<eos>
+<bos>I'll talk to the Philly PD.<eos>
+<bos>It was last Wednesday night.<eos>
+<bos>I was just on routine patrol.<eos>
+<bos>This is where we found him.<eos>
+<bos>Who discovered their bodies?<eos>
+<bos>Nobody.<eos>
+<bos>It was about 10:00, I was on patrol.<eos>
+<bos>Saw them hanging around.<eos>
+<bos>No witnesses?<eos>
+<bos>The kind of people<eos>
+<bos>that come around here<eol>after business hours<eos>
+<bos>don't witness very much.<eos>
+<bos>You know what I'm saying.<eos>
+<bos>Well, I appreciate your help.<eos>
+<bos>If you can think of anything else,<eos>
+<bos>please give us a call.<eos>
+<bos>A daily visual record is made<eos>
+<bos>of everyone who makes a transaction.<eos>
+<bos>We'll just have to question<eol>everyone on record<eos>
+<bos>who was at the machine<eol>before 10:00 that night.<eos>
+<bos>There.<eos>
+<bos>I'll back up.<eos>
+<bos>"Lauren Kyte.<eos>
+<bos>858 Franklin, Bensalem."<eos>
+<bos>Why would the Isfahan be<eol>robbing someone of 40 bucks<eos>
+<bos>at an ATM machine? Look at that.<eos>
+<bos>Maybe it's another person.<eos>
+<bos>Maybe. Maybe not.<eos>
+<bos>Well, the resolution's too poor.<eos>
+<bos>It won't help much to enhance it.<eos>
+<bos>That leaves us only one person<eos>
+<bos>we know we can talk to.<eos>
+<bos>Oh, come on.<eos>
+<bos>Hello?<eos>
+<bos>Ms. Lauren Kyte, please.<eos>
+<bos>I'm Agent Fox Mulder.<eos>
+<bos>This is Agent Dana Scully.<eos>
+<bos>We're with the Federal<eol>Bureau of Investigation.<eos>
+<bos>Do we mind if we come in?<eos>
+<bos>Oh, uh, I was just in the middle of...<eos>
+<bos>Thank you, we won't be long, thank you.<eos>
+<bos>Have you ever seen either<eol>of these two men before?<eos>
+<bos>No.<eos>
+<bos>Take your time.<eos>
+<bos>No, I-I'm sorry, I've,<eol>I've never seen them before.<eos>
+<bos>I'm afraid you have.<eos>
+<bos>This is a surveillance<eol>picture from your ATM.<eos>
+<bos>Can you tell us what happened that night?<eos>
+<bos>Um... these guys, I...<eos>
+<bos>I was depositing my paycheck.<eos>
+<bos>They grabbed me, I got away, I ran.<eos>
+<bos>I, I just didn't want to file a report.<eos>
+<bos>They were found dead.<eos>
+<bos>Have you ever seen this person before?<eos>
+<bos>No.<eos>
+<bos>I'm sorry, I can't tell you.<eos>
+<bos>Does that mean you know?<eos>
+<bos>Uh... it means I...<eos>
+<bos>I can't tell you who it is.<eos>
+<bos>Well, when you can tell me,<eos>
+<bos>this is a number I can<eol>be reached at any time.<eos>
+<bos>Okay? Mm-hmm.<eos>
+<bos>A woman her size breaking free<eol>and outrunning those men?<eos>
+<bos>Then somehow crushing their necks?<eos>
+<bos>She knows who the other person<eol>in the photo is.<eos>
+<bos>She's packing, running away,<eol>but from what?<eos>
+<bos>What's happening?<eos>
+<bos>What the hell is going on?<eos>
+<bos>Hang on.<eos>
+<bos>Are you okay?<eos>
+<bos>Yeah.<eos>
+<bos>Hi.<eos>
+<bos>Hi.<eos>
+<bos>The paramedics check you out?<eos>
+<bos>Yeah. I'm fine, although I do have<eos>
+<bos>a standing-in-line-at-<eol>the-DMV-sized headache.<eos>
+<bos>Mine's more IRS-sized.<eos>
+<bos>Did they check out the car?<eos>
+<bos>Yeah, it's brand-new. Only 100 miles.<eos>
+<bos>Then someone tampered with it<eos>
+<bos>while we were in her house.<eos>
+<bos>The mechanic says<eol>everything's in proper order.<eos>
+<bos>Nothing cut, nothing greased.<eos>
+<bos>Check out the lights.<eos>
+<bos>They're on.<eos>
+<bos>They're not-- the filaments are heated<eos>
+<bos>due to massive levels<eol>of electrostatic charge,<eos>
+<bos>just like the bodies in the morgue.<eos>
+<bos>And isn't it interesting that Lauren Kyte<eos>
+<bos>was present at both incidents?<eos>
+<bos>She was in our presence<eos>
+<bos>the entire time we were at her house.<eos>
+<bos>What if it's possible somehow<eos>
+<bos>to raise the body's electrostatic charge<eos>
+<bos>to the levels we've been seeing<eos>
+<bos>and to use that energy to affect objects?<eos>
+<bos>If a person could generate<eol>that much energy,<eos>
+<bos>their body would break down.<eos>
+<bos>They-They'd start glowing<eol>like those lights.<eos>
+<bos>Well, there's evidence of this<eol>all through the X-Files--<eos>
+<bos>furniture moving untouched,<eos>
+<bos>objects levitating,<eos>
+<bos>unexplained electrical discharges.<eos>
+<bos>Frequently, people who have<eol>psychokinetic power<eos>
+<bos>are unaware of their own capability.<eos>
+<bos>Are you saying Lauren<eol>Kyte crashed our car?<eos>
+<bos>Either that or a poltergeist.<eos>
+<bos>They're here.<eos>
+<bos>They may be.<eos>
+<bos>Oh, come on, Mulder, look<eol>at the tangible evidence.<eos>
+<bos>Two Mideast extremists were killed<eos>
+<bos>trying to assault a woman working<eos>
+<bos>for a manufacturer of parts<eol>for the Defense Department.<eos>
+<bos>When we questioned her,<eos>
+<bos>our car was sabotaged.<eos>
+<bos>Now, in both cases, someone else<eos>
+<bos>may have committed those acts--<eos>
+<bos>maybe the same someone<eol>we saw in the ATM photos.<eos>
+<bos>The mystery isn't psychokinetic energy.<eos>
+<bos>It's her accomplice.<eos>
+<bos>Excuse me, sir, excuse me.<eos>
+<bos>She's clean-- no arrest,<eol>not even a traffic ticket.<eos>
+<bos>The only thing is,<eos>
+<bos>she's in deep with her<eol>credit card company-- $15,000.<eos>
+<bos>What do you think you're<eol>doing? What are you doing?<eos>
+<bos>No, no.<eos>
+<bos>I'll take care of this, all right?<eos>
+<bos>Just go.<eos>
+<bos>Here, I'll, I'll talk to somebody.<eos>
+<bos>A little upset over losing<eos>
+<bos>a parking space, wouldn't you say?<eos>
+<bos>So, who is Howard Graves, anyway?<eos>
+<bos>She was his secretary.<eos>
+<bos>That's three people<eol>dead in the last month<eos>
+<bos>associated with Lauren Kyte.<eos>
+<bos>You won't find too many people<eos>
+<bos>at their boss' grave who<eol>aren't dancing on it.<eos>
+<bos>Look at this one.<eos>
+<bos>Excuse me, sir?<eos>
+<bos>Is there an office<eol>where I can get some information<eos>
+<bos>on those people?<eos>
+<bos>Who? I attend every funeral.<eos>
+<bos>I'm the last person to<eol>see them put to rest.<eos>
+<bos>Do you know how Sarah Lynn<eos>
+<bos>was related to Howard Graves?<eos>
+<bos>His daughter.<eos>
+<bos>They were at home one day<eos>
+<bos>and he didn't latch the pool gate.<eos>
+<bos>She drowned.<eos>
+<bos>His wife left him a year later.<eos>
+<bos>She's buried in a plot<eol>in the northeast corner.<eos>
+<bos>Thank you, sir.<eos>
+<bos>You're welcome.<eos>
+<bos>She was only three years old.<eos>
+<bos>If she had lived, she'd be Lauren's age.<eos>
+<bos>Further investigation into<eol>Lauren Kyte's personal history<eos>
+<bos>reveals an estrangement from her family.<eos>
+<bos>Phone records confirm<eol>no contact with her parents<eos>
+<bos>for the last two years.<eos>
+<bos>Her actions,<eol>observed during surveillance,<eos>
+<bos>indicate a strong relationship<eol>between Lauren Kyte<eos>
+<bos>and her employer, the late Howard Graves.<eos>
+<bos>Was this relationship somehow<eol>the motivation for his suicide?<eos>
+<bos>How are the attack<eol>and the subsequent murders<eos>
+<bos>of the Isfahan agents related, if at all?<eos>
+<bos>I am certain the answers<eol>to these questions lie<eos>
+<bos>in finding the identity<eol>of Lauren Kyte's accomplice.<eos>
+<bos>Enhance it by ten.<eos>
+<bos>That's Howard Graves.<eos>
+<bos>He's alive.<eos>
+<bos>Not necessarily.<eos>
+<bos>Don't do this to me.<eos>
+<bos>Howard.<eos>
+<bos>Stop, no, no.<eos>
+<bos>Please, no.<eos>
+<bos>Howard.<eos>
+<bos>They killed him.<eos>
+<bos>I think Howard Graves<eol>fabricated his own death.<eos>
+<bos>Do you know how difficult it<eol>is to fake your own death?<eos>
+<bos>Only one man has pulled it off-- Elvis.<eos>
+<bos>He and Lauren Kyte are in on something.<eos>
+<bos>Maybe an illegal dealing<eol>through his company--<eos>
+<bos>something the CIA was interested in.<eos>
+<bos>You may be right.<eos>
+<bos>Wait.<eos>
+<bos>You think I'm right?<eos>
+<bos>Sure. All you got to do<eos>
+<bos>is prove Howard Graves is still alive.<eos>
+<bos>Howard Graves is very dead.<eos>
+<bos>May we see the autopsy report, please?<eos>
+<bos>Knock yourself out.<eos>
+<bos>Uh... "cause of death:<eol>arterial hemorrhage..."<eos>
+<bos>Four out of six liters of blood<eos>
+<bos>down the tub.<eos>
+<bos>Well, there seems to be<eol>some blood work missing here.<eos>
+<bos>We only do that if we suspect homicide.<eos>
+<bos>I don't suppose you ran<eol>any dental confirmations?<eos>
+<bos>What for? It was him.<eos>
+<bos>How did you know?<eos>
+<bos>It said so on the toe tag.<eos>
+<bos>Who made positive I.D. on the body?<eos>
+<bos>Lauren Kyte.<eos>
+<bos>But Howard Graves was cremated.<eos>
+<bos>There's no way to run a dental<eol>check or to get a DNA sample.<eos>
+<bos>Yes, there is.<eos>
+<bos>His body's tissues<eos>
+<bos>and organs were donated.<eos>
+<bos>Howard Graves<eol>is in five different people.<eos>
+<bos>They harvested the organs<eol>immediately after death.<eos>
+<bos>His kidneys were sent to Boston,<eos>
+<bos>his liver to Dallas,<eos>
+<bos>and his corneas to Portland, Oregon.<eos>
+<bos>They've all been transplanted.<eos>
+<bos>Because of his age,<eos>
+<bos>we could only cryopreserve the dura mater<eos>
+<bos>in the membrane of the spinal column.<eos>
+<bos>We have Mr. Graves' hospital records.<eos>
+<bos>We'll extract a sample, run a test,<eos>
+<bos>and in a couple of hours<eos>
+<bos>confirm the identity of the donor.<eos>
+<bos>I, uh, made them rush<eol>so you could have your check<eos>
+<bos>before you leave.<eos>
+<bos>Oh.<eos>
+<bos>Oh, I'm going to miss you.<eos>
+<bos>Oh.<eos>
+<bos>Oh, what?<eos>
+<bos>Here.<eos>
+<bos>Bye. Bye-bye.<eos>
+<bos>You were gonna leave<eol>without saying good-bye?<eos>
+<bos>Well, uh, I-I came<eol>to say good-bye and to,<eos>
+<bos>to wish you luck...<eos>
+<bos>and to leave you<eol>with this little thought.<eos>
+<bos>I know Howard told you,<eos>
+<bos>and if it ever gets out,<eos>
+<bos>I won't waste my time<eol>trying to pin the source.<eos>
+<bos>I'll go straight to you.<eos>
+<bos>And you'll do to me<eol>what you did to Howard?<eos>
+<bos>I know you had him killed.<eos>
+<bos>Why would you say that?<eos>
+<bos>He told me.<eos>
+<bos>Mulder.<eos>
+<bos>This is Lauren Kyte.<eos>
+<bos>How soon can you be at my house?<eos>
+<bos>Why?<eos>
+<bos>Please hurry.<eos>
+<bos>The tests are conclusive.<eos>
+<bos>The dura mater<eol>does belong to Howard Graves.<eos>
+<bos>He is, indeed, very dead.<eos>
+<bos>Just a second.<eos>
+<bos>Go run the bath.<eos>
+<bos>Get out of here!<eos>
+<bos>You know, you're not under arrest.<eos>
+<bos>You're just here for questioning.<eos>
+<bos>The sooner you talk to us,<eos>
+<bos>the sooner you get to go home.<eos>
+<bos>What happened<eos>
+<bos>to those people tonight?<eos>
+<bos>Do you have any idea who they might be?<eos>
+<bos>Why did they attack you?<eos>
+<bos>Do you know who this is?<eos>
+<bos>Scully, Mulder.<eos>
+<bos>He'll keep an eye on her.<eos>
+<bos>Come on now.<eos>
+<bos>You've seriously compromised<eol>our investigation.<eos>
+<bos>We were following leads<eol>pertaining to an X-File.<eos>
+<bos>I want to know every detail<eol>of your activities<eos>
+<bos>concerning this case.<eos>
+<bos>What case? You're the ones<eos>
+<bos>who have been withholding information.<eos>
+<bos>Why don't you tell us what you've got?<eos>
+<bos>Then we have nothing more to talk about.<eos>
+<bos>Wait, we believe<eos>
+<bos>HTG Industrial Technologies<eol>sold restricted parts<eos>
+<bos>to the Isfahan. Partial serial numbers<eos>
+<bos>from their manifests were<eol>recovered in the wreckage<eos>
+<bos>of the July bombing of<eol>a navy transport van.<eos>
+<bos>How is Lauren Kyte involved?<eos>
+<bos>We don't quite know.<eos>
+<bos>Your actions impeded our investigation.<eos>
+<bos>In any case we don't have<eol>enough evidence to hold her.<eos>
+<bos>If she doesn't talk, she goes free<eos>
+<bos>and we lose our chance<eol>to break this company.<eos>
+<bos>I could make her talk.<eos>
+<bos>My advice to you:<eos>
+<bos>don't get rough with her.<eos>
+<bos>Hmm, that was a waste of time.<eos>
+<bos>Your turn.<eos>
+<bos>Lauren...<eos>
+<bos>I won't talk to you either.<eos>
+<bos>Okay. Then you're free to go.<eos>
+<bos>I can't go back to that house.<eos>
+<bos>Why?<eos>
+<bos>Because of Howard Graves?<eos>
+<bos>He's dead.<eos>
+<bos>I know.<eos>
+<bos>He's watching over you, isn't he?<eos>
+<bos>I don't know if you've ever<eol>been a secretary before.<eos>
+<bos>Sometimes your boss can talk<eos>
+<bos>as if you weren't even in the room,<eos>
+<bos>which can hurt, you know,<eos>
+<bos>but sometimes you're<eol>all he has to talk to,<eos>
+<bos>which was how it always<eol>was with me and Howard.<eos>
+<bos>One night, late, I went into his office.<eos>
+<bos>He was crying, more scared than sad.<eos>
+<bos>The Pentagon contracts<eol>were being canceled,<eos>
+<bos>the company was going under.<eos>
+<bos>He felt personally responsible<eol>for each of his employees.<eos>
+<bos>Seeing and feeling<eol>their fear every day...<eos>
+<bos>really wore him down.<eos>
+<bos>Then this one time...<eos>
+<bos>Dorlund came with that group,<eos>
+<bos>that, uh... Mideast group...<eos>
+<bos>Isfahan,<eos>
+<bos>that terrorist group.<eos>
+<bos>They'd buy parts at an outrageous price--<eos>
+<bos>not just once<eos>
+<bos>but for as long as they<eol>could get away with it.<eos>
+<bos>That night Howard was crying,<eol>he had just found out<eos>
+<bos>that Isfahan had claimed responsibility<eos>
+<bos>for killing a couple sailors in Florida.<eos>
+<bos>He was never the same,<eos>
+<bos>and I thought<eol>that's why he killed himself.<eos>
+<bos>But he didn't.<eos>
+<bos>I saw...<eos>
+<bos>Howard showed me<eol>how Dorlund had him killed.<eos>
+<bos>Made it look like a suicide<eol>'cause he could see<eos>
+<bos>Howard was going<eol>to put an end to the deal.<eos>
+<bos>So now Howard is protecting you?<eos>
+<bos>It sounds so ridiculous.<eos>
+<bos>But you believe it?<eos>
+<bos>He was closer to me than my father.<eos>
+<bos>I told him that.<eos>
+<bos>I still feel his presence.<eos>
+<bos>Sometimes... I even smell his aftershave.<eos>
+<bos>If you just could have...<eos>
+<bos>seen the things I've seen.<eos>
+<bos>I just want all that to go away.<eos>
+<bos>That's why I'm leaving.<eos>
+<bos>Maybe he can move on.<eos>
+<bos>That's not enough.<eos>
+<bos>You have been given the<eol>chance to tell him again.<eos>
+<bos>Take it.<eos>
+<bos>Tell him you love him<eol>by showing him, by...<eos>
+<bos>by helping us finish<eol>his unfinished business.<eos>
+<bos>Lauren, how will you ever<eos>
+<bos>be able to rest if he never can?<eos>
+<bos>Okay.<eos>
+<bos>I'm a mess.<eos>
+<bos>I'm going to, uh... wash up.<eos>
+<bos>What are you doing, Scully?<eol>You don't believe.<eos>
+<bos>Mulder, there's no such things<eol>as ghosts or psychokinesis.<eos>
+<bos>I'm sure there's an explanation,<eol>but I believe that she believes,<eos>
+<bos>and my priority is to get her<eol>to help us stop Dorlund.<eos>
+<bos>Well, we may have just<eol>sacrificed our best opportunity<eos>
+<bos>to observe spectral phenomena.<eos>
+<bos>No, I'm giving us the chance<eol>to solve a case that's tangible<eos>
+<bos>instead of chasing after shadows.<eos>
+<bos>Are you ready?<eos>
+<bos>All right, everyone,<eos>
+<bos>we have a warrant to search the premises<eos>
+<bos>for evidence pertaining to the sale<eos>
+<bos>of restricted manufactured parts.<eos>
+<bos>The evidence may be in the form<eos>
+<bos>of falsified export licenses,<eol>parts manifests, communiquÃ©s.<eos>
+<bos>It could be on computer disk<eol>or hard copy.<eos>
+<bos>Once there, if in doubt, ask.<eos>
+<bos>We need this to be clean.<eos>
+<bos>This is the culmination<eol>of a year-long investigation.<eos>
+<bos>If we don't come out<eol>of there today with something<eos>
+<bos>proving a connection to the Isfahan,<eos>
+<bos>this guy could walk.<eos>
+<bos>Okay, let's go.<eos>
+<bos>You okay?<eos>
+<bos>Now, it'll most likely<eol>be in Dorlund's office.<eos>
+<bos>We'll execute the search, but<eol>we'll need you to guide us,<eos>
+<bos>so you have to be strong, okay?<eos>
+<bos>Everybody stay calm.<eos>
+<bos>Federal Bureau of Investigation.<eos>
+<bos>Ma'am, could you back away<eol>from those files, please?<eos>
+<bos>Step aside, please.<eos>
+<bos>This is all we could find.<eos>
+<bos>We don't have him.<eos>
+<bos>He's not even breaking a sweat.<eos>
+<bos>Our case is blown.<eos>
+<bos>We've wasted a year.<eos>
+<bos>This guy's going to walk.<eos>
+<bos>Let's get out of here.<eos>
+<bos>Lauren, it's over, we have to go.<eos>
+<bos>What we're looking for isn't here.<eos>
+<bos>Uh, look, she's no agent.<eos>
+<bos>I've been more than cooperative<eos>
+<bos>and I don't want<eol>to be combative, but she has<eos>
+<bos>no right to destroy my personal property.<eos>
+<bos>Lauren.<eos>
+<bos>Destroying property?<eos>
+<bos>What about that van that blew up<eol>and killed those servicemen?<eos>
+<bos>Oh, I don't know what you're<eol>talking about, you stupid bitch.<eos>
+<bos>Lauren, no!<eos>
+<bos>They'll kill him.<eos>
+<bos>Help us find it!<eos>
+<bos>Get down.<eos>
+<bos>Now what's going on?<eos>
+<bos>I don't know.<eos>
+<bos>Mulder!<eos>
+<bos>Oh, my God.<eos>
+<bos>I guess what we're looking for is here.<eos>
+<bos>The U.S. attorney's office<eos>
+<bos>is going after Dorlund<eol>with everything they've got,<eos>
+<bos>including the murder of Howard Graves.<eos>
+<bos>I'll come back to testify.<eos>
+<bos>Oh... where you going?<eos>
+<bos>Away from here.<eos>
+<bos>Thanks.<eos>
+<bos>Boy, she's in a rush to get out of here.<eos>
+<bos>Out of here or away from<eol>the ghost of Howard Graves?<eos>
+<bos>Hey, Scully, do you believe<eol>in an afterlife?<eos>
+<bos>I'd settle for a life in this one.<eos>
+<bos>Have you ever seen the Liberty Bell?<eos>
+<bos>Yes.<eos>
+<bos>You know, I've been to<eol>Philadelphia 100 times<eos>
+<bos>and I've never seen it.<eos>
+<bos>You're not missing much.<eos>
+<bos>It's a big bell with a big crack,<eos>
+<bos>and you have to wait in a long line.<eos>
+<bos>I'd really like to go.<eos>
+<bos>Why now?<eos>
+<bos>I don't know.<eos>
+<bos>How late do you think they stay open?<eos>
+<bos>Ms. Kyte, I asked<eol>for this 25 minutes ago.<eos>
+<bos>I know. I'm sorry.<eos>
+<bos>Maybe that's the way they work back east,<eos>
+<bos>but here in the Midwest,<eol>punctuality is a virtue.<eos>
+<bos>We have to find a new office space.<eos>
+<bos>Every time a truck goes by,<eos>
+<bos>the whole building shakes.<eos>
+<bos>That's all, Lauren.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

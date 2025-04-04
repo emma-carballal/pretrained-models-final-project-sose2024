@@ -1,0 +1,496 @@
+<bos>We're so sorry, Becky.<eos>
+<bos>If there's anything we can do for you,<eos>
+<bos>anything at all, just let us know.<eos>
+<bos>Thank you so much.<eos>
+<bos>That would have meant a lot to him.<eos>
+<bos>Oh, thank you.<eos>
+<bos>Thank you for coming.<eos>
+<bos>Mrs. Crouch,<eos>
+<bos>I'm sorry for your loss.<eos>
+<bos>Thank you, Mr...<eos>
+<bos>Johnson.<eos>
+<bos>I worked briefly with your husband.<eos>
+<bos>I was impressed by him... very much so.<eos>
+<bos>Thank you.<eos>
+<bos>Sorry.<eos>
+<bos>Hell of a Christmas, Raymond.<eos>
+<bos>He's at peace now.<eos>
+<bos>That's one small comfort to be drawn.<eos>
+<bos>He didn't even leave a note.<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me,<eol>though he were dead, yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me,<eol>though he were dead, yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me...<eos>
+<bos>"though he were dead, yet shall he live.<eos>
+<bos>'And whosoever liveth<eol>and believeth in Me...<eos>
+<bos>shall never die."<eos>
+<bos>- "I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me...<eos>
+<bos>"though he were dead, yet shall he live.<eos>
+<bos>"And whosoever liveth<eol>and believeth in Me...<eos>
+<bos>shall never die."<eos>
+<bos>"He that believeth in Me,<eol>though he were dead,<eos>
+<bos>yet shall he live."<eos>
+<bos>- Yeah, four units and...<eos>
+<bos>Thank you, ma'am.<eos>
+<bos>- Are you with the F.B.I. too?<eol>- Yes, sir.<eos>
+<bos>Look, I know my job.<eol>The man was deceased.<eos>
+<bos>- I'm sorry? - I understand...<eos>
+<bos>that he was one of your own.<eos>
+<bos>But these rumors I'm hearing that I put<eol>a living human being into the ground?<eos>
+<bos>You people better get<eol>your facts straight real fast.<eos>
+<bos>Mulder? You been spreading rumors?<eos>
+<bos>Why? You hear any good ones lately?<eos>
+<bos>- Not particularly.<eos>
+<bos>So what do you have here?<eos>
+<bos>Merry Christmas, by the way, Scully.<eos>
+<bos>Thank you. Merry Christmas to you too.<eos>
+<bos>Grave robbery with a twist.<eos>
+<bos>Check out the headliner, Scully.<eos>
+<bos>Well, it looks like someone<eol>on the inside was trying to get out.<eos>
+<bos>Indeed it does.<eol>And to answer your question,<eos>
+<bos>no, I haven't been spreading any rumors.<eos>
+<bos>The local P.D. 's been doing<eol>a pretty good job of that,<eos>
+<bos>ever since they matched the fingerprints<eol>on the dead man to these.<eos>
+<bos>And to those up there on that headstone.<eos>
+<bos>There's a big juicy handprint<eol>on the back.<eos>
+<bos>What about the person, or persons,<eol>who did the digging?<eos>
+<bos>Well, we've got one pile of dirt.<eos>
+<bos>I'm guessing one man with a shovel.<eos>
+<bos>Other than that, last night's rain<eol>hasn't left us much to go on.<eos>
+<bos>Well, go ahead, Scully. Nay say me.<eos>
+<bos>The body of an F.B.I. agent<eol>gets disinterred,<eos>
+<bos>only to climb out on its own<eol>and disappear into the Yuletide night.<eos>
+<bos>- See, you had me up until there.<eol>- Did I?<eos>
+<bos>I think it's what you said before. I<eol>think it's a grave robbery with a twist.<eos>
+<bos>You've got the fingerprints<eol>and the torn casket liner.<eos>
+<bos>Most likely, it's rigged evidence that's<eol>been faked by whoever exhumed the body.<eos>
+<bos>- Faked for what effect? - Publicity.<eos>
+<bos>Fear. Rumors. I mean,<eol>I don't know what specific effect,<eos>
+<bos>but nonetheless, it's...<eos>
+<bos>- What? - Looks like blood.<eos>
+<bos>"And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me,<eol>though he were dead, yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me,<eol>though he were dead, yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life."<eos>
+<bos>Special Agent Raymond Crouch.<eos>
+<bos>Age 56. Married, no children.<eos>
+<bos>After a sterling<eol>21-year career with the Bureau,<eos>
+<bos>he retired in 1993.<eos>
+<bos>And then earlier this month,<eos>
+<bos>he was found in the garage<eol>of his Tallahassee home,<eos>
+<bos>service weapon in hand.<eos>
+<bos>Definitely self-inflicted?<eos>
+<bos>I read over the report,<eol>and there's no indication otherwise.<eos>
+<bos>How about a motive<eol>for the grave robberies?<eos>
+<bos>Well, we've gone through all the cases<eol>Crouch had a hand in,<eos>
+<bos>and he doesn't seem<eol>to have made any enemies.<eos>
+<bos>Same thing with his personal life.<eos>
+<bos>No large debts, no feuds with neighbors,<eos>
+<bos>never a bad word against him.<eos>
+<bos>- Nothing stands out?<eol>- Should something stand out?<eos>
+<bos>Agent Mulder, what's your take on this?<eos>
+<bos>Well, only that I don't think<eol>it was grave robbery per se.<eos>
+<bos>It was necromancy...<eol>the summoning of the dead.<eos>
+<bos>It's a form of magic dating back<eol>to primitive shamanism...<eos>
+<bos>with a long tradition<eol>in the Christian Church.<eos>
+<bos>Through it, the dead are brought<eol>back to life for the purposes...<eos>
+<bos>of divulging arcane knowledge<eol>or performing ritual tasks.<eos>
+<bos>So that's what this wacko thought<eol>he was doing... raising the dead?<eos>
+<bos>That's what he was doing.<eol>This is a, uh...<eos>
+<bos>That's a magic circle drawn<eol>in goats'blood.<eos>
+<bos>The rain washed most of it away.<eos>
+<bos>The blood attracts<eol>the spirits of the undead,<eos>
+<bos>while the circle focuses<eol>the necromancer's power...<eos>
+<bos>while protecting him from<eol>the spirits that he's conjuring.<eos>
+<bos>Okay.<eos>
+<bos>You would not want to be<eol>this man's dry cleaner.<eos>
+<bos>Obviously, there are clear<eol>ritualistic elements to this crime.<eos>
+<bos>But the question is, why were<eol>they directed at Raymond Crouch?<eos>
+<bos>That is the question.<eos>
+<bos>Well, let's come up with an answer.<eos>
+<bos>Mulder, Scully, a word, please?<eos>
+<bos>Necromancy aside,<eol>this magic circle you mentioned,<eos>
+<bos>what if it looks something like this?<eos>
+<bos>It's an oroboros. Possibly.<eos>
+<bos>Definitely a mystical symbol.<eol>The alchemists favored it.<eos>
+<bos>They believe that it represented<eol>all of existence.<eos>
+<bos>I'm thinking more of<eol>the Millennium Group.<eos>
+<bos>It was their symbol as well.<eol>Are you familiar with them?<eos>
+<bos>Yeah, somewhat. They were, uh,<eos>
+<bos>former F.B.I. agents who offered<eol>consulting services to law enforcement.<eos>
+<bos>Somehow, they fell into disrepute.<eos>
+<bos>They operated in extreme secrecy.<eos>
+<bos>Rumors abounded that they had<eol>their own agenda,<eos>
+<bos>which was less than altruistic,<eol>if not improper or illegal.<eos>
+<bos>That it was, in fact,<eol>a cult based upon...<eos>
+<bos>Judeo-Christian End Time prophecies...<eos>
+<bos>concerning the coming millennium.<eos>
+<bos>- Was Raymond Crouch a member?<eol>- I can't seem to find out.<eos>
+<bos>Apparently, the group dissolved<eol>several months ago.<eos>
+<bos>They left no paper trail, nothing.<eos>
+<bos>However,<eos>
+<bos>Long Island,<eol>Northern California, Arizona.<eos>
+<bos>All three graves contained the bodies<eol>of former F.B.I. agents.<eos>
+<bos>All three were recent suicides.<eos>
+<bos>How long were you gonna sit on this?<eos>
+<bos>Owing to the Millennium Group's<eol>former ties with the Bureau,<eos>
+<bos>this matter is sensitive,<eol>to say the least.<eos>
+<bos>Investigate them. Keep a low profile.<eos>
+<bos>I think I know where to start.<eos>
+<bos>- How well do you know this man?<eol>- Only by reputation.<eos>
+<bos>- He left VICAP before I got there.<eos>
+<bos>- What's he doing here? - Good morning.<eos>
+<bos>Apparently, he, uh, checked<eol>himself in for a 30-day observation.<eos>
+<bos>I gather the last few years<eol>haven't been very kind to him.<eos>
+<bos>But if there's anybody that can tell us<eol>about the Millennium Group, it's him.<eos>
+<bos>He used to consult for 'em.<eol>Later, he fought to bring 'em down...<eos>
+<bos>at the expense of his own career<eol>and reputation.<eos>
+<bos>Twelve yard line. They are threatening.<eos>
+<bos>Frank Black?<eos>
+<bos>Hi, my name is Fox Mulder.<eol>This is my partner, Dana Scully.<eos>
+<bos>It's a pleasure to meet you.<eol>You mind if we sit down?<eos>
+<bos>Higgins tries the middle, and he gets...<eos>
+<bos>- Nowhere!<eos>
+<bos>Ah, the Fighting Irish<eol>and the Golden Eagles, huh?<eos>
+<bos>What can I do for you, agents?<eos>
+<bos>Well, we're working on a case that, uh,<eos>
+<bos>we feel that you might have<eol>some particular insight to.<eos>
+<bos>The deaths of four F.B.I. agents.<eos>
+<bos>- Do you recognize these men? - I do.<eos>
+<bos>All four committed suicide<eol>in the last six months.<eos>
+<bos>All were exhumed from their graves<eol>in a ritual desecration.<eos>
+<bos>They were members of the Millennium<eol>Group. Is that correct?<eos>
+<bos>Sir, we've been having<eol>a really difficult time...<eos>
+<bos>gleaning any information<eol>whatsoever about the group.<eos>
+<bos>About its membership, its practices.<eos>
+<bos>I believe you can help us.<eos>
+<bos>No, thank you. I'm retired.<eos>
+<bos>I think you can tell<eol>by the circumstances...<eos>
+<bos>that I'm trying to put<eol>my life back together.<eos>
+<bos>I can't get involved in this.<eos>
+<bos>We're not asking you to get involved.<eos>
+<bos>I'm just asking you to take a look<eol>at the case file.<eos>
+<bos>No, thank you.<eos>
+<bos>Mr. Black, the day after tomorrow<eol>is January 1, 2000.<eos>
+<bos>That's the significant date<eol>for these people.<eos>
+<bos>That doesn't leave us much time.<eos>
+<bos>Don't you wanna see them stopped?<eos>
+<bos>Well, Mr. Black,<eos>
+<bos>you are not what I was expecting.<eos>
+<bos>- Agent Mulder? - Yes?<eos>
+<bos>It's first and eighteen.<eos>
+<bos>Just let me watch this game in peace.<eos>
+<bos>It's third and ten. Notre Dame.<eos>
+<bos>- Happy New Year. - Same to you.<eos>
+<bos>- Evening. - Hi.<eos>
+<bos>Could I, uh, give you a hand?<eos>
+<bos>Oh, no, I'm about done.<eos>
+<bos>But thanks. Guess I ran over<eol>a nail or something.<eos>
+<bos>- Well, I can help you see, at least.<eol>- Yeah.<eos>
+<bos>I've been driving all night.<eol>It'll be good to get home.<eos>
+<bos>I hear ya.<eos>
+<bos>Man! Whew!<eos>
+<bos>- What is that? - Uh...<eos>
+<bos>I think a deer maybe<eol>must've died out there in the woods.<eos>
+<bos>Sir?<eos>
+<bos>What's in the truck?<eos>
+<bos>- Nothing. - Mind if I take a look?<eos>
+<bos>There's nothing in there, so...<eos>
+<bos>Drop that, take two steps back.<eos>
+<bos>Drop it.<eos>
+<bos>"And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>"He that believeth in Me,<eol>though he were dead, yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>Oh, Lord. Stand up there!<eos>
+<bos>Stand up! Let me see your hands!<eos>
+<bos>- What?<eos>
+<bos>Speak up!<eos>
+<bos>Hey.<eos>
+<bos>I've got the men<eol>concentrating on the woods.<eos>
+<bos>Our necromancer was definitely here.<eos>
+<bos>It's salt. Heavy magic.<eos>
+<bos>Well, if you're gonna tell me<eol>that he, uh,<eos>
+<bos>stopped by the side of the road<eol>to raise the dead,<eos>
+<bos>which I hope you're not,<eol>I've got two things to say to you.<eos>
+<bos>One is that his previous circles<eol>were made of blood, not salt. And two...<eos>
+<bos>And they were large enough<eol>to contain a body.<eos>
+<bos>Protecting himself against what?<eos>
+<bos>Whatever it was that did that.<eos>
+<bos>Agents!<eos>
+<bos>Over here!<eos>
+<bos>I saw a lump in the ground.<eos>
+<bos>My God.<eos>
+<bos>Bite marks. They look human.<eos>
+<bos>More salt.<eos>
+<bos>"I am he that liveth and was dead.<eos>
+<bos>"And behold, I am alive<eol>for evermore, Amen,<eos>
+<bos>and have the keys of hell and of death."<eos>
+<bos>Book of Revelations, chapter 1, verse 18.<eos>
+<bos>Go Fighting Irish.<eos>
+<bos>"First and eighteen. "<eos>
+<bos>It's not football. It's Revelations.<eos>
+<bos>You wanted to tell us something, Frank.<eos>
+<bos>Why don't you just come out and say it.<eos>
+<bos>I don't know what you're talking about.<eol>I told you.<eos>
+<bos>- I cannot get involved in this. - Right.<eos>
+<bos>So you'll occasionally drop<eol>the little arcane hint?<eos>
+<bos>A police officer was murdered, Frank.<eos>
+<bos>Why do you want to play around?<eos>
+<bos>Your denials aside, you obviously<eol>know something about that.<eos>
+<bos>You knew that we'd find this.<eos>
+<bos>What are you afraid of?<eos>
+<bos>Losing your daughter.<eos>
+<bos>You're in a custody battle<eol>with the parents of your late wife.<eos>
+<bos>I just spoke with your doctor.<eol>That's why you're here.<eos>
+<bos>They claimed I was an unfit father...<eol>that I was obsessed with conspiracy,<eos>
+<bos>the end of the world.<eos>
+<bos>That my work meant more to me<eol>than my daughter, Jordan.<eos>
+<bos>The thing is, they were right.<eos>
+<bos>- And so you retired.<eol>- I will sell insurance.<eos>
+<bos>but I will not mention<eol>the Millennium Group again.<eos>
+<bos>But you obviously want to help.<eos>
+<bos>You... dropped that clue on us.<eos>
+<bos>Look, Frank, nobody<eol>needs to know about this.<eos>
+<bos>We're just three people<eol>sitting around talking.<eos>
+<bos>The Book of Revelations describes<eol>the end of the physical world...<eos>
+<bos>in a battle between heaven and hell...<eol>good against evil.<eos>
+<bos>The Millennium Group believed<eol>that that time was upon us.<eos>
+<bos>These four represent<eol>a schism in the group.<eos>
+<bos>They believe that for the End Time<eol>to come as it must,<eos>
+<bos>man must take an active hand<eol>in bringing that about.<eos>
+<bos>With the express purpose<eol>of being brought back to life.<eos>
+<bos>The four horsemen of the apocalypse.<eos>
+<bos>These four men bring with them...<eos>
+<bos>war, pestilence, famine and death.<eos>
+<bos>So that all the dead of the earth<eol>will rise.<eos>
+<bos>Armageddon.<eos>
+<bos>It must begin with the dawn<eol>of the millennium, or not at all.<eos>
+<bos>That's what they believe.<eos>
+<bos>The man you're looking for,<eol>your necromancer,<eos>
+<bos>he exhumed these men<eol>in accordance with their wishes.<eos>
+<bos>They sought him out.<eos>
+<bos>He believes he's doing God's work.<eos>
+<bos>But he's mistaken.<eos>
+<bos>Could you tell us<eol>a little bit more about this man?<eos>
+<bos>Well, he's a white male, 45 to 50.<eos>
+<bos>He's a religious man. No police record.<eos>
+<bos>No fulfilling relationship.<eos>
+<bos>You would pass him<eol>without giving him a glance.<eos>
+<bos>So this is the one event<eol>that will give his life meaning?<eos>
+<bos>Yeah.<eos>
+<bos>He needs privacy for this.<eol>He'll live alone.<eos>
+<bos>Possibly in the house he grew up in.<eos>
+<bos>Most likely it's a large,<eol>rural property away from prying eyes.<eos>
+<bos>He'll own a truck or a van.<eol>He needs it to transport the bodies.<eos>
+<bos>There'll be high fences,<eol>"No Trespassing"signs.<eos>
+<bos>It's a solitary existence.<eos>
+<bos>He's worked around death<eol>all his life in some capacity.<eos>
+<bos>A funeral parlor or a cemetery.<eos>
+<bos>- Death comforts him.<eol>A Rice County deputy missing...<eos>
+<bos>He took great care in burying<eol>the deputy, in preparing the body,<eos>
+<bos>despite the fact that<eol>he feared being caught.<eos>
+<bos>He stapled the lips,<eol>sealed the mouth shut.<eos>
+<bos>It was to prevent the man<eol>from coming back to life.<eos>
+<bos>He believes that if disturbed,<eol>the deputy will rise from the dead.<eos>
+<bos>It's too soon for that, which is why...<eos>
+<bos>when he realizes the deputy<eol>has been discovered,<eos>
+<bos>he'll feel a need to take action.<eos>
+<bos>He'll return to the body<eol>the first chance he gets.<eos>
+<bos>Rice County Morgue.<eos>
+<bos>I think you'll catch him there.<eos>
+<bos>These four members of<eol>the Millennium Group,<eos>
+<bos>the ones that<eol>"truly liveth who are dead,"<eos>
+<bos>there are the ones we have to catch.<eos>
+<bos>- Mr. Black? - Yeah?<eos>
+<bos>You've got a phone call.<eol>I think it might be your daughter.<eos>
+<bos>Thank you. My daughter. Excuse me.<eos>
+<bos>Mulder, you're telling me<eol>it's more important...<eos>
+<bos>to track down four dead bodies<eol>than one live murderer?<eos>
+<bos>He's not our murderer,<eol>and those four dead bodies aren't dead.<eos>
+<bos>- And the millennium is 14 hours away.<eos>
+<bos>Mulder, these people,<eol>even when they were alive,<eos>
+<bos>mangled Biblical prophecy<eol>to the extent that it's unrecognizable.<eos>
+<bos>And the year 2000 is just<eol>their artificial deadline.<eos>
+<bos>And besides, 2001 is actually<eol>the start of the new millennium.<eos>
+<bos>Nobody likes a math geek, Scully.<eos>
+<bos>Anyway, I think that<eol>Frank's profile is sound.<eos>
+<bos>- I do too. - And I think with it,<eos>
+<bos>we have the best chance of finding<eol>this necromancer, as you call him.<eos>
+<bos>So I'm going down to the county morgue.<eos>
+<bos>- I absolutely think you should.<eol>- And what are you gonna do?<eos>
+<bos>Follow the profile.<eol>The deputy was killed...<eos>
+<bos>on a road that connects<eol>from the north with no major highway.<eos>
+<bos>I'm thinking our necromancer<eol>lives nearby.<eos>
+<bos>Oh, Scully, will you do me a favor?<eos>
+<bos>Don't let anybody remove the staples<eol>from the deputy's mouth, okay?<eos>
+<bos>Please? Just humor me? Thanks.<eos>
+<bos>Proceeding with the visual<eol>examination of the mouth.<eos>
+<bos>Geez.<eos>
+<bos>- What appears to be salt...<eos>
+<bos>is packed into the victim's mouth.<eos>
+<bos>- God only knows why.<eos>
+<bos>I'm removing it.<eos>
+<bos>You've reached Rice County Morgue.<eos>
+<bos>No one can come to the phone.<eos>
+<bos>This is Agent Dana Scully with the F.B.I.<eos>
+<bos>If you've already started, stop now.<eos>
+<bos>I'll be there shortly,<eol>and I'll explain when I arrive.<eos>
+<bos>Hello?<eos>
+<bos>Where is she?<eos>
+<bos>Sir?<eos>
+<bos>How you feeling?<eos>
+<bos>All things considered?<eos>
+<bos>What the hell happened here?<eol>Who is that man?<eos>
+<bos>The sheriff s deputy.<eos>
+<bos>The man we found this morning.<eos>
+<bos>He was dead.<eos>
+<bos>And then somehow, he wasn't.<eos>
+<bos>He attacked me.<eos>
+<bos>You shot him?<eos>
+<bos>Three rounds, center of mass<eol>into his chest.<eos>
+<bos>No effect.<eos>
+<bos>There's a gunshot wound<eol>to his head as well.<eos>
+<bos>Yeah, this man, uh,<eos>
+<bos>Mulder calls the necromancer,<eol>our suspect, he was here too.<eos>
+<bos>He fired that shot with my gun.<eos>
+<bos>He saved me. I have no idea why.<eos>
+<bos>He got away,<eol>but I was in no shape to follow.<eos>
+<bos>Look, sir,<eos>
+<bos>I can't even begin to offer<eol>an explanation for what happened.<eos>
+<bos>But I have to say<eol>it is exactly what Mulder feared.<eos>
+<bos>Well, welcome to the boondocks.<eos>
+<bos>In the sweet by and by<eos>
+<bos>We will meet on that beautiful shore<eos>
+<bos>Hey! Open the door! Open the door!<eos>
+<bos>Open up! Let me out!<eos>
+<bos>Hey!<eos>
+<bos>I haven't heard from him.<eol>He didn't go to the morgue with you?<eos>
+<bos>No, he went looking<eol>for our suspect's home.<eos>
+<bos>No one's been able to contact him since.<eos>
+<bos>I've got task force agents canvassing<eol>the northwestern Maryland area,<eos>
+<bos>but it's a large territory to cover,<eol>and we're running out of time.<eos>
+<bos>Sir, I'm just afraid that Mulder<eol>may have found what he's looking for.<eos>
+<bos>I need your help in finding him.<eos>
+<bos>I'm not sure that<eol>I really understand your reasons, sir.<eos>
+<bos>Mulder mentioned the four<eol>Millennium members...<eos>
+<bos>"who liveth and were dead."<eos>
+<bos>Now, this morning in the morgue,<eol>I saw what he was talking about.<eos>
+<bos>You did?<eos>
+<bos>One of them attacked me.<eos>
+<bos>I'm sorry.<eos>
+<bos>Now, as crazy as this sounds,<eol>I have to ask.<eos>
+<bos>Do you believe that<eol>the Millennium Group...<eos>
+<bos>is actually capable of<eol>bringing about the End Time?<eos>
+<bos>Armageddon?<eos>
+<bos>I understand their beliefs.<eos>
+<bos>I've spent years trying to unravel them,<eos>
+<bos>make sense of them.<eos>
+<bos>It doesn't mean I believe them myself.<eos>
+<bos>But what if it were true?<eos>
+<bos>Good and evil... Which would prevail?<eos>
+<bos>I'm sorry.<eos>
+<bos>Octavia?<eos>
+<bos>I'm gonna check myself out.<eos>
+<bos>- You'd like a day pass?<eol>- I won't be coming back.<eos>
+<bos>Who's there?<eos>
+<bos>- It's me. - You came.<eos>
+<bos>I almost didn't.<eos>
+<bos>We'd given up on you. Thank God.<eos>
+<bos>Thank God.<eos>
+<bos>There's someone in the basement.<eol>A policeman.<eos>
+<bos>He killed one of the members.<eos>
+<bos>He shot him in the head.<eos>
+<bos>But you're here.<eos>
+<bos>Now we'll have four.<eos>
+<bos>I'm here.<eos>
+<bos>I can't tell you how happy I am.<eos>
+<bos>You were meant to be the fourth.<eol>I always knew that.<eos>
+<bos>- I so hoped you'd come around.<eol>- I didn't want to.<eos>
+<bos>The man in the basement...<eol>I told him how to find this place.<eos>
+<bos>You... Why?<eos>
+<bos>I was trying to walk<eol>the straight and narrow,<eos>
+<bos>leave the Millennium Group behind.<eos>
+<bos>But I know I can't do that anymore,<eos>
+<bos>now that I know you've succeeded.<eos>
+<bos>You didn't believe the dead would arise.<eos>
+<bos>- No.<eol>- You see what the future holds, Frank.<eos>
+<bos>You know you can't run from it.<eos>
+<bos>No, I can't run.<eos>
+<bos>You've paid so dearly.<eol>They've taken your daughter from you,<eos>
+<bos>murdered your wife.<eos>
+<bos>There's no justice in this world.<eos>
+<bos>But there will be in the next.<eos>
+<bos>The hour is near.<eos>
+<bos>Are you ready, Frank?<eos>
+<bos>I'm ready.<eos>
+<bos>"I am the resurrection and the life.<eos>
+<bos>He that believeth in Me,<eol>though he were dead..."<eos>
+<bos>"...yet shall he live.<eos>
+<bos>And whosoever liveth and believeth<eol>in Me shall never die."<eos>
+<bos>- Scully. - This is Skinner.<eos>
+<bos>We back-checked Frank Black as you asked.<eos>
+<bos>other than from his daughter.<eos>
+<bos>But the staff took messages,<eol>including one from a Rice County number.<eos>
+<bos>Rice County? That's where I am right now.<eos>
+<bos>All four received calls from this same<eol>number in the weeks before their deaths.<eos>
+<bos>I'm gonna need an address.<eos>
+<bos>Don't do this. I'm begging you, please.<eos>
+<bos>You know what the world is.<eol>Evil goes unpunished.<eos>
+<bos>The good suffer. There's no future here<eol>but uncertainty and pain.<eos>
+<bos>Let the judgment come!<eos>
+<bos>- You're damning yourself, Frank!<eol>- Agent Mulder?<eos>
+<bos>Can you hear me?<eos>
+<bos>- Agent Mulder? -  Yeah. I'm down here.<eos>
+<bos>They're all around.<eos>
+<bos>- You armed? - Oh, yeah.<eos>
+<bos>Shoot for the head. That seems<eol>to stop 'em. There's three more of'em.<eos>
+<bos>- Where? - I don't know. They're hiding.<eos>
+<bos>- Mulder, can you get up?<eol>- Uh, I think so.<eos>
+<bos>- Look out!<eos>
+<bos>- Look out!<eos>
+<bos>Well, there's another shot...<eos>
+<bos>of that beautiful millennium<eol>crystal ball all lit up.<eos>
+<bos>And they're getting ready<eol>to bring in the new year.<eos>
+<bos>Boy, are they packed in tonight.<eos>
+<bos>The body heat alone is keeping 'em warm.<eol>And look at 'em,<eos>
+<bos>all the way up past 52nd Street.<eos>
+<bos>That is that X-shaped thing<eol>I was talking about before.<eos>
+<bos>This is Times Square...<eol>the crossroads of the world.<eos>
+<bos>- Mr. Black. - Hey.<eos>
+<bos>MarkJohnson's been taken<eol>for psychiatric evaluation.<eos>
+<bos>He'll be put under suicide watch,<eol>just as you asked.<eos>
+<bos>- Good.<eos>
+<bos>- And, um... - What?<eos>
+<bos>There's someone here to see you.<eos>
+<bos>- Hi, Daddy! - Hi ya, little one.<eos>
+<bos>Wow.<eos>
+<bos>- Oh, I missed you, sweetheart.<eol>- I missed you too, Daddy.<eos>
+<bos>Let's get out of here.<eos>
+<bos>Frank, good luck with everything.<eos>
+<bos>Agent Mulder, Agent Scully.<eol>I guess this is it, huh?<eos>
+<bos>- You're not gonna stay and watch?<eol>- No, we just wanna go home.<eos>
+<bos>Take care of yourselves.<eos>
+<bos>Thirty seconds now. Get ready...<eos>
+<bos>for the loudest cheering<eol>you'll ever hear in your whole life.<eos>
+<bos>Hug your friends and loved ones tight,<eol>and whoever that person is next to you.<eos>
+<bos>No time like the present.<eol>Are you ready? Here we go.<eos>
+<bos>Ten, nine, eight,<eos>
+<bos>seven, six, five,<eos>
+<bos>four, three, two, one!<eos>
+<bos>Happy New Year 2000!<eos>
+<bos>The world didn't end.<eos>
+<bos>No, it didn't.<eos>
+<bos>Happy New Year, Scully.<eos>
+<bos>Happy New Year, Mulder.<eos>
+<bos>Happy New Year!<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

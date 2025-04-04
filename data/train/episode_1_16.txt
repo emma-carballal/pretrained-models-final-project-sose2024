@@ -1,0 +1,828 @@
+<bos>ï»¿1 Relax. They'll be here.<eos>
+<bos>Bank's going to close in five minutes.<eos>
+<bos>Sure it wasn't a bogus tip?<eos>
+<bos>No, it's real.<eos>
+<bos>I've been on this long enough.<eos>
+<bos>I know the difference.<eos>
+<bos>Besides, I can feel it.<eos>
+<bos>I can feel them; I'm inside their heads.<eos>
+<bos>Just as long as you keep yours.<eos>
+<bos>Message received,<eol>Agent Scully, loud and clear.<eos>
+<bos>Position five.<eos>
+<bos>It's Agent Willis.<eos>
+<bos>Do you copy?<eos>
+<bos>What, are you nervous?<eos>
+<bos>Nope.<eos>
+<bos>I just don't want our luck to run out.<eos>
+<bos>Baby, you are my luck.<eos>
+<bos>No matter what happens,<eos>
+<bos>whenever I look up at the stars,<eos>
+<bos>I know you're going to be<eol>looking up at the same ones.<eos>
+<bos>The same ones, baby.<eos>
+<bos>You make every day like New Year's Eve.<eos>
+<bos>Open up, people!<eos>
+<bos>Get down on the floor now!<eos>
+<bos>You get down on the floor!<eos>
+<bos>I ain't messing around here!<eos>
+<bos>I want you to get down on the<eol>floor now... or you're dead.<eos>
+<bos>Everyone, you over there,<eol>get down on the floor,<eos>
+<bos>or I'll execute every one of you! Move!<eos>
+<bos>Move! Put the money in the bag now!<eos>
+<bos>Now! Move it!<eos>
+<bos>Faster...<eos>
+<bos>Dupre!<eos>
+<bos>Drop the gun. FBI.<eos>
+<bos>Drop the gun!<eos>
+<bos>Now!<eos>
+<bos>I need more saline in here, stat.<eos>
+<bos>Up to 360, now.<eos>
+<bos>11 minutes, 55 seconds.<eos>
+<bos>Clear.<eos>
+<bos>Come on, Jack.<eos>
+<bos>He's been flatlined for over 12 minutes.<eos>
+<bos>Another amp of epi, and we'll go again<eos>
+<bos>at 360.<eos>
+<bos>Clear.<eos>
+<bos>Still no pulse.<eos>
+<bos>We've done all we can.<eos>
+<bos>I'm sorry.<eos>
+<bos>All right, let's call it.<eos>
+<bos>Do you want me to pronounce?<eos>
+<bos>No.<eos>
+<bos>You can't give up on him.<eos>
+<bos>It's been 13 minutes. He's dead.<eos>
+<bos>Go up to 400.<eos>
+<bos>We lost him. Let him go.<eos>
+<bos>I'm a doctor. Go up to 400<eol>or I'll do it myself.<eos>
+<bos>Clear.<eos>
+<bos>and go up to 400 again.<eos>
+<bos>Do it.<eos>
+<bos>Clear.<eos>
+<bos>Again.<eos>
+<bos>Come on, Jack.<eos>
+<bos>Clear.<eos>
+<bos>Come on.<eos>
+<bos>We got a rhythm.<eos>
+<bos>Don't ask me how, but he's back.<eos>
+<bos>BP's 80/50 and climbing.<eos>
+<bos>90/50...<eos>
+<bos>Hello, Mr. Goldbaum, how<eol>are we doing tonight?<eos>
+<bos>Any word from Willis? Still missing.<eos>
+<bos>He hasn't been home or<eol>checked in with the office.<eos>
+<bos>I heard something on the<eol>way down about a mutilation?<eos>
+<bos>Yeah, three fingers on Dupre's left hand<eos>
+<bos>were severed by surgical shears.<eos>
+<bos>We lifted prints.<eos>
+<bos>They're Willis'.<eos>
+<bos>You said he was chasing<eol>this guy for almost a year?<eos>
+<bos>Yeah, he lived the case.<eos>
+<bos>It was all he ever thought<eol>about, talked about.<eos>
+<bos>What are you thinking?<eos>
+<bos>That maybe this is some kind<eol>of post-trauma psychosis.<eos>
+<bos>Like the way soldiers sometimes mutilate<eos>
+<bos>the body of a dead enemy.<eos>
+<bos>That still doesn't explain<eol>why he would just vanish.<eos>
+<bos>Dupre's partner-- who was she?<eos>
+<bos>Lula Phillips.<eos>
+<bos>They met<eos>
+<bos>while she was serving a ten-<eol>year sentence for manslaughter<eos>
+<bos>at the Women's Correctional<eol>Facility of Maryland.<eos>
+<bos>He was a prison guard.<eos>
+<bos>Until the warden found out<eol>about their secret.<eos>
+<bos>According to Lula's cellmate,<eos>
+<bos>they carried on quite a torrid romance.<eos>
+<bos>It says here she was released<eol>on May 2, 1993.<eos>
+<bos>One week before the first robbery<eos>
+<bos>at Annapolis Savings and Loan.<eos>
+<bos>The 65-year-old female teller<eol>was pistol-whipped.<eos>
+<bos>Died from a massive subdural hemorrhage,<eos>
+<bos>all because she didn't put the<eol>money in the bag fast enough.<eos>
+<bos>Lovely couple.<eos>
+<bos>Well, apparently they took<eol>turns-- one pulling a job<eos>
+<bos>while the other one drove getaway.<eos>
+<bos>Between the two of them,<eol>they've killed seven people<eos>
+<bos>and gotten away with close to $100,000.<eos>
+<bos>That's a lot of money<eos>
+<bos>now that she doesn't have<eol>to split it two ways.<eos>
+<bos>Well, we're putting her face out there--<eos>
+<bos>uh, local newspapers,<eol>America's Most Wanted.<eos>
+<bos>Am I boring you?<eos>
+<bos>They were married.<eos>
+<bos>Yeah, last May in Atlantic City. So what?<eos>
+<bos>So I don't think this was a<eol>simple necrophiliac mutilation.<eos>
+<bos>Willis sliced and diced those fingers<eos>
+<bos>to get at the wedding ring.<eos>
+<bos>Anybody here?<eos>
+<bos>Lula?<eos>
+<bos>Baby, baby, baby.<eos>
+<bos>Damn.<eos>
+<bos>It's a left thumbprint.<eos>
+<bos>You can see by these<eol>two bifurcations here<eos>
+<bos>that whoever was holding that cleaver<eos>
+<bos>was using his left hand.<eos>
+<bos>What do you mean "whoever"? It<eol>was Willis.<eos>
+<bos>Willis is right-handed.<eos>
+<bos>I checked his pistol grip at the armory,<eos>
+<bos>but all the bank surveillance tapes show<eos>
+<bos>that Dupre is left-handed.<eos>
+<bos>I'm not sure where<eol>you're going with this.<eos>
+<bos>How long did Willis flatline<eol>before you revived him?<eos>
+<bos>Just over 13 minutes.<eos>
+<bos>This is the EKG strip that recorded<eos>
+<bos>his cardiac activity at the time.<eos>
+<bos>Now, in your medical opinion,<eol>what does that look like?<eos>
+<bos>It could be anything--<eos>
+<bos>an instrument malfunction,<eol>electrical overload.<eos>
+<bos>But what does it look like?<eos>
+<bos>Two heartbeats.<eos>
+<bos>You said Dupre and Willis went<eos>
+<bos>into cardiac arrest<eol>at the exact same time, right?<eos>
+<bos>Right.<eos>
+<bos>Which means that, for a period<eol>of minutes, both men<eos>
+<bos>were technically dead.<eos>
+<bos>Technically, but we resuscitated Willis.<eos>
+<bos>You resuscitated his body.<eos>
+<bos>Mulder.<eos>
+<bos>Two men died in that crash room, Scully.<eos>
+<bos>One man came back.<eos>
+<bos>The question is... which one?<eos>
+<bos>What can you tell me<eos>
+<bos>about near-death experiences,<eol>Agent Scully?<eos>
+<bos>The usual stuff-- the tunnel, the light,<eos>
+<bos>people rising up and<eol>viewing their own bodies.<eos>
+<bos>And as a scientist, how do you<eol>account for the phenomenon?<eos>
+<bos>Some sort of dissociative,<eol>hallucinatory activity.<eos>
+<bos>Did you know that half of all the adults<eos>
+<bos>who have had a near-death experience<eos>
+<bos>cannot wear a watch?<eos>
+<bos>The increased electrical<eol>activity in their bodies<eos>
+<bos>renders the watches<eol>on their wrists inoperable.<eos>
+<bos>Now, I know<eos>
+<bos>this sounds kooky<eos>
+<bos>but as any biologist will tell you<eos>
+<bos>when cells die and genetic<eol>material begins to unfold,<eos>
+<bos>a tremendous charge<eol>of energy is released.<eos>
+<bos>Dr. Varnes believes this burst of energy<eos>
+<bos>is responsible for the<eol>transformational nature<eos>
+<bos>of the experience.<eos>
+<bos>People do return<eos>
+<bos>from the event profoundly changed.<eos>
+<bos>Changed how?<eos>
+<bos>Personality shifts,<eol>perceived psychic abilities<eos>
+<bos>increased zest for life.<eos>
+<bos>What about the negative consequences?<eos>
+<bos>Well, they're rare,<eos>
+<bos>but apparently, in the process of dying<eos>
+<bos>there is a window of time during<eol>which the body is vulnerable.<eos>
+<bos>I don't understand.<eos>
+<bos>Well, there was a pilot<eol>in my support group<eos>
+<bos>who died in a commuter plane crash<eos>
+<bos>along with his three passengers.<eos>
+<bos>This was a few years ago.<eos>
+<bos>He recalls floating up<eos>
+<bos>in a brilliant aura of light<eos>
+<bos>and then feeling an overwhelming need<eos>
+<bos>to return to his body.<eos>
+<bos>He was revived in the ambulance<eol>on the way to the hospital--<eos>
+<bos>the only survivor.<eos>
+<bos>It was soon after that,<eol>that the visions started.<eos>
+<bos>Visions of making love to his<eol>wife, but in ways and places<eos>
+<bos>that weren't in his memory.<eos>
+<bos>Now, it turns out<eos>
+<bos>that one of the dead passengers<eol>on the plane<eos>
+<bos>was having an affair with his wife.<eos>
+<bos>The dead passenger's memory, his...<eos>
+<bos>his consciousness<eos>
+<bos>had survived through the pilot.<eos>
+<bos>What happened?<eos>
+<bos>Well, the pilot became<eos>
+<bos>increasingly disoriented--<eos>
+<bos>a schizophrenic, his doctor claims--<eos>
+<bos>until one day he strangled<eol>his wife with an extension cord.<eos>
+<bos>That's a nice story.<eos>
+<bos>I don't discount<eol>the near-death experience<eos>
+<bos>because it can be explained empirically,<eos>
+<bos>by stimulation of the temporal lobe.<eos>
+<bos>I sense a big "but" coming.<eos>
+<bos>Well, it's still my best guess<eos>
+<bos>that Jack's disappearance<eol>can be explained<eos>
+<bos>in psychological,<eol>not supernatural, terms.<eos>
+<bos>For instance?<eos>
+<bos>The stress of the case,<eol>the trauma of being shot...<eos>
+<bos>Jack's personality.<eos>
+<bos>How well do you know him?<eos>
+<bos>We dated for almost a year.<eos>
+<bos>He was my instructor at the Academy.<eos>
+<bos>The plot thickens.<eos>
+<bos>We even had the same birthday.<eos>
+<bos>We used to celebrate<eol>in some dive in Stafford<eos>
+<bos>that had a slanting pool table.<eos>
+<bos>But it was always so hard for Jack to...<eos>
+<bos>relax.<eos>
+<bos>It was impossible for him, really.<eos>
+<bos>He was always so intense,<eos>
+<bos>so relentlessly determined.<eos>
+<bos>Do you believe he's predisposed<eos>
+<bos>to this type of psychotic episode?<eos>
+<bos>I believe it's a long way from saying<eos>
+<bos>Jack had a near-death experience<eos>
+<bos>to saying his body's<eol>been inhabited by Warren Dupre.<eos>
+<bos>A long way.<eos>
+<bos>What the hell?<eos>
+<bos>You're such a creature of habit, Tommy.<eos>
+<bos>Who the hell are you?<eos>
+<bos>Get out of bed.<eos>
+<bos>I ain't got no clothes on.<eos>
+<bos>Get out of bed!<eos>
+<bos>I don't want to shoot you lying down.<eos>
+<bos>Look, who are you, the rent man?<eos>
+<bos>'Cause I'm all paid up.<eos>
+<bos>I swear. I'm not kidding you.<eos>
+<bos>Come on, you can go ask Cosmo.<eos>
+<bos>Shut up!<eos>
+<bos>Where is she?<eos>
+<bos>Where's who?<eos>
+<bos>Your sister.<eos>
+<bos>Lula?<eos>
+<bos>Look, I don't know.<eos>
+<bos>Look, I don't know, I swear!<eos>
+<bos>I was just waiting to see her<eol>on the news.<eos>
+<bos>What'd I tell you?<eos>
+<bos>Check it out.<eos>
+<bos>The sound's busted.<eos>
+<bos>Looks like they're gonna find her<eos>
+<bos>before you do, pal.<eos>
+<bos>Is that what you think?<eos>
+<bos>That's not what I think.<eos>
+<bos>I miss her, Tommy.<eos>
+<bos>I miss her so bad.<eos>
+<bos>That's why I came back.<eos>
+<bos>Do I know you from somewhere?<eos>
+<bos>Everything I see, I see her.<eos>
+<bos>Jesus, man, you're... you're bleeding.<eos>
+<bos>Even ugliness is beautiful<eos>
+<bos>because of her.<eos>
+<bos>Okay, what are you doing?<eos>
+<bos>You set us up, Tommy.<eos>
+<bos>You sold us out to the FBI.<eos>
+<bos>Dupre?<eos>
+<bos>Neighbors heard a gunshot,<eos>
+<bos>but nobody bothered to check it out.<eos>
+<bos>The patrol guys responded this morning<eos>
+<bos>to an anonymous 911 and found him here.<eos>
+<bos>Except the rats found him first.<eos>
+<bos>The victim's name was Thomas Phillips.<eos>
+<bos>That's Lula's brother.<eos>
+<bos>Well, there's not a lot<eol>of family resemblance left<eos>
+<bos>between the rats and the .45<eol>he took in the face.<eos>
+<bos>Oh, I hate this nicotine stuff.<eos>
+<bos>What's his story?<eos>
+<bos>Oh, he's single.<eos>
+<bos>He's lived here alone for seven months.<eos>
+<bos>A few priors, small stuff mostly--<eos>
+<bos>B and E, narcotics possession.<eos>
+<bos>Nothing like his big sister.<eos>
+<bos>Was the television turned on<eol>when they found him?<eos>
+<bos>No. Why?<eos>
+<bos>Well, I don't think Tommy<eol>was much of a reader,<eos>
+<bos>since he doesn't seem<eol>to have owned any books.<eos>
+<bos>And from the position of the body,<eos>
+<bos>I'd say maybe he was watching the tube<eos>
+<bos>when he was shot.<eos>
+<bos>Print kit's right over there.<eos>
+<bos>Knock yourself out.<eos>
+<bos>Get out of my way, Ace.<eos>
+<bos>Regulations state to<eol>gain access to a crime scene<eos>
+<bos>you gotta show me some I.D.<eos>
+<bos>Looks like you were right.<eos>
+<bos>Excuse me.<eos>
+<bos>Jack...<eos>
+<bos>Is there a problem here?<eos>
+<bos>No, I just, uh... I don't have any I.D.<eos>
+<bos>Uh, would you tell<eol>this gentleman who I am?<eos>
+<bos>It's all right, Officer;<eol>this is Agent Jack Willis.<eos>
+<bos>He's with the Violent Crime Section<eos>
+<bos>of the Washington Bureau.<eos>
+<bos>Come on, let's talk out here.<eos>
+<bos>Just doing my job, miss.<eos>
+<bos>For God's sake, Willis, what happened?<eos>
+<bos>Half the Bureau has been looking for you.<eos>
+<bos>Where have you been?<eos>
+<bos>I don't, I don't know.<eos>
+<bos>I just... wasn't myself.<eos>
+<bos>I just kind of...<eol>woke up out in the street.<eos>
+<bos>Oh, no, no, no, no, no way.<eol>No way! I'm staying right here.<eos>
+<bos>You're not ready to be here.<eos>
+<bos>Who says?<eos>
+<bos>Jack, you're recovering<eol>from a major trauma.<eos>
+<bos>It's a miracle you're even<eol>able to walk around.<eos>
+<bos>Look, this is Tommy Phillips'<eol>place, right?<eos>
+<bos>Jack...<eos>
+<bos>Let me just as you something--<eol>was he killed with a .45?<eos>
+<bos>As a matter of fact, he was. He was!<eos>
+<bos>That's Lula's weapon of choice.<eos>
+<bos>I know these people.<eos>
+<bos>I've been after them for a long time.<eos>
+<bos>We're halfway there.<eos>
+<bos>Well, you did open the book on this one.<eos>
+<bos>Yeah, and I'm gonna be there<eol>when it's closed.<eos>
+<bos>All right.<eos>
+<bos>But as a colleague and as a friend<eos>
+<bos>I'm recommending you undergo<eol>a full medical evaluation--<eos>
+<bos>physical and psychological.<eos>
+<bos>All right, fair enough.<eos>
+<bos>Jack...<eos>
+<bos>good to see you back among the living.<eos>
+<bos>It's good to be back.<eos>
+<bos>Jack.<eos>
+<bos>So what do we got here?<eos>
+<bos>Mulder here found a print on the TV--<eos>
+<bos>a partial oblique--<eos>
+<bos>and it's not the victim's.<eos>
+<bos>Good work, Agent Mulder.<eos>
+<bos>I'm impressed.<eos>
+<bos>That's fancy shooting.<eos>
+<bos>Yeah, well, I got to get recertified<eos>
+<bos>before they give me my weapon back.<eos>
+<bos>Well, by the looks of it,<eos>
+<bos>I wouldn't worry about recertification.<eos>
+<bos>Is there anything else you wanted?<eos>
+<bos>Yeah. It's, uh, Scully's birthday<eos>
+<bos>and I was wondering<eol>if you'd sign that for her.<eos>
+<bos>Sure.<eos>
+<bos>Be glad to.<eos>
+<bos>I'm always glad to celebrate<eol>the good times.<eos>
+<bos>There you go.<eos>
+<bos>Happy birthday, Scully.<eos>
+<bos>You're two months early.<eos>
+<bos>It's from Willis.<eos>
+<bos>I thought you two had the same birthday.<eos>
+<bos>We do.<eos>
+<bos>Well, that's news to him.<eos>
+<bos>I asked him to sign it.<eos>
+<bos>And he signed it with his left hand.<eos>
+<bos>You mean you tested him.<eos>
+<bos>Yeah, after I found out that the evidence<eos>
+<bos>from the Phillips murder is missing.<eos>
+<bos>What evidence?<eos>
+<bos>The print we lifted.<eos>
+<bos>Our best lead is gone.<eos>
+<bos>Someone stole it before<eol>the lab had a chance<eos>
+<bos>to take a look at it.<eos>
+<bos>And you think Willis is responsible?<eos>
+<bos>I'm not sure<eos>
+<bos>Willis is Willis.<eos>
+<bos>Can you at least accept<eos>
+<bos>the possibility that during<eos>
+<bos>his near-death experience,<eos>
+<bos>some kind of psychic<eol>transference occurred?<eos>
+<bos>Can't you accept the possibility<eol>that this isn't an X file?<eos>
+<bos>Aside from the expected level<eol>of post-trauma stress<eos>
+<bos>Jack passed both of his evaluations--<eos>
+<bos>physical and psychological.<eos>
+<bos>Anyway, just because someone<eos>
+<bos>forgets a birthday doesn't mean<eol>that he's been possessed.<eos>
+<bos>When I was studying<eol>for my medical boards,<eos>
+<bos>I forgot my birthday, too.<eos>
+<bos>Did you forget how to sign your name?<eos>
+<bos>This is a copy of the<eol>automobile requisition form<eos>
+<bos>Willis filed the day before he was shot.<eos>
+<bos>Compare the signatures.<eos>
+<bos>Like I said, Mulder, stress.<eos>
+<bos>We both know it can significantly affect<eos>
+<bos>someone's cursive standard.<eos>
+<bos>I'm afraid this doesn't prove a thing.<eos>
+<bos>Agent Willis here.<eos>
+<bos>Where are you going?<eos>
+<bos>We got a break.<eos>
+<bos>A landlord in Boyle Heights<eol>thinks he's got our girl.<eos>
+<bos>Hot line?<eos>
+<bos>Yeah. Saw her picture in the post office.<eos>
+<bos>Here's the address.<eos>
+<bos>Jack, can I ask you something?<eos>
+<bos>Yeah, sure.<eos>
+<bos>The Phillips murder-- the print Mulder<eos>
+<bos>lifted off the television-- it's missing.<eos>
+<bos>And?<eos>
+<bos>And you were carrying the evidence back.<eos>
+<bos>Are you implying something, Agent Scully?<eos>
+<bos>I don't know anything<eol>about any missing print.<eos>
+<bos>Now I'm ten minutes away from closing<eos>
+<bos>the biggest case in my career.<eos>
+<bos>Are you coming?<eos>
+<bos>What's that apartment number again?<eos>
+<bos>Number 202.<eos>
+<bos>Oh, yeah.<eos>
+<bos>What's this guy's name?<eos>
+<bos>Multrevich.<eos>
+<bos>Multrevich?<eos>
+<bos>All right, all right, all right.<eos>
+<bos>Hey, Mr. Multrevich,<eos>
+<bos>I'm from the FBI-- Jack Willis.<eos>
+<bos>We spoke on the phone, right?<eos>
+<bos>Oh, yeah.<eos>
+<bos>Have you ever seen this lady?<eos>
+<bos>Yeah. 207.<eos>
+<bos>Two days ago.<eos>
+<bos>First and last month, cash.<eos>
+<bos>Where's 207?<eos>
+<bos>Down the hallway, around the corner.<eos>
+<bos>All right, Mr. Multrevich,<eos>
+<bos>we want you<eol>to go back inside your apartment<eos>
+<bos>and stay away from the windows. Thanks.<eos>
+<bos>Where's our backup?<eos>
+<bos>You said you called them, right?<eos>
+<bos>Yeah, they should've been<eol>here ten minutes ago.<eos>
+<bos>She may be running down<eol>a fire escape or something.<eos>
+<bos>I'm gonna call in again.<eos>
+<bos>Look.<eos>
+<bos>That's her.<eos>
+<bos>Where is she?<eos>
+<bos>Where did she go?<eos>
+<bos>I'll check back here.<eos>
+<bos>Face down.<eos>
+<bos>Hands behind your back.<eos>
+<bos>Now!<eos>
+<bos>She's all yours, Jack.<eos>
+<bos>Yeah.<eos>
+<bos>Like a dog on a leash.<eos>
+<bos>I already cuffed her.<eos>
+<bos>They're for you, Scully. Put them on.<eos>
+<bos>What's going on, Jack?<eos>
+<bos>Put them on, or I'll blow you in half.<eos>
+<bos>Jack...<eos>
+<bos>Shut up!<eos>
+<bos>Put 'em on.<eos>
+<bos>Come on, baby.<eos>
+<bos>Come on, get up, baby.<eos>
+<bos>I want to look at you.<eos>
+<bos>Your face is all dirty.<eos>
+<bos>Keep your stinking hands off me.<eos>
+<bos>Baby, you ain't going<eol>to believe where I've been.<eos>
+<bos>Sure it's crazy.<eos>
+<bos>You don't think I know it's crazy?<eos>
+<bos>This isn't my face,<eos>
+<bos>these aren't my hands<eol>but it's me in here.<eos>
+<bos>And I know you; I know<eol>everything about you, baby.<eos>
+<bos>Come on, ask me something.<eos>
+<bos>Your birthday is April 7.<eos>
+<bos>Your favorite color is red.<eos>
+<bos>Come on.<eos>
+<bos>Come on, ask me something else.<eos>
+<bos>Come on! Ask me.<eos>
+<bos>Okay.<eos>
+<bos>Okay, what did we do<eol>after we got married?<eos>
+<bos>Right after?<eos>
+<bos>After that.<eos>
+<bos>Well, we went down to the beach.<eos>
+<bos>I took out my buck knife<eos>
+<bos>and I sliced open my palm...<eos>
+<bos>...and then I slit open your palm...<eos>
+<bos>...and we let the blood<eol>drip down in the water.<eos>
+<bos>Then what did you say to me?<eos>
+<bos>I said, "This is so we can be married<eos>
+<bos>in all the oceans of the world."<eos>
+<bos>And then I made you a solemn oath...<eos>
+<bos>...to never take this ring off my finger.<eos>
+<bos>Ever.<eos>
+<bos>I mean to keep that promise.<eos>
+<bos>This is... this is just too weird.<eos>
+<bos>I can't believe it's really you.<eos>
+<bos>Don't worry, baby.<eos>
+<bos>It won't make any difference in the dark.<eos>
+<bos>Thank you, sir. We'll be in touch.<eos>
+<bos>Hey, when do I get my reward?<eos>
+<bos>We'll call you.<eos>
+<bos>Now I'm worried.<eos>
+<bos>12 hours with no word.<eos>
+<bos>I don't get it.<eos>
+<bos>Why's their car still<eol>sitting out in front?<eos>
+<bos>Why didn't Willis call for backup?<eos>
+<bos>Because it wasn't Willis<eol>who answered the hot line.<eos>
+<bos>What are you talking about?<eol>You heard the recording.<eos>
+<bos>It was Willis's voice.<eos>
+<bos>Forget it, Bruskin.<eos>
+<bos>Plus which, the manager<eol>just I.D.'d him and Scully.<eos>
+<bos>I said forget it, Bruskin.<eos>
+<bos>This isn't one of your<eol>X file theories, is it?<eos>
+<bos>It doesn't matter what I think.<eos>
+<bos>We're still after the same thing.<eos>
+<bos>Mulder.<eos>
+<bos>FBI centrex operator. Please hold.<eos>
+<bos>Yeah.<eos>
+<bos>Guess who, Ace?<eos>
+<bos>Willis?<eos>
+<bos>That depends on who you ask, don't it?<eos>
+<bos>Where's Scully?<eos>
+<bos>You're the FBI,<eos>
+<bos>you figure it out.<eos>
+<bos>Let me talk to her.<eos>
+<bos>Yeah. Sure.<eos>
+<bos>Mulder?<eos>
+<bos>Dana, are you okay?<eos>
+<bos>Don't...<eos>
+<bos>Dana?<eos>
+<bos>Okay. That's it.<eos>
+<bos>Good-bye.<eos>
+<bos>It's not going to work, Jack.<eos>
+<bos>You don't think so?<eos>
+<bos>Bureau policy prohibits negotiating<eos>
+<bos>with kidnappers.<eos>
+<bos>But you already know that,<eol>don't you, Jack?<eos>
+<bos>Stop calling me that!<eos>
+<bos>Your name is Jack Willis.<eos>
+<bos>You were born February 23, 1957.<eos>
+<bos>You live at 51 Stanhope...<eos>
+<bos>My name is Warren James Dupre<eos>
+<bos>and I was born in Klamath Falls, Oregon,<eos>
+<bos>in the Year of the Rat.<eos>
+<bos>We spent a weekend up at Pine Barrens.<eos>
+<bos>You taught me how to fish<eol>through the ice.<eos>
+<bos>It was your parents' cabin.<eos>
+<bos>Jack, try to remember.<eos>
+<bos>We drove up in a snowstorm.<eos>
+<bos>Come on, Jack.<eos>
+<bos>Don't think I didn't see what you did.<eos>
+<bos>I was like a little slip<eol>of paper up there<eos>
+<bos>on that hospital ceiling.<eos>
+<bos>I saw everything.<eos>
+<bos>What did you see?<eos>
+<bos>You left me to die on that table<eos>
+<bos>while you tried to save your friend!<eos>
+<bos>You are my friend.<eos>
+<bos>Too bad he was gone already.<eos>
+<bos>I watched him go.<eos>
+<bos>I just saw him slip away<eol>down that long, black tunnel.<eos>
+<bos>No. We brought you back.<eos>
+<bos>You shot me dead!<eos>
+<bos>And then you let me die.<eos>
+<bos>No.<eos>
+<bos>You won't kill me, Jack.<eos>
+<bos>You call me that one more time<eos>
+<bos>and I'll make you stone-cold.<eos>
+<bos>Easy, baby, easy.<eos>
+<bos>Not yet.<eos>
+<bos>Remember, she's our ticket.<eos>
+<bos>Hey...<eos>
+<bos>Got any more of this soda?<eos>
+<bos>You just drank the last of it.<eos>
+<bos>Soda...?<eos>
+<bos>How much of that have you had?<eos>
+<bos>What's it to you?<eos>
+<bos>Jack Willis is diabetic.<eos>
+<bos>Which means that you're diabetic.<eos>
+<bos>Too much sugar in the system<eol>could lead to hyperglycemia.<eos>
+<bos>Maybe that's why your<eol>stomach's hurting so bad.<eos>
+<bos>Abdominal pain is the first sign<eos>
+<bos>of impending diabetic coma.<eos>
+<bos>You need insulin.<eos>
+<bos>I feel myself getting into their heads<eos>
+<bos>and I'm scared by what I'm feeling.<eos>
+<bos>The intoxicating freedom<eos>
+<bos>that comes from disconnecting<eol>action and consequence.<eos>
+<bos>Theirs is a world where nothing<eol>matters but their own needs,<eos>
+<bos>their own impossible appetites<eos>
+<bos>and while the pleasure they<eol>derive from acts of violence<eos>
+<bos>is clearly sexual<eos>
+<bos>it also speaks to what<eol>Warden Jackson called<eos>
+<bos>their operatic devotion to each other.<eos>
+<bos>It's a love affair I almost envy.<eos>
+<bos>Catonsville PD just reported<eol>a drugstore was broken into<eos>
+<bos>right here, on the corner<eol>of Old Forge Road and Madison,<eos>
+<bos>I'm betting Scully is somewhere<eol>within this five-mile radius.<eos>
+<bos>Am I missing something?<eos>
+<bos>200 units of NPH insulin were taken<eos>
+<bos>with a box of syringes.<eos>
+<bos>Willis is diabetic.<eos>
+<bos>Get me a census report.<eos>
+<bos>Let's see how many households<eol>we're talking about.<eos>
+<bos>Quick, quick, quick.<eos>
+<bos>My legs are starting to go numb.<eos>
+<bos>Hold on.<eos>
+<bos>What the hell...?<eos>
+<bos>Drop the needle.<eos>
+<bos>Without this medicine, he dies.<eos>
+<bos>Yeah, so you said.<eos>
+<bos>Now, put it down<eos>
+<bos>unless you want me<eol>to put you down with it.<eos>
+<bos>What the hell are you doing?<eos>
+<bos>I need that medicine.<eos>
+<bos>You still haven't<eol>figured it out, have you?<eos>
+<bos>Figured what out?<eos>
+<bos>It wasn't my brother who set you up.<eos>
+<bos>You?<eos>
+<bos>Yeah. Me.<eos>
+<bos>How do you think<eol>I got away so clean, huh?<eos>
+<bos>The minute you stepped into that bank,<eos>
+<bos>I was out of there.<eos>
+<bos>I got the money, and I got rid of you.<eos>
+<bos>At least I thought I did.<eos>
+<bos>Tactical room.<eos>
+<bos>This is it.<eos>
+<bos>Mulder.<eos>
+<bos>Listen carefully.<eos>
+<bos>Where's Willis?<eos>
+<bos>Oh, he's lying around here somewhere.<eos>
+<bos>Let me talk to Scully.<eos>
+<bos>Not this time.<eos>
+<bos>We don't deal unless we know<eos>
+<bos>Scully is alive.<eos>
+<bos>Oh, she's alive.<eos>
+<bos>She's not happy, but she's alive.<eos>
+<bos>You listen to me--<eos>
+<bos>you lay one hand on Scully,<eol>and so help me, God...<eos>
+<bos>If I were you, I'd stop talking<eos>
+<bos>and start passing<eol>around the collection hat<eos>
+<bos>'cause if you ever want<eol>to see Scully again<eos>
+<bos>it's going to cost you a million dollars.<eos>
+<bos>Have it by this time tomorrow.<eos>
+<bos>I'll tell you when and where.<eos>
+<bos>We got it. It's a 202 number.<eos>
+<bos>Great. Coming through.<eos>
+<bos>Here it is.<eos>
+<bos>Get the address.<eos>
+<bos>Forget it.<eos>
+<bos>Why?<eos>
+<bos>It's Scully's cellular number.<eos>
+<bos>They're using her phone.<eos>
+<bos>We can't trace them.<eos>
+<bos>She's not happy but she's alive.<eos>
+<bos>If I were you, I'd stop talking<eos>
+<bos>and start passing around<eol>the collection hat.<eos>
+<bos>That last part, right?<eos>
+<bos>Yeah, but can you squelch<eol>the voice even more this time?<eos>
+<bos>Yep.<eos>
+<bos>Done.<eos>
+<bos>If I were you, I'd stop talking<eos>
+<bos>and start passing around<eol>the collection hat.<eos>
+<bos>Yep, yep, there's something there.<eos>
+<bos>Definitely something at the high end.<eos>
+<bos>Let me throw on<eos>
+<bos>an extra Z-14 filter...<eos>
+<bos>and isolate everything<eol>over half a decibel.<eos>
+<bos>If I were you, I'd stop talking<eos>
+<bos>and start passing around<eol>the collection hat.<eos>
+<bos>There.<eos>
+<bos>That engine sound.<eos>
+<bos>Let's clean it up some more.<eos>
+<bos>If I were you, I'd stop talking<eos>
+<bos>and start passing around<eol>the collection hat.<eos>
+<bos>Is that a small plane?<eos>
+<bos>Taking off, by the sound of it.<eos>
+<bos>Give me a couple more minutes.<eos>
+<bos>We'll guesstimate the altitude<eol>within a couple hundred feet.<eos>
+<bos>Great.<eos>
+<bos>All right, people,<eol>settle down and grab a seat.<eos>
+<bos>Mulder says he's got something.<eos>
+<bos>What? An alien virus<eos>
+<bos>or new information<eol>on the Kennedy assassination?<eos>
+<bos>Hey, Mulder's all right.<eos>
+<bos>You should pay attention.<eos>
+<bos>You might learn something from the man.<eos>
+<bos>Okay, from our last phone contact<eos>
+<bos>we've identified what sounds<eol>like light aircraft taking off.<eos>
+<bos>Now, Washington County Regional Airport<eos>
+<bos>happen to fall within our area,<eol>just south of the state line.<eos>
+<bos>Now, since takeoffs are north to south,<eos>
+<bos>it's a fair bet that our target area<eos>
+<bos>lies along this flight path.<eos>
+<bos>Now, for those of you<eol>who remember ninth-grade math<eos>
+<bos>that gives us an area<eos>
+<bos>of just over<eol>three square miles to cover--<eos>
+<bos>roughly 1,000 households.<eos>
+<bos>With 100 law enforcement<eol>officials at our disposal<eos>
+<bos>at about 30 households per man per hour,<eos>
+<bos>we should be able to canvass<eol>the entire area<eos>
+<bos>in about three hours.<eos>
+<bos>Agent Bruskin<eos>
+<bos>will grid the target area<eos>
+<bos>and divide it among the teams.<eos>
+<bos>For those of you...<eos>
+<bos>who don't know already,<eos>
+<bos>this one's important to me,<eol>so, uh, let's do it right.<eos>
+<bos>Thanks.<eos>
+<bos>Let me see Steinberg<eos>
+<bos>Calder, Westin, Stipley and Mackowicz.<eos>
+<bos>Scully?<eos>
+<bos>Was there snow?<eos>
+<bos>Yes, Jack.<eos>
+<bos>There was lots of snow.<eos>
+<bos>I can't...<eos>
+<bos>It was December.<eos>
+<bos>It was the weekend after Thanksgiving.<eos>
+<bos>I remember...<eos>
+<bos>a red stove.<eos>
+<bos>Yeah. That's right.<eos>
+<bos>There was a...<eos>
+<bos>there was a wood-burning stove<eol>right in the middle of the room.<eos>
+<bos>Cold.<eos>
+<bos>Yeah.<eos>
+<bos>So cold.<eos>
+<bos>I remember I had to wrap you in a blanket<eos>
+<bos>when the wood ran out.<eos>
+<bos>Yeah.<eos>
+<bos>No.<eos>
+<bos>Jack, don't close your eyes.<eos>
+<bos>Come on, keep talking.<eos>
+<bos>Jack, keep talking.<eos>
+<bos>Come on.<eos>
+<bos>Get down on the floor! Now!<eos>
+<bos>Spread or you're dead!<eos>
+<bos>I'm gonna execute every one of you!<eos>
+<bos>No...<eos>
+<bos>Shut up and do it!<eos>
+<bos>Just a second!<eos>
+<bos>Who is it?<eos>
+<bos>This is Booker T.<eos>
+<bos>Could I speak with you<eol>for just one moment, please?<eos>
+<bos>What do you want?<eos>
+<bos>Just a few minutes of your time, ma'am.<eos>
+<bos>Beautiful day, isn't it?<eos>
+<bos>I wonder if I can interest you<eol>in the Word of the Lord--<eos>
+<bos>leather-bound in black or red.<eos>
+<bos>Your choice.<eos>
+<bos>Go away.<eos>
+<bos>This is one-four.<eos>
+<bos>Target sighted.<eos>
+<bos>Well, I guess it's time<eol>to make that call.<eos>
+<bos>He's dead.<eos>
+<bos>It's all on you now.<eos>
+<bos>He's dead because of you.<eos>
+<bos>Well...<eos>
+<bos>guess it's over<eos>
+<bos>whoever you are.<eos>
+<bos>Don't move.<eos>
+<bos>Jack!<eos>
+<bos>Shut up!<eos>
+<bos>I love you.<eos>
+<bos>Don't you know?<eos>
+<bos>You're why I came back.<eos>
+<bos>This is Westin.<eos>
+<bos>They battened down the hatches.<eos>
+<bos>There's no clear shot from this side.<eos>
+<bos>What about you guys?<eos>
+<bos>Ditto.<eos>
+<bos>Hold your positions.<eos>
+<bos>Keep radios at two.<eos>
+<bos>All right.<eos>
+<bos>How do we look?<eos>
+<bos>Backup's in<eos>
+<bos>but we still don't know<eol>what's going on in there.<eos>
+<bos>We will soon enough.<eos>
+<bos>I kept a bottle of medicine<eol>in the other room.<eos>
+<bos>I'll go get it.<eos>
+<bos>What do you say, huh?<eos>
+<bos>I'll get it for you.<eos>
+<bos>Look, look, look...<eos>
+<bos>look, I love you.<eos>
+<bos>I love you, baby.<eos>
+<bos>No.<eos>
+<bos>Listen, listen, listen.<eos>
+<bos>We st... still have her.<eos>
+<bos>We can get away with this.<eos>
+<bos>I don't think so, baby.<eos>
+<bos>Not this time.<eos>
+<bos>Jack, put the gun down.<eos>
+<bos>You remember that...<eol>light that I talked about?<eos>
+<bos>No. No.<eos>
+<bos>It's beautiful.<eos>
+<bos>There's nothing to be afraid of.<eos>
+<bos>No!<eos>
+<bos>All right, FBI!<eos>
+<bos>Freeze! FBI!<eos>
+<bos>FBI...!<eos>
+<bos>Scully, are you okay?<eos>
+<bos>Jack!<eos>
+<bos>Scully's okay.<eos>
+<bos>Hi.<eos>
+<bos>I got this from the morgue<eos>
+<bos>along with the rest<eol>of his personal effects.<eos>
+<bos>I thought you might want it.<eos>
+<bos>Mm.<eos>
+<bos>"Happy 35th, Love D."<eos>
+<bos>I got it for him three years ago.<eos>
+<bos>Next of kin?<eos>
+<bos>Uh... no.<eos>
+<bos>Jack was an only child.<eos>
+<bos>Both his parents died<eol>when he was in college.<eos>
+<bos>There's a kid over in Parklawn.<eos>
+<bos>Jack's been his Big Brother<eos>
+<bos>so I'm going to go and see him tomorrow.<eos>
+<bos>What am I going to tell him?<eos>
+<bos>The official story.<eos>
+<bos>Which is?<eos>
+<bos>Fugitive Lula Phillips died yesterday<eos>
+<bos>in a shoot-out with Federal agents<eos>
+<bos>which resulted in the death<eol>of Special Agent Jack Willis--<eos>
+<bos>killed in the line of duty.<eos>
+<bos>What am I supposed to tell myself?<eos>
+<bos>Good night.<eos>
+<bos>It's not working.<eos>
+<bos>It stopped.<eos>
+<bos>At 6:47.<eos>
+<bos>The exact time that Jack<eos>
+<bos>went into cardiac arrest at the hospital.<eos>
+<bos>What does that mean?<eos>
+<bos>It means...<eos>
+<bos>It means whatever you want it to mean.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

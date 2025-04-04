@@ -1,0 +1,542 @@
+<bos>ï»¿1 I'm not a killer.<eos>
+<bos>And I never meant to hurt no one.<eos>
+<bos>But I'm tired of my cattle<eol>being butchered<eos>
+<bos>100 miles from the slaughterhouse.<eos>
+<bos>That's the fourth one this month alone.<eos>
+<bos>And who or what<eos>
+<bos>do you think was responsible?<eos>
+<bos>Look, mister, that cow<eol>looked like a piece of paper<eos>
+<bos>that'd gone through a shredder.<eos>
+<bos>I don't know of no animal<eol>that could have done that.<eos>
+<bos>Then are you saying that<eol>a person or persons<eos>
+<bos>was responsible for this?<eos>
+<bos>I want to remind you<eos>
+<bos>that Mr. Parker is free<eol>on bond pending trial.<eos>
+<bos>He's willfully speaking with you<eos>
+<bos>solely in regards to this incident<eos>
+<bos>and not about any other<eol>pending litigation.<eos>
+<bos>So we can't talk about<eol>Mr. Parker's federal court case<eos>
+<bos>against the Trego Indian Reservation?<eos>
+<bos>That's exactly what I mean.<eos>
+<bos>Now, wait just a damn second.<eos>
+<bos>Jim, don't say a word.<eos>
+<bos>No, this ain't the time<eol>for that lawyer crap.<eos>
+<bos>I want to get this out in the open.<eos>
+<bos>You people think I went<eol>and killed me an Indian<eos>
+<bos>just because we're having an argument<eos>
+<bos>about where my land ends<eol>and their land begins?<eos>
+<bos>We want to settle that<eol>peacefully in court.<eos>
+<bos>Well, Joseph Goodensnake is dead<eos>
+<bos>with a wound from your shotgun<eol>to indicate otherwise.<eos>
+<bos>All I'm saying--<eos>
+<bos>it was no kind of animal that I know of.<eos>
+<bos>But it damn well didn't seem<eol>human, neither, that night.<eos>
+<bos>Take a look at my boy's scars.<eos>
+<bos>It was dark.<eos>
+<bos>We heard a growl.<eos>
+<bos>We went out there to protect the cattle.<eos>
+<bos>I could have swore I saw...<eol>red eyes and fangs.<eos>
+<bos>I thought my boy Lyle was...<eos>
+<bos>Look, nobody-- nobody--<eos>
+<bos>was more shocked and upset than I was<eos>
+<bos>to find out it was that young Indian boy,<eos>
+<bos>but if he was the one<eol>that was killing our cattle,<eos>
+<bos>I'm very, very sorry that we had<eol>to find out about it that way,<eos>
+<bos>but as far as I'm concerned,<eol>that's the end of it.<eos>
+<bos>Can we see the corral?<eos>
+<bos>I'll take you out there.<eos>
+<bos>Agent Mulder?<eos>
+<bos>Yeah?<eos>
+<bos>Agent Scully...<eos>
+<bos>I suppose if I were hearing<eol>our side of the story,<eos>
+<bos>it might not hold up too well--<eos>
+<bos>parts I don't understand myself--<eos>
+<bos>things my father could never try<eol>to explain to a stranger.<eos>
+<bos>What kinds of things?<eos>
+<bos>Well, for the last few months,<eos>
+<bos>whenever we'd go outside at night<eos>
+<bos>and check on the cattle,<eos>
+<bos>never saw anything out of the ordinary--<eos>
+<bos>not a mountain lion, not a coyote,<eos>
+<bos>not even any Tregos, Agent Scully...<eos>
+<bos>But I can feel it--<eos>
+<bos>something not human--<eos>
+<bos>out there...<eos>
+<bos>watching me.<eos>
+<bos>The air was more still,<eos>
+<bos>the night animals more quiet.<eos>
+<bos>It was like nature herself was terrified.<eos>
+<bos>Gave me the creeps.<eos>
+<bos>The creeps?<eos>
+<bos>Yeah. The creeps.<eos>
+<bos>Don't you ever get the creeps?<eos>
+<bos>The victim was shot there<eos>
+<bos>about three meters<eol>from where Parker fired.<eos>
+<bos>There's no way he could have mistaken<eos>
+<bos>a person for an animal.<eos>
+<bos>It's open-and-shut, Mulder.<eos>
+<bos>You know, I'm surprised you volunteered<eos>
+<bos>for this assignment.<eos>
+<bos>Any Bureau agent<eos>
+<bos>could have investigated<eol>this reservation homicide.<eos>
+<bos>Why are you interested?<eos>
+<bos>Well, there seems to be<eol>nothing unexplainable<eos>
+<bos>about this case.<eos>
+<bos>Nope.<eos>
+<bos>Not a thing.<eos>
+<bos>Mulder, this is so odd.<eos>
+<bos>It's almost like a snakeskin<eol>that's been shed.<eos>
+<bos>I suspect that the Parkers<eos>
+<bos>knowingly killed Joe Goodensnake,<eos>
+<bos>but they hardly seem the type<eol>to skin their victim.<eos>
+<bos>Besides which,<eol>police and coroner's report<eos>
+<bos>make no mention of such an act.<eos>
+<bos>Well, we're going to have to take a look<eos>
+<bos>at the body ourselves.<eos>
+<bos>The body's been transferred<eos>
+<bos>to the reservation authorities.<eos>
+<bos>We're supposed to get in touch<eol>with a, um...<eos>
+<bos>Sheriff Charlie Tskany.<eos>
+<bos>Excuse me. Uh, we're not<eol>from around here.<eos>
+<bos>We're looking for Sheriff Tskany.<eos>
+<bos>Anyone, uh, know Charlie Tskany?<eos>
+<bos>Go home, FBI.<eos>
+<bos>How did you know?<eos>
+<bos>I could smell you a mile away.<eos>
+<bos>Well, they told me that even though<eos>
+<bos>my deodorant's made for a woman,<eos>
+<bos>it's strong enough for a man.<eos>
+<bos>I was at Wounded Knee in 1973.<eos>
+<bos>What I learned fighting the FBI is<eos>
+<bos>you don't believe in us,<eol>and we don't believe in you.<eos>
+<bos>I want to believe.<eos>
+<bos>Why you here?<eos>
+<bos>What are you looking for?<eos>
+<bos>I think you already know<eol>what we're looking for.<eos>
+<bos>You tell me what I know.<eos>
+<bos>We're looking for any individuals<eos>
+<bos>who might be able to provide information<eos>
+<bos>on the homicide of Joe Goodensnake...<eos>
+<bos>We're looking for anything<eos>
+<bos>that can create human tracks in one step<eos>
+<bos>and animal tracks in the next.<eos>
+<bos>Parker.<eos>
+<bos>He found what you're looking for.<eos>
+<bos>He killed what you're looking for, FBI.<eos>
+<bos>What Parker and his kid killed<eos>
+<bos>was my brother, and you're all too afraid<eos>
+<bos>of some stupid Indian legend<eol>to do anything. I hate it.<eos>
+<bos>Gwen! And I hate suits<eos>
+<bos>who are always here when they<eol>want something from us,<eos>
+<bos>but when we need help,<eos>
+<bos>they're nowhere to be found.<eos>
+<bos>Sheriff Tskany?<eos>
+<bos>I'm Agent Scully,<eol>and this is Agent Mulder.<eos>
+<bos>Goodensnake's body is in my office.<eos>
+<bos>Bill, Tom.<eos>
+<bos>Let them through.<eos>
+<bos>Come on, boys.<eos>
+<bos>Let them through.<eos>
+<bos>Who are they?<eos>
+<bos>Guardians of the dead.<eos>
+<bos>They escort the deceased<eol>spirits to the new world.<eos>
+<bos>I only let them as far as the front door.<eos>
+<bos>Anybody that knows me knows I keep<eos>
+<bos>the ancient beliefs out there<eol>and the police work in here.<eos>
+<bos>The woman in the pool hall<eos>
+<bos>said that people were afraid<eol>of some Indian legend.<eos>
+<bos>What do they believe happened<eol>in the Parker case?<eos>
+<bos>Look, I'm not a park ranger<eos>
+<bos>here to answer all your<eol>questions about Indians.<eos>
+<bos>Whenever I need federal help,<eol>I never get it.<eos>
+<bos>Since this case falls<eos>
+<bos>under the jurisdiction of the FBI,<eos>
+<bos>you're entitled to examine the body.<eos>
+<bos>So let's get it over with.<eos>
+<bos>Was the woman in<eol>the pool hall his sister?<eos>
+<bos>Gwen. She and Joe<eol>are primarily responsible<eos>
+<bos>for fueling the boundary<eol>dispute with Parker.<eos>
+<bos>They felt that he<eol>had been grazing his cattle<eos>
+<bos>farther and farther onto the reservation.<eos>
+<bos>Parker probably told you<eos>
+<bos>it was his idea to settle in court.<eos>
+<bos>Joe and Gwen filed the suit.<eos>
+<bos>Take a look at that scar tissue.<eos>
+<bos>Yeah.<eos>
+<bos>Looks like he had been<eos>
+<bos>attacked by an animal as well.<eos>
+<bos>Could Joe have been attacked also?<eos>
+<bos>Maybe the Parkers did see an animal.<eos>
+<bos>No.<eos>
+<bos>Those wounds have been healing<eol>for quite some time.<eos>
+<bos>The shotgun wound indicates<eol>point-blank range.<eos>
+<bos>The pellets entered the body<eol>in a single mass.<eos>
+<bos>The assailant couldn't have been<eos>
+<bos>more than three feet away.<eos>
+<bos>We're going to need to take a look<eos>
+<bos>at Joe Goodensnake's dental records.<eos>
+<bos>See, these are the canine cuspids.<eos>
+<bos>They're normal.<eos>
+<bos>Well, could his records<eos>
+<bos>have been switched or misplaced?<eos>
+<bos>No, you see, the second<eol>incisor here is chipped<eos>
+<bos>just like the ones in his mouth.<eos>
+<bos>These match Joe Goodensnake's.<eos>
+<bos>Well, there are cases<eol>of calcium phosphate salts<eos>
+<bos>developing abnormally with age, but...<eos>
+<bos>That could account<eos>
+<bos>for what Jim Parker claims to have seen.<eos>
+<bos>He was out that night<eos>
+<bos>expecting to see a mountain lion<eol>killing his cattle.<eos>
+<bos>He gets rattled,<eos>
+<bos>and the flashlight beam catches Joe here.<eos>
+<bos>So Parker saw what<eol>he wanted to see-- an animal.<eos>
+<bos>Lyle Parker was attacked--<eol>he has scars just like Joe.<eos>
+<bos>Do you have a facility<eol>where we can perform<eos>
+<bos>an autopsy? Why?<eos>
+<bos>Well, if Joe's teeth are abnormal,<eos>
+<bos>an autopsy might reveal abnormalities<eos>
+<bos>in the interior of his anatomy as well.<eos>
+<bos>I can't allow that.<eos>
+<bos>I'm fully qualified.<eos>
+<bos>No. I can't let you do an autopsy.<eos>
+<bos>The funeral is tonight.<eos>
+<bos>It's a cremation.<eos>
+<bos>After that, we'll have nothing.<eos>
+<bos>Tregos believe that the recent dead<eos>
+<bos>are unsettled by their<eol>new condition as spirits.<eos>
+<bos>Any desecration of the body<eol>angers the spirit<eos>
+<bos>and keeps it haunting this world.<eos>
+<bos>But you're a law enforcement officer.<eos>
+<bos>You can't destroy evidence.<eos>
+<bos>Don't tell me what I can't do.<eos>
+<bos>Native Americans believe<eol>that there are laws<eos>
+<bos>greater and more just than that<eol>of the U.S. government.<eos>
+<bos>If they want Joe at rest<eos>
+<bos>rather than used as a piece of evidence,<eos>
+<bos>that's the way it's going to be.<eos>
+<bos>If you want to make an issue out of it<eos>
+<bos>to your higher authority, go right ahead.<eos>
+<bos>Charlie, do you believe<eos>
+<bos>that the spirit of Joe Goodensnake<eos>
+<bos>is in that room?<eos>
+<bos>All I know is<eos>
+<bos>tomorrow, the day after,<eol>you're going to leave,<eos>
+<bos>but I have to stay here.<eos>
+<bos>I've got to answer to these people.<eos>
+<bos>You can continue your investigation,<eos>
+<bos>but you're going to have to do it<eos>
+<bos>without Joe Goodensnake's body.<eos>
+<bos>Mulder, since we've been here,<eos>
+<bos>you've acted as if<eol>you've expected to find<eos>
+<bos>every piece of evidence<eol>that we've come across.<eos>
+<bos>What aren't you telling me?<eos>
+<bos>Why are we here?<eos>
+<bos>A true piece of history, Scully.<eos>
+<bos>The very first X file<eos>
+<bos>initiated by<eol>J. Edgar Hoover himself in 1946.<eos>
+<bos>During World War Two, a series of murders<eos>
+<bos>occurred in and around the Northwest.<eos>
+<bos>Seven here in Browning alone.<eos>
+<bos>Each victim was basically<eol>ripped to shreds<eos>
+<bos>and eaten, as if by a wild animal.<eos>
+<bos>However, many of the victims<eol>were found at home<eos>
+<bos>as if they allowed their killer to enter.<eos>
+<bos>In 1946, police cornered<eol>what they believed to be<eos>
+<bos>such an animal in a cabin<eol>in Glacier National Park.<eos>
+<bos>They shot it,<eos>
+<bos>but when they went in<eol>to retrieve the carcass,<eos>
+<bos>they found only the body<eol>of Richard Watkins.<eos>
+<bos>Sounds like the Parker scenario.<eos>
+<bos>The murders stopped that year.<eos>
+<bos>Because the cases were unsolved<eol>and considered so bizarre,<eos>
+<bos>Hoover locked them away,<eol>hoping that, in time,<eos>
+<bos>people around here<eol>would forget about them.<eos>
+<bos>This file indicates that<eol>they started again in 1954.<eos>
+<bos>And '59, '64, '78, and now again in '94,<eos>
+<bos>but...<eos>
+<bos>Here it comes.<eos>
+<bos>These animal-man related murders<eos>
+<bos>predate the oldest X file by 150 years.<eos>
+<bos>Members of the Lewis and Clark expedition<eos>
+<bos>wrote of Indian men<eol>who could change their shape<eos>
+<bos>into that of a wolf.<eos>
+<bos>Mulder, what this...<eol>what this folder describes<eos>
+<bos>is called lycanthropy.<eos>
+<bos>It's a type of insanity<eol>in which an individual<eos>
+<bos>believes that he can turn into a wolf.<eos>
+<bos>I mean, no one can physically<eol>change into an animal.<eos>
+<bos>How can you just dismiss the evidence--<eos>
+<bos>the tracks in the mud, the shredded skin,<eos>
+<bos>a man with the teeth of an animal?<eos>
+<bos>Mulder, even if you're right<eos>
+<bos>and Joe Goodensnake<eol>did somehow have the ability<eos>
+<bos>to transform physically into an animal,<eos>
+<bos>he's dead.<eos>
+<bos>Jim Parker shot him,<eos>
+<bos>and in a couple of moments,<eol>his body will be burned.<eos>
+<bos>End of mystery.<eos>
+<bos>Let's hope so.<eos>
+<bos>You don't belong here.<eos>
+<bos>Gwen...<eos>
+<bos>You're only around to<eol>wrap up your investigation.<eos>
+<bos>I just wanted to say<eos>
+<bos>that I'm sorry about your brother.<eos>
+<bos>I feel sad for anyone<eos>
+<bos>who loses a part of their family.<eos>
+<bos>A part?<eos>
+<bos>He was my whole family.<eos>
+<bos>I'm it now.<eos>
+<bos>As a demonstration of sorrow,<eos>
+<bos>I'm supposed to give away<eos>
+<bos>all my brother's possessions.<eos>
+<bos>Gwen, I don't know what to say. I'm...<eos>
+<bos>It's no big deal.<eos>
+<bos>He had more possessions<eol>than he had friends.<eos>
+<bos>I read the report of your investigation<eos>
+<bos>into the Goodensnake homicide.<eos>
+<bos>It was very good.<eos>
+<bos>It was thorough, professional,<eos>
+<bos>but what I want to know<eol>is off the record.<eos>
+<bos>What do you think really happened?<eos>
+<bos>Your explanation, Agent Mulder,<eos>
+<bos>is lying on that burial platform.<eos>
+<bos>Why don't you just<eol>accept that and go home?<eos>
+<bos>Charlie, do you believe<eol>in shape-shifting?<eos>
+<bos>This is a funeral.<eos>
+<bos>Get out of here!<eos>
+<bos>Please, I just want<eos>
+<bos>to show my respects.<eos>
+<bos>I don't want your respects.<eos>
+<bos>I want your heart to grow cold.<eos>
+<bos>I want you to feel what I'm feeling.<eos>
+<bos>I think you better leave, Mr. Parker.<eos>
+<bos>I wish your brother could be here.<eos>
+<bos>I wish that more than anything else.<eos>
+<bos>Coroner's on site.<eos>
+<bos>Perkins' ETA is three minutes.<eos>
+<bos>Uh, stand by for further, please.<eos>
+<bos>Uh, give me a hand back here, guys.<eos>
+<bos>By the way the body's been mutilated,<eos>
+<bos>I'd say he's been attacked<eol>by a large predator<eos>
+<bos>or somebody who wanted it<eol>to look that way.<eos>
+<bos>Do you think this is retaliation<eos>
+<bos>for the death of Joe Goodensnake?<eos>
+<bos>I don't know.<eos>
+<bos>Have you talked to Gwen Goodensnake?<eos>
+<bos>She seemed pretty upset last night.<eos>
+<bos>She's gone.<eos>
+<bos>Nobody's seen her since the funeral.<eos>
+<bos>I put an APB out on her.<eos>
+<bos>And what about Lyle Parker?<eos>
+<bos>We can't find him, either.<eos>
+<bos>He could be dead as well.<eos>
+<bos>I'll take a look around.<eos>
+<bos>That's not from any<eol>animal I've ever seen.<eos>
+<bos>Sheriff, I think it's time we had a talk.<eos>
+<bos>An exchange of ideas?<eos>
+<bos>Mulder!<eos>
+<bos>Mulder, I'm taking Lyle to the hospital.<eos>
+<bos>He's suffering from exposure.<eos>
+<bos>And when he's been checked out,<eol>I'm going to question him.<eos>
+<bos>What are you hiding?<eos>
+<bos>I thought it was over.<eos>
+<bos>Over?<eos>
+<bos>Is that why you wouldn't allow<eos>
+<bos>an autopsy on Joe Goodensnake's body?<eos>
+<bos>You thought it would all end<eol>when he was cremated?<eos>
+<bos>What were you afraid we'd find?<eos>
+<bos>I can't tell you,<eos>
+<bos>but I'll take you to somebody who can.<eos>
+<bos>I'm ashamed to say it<eos>
+<bos>after what happened at the funeral.<eos>
+<bos>I picked up some bourbon, and...<eos>
+<bos>and I don't remember a thing after that.<eos>
+<bos>Sometimes, when I'm down, I-I go out<eos>
+<bos>to where me and my dad keep stray animals<eos>
+<bos>that wander in on the ranch.<eos>
+<bos>Yeah, I just watch them, you know.<eos>
+<bos>Keeps things in perspective.<eos>
+<bos>Anyway...<eos>
+<bos>my mom-- when she was alive--<eos>
+<bos>was the one that started<eol>keeping those animals.<eos>
+<bos>I guess I go out there<eol>and think about her, too.<eos>
+<bos>God, I must have been really wasted<eos>
+<bos>to run around there naked.<eos>
+<bos>You must have thought I<eol>was one of those animals.<eos>
+<bos>When you did go home,<eol>did you talk to your father?<eos>
+<bos>No. He'd have been mad<eol>I even went to the funeral.<eos>
+<bos>I... I have an... uh, an image of him<eos>
+<bos>sitting on the front porch,<eos>
+<bos>but... I don't remember<eol>talking to him. Why?<eos>
+<bos>Your father's dead.<eos>
+<bos>I'm sorry.<eos>
+<bos>It appears as if he's been...<eos>
+<bos>attacked by an animal, but...<eos>
+<bos>I suspect it may be homicide.<eos>
+<bos>Lyle, I lost my father recently,<eos>
+<bos>and I know how overwhelming...<eos>
+<bos>Was it my fault?<eos>
+<bos>By going to the funeral,<eos>
+<bos>did it anger them into killing my father?<eos>
+<bos>I don't know.<eos>
+<bos>I can deal with death.<eos>
+<bos>You know, living on the ranch,<eol>being close to nature and all,<eos>
+<bos>you see how it all works.<eos>
+<bos>Things are born. Things die.<eos>
+<bos>Everything else falls in between.<eos>
+<bos>But if I caused it...<eos>
+<bos>if I brought it on,<eos>
+<bos>I couldn't, uh...<eos>
+<bos>I... I...<eos>
+<bos>I saw it once with my own eyes.<eos>
+<bos>It was a long time ago.<eos>
+<bos>It seemed like a dream.<eos>
+<bos>I was a boy.<eos>
+<bos>Was that 1946?<eos>
+<bos>The Watkins case?<eos>
+<bos>I sense you're different, FBI.<eos>
+<bos>You're more open<eol>to Native American belief<eos>
+<bos>than some Native Americans.<eos>
+<bos>You even have an Indian name-- Fox.<eos>
+<bos>You should be "Running Fox"<eos>
+<bos>or "Sneaky Fox."<eos>
+<bos>Just as long as it's not "Spooky Fox."<eos>
+<bos>Tell me, Ish-- what did you see?<eos>
+<bos>Watkins had been attacked by an animal<eos>
+<bos>when he was alone in the woods.<eos>
+<bos>His scars healed.<eos>
+<bos>It was forgotten.<eos>
+<bos>Then the murders began.<eos>
+<bos>The Tregos--<eos>
+<bos>we realized that Watkins<eol>had been attacked<eos>
+<bos>by what the Algonquians call the manitou,<eos>
+<bos>an evil spirit capable<eol>of changing a man into a beast.<eos>
+<bos>To be attacked by a manitou<eol>causes the victim to become one.<eos>
+<bos>The healed scars<eol>on Joe Goodensnake's body.<eos>
+<bos>The manitou overtakes a man<eol>by night, not by full moon,<eos>
+<bos>but when its bloodlust builds<eol>to uncontrollable level,<eos>
+<bos>the man changes to a sickening creature.<eos>
+<bos>It kills, releasing a savage energy.<eos>
+<bos>The man returns to his true self<eos>
+<bos>unaware of what has happened.<eos>
+<bos>The cycle begins anew the next day.<eos>
+<bos>This continues until death.<eos>
+<bos>One night,<eos>
+<bos>when I was 16 years old,<eos>
+<bos>I was coming back from fishing<eol>at the Cut Bank Creek.<eos>
+<bos>I knew a shortcut behind Watkins' house.<eos>
+<bos>There was a... a groan.<eos>
+<bos>Not animal, but not human.<eos>
+<bos>I looked into his window.<eos>
+<bos>He was covered in sweat and blood.<eos>
+<bos>He was in a great, great pain.<eos>
+<bos>His arm-- the skin ripped.<eos>
+<bos>It tore up and fell to the floor.<eos>
+<bos>Claws sprang from his fingernails.<eos>
+<bos>He turned, screaming,<eos>
+<bos>and he saw me.<eos>
+<bos>His eyes... his eyes were still human.<eos>
+<bos>They begged me to kill him,<eos>
+<bos>and if I had been hunting and had my gun,<eos>
+<bos>I'd have done it<eol>without a second thought.<eos>
+<bos>But being a boy, and scared to death,<eos>
+<bos>I ran away.<eos>
+<bos>Shortly after, the police killed him.<eos>
+<bos>But the manitou rose again.<eos>
+<bos>Eight years later.<eos>
+<bos>But with Watkins dead,<eos>
+<bos>how could there have been<eol>an attack by a manitou?<eos>
+<bos>Watkins had a son.<eos>
+<bos>It could be passed along bloodlines.<eos>
+<bos>Gwen.<eos>
+<bos>If Joe Goodensnake was this creature,<eos>
+<bos>then perhaps it didn't originate<eol>in him by the first attack<eos>
+<bos>but was handed down<eol>through the bloodlines.<eos>
+<bos>This means Gwen could have it also.<eos>
+<bos>Gwen could have killed Parker.<eos>
+<bos>Gwen!<eos>
+<bos>Hey!<eos>
+<bos>No, no, no!<eos>
+<bos>You're under arrest, Gwen,<eos>
+<bos>for stealing Ish's car.<eos>
+<bos>What happened, Gwen?<eos>
+<bos>What are you running away from?<eos>
+<bos>I saw it.<eos>
+<bos>I-I saw it kill Parker.<eos>
+<bos>Let her up.<eos>
+<bos>I went there after the funeral.<eos>
+<bos>I was going to mess up the kid.<eos>
+<bos>So I waited,<eos>
+<bos>but Parker was on the porch,<eos>
+<bos>and then this thing-- this animal...<eos>
+<bos>Oh, my God!<eos>
+<bos>I've never been so scared.<eos>
+<bos>I ran, and I hid in the woods all day.<eos>
+<bos>I wanted to get out...<eos>
+<bos>I wanted to get out of here.<eos>
+<bos>I wanted to get out of here.<eos>
+<bos>Bring her inside.<eos>
+<bos>Thank you.<eos>
+<bos>Hello. This is Doctor Joseph.<eos>
+<bos>Yeah, this is Agent Mulder from the FBI.<eos>
+<bos>I was told I could reach<eol>Agent Scully at this number.<eos>
+<bos>Oh, yes. We released Lyle Parker<eol>from the hospital,<eos>
+<bos>and she's taking him back to the ranch.<eos>
+<bos>So I can reach her there?<eos>
+<bos>Uh-uh. They just left.<eos>
+<bos>Agent Mulder, there's something<eol>I feel you should know.<eos>
+<bos>I received the blood tests<eol>performed on Lyle Parker,<eos>
+<bos>and there's something rather unsettling.<eos>
+<bos>What's that?<eos>
+<bos>Traces of his father's blood type.<eos>
+<bos>It can only be there through ingestion.<eos>
+<bos>Power's out.<eos>
+<bos>Yep. Happens to us all the time<eos>
+<bos>being out here in the sticks.<eos>
+<bos>I'll fire up the generator.<eos>
+<bos>You okay?<eos>
+<bos>I feel sick.<eos>
+<bos>Please, help me into the bathroom.<eos>
+<bos>Damn. Keeps disconnecting.<eos>
+<bos>The mountains must be<eol>blocking the signal.<eos>
+<bos>How much farther?<eos>
+<bos>About seven miles.<eos>
+<bos>Lyle, let me come in.<eos>
+<bos>Lyle, I want to take you<eol>back to the hospital, okay?<eos>
+<bos>No!<eos>
+<bos>I'll be all right.<eos>
+<bos>Lyle?<eos>
+<bos>Lyle, answer me.<eos>
+<bos>Lyle, are you all right?<eos>
+<bos>Scully!<eos>
+<bos>It's okay, it's me, it's me, okay?<eos>
+<bos>I don't know what happened.<eos>
+<bos>Something jumped me downstairs<eos>
+<bos>and I lost my gun.<eos>
+<bos>I heard it come up here.<eos>
+<bos>Come on.<eos>
+<bos>Okay.<eos>
+<bos>You all right?<eos>
+<bos>Oh, my God.<eos>
+<bos>He was in the bathroom sick,<eos>
+<bos>and then, the next thing I knew,<eos>
+<bos>we were attacked by the mountain lion.<eos>
+<bos>It wasn't a mountain lion, Scully.<eos>
+<bos>It's still in a cage out back.<eos>
+<bos>Where's Gwen?<eos>
+<bos>She said she'd come<eol>see us before we left.<eos>
+<bos>She left last night.<eos>
+<bos>Gave away all her<eol>possessions to her friends.<eos>
+<bos>Just pulled up and left?<eos>
+<bos>Why would she do that?<eos>
+<bos>Her brother's gone, no family.<eos>
+<bos>Trouble with Parker is all over.<eos>
+<bos>Maybe she saw something that<eol>she wasn't ready to understand.<eos>
+<bos>Maybe.<eos>
+<bos>Well, thank you.<eos>
+<bos>FBI.<eos>
+<bos>See you in about...<eos>
+<bos>eight years.<eos>
+<bos>I hope not.<eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>

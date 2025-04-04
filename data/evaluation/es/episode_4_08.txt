@@ -1,0 +1,461 @@
+<bos>¡Silencio! ¡Silencio! ¡Escúchenme!<eos>
+<bos>Fue algo terrible.<eos>
+<bos>No van a creerme...<eos>
+<bos>incluso cuando les cuente.<eos>
+<bos>Algunos dicen que es un cuento.<eos>
+<bos>Un cuento de hadas.<eos>
+<bos>Pero yo lo vi.<eos>
+<bos>Lo vi con mis propios ojos.<eos>
+<bos>"Campamento de Obreros Migratorios<eol>Valle de San Joaquín, California"<eos>
+<bos>¡Vámonos!<eos>
+<bos>"Actividad Paranormal"<eos>
+<bos>" El Gobierno Niega Conocimiento"<eos>
+<bos>" La Verdad Está Allá Afuera"<eos>
+<bos>¿Hace cuánto ocurrió esto?<eos>
+<bos>El olor es terrible.<eos>
+<bos>Me trajiste aquí con el pretexto...<eos>
+<bos>de que investigaríamos<eol>una muerte inexplicada.<eos>
+<bos>¿Por qué estamos aquí<eol>mirando una cabra muerta?<eos>
+<bos>Según los testigos, esta muerte...<eos>
+<bos>fue precedida por un evento fortuito.<eos>
+<bos>Es un fenómeno meteorológico raro<eol>o poco frecuente...<eos>
+<bos>conocido como fenómeno transiente.<eos>
+<bos>¿Transiente?<eos>
+<bos>Describieron un destello<eol>a 30 grados del horizonte.<eos>
+<bos>Y cayó del cielo claro<eol>una lluvia tibia y amarilla.<eos>
+<bos>Los científicos la llaman nevada líquida.<eos>
+<bos>Hay lluvias rojas y negras,<eol>pero se reportan...<eos>
+<bos>lluvias azules, púrpuras y verdes.<eos>
+<bos>- ¿Lluvia púrpura?<eol>- Un disco grandioso. Un film malo.<eos>
+<bos>Este transiente, como tú lo llamas...<eos>
+<bos>este destello en el cielo--<eos>
+<bos>Debes pensar que se relaciona con--<eos>
+<bos>Se relacionan<eol>con encuentros con extraterrestres.<eos>
+<bos>Mutilaciones de ganado; animales<eol>sin sangre en el cuerpo como ése.<eos>
+<bos>Y la víctima, María Dorantes,<eol>¿murió de manera similar?<eos>
+<bos>Supondría que sí.<eos>
+<bos>¿Supondrías?<eol>¿Nadie ha examinado el cuerpo?<eos>
+<bos>A nadie le importa.<eos>
+<bos>Ella y los testigos<eol>son inmigrantes ilegales.<eos>
+<bos>Obreros migratorios.<eos>
+<bos>Debemos hablar con ellos<eol>antes de que emigren.<eos>
+<bos>Somos del FBI. No somos <i>la migra.</i><eos>
+<bos>Descuiden. No nos llevaremos a nadie.<eos>
+<bos>- Tranquilos. - ¿Qué quieren?<eos>
+<bos>Queremos saber<eol>qué le pasó a María Dorantes.<eos>
+<bos>¿Alguien sabe qué le pasó<eol>a María Dorantes?<eos>
+<bos>- ¿ Vieron algo? - El chupacabra.<eos>
+<bos>Eso le pasó a María Dorantes.<eos>
+<bos>¿El chupacabra?<eos>
+<bos>Sí, es una anécdota folclórica mexicana.<eol>El chupacabra.<eos>
+<bos>Es una criaturita gris<eol>de cabeza grande...<eos>
+<bos>con ojos saltones enormes y negros.<eos>
+<bos>Luz.<eos>
+<bos>Luego, lluvia.<eos>
+<bos>Luego, el chupacabra.<eos>
+<bos>Vino y se comió los ojos<eol>y el rostro de María.<eos>
+<bos>¿ Usted vio al chupacabra?<eos>
+<bos>Pero aquí todos saben que es verdad.<eos>
+<bos>Esta mujer miente.<eol>El chupacabra no existe.<eos>
+<bos>El chupacabra<eol>es sólo un cuento para niños.<eos>
+<bos>Yo sé quién mató a María Dorantes.<eos>
+<bos>¿Quién, señor?<eos>
+<bos>Mi hermano, Eladio Buente.<eos>
+<bos>Mató a María porque sólo me amaba a mí.<eos>
+<bos>¿Cómo explica la lluvia amarilla...<eos>
+<bos>y la cabra muerta atrás de la colina?<eos>
+<bos>Es un truco...<eos>
+<bos>para los tontos supersticiosos.<eos>
+<bos>Gracias, Sr. Buente.<eol>Ha sido de gran ayuda.<eos>
+<bos><i>Acabo de conocer</i><eol><i>a una niña llamada María</i><eos>
+<bos>- No tiene mucha lógica.<eol>- Es totalmente lógico.<eos>
+<bos>Admítelo. Caíste en la trampa.<eos>
+<bos>Tu evento fortuito resultó ser sólo<eol>la historia más antigua del mundo:<eos>
+<bos>dos hombres, una mujer, problemas.<eos>
+<bos>Admito que el motivo y la intención<eol>son sospechosos...<eos>
+<bos>pero el detalle de la descripción<eol>del chupacabra...<eos>
+<bos>Nos topamos con una novela mexicana.<eos>
+<bos>Y le corresponde a la policía local.<eos>
+<bos>A la policía local no le importa.<eos>
+<bos>No sé a quién le importa.<eos>
+<bos>A mí me importa,<eol>¿qué haremos al respecto?<eos>
+<bos>Averigua qué mató a María Dorantes.<eol>Ve el cuerpo.<eos>
+<bos>- ¿ Y tú qué harás?<eol>- Iré a buscar a Eladio Buente.<eos>
+<bos>¿Agente Lozano?<eos>
+<bos>Soy el agente especial Mulder del FBI.<eos>
+<bos>¿El FBI? ¿Aquí?<eos>
+<bos>Investigamos la muerte<eol>de una obrera migratoria.<eos>
+<bos>¿En serio?<eos>
+<bos>Busco a un hombre llamado Eladio Buente.<eos>
+<bos>Lleva tres días desaparecido.<eol>No está preso.<eos>
+<bos>Quizá Inmigración lo tenga detenido.<eos>
+<bos>Tal vez.<eos>
+<bos>Veamos.<eos>
+<bos>Bien, tenemos a José Feliciano.<eos>
+<bos>Tenemos a Juan Valdés.<eos>
+<bos>Tenemos a César Chávez.<eos>
+<bos>Tenemos a Plácido Domingo.<eos>
+<bos>No veo a ningún Eladio Buente.<eos>
+<bos>Entonces, nadie usa su nombre verdadero.<eos>
+<bos>¿Por qué lo buscan?<eos>
+<bos>Por el homicidio de una mujer<eol>llamada María Dorantes.<eos>
+<bos>Ay, caray. ¿El chupacabra?<eos>
+<bos>Sí. Ha oído hablar de él.<eos>
+<bos>- ¿No lo cree?<eol>- Sí les creo a estas personas.<eos>
+<bos>Sus vidas son insignificantes<eol>y crean fantasías...<eos>
+<bos>para poder continuar,<eol>para sentirse vivos.<eos>
+<bos>Son forasteros aquí.<eol>Se sienten odiados, no queridos.<eos>
+<bos>Cuando las pasiones se encienden,<eol>recurren a la violencia.<eos>
+<bos>No pueden acudir a las autoridades<eol>y crean fantasías.<eos>
+<bos>Llámela como quiera,<eol>pero ésta es una historia antiquísima.<eos>
+<bos>Eso me dicen.<eos>
+<bos>Veamos si podemos encontrar<eol>a su Eladio Buente.<eos>
+<bos>" Depósito de Cadáveres de Fresno"<eol>Disculpe.<eos>
+<bos>- Disculpe. - ¿Puedo servirle en algo?<eos>
+<bos>Soy del FBI. Investigo la muerte<eol>de una obrera migratoria.<eos>
+<bos>- ¿Juan oJuanita? - ¿Cómo dice?<eos>
+<bos>Pérez. ¿Hombre o mujer?<eos>
+<bos>María Dorantes. Necesito determinar...<eos>
+<bos>la causa de la muerte<eol>para cerrar la investigación.<eos>
+<bos>Me suena familiar,<eol>pero creo que no la examiné aún.<eos>
+<bos>Soy médica. Si me muestra el cuerpo,<eol>podría examinarlo.<eos>
+<bos>Está en el refrigerador.<eos>
+<bos>No creo que él vaya a irse.<eos>
+<bos>Ahí está ella.<eos>
+<bos>Ay, Dios mío.<eos>
+<bos>Debe ser él.<eos>
+<bos>¿Por qué está segregado?<eos>
+<bos>Dice que los otros detenidos<eol>lo molestaban mucho.<eos>
+<bos>No se le quieren acercar.<eos>
+<bos>Creen que él es el chupacabra.<eos>
+<bos>Puede ser, pero puedo asegurarle...<eos>
+<bos>casi con toda certeza,<eol>que él no es Erik Estrada.<eos>
+<bos>Pregúntele si mató a María Dorantes.<eos>
+<bos>¿Qué dijo?<eos>
+<bos>"Yo no lo hice".<eos>
+<bos>Pregúntele qué pasó.<eos>
+<bos>" Hubo un ruido como un relámpago<eol>muy cerca.<eos>
+<bos>Y luego, un rayo...<eos>
+<bos>muy brillante. Y me cegó.<eol>Y me caí al suelo.<eos>
+<bos>Y sentí la lluvia caliente.<eos>
+<bos>Cuando volví a ver...<eos>
+<bos>vi al chivo muerto.<eos>
+<bos>Y luego vi a María.<eos>
+<bos>Y dijo mi nombre...<eos>
+<bos>una vez, tirada en la lluvia amarilla.<eos>
+<bos>Algo le había comido la cara.<eos>
+<bos>Pero murió en mis brazos.<eos>
+<bos>Yo empecé a gritar y a correr".<eos>
+<bos>Este sujeto es mejor que Erik Estrada.<eos>
+<bos>¿Qué le sucederá?<eos>
+<bos>Tendrá sus 45 segundos frente al juez...<eos>
+<bos>y lo pondrán en un autobús a México.<eos>
+<bos>- ¿No podría postergarlo? - ¿Para qué?<eos>
+<bos>Para explicar una muerte.<eos>
+<bos>Creo que el FBI<eol>tiene mejores cosas que hacer.<eos>
+<bos>Presente su documentación.<eos>
+<bos>Para cuando la procesen,<eol>probablemente habrá regresado.<eos>
+<bos>Póngalo adelante.<eos>
+<bos>Vamos. Adelante.<eos>
+<bos>Bien, vámonos.<eos>
+<bos>- ¿Encontraste a Eladio Buente? - Sí.<eos>
+<bos>¿Confesó el homicidio de María Dorantes?<eos>
+<bos>No exactamente, no.<eos>
+<bos>¿Te dijo qué ocurrió?<eos>
+<bos>Destello de luz, lluvia amarilla,<eol>"¡María! ¡María!"<eos>
+<bos>Él no la mató.<eos>
+<bos>Examiné el cuerpo de María Dorantes...<eos>
+<bos>y creo que la causa de su muerte<eol>fue natural, aunque extraña.<eos>
+<bos>Parece que sucumbió<eol>a una micosis extensa.<eos>
+<bos>¿Fue un hongo?<eos>
+<bos><i>Aspergillus,</i><eol>según la médica forense.<eos>
+<bos>Es un hongo que se encuentra<eol>en hojas muertas, en abono...<eos>
+<bos>y en el polvo casero.<eos>
+<bos>¿ Y puede matar?<eos>
+<bos>Normalmente, no.<eol>Es muy común e inofensivo.<eos>
+<bos>¿Eso no te parece raro?<eos>
+<bos>Es letal para gente<eol>con deficiencia inmunológica...<eos>
+<bos>como pacientes con SI DA<eol>y receptores de trasplantes.<eos>
+<bos>Y encontré niveles altos<eol>de bromuro de metilo en su sangre.<eos>
+<bos>Es un pesticida usado para esterilizar<eol>la tierra. Es sumamente tóxico.<eos>
+<bos>Los pesticidas<eol>le causaron tantos estragos...<eos>
+<bos>que un hongo normalmente benigno<eol>pudo comprometer su sistema inmune.<eos>
+<bos>Eso no explica el destello<eol>ni la lluvia amarilla.<eos>
+<bos>Ni el chupacabra.<eos>
+<bos>Sé que no quieres oír esto...<eos>
+<bos>pero los alienígenas de esta historia<eol>no son los villanos. Son las víctimas.<eos>
+<bos>Mira eso.<eos>
+<bos>¿Qué te parece?<eos>
+<bos>Parece que murió<eol>de una conmoción sistémica...<eos>
+<bos>causada por otra micosis extensa.<eos>
+<bos>¿Es el mismo hongo<eol>que mató a María Dorantes?<eos>
+<bos>Parece distinto. No sé que es esto.<eos>
+<bos>Pero su velocidad y agresividad<eol>dan miedo.<eos>
+<bos>La infección cubrió el 90% de su cuerpo<eol>en las dos capas de la piel.<eos>
+<bos>¿Lo encontró?<eos>
+<bos>Logramos atrapar a la mayoría...<eos>
+<bos>de los que huyeron de este vehículo,<eol>pero a Eladio no.<eos>
+<bos>¿Nadie sabe hacia dónde corrió?<eos>
+<bos>Ella es mi compañera, la agente Scully.<eos>
+<bos>Corrieron para alejarse del chupacabra.<eos>
+<bos>Del hombre al que culpan<eol>de esta tragedia.<eos>
+<bos>Eladio Buente no lo mató.<eol>No mató a nadie.<eos>
+<bos>Yo no estoy tan seguro.<eos>
+<bos>La causa es un agente patógeno<eol>de una cepa muy virulenta.<eos>
+<bos>No lo dudo.<eol>Pero por ahora, Eladio Buente...<eos>
+<bos>es la única conexión<eol>entre esta muerte y la de María...<eos>
+<bos>por lo cual necesitamos<eol>a todo hombre disponible.<eos>
+<bos>No tenemos los recursos<eol>para perseguir a un pobre ilegal.<eos>
+<bos>Sin importar para qué lo quieras a él,<eol>hay que hacer...<eos>
+<bos>una clasificación del hongo<eol>tomado de las víctimas.<eos>
+<bos>Necesito aislarlo y llevarle una muestra<eol>a un micólogo lo más rápido posible.<eos>
+<bos>Hazlo mientras el agente Lozano y yo<eol>buscamos al chupacabra.<eos>
+<bos>¿Qué quieres?<eos>
+<bos>¿Quieres regresar?<eos>
+<bos>Transportamos mucha basura<eol>con esa camioneta.<eos>
+<bos>¿Crees que vamos a devolverla?<eos>
+<bos>¿Cuánto tiempo llevas en este país?<eos>
+<bos>Ni crédito ni caridad.<eos>
+<bos>Aquí es América, mexicano tonto.<eos>
+<bos>Ve a la parada al anochecer.<eos>
+<bos>Sin dinero, no hay transporte.<eos>
+<bos>Construcción. Necesito peones. Dos.<eos>
+<bos>Bien, ustedes dos, súbanse atrás.<eol>Vámonos.<eos>
+<bos>Sólo necesito dos, amigo. Dos.<eos>
+<bos>Bájate de la camioneta.<eol>Tengo cosas que hacer.<eos>
+<bos>Oigan, ¿adónde van?<eos>
+<bos>Me tendré que conformar contigo.<eos>
+<bos>Están viendo la espora de hongo<eol>más ubicua...<eos>
+<bos>que conoce el hombre,<eol>causa la dermatomiositis.<eos>
+<bos>¿Pie de atleta?<eos>
+<bos>Históricamente subestimado y eclipsado...<eos>
+<bos>por la popular cucaracha.<eos>
+<bos>Nuestro cuerpo tiene defensas naturales<eol>contra esta invasión.<eos>
+<bos>Incluso en la ausencia<eol>de una respuesta inmunológica...<eos>
+<bos>un hongo como éste<eol>o como la muestra de <i>aspergillus...</i><eos>
+<bos>¿no necesitan un ambiente adecuado<eol>para multiplicarse?<eos>
+<bos>A menos que reciban ayuda.<eos>
+<bos>¿Qué es esto?<eos>
+<bos>Aislé esta enzima de sus dos muestras.<eos>
+<bos>Es todo lo que sé.<eol>Nunca vi una enzima como ésta.<eos>
+<bos>Entonces, ¿lo que mata no es el hongo<eol>sino la enzima?<eos>
+<bos>Actúa como catalizador, como acelerador.<eos>
+<bos>Permítame mostrarle.<eos>
+<bos>Esto es <i>puccinia graminus.</i><eos>
+<bos>Una enfermedad del trigo. Ha provocado...<eos>
+<bos>destrucción de cosechas aquí en el valle.<eos>
+<bos>Ay, Dios mío.<eos>
+<bos>Debo advertirle<eol>que si esto llegara al exterior...<eos>
+<bos>la dermatomiositis podría competir<eol>con la cucaracha.<eos>
+<bos>Sí, él estuvo aquí.<eos>
+<bos>Dicen que se subió a la camioneta<eol>de un capataz llamado Culver.<eos>
+<bos>Ya se corrió la voz.<eos>
+<bos>Ah, sí.<eos>
+<bos>Le dije que les encantan los cuentos.<eos>
+<bos>Evita que se vuelvan locos<eol>cuando están afuera...<eos>
+<bos>parados en una esquina todo el día<eol>esperando trabajo.<eos>
+<bos>¿No creen que sea el chupacabra?<eos>
+<bos>Están seguros de que lo es.<eos>
+<bos>¿Les habló de la micosis?<eos>
+<bos>No hacen caso. Sólo les interesa...<eos>
+<bos>lo que le pasará a Eladio Buente.<eos>
+<bos>- ¿Qué le pasará?<eol>- ¿Cuando su hermano lo encuentre?<eos>
+<bos>- Lo matará. - Sí, probablemente.<eos>
+<bos>Un hombre no puede vivir<eol>con venganza en su corazón.<eos>
+<bos>Debemos encontrarlo nosotros primero.<eos>
+<bos>Mi madre solía decir que<eol>la sangre debe limpiarse sola.<eos>
+<bos>Dios maldice al que se interpone<eol>entre dos hermanos.<eos>
+<bos>En este caso,<eol>maldecirá al que no se interponga.<eos>
+<bos>" Barrio Residencial Meadowview<eol>Norte del Condado de Fresno"<eos>
+<bos>- Mulder, soy yo. - <i>¿Dónde estás?</i><eos>
+<bos>En el departamento de biología<eol>de la universidad.<eos>
+<bos>Escucha, creo que tienes razón.<eos>
+<bos>Creo que Eladio Buente<eol>es responsable de esas dos muertes.<eos>
+<bos><i>¿Cómo?</i><eos>
+<bos>Diseminando una enzima producida<eol>por una nueva cepa de conidio.<eos>
+<bos>- <i>¿Cómo la disemina?</i><eol>- Supongo que por tacto.<eos>
+<bos><i>Vi a este hombre.</i><eol><i>No estaba afectado.</i><eos>
+<bos>Entonces podría ser un portador.<eol>Como " María Tifoidea".<eos>
+<bos>- ¿Dices que es una nueva cepa?<eol>- <i>Sí.</i><eos>
+<bos>Es extremadamente importante que...<eos>
+<bos>no tengas contacto directo con el hongo.<eos>
+<bos><i>No debes inhalarlo,</i><eol><i>no debes tocarlo</i>--<eos>
+<bos>Cuidado.<eos>
+<bos>Estuve pensando. Sé que es peligroso,<eol>pero tenme paciencia.<eos>
+<bos>Estos transientes fortuitos<eol>que describió la mujer...<eos>
+<bos>pudieron ser consecuencia<eol>del paso de un objeto...<eos>
+<bos>a través de la atmósfera:<eol>estruendo y luz...<eos>
+<bos>a lo que los astrónomos llaman bólido.<eos>
+<bos>¿Bólido?<eos>
+<bos><i>Un meteorito o una pieza</i><eol><i>de material extraplanetario...</i><eos>
+<bos>como las 2000 toneladas<eol>que caen a la Tierra a diario.<eos>
+<bos>La lluvia: el desecho<eol>pudo caer en un lago cercano...<eos>
+<bos>calentar el agua y dispersarla...<eos>
+<bos>lo cual significaría<eol>que esto es extraterrestre.<eos>
+<bos>Creo que eso no importa ahora.<eos>
+<bos>Y el hongo--<eos>
+<bos>Déjame ver lo del hongo. Tú necesitas...<eos>
+<bos>encontrar al que puede<eol>estar diseminándolo.<eos>
+<bos>También Ud. tiene sus cuentos, ¿eh?<eos>
+<bos>Oiga, es el Barbero.<eos>
+<bos>Supe que está buscando al chupacabra.<eos>
+<bos>Por una modesta cuota,<eol>puedo decirle dónde encontrarlo.<eos>
+<bos>No lo toque.<eos>
+<bos>¡Lo perdí!<eos>
+<bos>Más cabras.<eos>
+<bos>"Autopista 99 - Condado de Fresno"<eos>
+<bos>Agente Lozano.<eos>
+<bos>Todos están muertos.<eos>
+<bos>- ¿Cómo nos elude?<eol>- Estas personas son invisibles.<eos>
+<bos>Voltea a verlas y no logra verlas.<eos>
+<bos>Mano de obra barata para la cosecha<eol>y la limpieza de casas.<eos>
+<bos>Para la mayoría,<eol>son de otro planeta, literalmente.<eos>
+<bos>Descuide. Cálmese.<eos>
+<bos>Cálmese.<eos>
+<bos>¿ Un hombre puede hacer esto?<eos>
+<bos>¿Eladio Buente puede hacer esto?<eos>
+<bos>Eladio fue a casa de su prima Gabrielle<eol>a pedir dinero.<eos>
+<bos>- ¿Cuándo? - Hoy.<eos>
+<bos>Dijo que no mató a nadie.<eos>
+<bos>Pero Soledad fue a casa de Gabrielle<eol>a tratar de matar a Eladio.<eos>
+<bos>Cálmese.<eos>
+<bos>Soy el agente Lozano de Inmigración.<eol>Abra.<eos>
+<bos>¿Dónde está?<eos>
+<bos>No me salga con su "¿qué?". Sabe quién.<eos>
+<bos>¿Dónde está Eladio?<eos>
+<bos>No está aquí. Por favor.<eos>
+<bos>No dejaría entrar a Eladio Buente.<eol>Debe creerme.<eos>
+<bos>Quizá deba revisar atrás.<eos>
+<bos>¿ Y Soledad, su hermano?<eos>
+<bos>¡No está aquí!<eol>¡No hay nadie aquí! ¡Estoy sola!<eos>
+<bos>¿Ha visto a alguno de los dos?<eos>
+<bos>Pero tengo miedo<eol>por lo que dicen de Eladio.<eos>
+<bos>Del chupacabra.<eos>
+<bos>El chupacabra no existe.<eos>
+<bos>Eladio está muy enfermo.<eol>Si viene, no lo deje entrar.<eos>
+<bos>Si viene, debe llamar a la policía.<eos>
+<bos>- ¿Entiende? - No hay nadie.<eos>
+<bos>Te estaré vigilando, chiquita.<eos>
+<bos>Todos tus movimientos.<eos>
+<bos>- Deberíamos esperar un momento.<eol>- ¿Para qué?<eos>
+<bos>Algo está pasando.<eos>
+<bos>" Mercado La Ranchera Centro de Fresno"<eos>
+<bos>Oye, "José", éste no es un restaurante.<eos>
+<bos>Sabes que debes pagar.<eos>
+<bos>¿Qué diablos crees que haces?<eos>
+<bos>¡Regresa!<eos>
+<bos>¡Tienes que limpiar eso!<eos>
+<bos>- Ése es nuestro hombre.<eol>- ¿Eladio Buente?<eos>
+<bos>No, Soledad, su hermano.<eos>
+<bos>¡Alto!<eos>
+<bos>- ¡Suelta el arma! - ¡Suelta la pistola!<eos>
+<bos>¡Suéltala ahora!<eos>
+<bos>¡Suéltala!<eos>
+<bos>Estuvo aquí.<eos>
+<bos>No está aquí. Ya se fue.<eos>
+<bos>¿Adónde?<eos>
+<bos>A México.<eos>
+<bos>Donde puede esconder su horrible cara.<eos>
+<bos>- ¿Cómo llegará a México?<eol>- Le di todo mi dinero.<eos>
+<bos>¿Le dio su dinero?<eos>
+<bos>Sí, porque tenía miedo.<eos>
+<bos>Tenía miedo de que<eol>el chupacabra me matara.<eos>
+<bos>¿Qué puedo decir?<eos>
+<bos>¿Cómo encontraremos a este hombre?<eos>
+<bos>Buena suerte. Voy a procesar al hermano.<eos>
+<bos>Lo que ella dijo<eol>sobre la cara de Eladio Buente--<eos>
+<bos>Ya no sé qué creer.<eol>Esta gente adora sus cuentos.<eos>
+<bos>Podría estar en cualquier lugar.<eos>
+<bos>Si entrara en un área metropolitana<eol>con lo que porta--<eos>
+<bos>- No lo hará. - Si va a México--<eos>
+<bos>Ella miente. Si cree que mató a María,<eol>no irá a México.<eos>
+<bos>Entonces, ¿adónde irá?<eos>
+<bos>Al mismo lugar adonde van<eol>Lozano y Soledad.<eos>
+<bos>- Va a enfrentar a su hermano.<eol>- No entiendo.<eos>
+<bos>" Dios maldice al hombre<eol>que se interpone entre dos hermanos".<eos>
+<bos>Reúne al equipo experto<eol>en materiales peligrosos.<eos>
+<bos>¡Sal!<eos>
+<bos>¡Sé un hombre y enfrenta a tu hermano!<eos>
+<bos><i>Llegaron del cielo.</i><eol><i>Más chupacabras...</i><eos>
+<bos>que vinieron a salvar a Eladio.<eos>
+<bos>Cerré la puerta y recé...<eos>
+<bos>para que no vinieran a matarme a mí.<eos>
+<bos>¿Pero qué le pasó a Soledad?<eos>
+<bos>Se lo llevó un chupacabra.<eos>
+<bos>Sufrirá por su traición.<eos>
+<bos>Lo obligan a chuparles la sangre...<eos>
+<bos>sólo a las cabras<eol>enfermas y moribundas...<eos>
+<bos>cuando el chupacabra viene a comer.<eos>
+<bos>- Eso no es lo que dijo Gabrielle.<eol>- ¿Qué sabe Gabrielle?<eos>
+<bos>Yo estuve ahí.<eol>Lo vi con mis propios ojos.<eos>
+<bos>Gabrielle dijo que le mintió al FBI...<eos>
+<bos>para que Eladio, su primo, viviera.<eos>
+<bos><i>Pero Lozano sabía que Soledad...</i><eos>
+<bos><i>no podía vivir</i><eol><i>con venganza en su corazón.</i><eos>
+<bos>¡Date vuelta y enfrenta al hombre<eol>cuyo amor mataste!<eos>
+<bos>¡Mataste a María...<eos>
+<bos>porque no te amaba!<eos>
+<bos>Porque su corazón<eol>me pertenecía sólo a mí.<eos>
+<bos>¡No me obligues a dispararte<eol>por la espalda!<eos>
+<bos>¡Date vuelta! ¡Ve mis lágrimas!<eos>
+<bos>¡Date vuelta como un hombre!<eos>
+<bos><i>"¡Dispara! ¡Dispara!", gritó la migra.</i><eos>
+<bos>Pero Soledad empezó a llorar.<eos>
+<bos>Soledad gritó: "¡No! ¡No!<eos>
+<bos>No puedo dispararle a mi hermano.<eos>
+<bos><i>Es mi hermano.</i><eos>
+<bos>Es mi propia sangre".<eos>
+<bos>- ¡Dispárale, es el chupacabra!<eol>- <i>Gritó la migra.</i><eos>
+<bos>¡No puedes dejarlo ir!<eos>
+<bos>"¡Es el que chupa cabras y debe morir!"<eos>
+<bos>Soledad...<eos>
+<bos>no pudo matar a Eladio...<eos>
+<bos>porque sabía...<eos>
+<bos>que yo nunca lo perdonaría.<eos>
+<bos><i>El migra Lozano...</i><eos>
+<bos>trató de quitarle el arma de la mano<eol>a Soledad, llamándolo cobarde.<eos>
+<bos>Soledad gritó: "¡No! ¡Es mi hermano!"<eos>
+<bos>Y la pistola se disparó. ¡Pum! ¡Pum!<eos>
+<bos><i>El migra Lozano cayó muerto.</i><eos>
+<bos>El migra Lozano...<eos>
+<bos>trajo a Soledad a matar a Eladio...<eos>
+<bos>para librarse de la maldición.<eos>
+<bos>Así que Dios...<eos>
+<bos>maldijo a Soledad por su traición.<eos>
+<bos><i>Lo convirtió en un chupacabra...</i><eos>
+<bos><i>igual que su hermano.</i><eos>
+<bos>Juntos, huyeron...<eos>
+<bos>a México.<eos>
+<bos><i>¿El chupacabra?</i><eos>
+<bos>- Sí, señor.<eol>- Francamente, la historia me confunde.<eos>
+<bos>No lo culpo.<eos>
+<bos>Nosotros no podemos explicarla, señor.<eos>
+<bos>Llegamos después del equipo<eol>de materiales peligrosos.<eos>
+<bos><i>Ellos establecieron un perímetro</i><eol><i>que aseguró el área.</i><eos>
+<bos><i>Encontraron a una testigo,</i><eol><i>pero su testimonio era dudoso.</i><eos>
+<bos><i>El equipo pudo contener la micosis</i><eol><i>en el campamento de obreros migratorios.</i><eos>
+<bos><i>No se reportaron más muertes.</i><eos>
+<bos><i>Yno encontramos más rastros</i><eol><i>de la enzima aceleradora.</i><eos>
+<bos><i>Excepto en el cuerpo del agente Lozano.</i><eol><i>Estaba muerto...</i><eos>
+<bos><i>con una herida de bala en el pecho.</i><eos>
+<bos>La micosis ya había empezado a comérselo.<eos>
+<bos>- ¿Qué fue de los hermanos?<eol>- No los encontraron.<eos>
+<bos><i>El revólver de Lozano apareció</i><eol><i>a 15 kilómetros...</i><eos>
+<bos><i>cerca del auto de un hombre</i><eol><i>llamado el Barbero.</i><eos>
+<bos><i>Parece que le pagaron</i><eol><i>para que los llevara a México.</i><eos>
+<bos><i>Pero no llegaron muy lejos.</i><eos>
+<bos>¿Así que ellos siguen libres<eol>con un hongo contagioso...<eos>
+<bos>que puede matar a un hombre al instante?<eos>
+<bos>No es un hongo, señor. Es una enzima...<eos>
+<bos>a la que ellos le tenían<eol>una tolerancia anormal...<eos>
+<bos>y la cual creo que provino<eol>de un gen antienzima.<eos>
+<bos>- ¿De dónde vino esta enzima?<eol>- Del espacio, señor.<eos>
+<bos>¿Ésta es la historia<eol>que me piden que informe?<eos>
+<bos>Debieron haber encontrado<eol>a estos hombres.<eos>
+<bos>No me han explicado<eol>por qué no lo hicieron.<eos>
+<bos>Bueno, ellos, eh--<eos>
+<bos>Tienen una manera de hacerse invisibles.<eos>
+<bos><i>La verdad es...</i><eos>
+<bos><i>que a nadie le importa.</i><eos>
+<bos><i>¡Yo hice esto!</i><eos>
+<bos>00:00:0,500 --> 00:00:2,00<eol><font color="#ffff00" size=14>www.tvsubtitles.net</font><eos>
